@@ -4,7 +4,7 @@ Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
-Components: main
+Components: master
 Description: Trương Tam Phong
 MD5Sum:
  4c0a5c973c30a6453fbb9f4bfebb3589 1016 Packages
