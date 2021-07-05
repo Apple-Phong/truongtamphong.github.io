@@ -4,11 +4,11 @@ Version: 1.0.35
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
 Filename: ./Deb/TruongTamPhong.Win10Clock_1.0.35_iphoneos-arm.deb
-Size: 39430628
-MD5sum: 9556601ed7baed34dc260c4f0989cd7c
-SHA1: 113af047d85540edf9ddce2cd70ae4174c4f39f0
-SHA256: 61c4842d38adcc010ac194808fc2be474b9550a6af6e731b0e496fc997e90676
-SHA512: 453fd82d117ab9199641d957cc8d3538a65675ef01902dafb2cbcefeaa8f04f0cc16b12d7c97b652d6ba0e27d241d6143c8d52bfa6cb95742e04f84432e71ad0
+Size: 39430622
+MD5sum: 6d3021722b45b7f59268a4080f0f2077
+SHA1: 552c7b4b9944d4cd4b4c2d291619cb071230f830
+SHA256: 2eaa6fc62dce4b8a5602b78a4acce7c8b5ff179cc24f971cccb62bb31f4cb179
+SHA512: 25d2f49cc796ab7c7da6e009a862cf34ae56de786fa37c1cceff94bc1635e405ee5683e0bcbe1ba6dd8d29a228641831f8c9e32ea8ae7bd9c7833e33dffcecba
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
@@ -16,7 +16,7 @@ Description: Tiện ích cho Xen Html.
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Win 10 Clock
 Author: Trương Tam Phong
-Depiction: http://truongtamphong.github.io/info/Win10Clock/?p=info
-SileoDepiction: http://truongtamphong.github.io/info/Win10Clock/?p=info
+Depiction: http://truongtamphong.github.io/Info/Win10Clock/?p=info
+SileoDepiction: http://truongtamphong.github.io/Info/Win10Clock/?p=info
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
