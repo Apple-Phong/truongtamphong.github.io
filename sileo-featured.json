@@ -5,8 +5,14 @@
 "banners":[
 {
 "package":"hoangdinhphong.activatorvietnam",
-"title":"Activator",
+"title":"Activator Viet Nam",
 "url":"https://apple-phong.github.io/Images/Activator/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.aerelys",
+"title":"Aerelys",
+"url":"https://apple-phong.github.io/Images/Aerelys/Banner.jpg",
 "hideShadow":"false"
 },
 {

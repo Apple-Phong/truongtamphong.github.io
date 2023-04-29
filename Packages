@@ -25,6 +25,29 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Activator.json
 Tags: compatible_min::ios10.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Aerelys
+Architecture: iphoneos-arm
+Version: 1.1.9
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Aerelys_1.1.9_iphoneos-arm.deb
+Size: 1167666
+MD5sum: 436850939aaae6e1c0c8e95fce0c52ea
+SHA1: 5f8a0ea7e9d10875c929761f2808680ae0c1a62d
+SHA256: d46191b7f6ed5969c736759c7c6aedbd03d5b94ef1d7d10944086fe78211c296
+SHA512: 5865211c37539a9335f862c15bac6ad2f13985b4d5185aa87ef4d535f6e0ef93e29d3e73b35ebd74f1d7e001c786e16356d3c062b74cc9e91b4ab39faf91285d
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Aerelys
+Depiction: https://apple-phong.github.io/Info/Html/Aerelys.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Aerelys.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Aerelys.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: HĐP & CodeOne88
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1

@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://apple-phong.github.io/Images/MusicArtworkSaveRootless/Banner.jpg",
+"headerImage":"https://apple-phong.github.io/Images/Aerelys/Banner.jpg",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -10,23 +10,29 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/01.jpg",
+"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/1.jpg",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/02.jpg",
+"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/2.jpg",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/03.jpg",
+"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/3.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/4.jpg",
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":20,
-"itemSize":"{185,400}"
+"itemCornerRadius":16,
+"itemSize":"{185,400}",
+"borderWidth":4,
+"borderColor":"#ff0000"
 },
 {
-"markdown":"# Lưu ảnh bìa Album trong ứng dụng Nhạc!\n\nHoạt động trên iOS13 - 16! Không có tùy chọn để định cấu hình, sau khi cài đặt, bạn sẽ thấy nút lưu hình ảnh mới ở góc trên cùng bên phải của giao diện đang phát trong ứng dụng Nhạc.\n\n\n",
+"markdown":"# Aerelys\n\n Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nNội dung hiển thị:\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Pin\n\n+ Thanh tìm kiếm\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -52,22 +58,22 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"ETHN"
+"text":"Hoàng Đình Phong & CodeOne88"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Widgets"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"29/04/2023"
+"text":"30/04/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4"
+"text":"iOS 10.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -81,7 +87,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"",
+"text":"SAY HELLO TO THE FUTURE",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -94,15 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.2.1\n\nĐã thêm hỗ trợ Spotify"
-},
-{
-"class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.1\n\nĐã sửa lỗi nút quá cao"
-},
-{
-"class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0\n\nLần đầu phát hành"
+"markdown":"#### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc\n\n- Sử dụng bằng cách chạm giữ và kéo chúng đến nơi bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
 },
 {
 "class":"DepictionLabelView",
