@@ -9,7 +9,7 @@
 
 {"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Ủng hộ"},
 
-{"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi là còn mãi 🍀\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
+{"markdown":"[**Paypal**](https://paypal.me/truongtamphong)\n\nCho đi là còn mãi 🍀\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
 
 {"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Thông tin"},
 
