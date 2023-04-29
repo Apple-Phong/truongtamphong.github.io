@@ -1,30 +1,113 @@
-{"minVersion":"0.1","headerImage":"https://apple-phong.github.io/Images/Activator/Banner.jpg","tintColor":"#5777B8","tabs":[{"tabname":"Chi tiết","views":[
-
-{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://apple-phong.github.io/Images/Activator/Screenshots/1.jpg","accessibilityText":"Screenshot"},
-
-{"url":"https://apple-phong.github.io/Images/Activator/Screenshots/2.jpg","accessibilityText":"Screenshot"},
-
-{"url":"https://apple-phong.github.io/Images/Activator/Screenshots/3.jpg","accessibilityText":"Screenshot"}],"itemCornerRadius":16,"itemSize":"{185,400}", "borderWidth":4, "borderColor":"#ff0000"},
-
-{"markdown":"# Activator\n\n Gán mọi hành động của bạn để thực hiện các chức năng mà bạn muốn! \n\n - Ví dụ: Chọn Tất cả mọi nơi (bao gồm Màn hình chính, Màn hình khoá và Trong ứng dụng). Trong phần Thanh trạng thái, chọn Chạm giữ bên trái, nhấn vào Chụp ảnh màn hình để kích hoạt nó. Kết quả là sau khi chạm giữ bên trái trên thanh trạng thái điện thoại của bạn sẽ chụp ảnh màn hình.\n\n - Ví dụ bên trên chỉ là một hành động nhỏ. Còn rất rất nhiều cử chỉ có thể gán thêm. Nó không thể thiếu nếu như bạn thuộc lòng về cách cài đặt lẫn thao tác.\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
-
-{"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Ủng hộ"},
-
-{"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi là còn mãi 🍀\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
-
-{"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Thông tin"},
-
-{"class":"DepictionTableTextView","title":"Nhà phát triển", "text":"Ryan Petrich"},
-
-{"class":"DepictionTableTextView","title":"Thể loại", "text":"Tweaks"},
-
-{"class":"DepictionTableTextView","title":"Ngày tải lên", "text":"29/04/2023"},
-
-{"class":"DepictionTableTextView","title":"Khả năng tương thích", "text":"iOS 10.0 đến 13.7"},
-
-{"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Liên hệ hỗ trợ","action":"depiction-https://apple-phong.github.io/Info/Json/Support.json","openExternal":"true","tintColor":"#5777B8"},
-{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"},{"tabname":"Nhật ký thay đổi","views":
-
-[{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.9.13\n\nSửa lỗi và tăng tính tương thích cho một số dòng máy"},
-
-{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"}],"class":"DepictionTabView"}
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Images/Activator/Banner.jpg",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Activator/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Activator/Screenshots/2.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Activator/Screenshots/3.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":16,
+"itemSize":"{185,400}",
+"borderWidth":4,
+"borderColor":"#ff0000"
+},
+{
+"markdown":"# Activator\n\n Gán mọi hành động của bạn để thực hiện các chức năng mà bạn muốn! \n\n - Ví dụ: Chọn Tất cả mọi nơi (bao gồm Màn hình chính, Màn hình khoá và Trong ứng dụng). Trong phần Thanh trạng thái, chọn Chạm giữ bên trái, nhấn vào Chụp ảnh màn hình để kích hoạt nó. Kết quả là sau khi chạm giữ bên trái trên thanh trạng thái điện thoại của bạn sẽ chụp ảnh màn hình.\n\n - Ví dụ bên trên chỉ là một hành động nhỏ. Còn rất rất nhiều cử chỉ có thể gán thêm. Nó không thể thiếu nếu như bạn thuộc lòng về cách cài đặt lẫn thao tác.\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi là còn mãi 🍀\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Ryan Petrich"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"29/04/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 10.0 đến 13.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"SAY HELLO TO THE FUTURE",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.9.13\n\nSửa lỗi và tăng tính tương thích cho một số dòng máy"
+},
+{
+"class":"DepictionLabelView",
+"text":"",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

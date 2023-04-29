@@ -1,9 +1,25 @@
-{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[
-
-{"package":"hoangdinhphong.activatorvietnam","title":"Activator","url":"https://apple-phong.github.io/Images/Activator/Banner.jpg","hideShadow":"false"},
-
-{"package":"hoangdinhphong.musicartworksave","title":"MusicArtworkSave","url":"https://apple-phong.github.io/Images/MusicArtworkSave/Banner.jpg","hideShadow":"false"},
-
-{"package":"hoangdinhphong.musicartworksave-rootless","title":"MusicArtworkSave-Rootless","url":"https://apple-phong.github.io/Images/MusicArtworkSaveRootless/Banner.jpg","hideShadow":"false"}
-
-]}
+{
+"class":"FeaturedBannersView",
+"itemSize":"{263, 148}",
+"itemCornerRadius":8,
+"banners":[
+{
+"package":"hoangdinhphong.activatorvietnam",
+"title":"Activator",
+"url":"https://apple-phong.github.io/Images/Activator/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.musicartworksave",
+"title":"MusicArtworkSave",
+"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.musicartworksave-rootless",
+"title":"MusicArtworkSave-Rootless",
+"url":"https://apple-phong.github.io/Images/MusicArtworkSaveRootless/Banner.jpg",
+"hideShadow":"false"
+}
+]
+}
