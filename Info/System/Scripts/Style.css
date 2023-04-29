@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6, p {
   position: relative;
   display: inline-block;
   font-size: 0px;
-  box-shadow: 0px 1px 0px #555660, 0px -1px 0px #555660, 1px 0px 0px #555660, -1px 0px 0px #555660;
+  box-shadow: 0px 1px 0px #666770, 0px -1px 0px #666770, 1px 0px 0px #666770, -1px 0px 0px #666770;
   -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(90%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
