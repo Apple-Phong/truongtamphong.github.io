@@ -5,11 +5,11 @@
 
 {"url":"https://apple-phong.github.io/Images/MusicArtworkSave/screenshot/03.jpg","accessibilityText":"Screenshot"}],"itemCornerRadius":20,"itemSize":"{210,454}"},
 
-{"markdown":"## Lưu ảnh bìa Album trong ứng dụng Nhạc!\n\nHoạt động trên iOS13 - 16! Không có tùy chọn để định cấu hình, sau khi cài đặt, bạn sẽ thấy nút lưu hình ảnh mới ở góc trên cùng bên phải của giao diện đang phát trong ứng dụng Nhạc.\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
+{"markdown":"# Lưu ảnh bìa Album trong ứng dụng Nhạc!\n\nHoạt động trên iOS13 - 16! Không có tùy chọn để định cấu hình, sau khi cài đặt, bạn sẽ thấy nút lưu hình ảnh mới ở góc trên cùng bên phải của giao diện đang phát trong ứng dụng Nhạc.\n\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
 
 {"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Ủng hộ"},
 
-{"markdown":"[**Paypal**](https://paypal.me/truongtamphong)\n\nCho đi là còn mãi 🍀\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
+{"markdown":"[**Paypal**](https://paypal.me/truongtamphong)\nCho đi là còn mãi 🍀\n\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
 
 {"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Thông tin"},
 
