@@ -10,15 +10,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/01.jpg",
+"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/02.jpg",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/03.jpg",
+"url":"https://apple-phong.github.io/Images/MusicArtworkSave/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
