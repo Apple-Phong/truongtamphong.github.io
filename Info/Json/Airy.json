@@ -23,7 +23,7 @@
 }
 ],
 "itemCornerRadius":0,
-"itemSize":"{185,400}",
+"itemSize":"{185,400}"
 },
 {
 "markdown":"# Airy\n\n Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nNội dung hiển thị:\n\n+ Đồng hồ\n\n+ Lịch tháng\n\n+ Pin\n\n+ Thời tiết\n\n\n",
