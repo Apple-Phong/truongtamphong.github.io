@@ -1,0 +1,111 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Images/AlertController/Banner.jpg",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/AlertController/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/AlertController/Screenshots/2.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/AlertController/Screenshots/3.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":8,
+"itemSize":"{175,378}"
+},
+{
+"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n\n- Loại bỏ bằng cách chạm vào bên ngoài\n\n- Hiển thị biểu tượng\n\n- Ẩn hành động hủy bỏ\n\n- Chọn Kiểu cảnh báo (thay vào đó hãy sử dụng kiểu Bảng hành động)\n\n- Chọn Kiểu của Bảng hành động (thay vào đó hãy sử dụng kiểu Cảnh báo)\n\n\n### Kiểu cảnh báo:\n\n- Chọn Kiểu cảnh báo giao diện người dùng (Mặc định/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/Lớn)\n\n- Khả năng buộc các nút theo chiều dọc\n\n\n### Kiểu nhóm bảng\n\n- Chọn Kiểu giao diện người dùng của Trang hành động (Mặc định/Sáng/Tối) - dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách - dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/\Lớn)\n\n- Khả năng hợp nhất nút hủy bỏ với Nhóm bảng\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi là còn mãi 🍀\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Tomasz Poliszuk"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"30/04/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.4.2\n\n- Cập nhật thêm cài đặt tinh chỉnh\n\n- Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ\n\n- Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của Bảng thông báo và Hành động\n\n- Đã thêm khả năng thay đổi kiểu Cảnh báo thành Trang tính hành động\n\n- Thêm khả năng kiểm soát kích thước phông chữ tiêu đề (riêng cho Bảng thông báo và Hành động)\n\n- Thêm khả năng kiểm soát kích thước phông chữ tin nhắn (riêng cho Bảng thông báo và Hành động)\n\n- Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong Bảng hành động\n\n- Thêm khả năng chọn kích thước nút (nhỏ / lớn riêng biệt cho Bảng thông báo và Hành động)\n\n- Thêm khả năng hợp nhất nút hủy với phần còn lại của danh sách trong Bảng hành động\n\n- Thêm khả năng đặt lại cài đặt\n\n- Đã thêm hỗ trợ cho iOS 12 (hiện không có tùy chọn 'ẩn dấu phân cách' và 'kiểu giao diện người dùng')\n\n- Đã xác nhận hỗ trợ cho iOS 14\n\n- Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới\n\n- Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

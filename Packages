@@ -97,6 +97,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AlertController
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.AlertController_1.4.2_iphoneos-arm.deb
+Size: 52996
+MD5sum: 45f2187b0a2d59563b1fa8fe1ad9b293
+SHA1: 05078058754af3faaacc7ecb8c21936d2d32d747
+SHA256: 1c474d85eeaf9a640addd3130b83582d6bfcfed1f78ad151dc7f1515da628595
+SHA512: 58f3aa7f7e9df20b936c07589cf6b250ee0dd083f955a5282974b3428655e298afb97b66d715487751838d8ef7a131e8a8df7f59f859a053f964b93465340a64
+Homepage: https://apple-phong.github.io
+Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng
+Tag: role::enduser
+Name: Alert Controller Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/AlertController.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AlertController.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AlertController.json
+Tags: compatible_min::ios12.0, compatible_max::ios14.8.1
+Author: Tomasz Poliszuk
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1

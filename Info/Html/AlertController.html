@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
+      <title>Alert Controller</title>
+      <link rel="stylesheet" type="text/css" href="https://apple-phong.github.io/Info/System/Scripts/Style.css">
+      <style>a, .tint, .table-btn:after {color: #5777B8} .active {color: #5777B8; border-bottom: 2px solid #5777B8;}</style>
+      <script src="https://apple-phong.github.io/Info/System/Scripts/Version.js"></script>
+   </head>
+   <body>
+      <div class="body">
+      <div style="background-image: url(https://apple-phong.github.io/Info/System/Images/Banner.jpg)" class="banner_underlay"></div>
+      <br><br><br><br>
+      <div class="package package_head">
+         <div class="package_info">
+            <p class="text_cen">Hoàng Đình Phong</p>
+         </div>
+      </div>
+      <div class="nav">
+         <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Chi tiết</div>
+         <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Nhật ký thay đổi</div>
+      </div>
+      <div class="tweak_info">
+         <p class="compatibility"><b>Khả năng tương thích:</b>Gói này tương thích với iOS iOS 12.0 đến 14.8.1.</p>
+         <div class="scroll_view">
+            <img class="img_card" src="https://apple-phong.github.io/Images/AlertController/Screenshots/1.jpg">
+            <img class="img_card" src="https://apple-phong.github.io/Images/AlertController/Screenshots/2.jpg">
+            <img class="img_card" src="https://apple-phong.github.io/Images/AlertController/Screenshots/3.jpg">
+         </div>
+         <br><br>
+         <div class="md_view">
+            <p>
+            <h1>Alert Controller</h1>
+            <br>
+            <h2>Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị</h2>
+            <br>
+            <h3><blue>Những gì bạn có thể làm với tinh chỉnh này</blue></h3>
+            <p>- Chọn Kiểu giao diện người dùng của Cảnh báo và Bảng hành động</p>
+            <p>- Loại bỏ bằng cách chạm vào bên ngoài</p>
+ <p>- Hiển thị biểu tượng</p>
+ <p>- Ẩn hành động hủy bỏ</p>
+ <p>- Chọn Kiểu cảnh báo (thay vào đó hãy sử dụng kiểu Bảng hành động)</p>
+ <p>- Chọn Kiểu của Bảng hành động (thay vào đó hãy sử dụng kiểu Cảnh báo)</p><br>
+ <p><green>Kiểu cảnh báo</green></p><br>
+ <p>- Chọn Kiểu cảnh báo giao diện người dùng (Mặc định/Sáng/Tối) - dành cho iOS 13 trở lên</p>
+ <p>- Khả năng kiểm soát kích thước phông chữ tiêu đề</p>
+ <p>- Khả năng kiểm soát cỡ chữ tin nhắn</p>
+ <p>- Góc Vuông</p>
+ <p>- Khả năng kiểm soát mức độ hiển thị của dấu phân cách - dành cho iOS 13 trở lên</p>
+ <p>- Khả năng chọn kích thước nút (Nhỏ/Lớn)</p>
+ <p>- Khả năng buộc các nút theo chiều dọc</p><br>
+ <p><green>Kiểu nhóm bảng</green></p><br>
+ <p>- Chọn Kiểu giao diện người dùng của Trang hành động (Mặc định/Sáng/Tối) - dành cho iOS 13 trở lên</p>
+ <p>- Khả năng kiểm soát kích thước phông chữ tiêu đề</p>
+ <p>- Khả năng kiểm soát cỡ chữ tin nhắn</p>
+ <p>- Góc Vuông</p>
+ <p>- Khả năng kiểm soát mức độ hiển thị của dấu phân cách - dành cho iOS 13 trở lên</p>
+ <p>- Khả năng chọn kích thước nút (Nhỏ/Lớn)</p>
+ <p>- Khả năng hợp nhất nút hủy bỏ với Bảng hành động</p>
+            <br><br>
+         </div>
+         <h3>Thông tin</h3>
+         <div class="table">
+            <div class="cell">
+               <div class="title">Nhà phát triển</div>
+               <div class="text">Tomasz Poliszuk</div>
+               <br>
+            </div>
+            <div class="cell">
+               <div class="title">Thể loại</div>
+               <div class="text">Tweaks</div>
+               <br>
+            </div>
+            <div class="cell">
+               <div class="title">Ngày tải lên</div>
+               <div class="text">30/04/2023</div>
+               <br>
+            </div>
+            <div class="cell">
+               <div class="title">Khả năng tương thích</div>
+               <div class="text">iOS 12.0 đến 14.8.1</div>
+               <br><br>
+            </div>
+         </div>
+      </div>
+      <div class="changelog">
+         <div class="changelog_entry">
+            <h4>Phiên bản 1.4.2</h4>
+            <br>
+            <div class="md_view">
+               <p>- Cập nhật thêm cài đặt tinh chỉnh</p>
+ <p>- Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ</p>
+ <p>- Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của Bảng thông báo và Hành động</p>
+ <p>- Đã thêm khả năng thay đổi kiểu Cảnh báo thành Trang tính hành động</p>
+ <p>- Thêm khả năng kiểm soát kích thước phông chữ tiêu đề (riêng cho Bảng thông báo và Hành động)</p>
+ <p>- Thêm khả năng kiểm soát kích thước phông chữ tin nhắn (riêng cho Bảng thông báo và Hành động)</p>
+ <p>- Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong Bảng hành động</p>
+ <p>- Thêm khả năng chọn kích thước nút (nhỏ / lớn riêng biệt cho Bảng thông báo và Hành động)</p>
+ <p>- Thêm khả năng hợp nhất nút hủy với phần còn lại của danh sách trong Bảng hành động</p>
+ <p>- Thêm khả năng đặt lại cài đặt</p>
+ <p>- Đã thêm hỗ trợ cho iOS 12 (hiện không có tùy chọn "ẩn dấu phân cách" và "kiểu giao diện người dùng")</p>
+ <p>- Đã xác nhận hỗ trợ cho iOS 14</p>
+ <p>- Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới</p>
+ <p>- Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng</p>
+            </div>
+         </div>
+      </div>
+      <br><br>
+      <img src="https://apple-phong.github.io/Info/System/Images/Ava.png?"  class="imageChange image_Center"/>
+      <div class="caption center footer">
+         <center>
+            <div class="caption_center_footer" style="margin: 0 auto; width: 90%;">
+               <a href="https://apple-phong.github.io"><img src="https://apple-phong.github.io/Info/System/Images/Home.png" width="50" height="50">Home</a>
+               <a href="https://twitter.com/TamPh0ng"><img src="https://apple-phong.github.io/Info/System/Images/Twitter.png" width="50" height="50">Twitter</a>
+               <a href="https://github.com/apple-phong"><img src="https://apple-phong.github.io/Info/System/Images/Github.png" width="50" height="50">Github</a>
+               <a href="mailto:truongtamphong686@gmail.com"><img src="https://apple-phong.github.io/Info/System/Images/Mail.png" width="50" height="50">Mail</a>
+               <a href="https://paypal.me/truongtamphong"><img src="https://apple-phong.github.io/Info/System/Images/Paypal.png" width="50" height="50">Donate</a>
+            </div>
+         </center>
+      </div>
+      <p class="text_center">Copyright © 2023 by Hoàng Đình Phong</p>
+   </body>
+   <script>compatible("12.0","14.8.1","iOS 12.0 đến 14.8.1"); externalize()</script>
+</html>

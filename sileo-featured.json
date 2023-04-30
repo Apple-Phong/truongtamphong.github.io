@@ -5,6 +5,12 @@
 "fontSize":"10",
 "banners":[
 {
+"package":"hoangdinhphong.alertcontroller",
+"title":"Alert Controller",
+"url":"https://apple-phong.github.io/Images/AlertController/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.activatorvietnam",
 "title":"Activator Việt Nam",
 "url":"https://apple-phong.github.io/Images/Activator/Banner.jpg",
