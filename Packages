@@ -104,11 +104,11 @@ Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
 Filename: ./Deb/HoangDinhPhong.AlertController_1.4.2_iphoneos-arm.deb
-Size: 52996
-MD5sum: 45f2187b0a2d59563b1fa8fe1ad9b293
-SHA1: 05078058754af3faaacc7ecb8c21936d2d32d747
-SHA256: 1c474d85eeaf9a640addd3130b83582d6bfcfed1f78ad151dc7f1515da628595
-SHA512: 58f3aa7f7e9df20b936c07589cf6b250ee0dd083f955a5282974b3428655e298afb97b66d715487751838d8ef7a131e8a8df7f59f859a053f964b93465340a64
+Size: 53016
+MD5sum: 9694c0685d867af6c9f7b1d980af903a
+SHA1: 015204eacc3a92f8dd5da3eefb921b911e41a1d8
+SHA256: 1b63d6a4a6490dda0c5dff77723ccfb2bbc67a0ed27b352b6c64be1b61aa7075
+SHA512: daa9b47d248e20b33e81e6a435b449398646c18939d517b6bb9c57f125722f5b5617277c8512ca7270bc6618fa4f0337d1059054f3c8f4f0d45e3a73b69de877
 Homepage: https://apple-phong.github.io
 Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng
 Tag: role::enduser

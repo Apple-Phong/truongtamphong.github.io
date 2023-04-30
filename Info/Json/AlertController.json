@@ -23,10 +23,10 @@
 }
 ],
 "itemCornerRadius":8,
-"itemSize":"{175,378}"
+"itemSize":"{185360}"
 },
 {
-"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n\n- Loại bỏ bằng cách chạm vào bên ngoài\n\n- Hiển thị biểu tượng\n\n- Ẩn hành động hủy bỏ\n\n- Chọn Kiểu cảnh báo (thay vào đó hãy sử dụng kiểu Bảng hành động)\n\n- Chọn Kiểu của Bảng hành động (thay vào đó hãy sử dụng kiểu Cảnh báo)\n\n\n\n### Kiểu cảnh báo:\n\n- Chọn Kiểu cảnh báo giao diện người dùng (Mặc định/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/Lớn)\n\n- Khả năng buộc các nút theo chiều dọc\n\n\n\n### Kiểu nhóm bảng:\n\n- Chọn Kiểu giao diện người dùng của Trang hành động (Mặc định/Sáng/Tối) - dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách - dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/Lớn)\n\n- Khả năng hợp nhất nút hủy bỏ với Nhóm bảng\n\n\n",
+"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n\n- Loại bỏ bằng cách chạm vào bên ngoài\n\n- Hiển thị biểu tượng\n\n- Ẩn hành động hủy bỏ\n\n- Chọn Kiểu cảnh báo (thay vào đó hãy sử dụng kiểu Bảng hành động)\n\n- Chọn Kiểu của Bảng hành động (thay vào đó hãy sử dụng kiểu Cảnh báo)\n\n### Kiểu cảnh báo:\n\n- Chọn Kiểu cảnh báo giao diện người dùng (Mặc định/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/Lớn)\n\n- Khả năng buộc các nút theo chiều dọc\n\n\### Kiểu nhóm bảng:\n\n- Chọn Kiểu giao diện người dùng của Trang hành động (Mặc định/Sáng/Tối) - dành cho iOS 13 trở lên\n\n- Khả năng kiểm soát kích thước phông chữ tiêu đề\n\n- Khả năng kiểm soát cỡ chữ tin nhắn\n\n- Góc Vuông\n\n- Khả năng kiểm soát mức độ hiển thị của dấu phân cách - dành cho iOS 13 trở lên\n\n- Khả năng chọn kích thước nút (Nhỏ/Lớn)\n\n- Khả năng hợp nhất nút hủy bỏ với Nhóm bảng\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
