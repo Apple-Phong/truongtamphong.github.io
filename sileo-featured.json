@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.sourceiconhdp",
+"title":"Source Icon HDP",
+"url":"https://apple-phong.github.io/Info/System/Images/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.alertcontroller",
 "title":"Alert Controller",
 "url":"https://apple-phong.github.io/Images/AlertController/Banner.jpg",
