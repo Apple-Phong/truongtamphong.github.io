@@ -6,6 +6,22 @@
 	box-sizing: border-box;
 }
 
+bold{
+  font-weight: 550;
+}
+
+red{
+  color: #E50000;
+}
+
+blue{
+  color: #1991D3;
+}
+
+green{
+  color: #018A01;
+}
+
 .wrapper {
 	display: flex;
 	width: 90%;

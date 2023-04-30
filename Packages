@@ -48,6 +48,29 @@ Author: HĐP & CodeOne88
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Agena
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Agena_1.0.0_iphoneos-arm.deb
+Size: 19150270
+MD5sum: 2c76a86668467698f8a0fa2362f96733
+SHA1: efd0ca9f6ff00a473a8802ee0c604ff50b0f6710
+SHA256: d9490e6a65a31a891509c903894a3aa4485fa2412f4013a3f1300091f30b9443
+SHA512: 456343099332e702fd0aaceb46ade976c06c0bae02de662b17195051b844cd9db1e641161318d78ad2d1a104007f4307be70c43b002e9dda89aa13fecf147aaa
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Agena
+Depiction: https://apple-phong.github.io/Info/Html/Agena.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Agena.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Agena.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1

@@ -2,10 +2,11 @@
 "class":"FeaturedBannersView",
 "itemSize":"{263, 148}",
 "itemCornerRadius":8,
+"itemFontSize":10,
 "banners":[
 {
 "package":"hoangdinhphong.activatorvietnam",
-"title":"Activator Viet Nam",
+"title":"Activator Việt Nam",
 "url":"https://apple-phong.github.io/Images/Activator/Banner.jpg",
 "hideShadow":"false"
 },
@@ -13,6 +14,12 @@
 "package":"hoangdinhphong.aerelys",
 "title":"Aerelys",
 "url":"https://apple-phong.github.io/Images/Aerelys/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.agena",
+"title":"Agena",
+"url":"https://apple-phong.github.io/Images/Agena/Banner.jpg",
 "hideShadow":"false"
 },
 {
