@@ -26,7 +26,7 @@
 "itemSize":"{165,400}"
 },
 {
-"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n### Những gì bạn có thể làm với tinh chỉnh này\n\n\n- Huỷ bỏ bằng cách chạm vào bên ngoài khi ẩn nút Huỷ bỏ\n\n- Hiển thị biểu tượng\n\n- Ẩn nút hủy bỏ\n\n- Chọn Kiểu cho cảnh báo (thay vào đó là sử dụng kiểu Kiểu nhóm bảng)\n\n- Chọn Kiểu cho nhóm bảng (thay vào đó hãy sử dụng Kiểu cảnh báo)\n\n- Kiểu cảnh báo có giao diện tuỳ chọn (Theo hệ thống/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Kiểm soát kích thước phông chữ cho phần tiêu đề\n\n- Kiểm soát cỡ chữ cho phần nội dung\n\n- Làm vuông góc nền\n\n- Kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Chọn kích thước nút nhấn to hoặc nhỏ\n\n- Hiện các nút theo chiều dọc\n\n- Hợp nhất nền với nút Huỷ bỏ\n\n\n",
+"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n### Những gì bạn có thể làm với tinh chỉnh này\n\n\n- Huỷ bỏ bằng cách chạm vào bên ngoài khi ẩn nút Huỷ bỏ\n- Hiển thị biểu tượng\n- Ẩn nút hủy bỏ\n\n- Chọn Kiểu cho cảnh báo (thay vào đó là sử dụng kiểu Kiểu nhóm bảng)\n\n- Chọn Kiểu cho nhóm bảng (thay vào đó hãy sử dụng Kiểu cảnh báo)\n\n- Kiểu cảnh báo có giao diện tuỳ chọn (Theo hệ thống/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Kiểm soát kích thước phông chữ cho phần tiêu đề\n\n- Kiểm soát cỡ chữ cho phần nội dung\n\n- Làm vuông góc nền\n\n- Kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Chọn kích thước nút nhấn to hoặc nhỏ\n\n- Hiện các nút theo chiều dọc\n\n- Hợp nhất nền với nút Huỷ bỏ\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
