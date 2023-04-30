@@ -2,7 +2,7 @@
 "class":"FeaturedBannersView",
 "itemSize":"{263, 148}",
 "itemCornerRadius":8,
-"fontSize":"10.0"
+"fontSize":"10",
 "banners":[
 {
 "package":"hoangdinhphong.activatorvietnam",
