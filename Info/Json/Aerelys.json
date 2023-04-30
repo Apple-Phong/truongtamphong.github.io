@@ -56,7 +56,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Hoàng Đình Phong & CodeOne88"
+"text":"HĐP & CodeOne88"
 },
 {
 "class":"DepictionTableTextView",
@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
+"markdown":"#### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi mà bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
 },
 {
 "class":"DepictionLabelView",

@@ -24,7 +24,7 @@
 ],
 "itemCornerRadius":16,
 "itemSize":"{185,400}",
-"borderWidth":4,
+"createLineBorder":"(Color.blue)",
 "borderStyle":"solid",
 "borderColor":"red"
 },

@@ -71,6 +71,29 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Airy
+Architecture: iphoneos-arm
+Version: 1.1.71
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Airy_1.1.71_iphoneos-arm.deb
+Size: 32037244
+MD5sum: 1183dbde0e8e052f6aad040ade326b2d
+SHA1: 85b3c2c7d0d4dd0a71636b6a340219d99814877a
+SHA256: b118a4726e02eb60179458c5dec212dc1a7461966594557c6e88c2111f97f393
+SHA512: 347143c3cb70d9c640cf2ba0dbe19a4979e1fd12b6790ca1ff057856378c6cb748d157a2145c4b56867f9609ecd7d5f468c7709d4856aca577e134521bd405c4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Airy
+Depiction: https://apple-phong.github.io/Info/Html/Airy.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1
