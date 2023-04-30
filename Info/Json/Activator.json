@@ -24,9 +24,9 @@
 ],
 "itemCornerRadius":16,
 "itemSize":"{185,400}",
-"itemBorderWidth":4,
-"itemBorderStyle":"solid",
-"itemBorderColor":"#ff0000"
+"borderWidth":4,
+"borderStyle":"solid",
+"borderColor":"red"
 },
 {
 "markdown":"# Activator\n\n Gán mọi hành động của bạn để thực hiện các chức năng mà bạn muốn! \n\n - Ví dụ: Chọn Tất cả mọi nơi (bao gồm Màn hình chính, Màn hình khoá và Trong ứng dụng). Trong phần Thanh trạng thái, chọn Chạm giữ bên trái, nhấn vào Chụp ảnh màn hình để kích hoạt nó. Kết quả là sau khi chạm giữ bên trái trên thanh trạng thái điện thoại của bạn sẽ chụp ảnh màn hình.\n\n - Ví dụ bên trên chỉ là một hành động nhỏ. Còn rất rất nhiều cử chỉ có thể gán thêm. Nó không thể thiếu nếu như bạn thuộc lòng về cách cài đặt lẫn thao tác.\n\n\n",
