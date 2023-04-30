@@ -15,10 +15,10 @@
 }
 ],
 "itemCornerRadius":0,
-"itemSize":"{200,432}"
+"itemSize":"{185,400}"
 },
 {
-"markdown":"# Source Icon HDP\n\n## Gói biểu tượng dành riêng cho nguồn Hoàng Đình Phong\n\n\n- Vui lòng cài đặt gói này để được hiển thị đầy đủ biểu tượng cho nguồn của tôi\n\n- Nếu như bạn không thích gói mới này có thể hạ cấp về bản thấp hơn để sử dụng\n\n\n### Cảm ơn mọi người đã luôn ủng hộ tôi trong suốt thời gian qua!!!\n\n\n",
+"markdown":"# Source Icon HDP\n\n## Gói biểu tượng dành riêng cho nguồn Hoàng Đình Phong\n\n\n - Vui lòng cài đặt gói này để được hiển thị đầy đủ biểu tượng cho nguồn của tôi\n\n - Nếu như bạn không thích gói mới này có thể hạ cấp về bản thấp hơn để sử dụng\n\n\n### Cảm ơn mọi người đã luôn ủng hộ tôi trong suốt thời gian qua\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -86,7 +86,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.3.0\n\nThay thế toàn bộ biểu tượng sang dạng mới"
+"markdown":"#### Phiên bản 1.3.0\n\n Thay thế toàn bộ biểu tượng sang dạng mới"
 },
 {
 "class":"DepictionLabelView",
