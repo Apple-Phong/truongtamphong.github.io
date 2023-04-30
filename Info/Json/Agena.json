@@ -14,7 +14,7 @@
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://apple-phong.github.io/Images/Agena/Screenshots/2.jpg",
+"url":"https://apple-phong.github.io/Images/Agena/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
@@ -22,7 +22,7 @@
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":16,
+"itemCornerRadius":36,
 "itemSize":"{185,400}",
 },
 {
