@@ -22,7 +22,7 @@
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":16,
+"itemCornerRadius":0,
 "itemSize":"{185,400}",
 },
 {
