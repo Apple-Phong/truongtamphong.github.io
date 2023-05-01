@@ -193,6 +193,30 @@ Author: ETHN
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.RingManager
+Architecture: iphoneos-arm
+Version: 1.0.0-4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.RingManager_1.0.0-4_iphoneos-arm.deb
+Size: 200132
+MD5sum: 828a85c9d6a8dc82f143f9dec42ead22
+SHA1: 34c7b936c11ed20accdde0fd4558b4705f88d6cd
+SHA256: 70795f810138f907e5600289433bb3727b54dca171e306806618da9ec04425fc
+SHA512: eb6f70f4e15eaacbaa8492052576802e44ddb68b4659ac9c670e94a526c824216f247cf81b38d6c552f4170a541366b79e39114b4148fa4e93eed20e715cb8e5
+Homepage: https://apple-phong.github.io
+Description: Tiện ích hỗ trợ cài đặt nhạc chuông
+Tag: role::enduser
+Name: RingManager
+Depiction: https://apple-phong.github.io/Info/Html/RingManager.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/RingManager.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/RingManager.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: MacOS
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.2.0
