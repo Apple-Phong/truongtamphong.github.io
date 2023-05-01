@@ -27,10 +27,21 @@
             <img class="img_card" src="https://apple-phong.github.io/Images/AllRise/Screenshots/1.jpg">
          </div>
          <br><br>
-
-<div><audio controls="controls">
-<source src="https://apple-phong.github.io/Ringtones/AllRise.mp3" type="audio/mp3" /></audio></div>
-
+<audio id="myAudio">
+<source src="https://apple-phong.github.io/Ringtones/AllRise.mp3" type="audio/mpeg">
+</audio>
+<p>Nhấn Play/Paused để nghe hoặc tạm dừng</p><br>
+<button onclick="playAudio()" style="-webkit-tap-highlight-color: rgba(20,20,20, 1); font-size: 17.5px; margin-left: 40px" type="button">▷ </button>
+<button onclick="pauseAudio()" style="-webkit-tap-highlight-color: rgba(20,20,20, 1); font-size: 18px; margin-left: 20px" type="button">❚❚</button> 
+<script>
+var x = document.getElementById("myAudio"); 
+function playAudio() { 
+x.play();
+}
+function pauseAudio() { 
+x.pause(); 
+} 
+</script>
 <br><br><br><br>
          <div class="md_view">
             <p>
@@ -45,7 +56,7 @@
          <div class="table">
             <div class="cell">
                <div class="title">Ca sĩ thể hiện</div>
-               <div class="text">Blue Band</div>
+               <div class="text">Ryan Petrich</div>
                <br>
             </div>
             <div class="cell">
@@ -67,7 +78,7 @@
       </div>
       <div class="changelog">
          <div class="changelog_entry">
-            <h4>Phiên bản 1.0.0</h4>
+            <h4>Phiên bản 1.0.2</h4>
             <br>
             <div class="md_view">
                <p>Lần đầu phát hành</p>
