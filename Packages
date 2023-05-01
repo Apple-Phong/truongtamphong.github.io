@@ -121,6 +121,30 @@ Author: Tomasz Poliszuk
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.AllRise
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.AllRise_1.0.0_iphoneos-arm.deb
+Size: 256220
+MD5sum: 573493a13499c8914346126bc713fa0d
+SHA1: eab80de81b950ead5c543cd2a1760216c6113cab
+SHA256: f79c563446c46aa81efc067dc870e164867f4bb63bbacc4fd255e44140134c42
+SHA512: 0ba8aa2c85f3c6695d6f66085545e428a08897961ebe9386c59ce6fd22b1da4ecec76962c94ccfd250aeba6bfce5284f5ddaa9fe8982657e2de94f0220dd4822
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông
+Tag: role::enduser
+Name: All Rise
+Depiction: https://apple-phong.github.io/Info/Html/AllRise.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Blue
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1
