@@ -151,17 +151,17 @@ Version: 1.8.8-1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.AmLichVaDanhNgon_1.8.8-1_iphoneos-arm.deb
-Size: 654570
-MD5sum: 4b69b0f97c0354ed2a5f89e9cc20aa6f
-SHA1: 496b81320f5ec5d7e0ad8aeb7976e08e55927812
-SHA256: db1f40db552ae3f13428c188814d984ef704977459c0a440700f9a08d80f2b14
-SHA512: f2dea4d0bfd8c3d70dfedfab4f74a71af430c1345350b221f13d2f2fa636b0461d992135241a1600f8ce99e821f83c8017ee505414b54568dc6330aae283643f
+Size: 654568
+MD5sum: 6b6e2daec4a9e806657a5ad6bd080f43
+SHA1: 3c8ffadb6d4d561b508f98142c1e3370f7700f7b
+SHA256: 08082741b99c2cd28c8fc01aa464d63c48462e0659619fa245f307f6574a330e
+SHA512: d0110c340e8890d74b0435d3b6224c8e3ff60252264b82af9c8865d1bb15109928d41ccbd7447cd1d0a0115066171e8fb1b28c3a03e412a85887941858dab31f
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Tag: role::enduser
 Name: Âm Lịch & Danh Ngôn
 Depiction: https://apple-phong.github.io/Info/Html/AmLichVaDanhNgon.html
-SileoDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
