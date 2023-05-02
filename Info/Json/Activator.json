@@ -24,6 +24,7 @@
 ],
   "backgroundColor": "#000",
   "width": "210px",
+"height":"400px",
   "marginLeft": "1px",
   "marginRight": "14px",
   "marginTop": "20px",
