@@ -18,7 +18,8 @@
 "itemSize":"{400,185}"
 },
 {
-"markdown":"# RingManager\n\n## Tiện ích hỗ trợ nhạc chuông \n\n- Hoạt động trên iOS 7 - 13! Không có tùy chọn để định cấu hình":"true",
+"markdown":"# RingManager\n\n## Tiện ích hỗ trợ nhạc chuông \n\n- Hoạt động trên iOS 7 - 13! Không có tùy chọn để định cấu hình",
+"useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
 {
