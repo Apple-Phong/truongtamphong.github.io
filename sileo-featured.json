@@ -22,6 +22,18 @@
 "hideShadow":"false"
 },
 {
+"package":"hoangdinhphong.ringmanager",
+"title":"RingManager",
+"url":"https://apple-phong.github.io/Images/RingManager/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.allrise",
+"title":"All Rise",
+"url":"https://apple-phong.github.io/Images/AllRise/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.musicartworksave",
 "title":"MusicArtworkSave",
 "url":"https://apple-phong.github.io/Images/MusicArtworkSave/Banner.jpg",
