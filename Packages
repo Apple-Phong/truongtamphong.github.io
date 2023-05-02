@@ -126,13 +126,13 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Ringtones
 Maintainer: Hoàng Đình Phong
-Depends: HoangDinhPhong.RingManager
+Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.AllRise_1.0.0_iphoneos-arm.deb
-Size: 256220
-MD5sum: 573493a13499c8914346126bc713fa0d
-SHA1: eab80de81b950ead5c543cd2a1760216c6113cab
-SHA256: f79c563446c46aa81efc067dc870e164867f4bb63bbacc4fd255e44140134c42
-SHA512: 0ba8aa2c85f3c6695d6f66085545e428a08897961ebe9386c59ce6fd22b1da4ecec76962c94ccfd250aeba6bfce5284f5ddaa9fe8982657e2de94f0220dd4822
+Size: 256226
+MD5sum: c718f7ca1d171acbebb94be664c2f5a5
+SHA1: 1d354c94d4c9a5c8c1bd86848542b9661bd52050
+SHA256: fc81927f6f99bf8c053db7787b6e8aaa1cf6b7aec2f21b0b0013f62a2eead3ea
+SHA512: 1336aeea85ecd393a90dd7bda8bc077b76cebda1b4ca15e027af84395d3401ada07a33484348941046a655ce85be25fda6eb71f78bf85bdf1c05a5ed1bf762d5
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông
 Tag: role::enduser
