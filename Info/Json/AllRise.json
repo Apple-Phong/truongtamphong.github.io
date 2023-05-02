@@ -18,7 +18,7 @@
 "itemSize":"{600,277}"
 },
 {
-"properties":{
+"class":"DepictionAudioView",
 "files":[
 {
 "type":"audio/mp3",
