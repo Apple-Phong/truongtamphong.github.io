@@ -145,6 +145,29 @@ Author: Blue
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
+Version: 1.8.8-1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.AmLichVaDanhNgon_1.8.8-1_iphoneos-arm.deb
+Size: 654570
+MD5sum: 4b69b0f97c0354ed2a5f89e9cc20aa6f
+SHA1: 496b81320f5ec5d7e0ad8aeb7976e08e55927812
+SHA256: db1f40db552ae3f13428c188814d984ef704977459c0a440700f9a08d80f2b14
+SHA512: f2dea4d0bfd8c3d70dfedfab4f74a71af430c1345350b221f13d2f2fa636b0461d992135241a1600f8ce99e821f83c8017ee505414b54568dc6330aae283643f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Âm Lịch & Danh Ngôn
+Depiction: https://apple-phong.github.io/Info/Html/AmLichVaDanhNgon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.html
+ModernDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+ SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1
