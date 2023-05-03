@@ -168,6 +168,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Joyous
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Joyous_1.0.1_iphoneos-arm.deb
+Size: 25084584
+MD5sum: e7b50e487e9fdeb05a643a5c25051336
+SHA1: dbaee5586065585c8a1ab575708e53533d2fd856
+SHA256: 56265291159db8e208877e43c4aca2082c4f67f922151e5b6ce653d1b94078cb
+SHA512: 8a9f2219f06f0a6844c2b3e57e1569b0af44ed62928f9870aca32c516a2e8f70fc3c7f229fda67273b52247c81e00d21e97f76013666718a029e15bc2177864a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Joyous
+Depiction: https://apple-phong.github.io/Info/Html/Joyous.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Joyous.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Joyous.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1

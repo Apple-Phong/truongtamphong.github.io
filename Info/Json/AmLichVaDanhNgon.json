@@ -26,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Âm Lịch & Danh Ngôn\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n\n### Nội dung hiển thị:\n\n+ Âm lịch\n\n+ Danh ngôn\n\n+ Thanh Pin\n\n\n",
+"markdown":"# Âm Lịch & Danh Ngôn\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n\n### Nội dung hiển thị:\n\n+ Âm lịch\n\n+ Danh ngôn\n\n+ Thanh Pin\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
