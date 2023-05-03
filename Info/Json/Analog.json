@@ -26,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Analog\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n ### Nội dung hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Pin\n\n+ Thanh tìm kiếm\n\n\n",
+"markdown":"# Analog\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n ### Nội dung hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -52,7 +52,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"HĐP & CodeOne88"
+"text":"Hoàng Đình Phong"
 },
 {
 "class":"DepictionTableTextView",
@@ -62,7 +62,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/04/2023"
+"text":"03/05/2023"
 },
 {
 "class":"DepictionTableTextView",
