@@ -128,11 +128,11 @@ Section: Ringtones
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.AllRise_1.0.0_iphoneos-arm.deb
-Size: 256226
-MD5sum: c718f7ca1d171acbebb94be664c2f5a5
-SHA1: 1d354c94d4c9a5c8c1bd86848542b9661bd52050
-SHA256: fc81927f6f99bf8c053db7787b6e8aaa1cf6b7aec2f21b0b0013f62a2eead3ea
-SHA512: 1336aeea85ecd393a90dd7bda8bc077b76cebda1b4ca15e027af84395d3401ada07a33484348941046a655ce85be25fda6eb71f78bf85bdf1c05a5ed1bf762d5
+Size: 256232
+MD5sum: 586492f4dffc71f4eab204bab00f21c9
+SHA1: 9396491e142ab3fd456b5af96da2ac1ebb0ab48d
+SHA256: 92d0c1caa51b6b2fd77ef7414979214a01335c8cafbaf43e4848937fe7b0f6bc
+SHA512: 32a2a05abcae9cab576e9070bd7d7383e2c8abbd3bbaba801c4fe9b703e331b0310a8a6dc02456554ba18d9606fe706d326037248d9955ad45845e5ba15a3b14
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông
 Tag: role::enduser
@@ -141,7 +141,7 @@ Depiction: https://apple-phong.github.io/Info/Html/AllRise.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
 Tags: compatible_min::ios7.0, compatible_max::ios13.7
-Author: Blue
+Author: Blue Band
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
@@ -151,11 +151,11 @@ Version: 1.8.8-1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.AmLichVaDanhNgon_1.8.8-1_iphoneos-arm.deb
-Size: 654568
-MD5sum: 6b6e2daec4a9e806657a5ad6bd080f43
-SHA1: 3c8ffadb6d4d561b508f98142c1e3370f7700f7b
-SHA256: 08082741b99c2cd28c8fc01aa464d63c48462e0659619fa245f307f6574a330e
-SHA512: d0110c340e8890d74b0435d3b6224c8e3ff60252264b82af9c8865d1bb15109928d41ccbd7447cd1d0a0115066171e8fb1b28c3a03e412a85887941858dab31f
+Size: 654566
+MD5sum: d74821904e38c71efbfc3e7a45775d2d
+SHA1: 846dc8bfe99ef26d1403515ba28eae21338e355d
+SHA256: 9ec81ede655c1dd041406770ec1a796f300a68aebfb7b44625ef31c2b53c2923
+SHA512: b24d838acf51cda911d028339063994007b8a0e7cf53eab297d3b60c7365f297b5dd6201aededde49ab9a43a0b670c8049d20380e4d2994f8ee96ad8205c518b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Tag: role::enduser
@@ -165,7 +165,7 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
- SomeOtherEntryToControl: True
+SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
@@ -237,6 +237,33 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/RingManager.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/RingManager.json
 Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: MacOS
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 5767386
+MD5sum: 126d4ed4964a13f62ae6331c0ad76938
+SHA1: 37b1b40676992cf4236da3055a7ad2759d775ee7
+SHA256: f8ef7b3553ab49bebb9e978611fa433ce2844463ccdbd54bdc399b93e7b563d2
+SHA512: d999c3833ae9798045ba884d2fbaef0b2a75d703b8424fffc350afbe84ccd73bc0051bf56ee6aa9e30a4b4e438af982cae95167fbee285fae64606c8b99c9b10
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh này dùng thay đổi chủ đề
+Tag: role::enduser
+Name: SnowBoard Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/SnowBoard.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard.json
+Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+Author: Spark
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
