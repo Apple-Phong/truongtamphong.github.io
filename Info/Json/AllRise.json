@@ -18,16 +18,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nghe nhạc"
-},
-{
-"markdown":"[**Play**](https://apple-phong.github.io/Ringtones/AllRise.mp3)- All Rise\n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"markdown":"# All Rise\n\n## Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉",
+"markdown":"# All Rise\n\n## Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n\n- Nhấn vào "[**đây**](https://apple-phong.github.io/Ringtones/AllRise.mp3) để nghe thử",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
