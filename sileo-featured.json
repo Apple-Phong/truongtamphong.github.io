@@ -4,7 +4,13 @@
 "itemCornerRadius":8,
 "banners":[
 {
-"package":"hoangdinhphong.Joyous",
+"package":"com.matchstic.xenhtml",
+"title":"Xen HTML Việt Nam",
+"url":"https://apple-phong.github.io/Images/XenHTML/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.joyous",
 "title":"Joyous",
 "url":"https://apple-phong.github.io/Images/Joyous/Banner.jpg",
 "hideShadow":"false"

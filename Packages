@@ -353,3 +353,27 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 3.60
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.XenHTML_3.6.0_iphoneos-arm.deb
+Size: 8252838
+MD5sum: 6cf918ff24c8eb4ad28a757efd7def69
+SHA1: a8c92dbc09658cc6877a39bf41ec6d36d5875a5b
+SHA256: b8cf13e392d8d57735f1d89ca4a96256f524669a355e02729d279b290a97003d
+SHA512: 8ea16f68ab10a31d8312862323f01b6160ce5e0421c57335f281ea418f18b626cd2b7a2e05d0678c532016ff12985a5305d9e4edbed71de5627968501d2d8756
+Homepage: https://apple-phong.github.io
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Tag: role::enduser
+Name: Xen HTML Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/XenHTML.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Matt Clarke
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
