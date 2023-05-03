@@ -168,6 +168,27 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Fonts
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: System
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Fonts_1.0.1_iphoneos-arm.deb
+Size: 2271568
+MD5sum: 886cdd5c60f64ed32be26eb958bcadba
+SHA1: f2eb6b5efe5a59bd874316a81c955a482def2004
+SHA256: 8cf3306b43e6d62bc8f09d09ba61cc26dd95706540ee224bcff57a41a16b7e9b
+SHA512: 35b1d78ade10b09ecf4b720b15fe55265db72e038ab09fd5d1cbe59b805413614ef580b585c287ba6821a2f7fb3df08843045a73dbc53b40383fbd4d4fdec4e9
+Homepage: https://apple-phong.github.io
+Description: Gói phông hỗ trợ các Widgets by Hoàng Đình Phong
+Tag: role::enduser
+Name: Fonts for Widgets
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
 Version: 1.0.1
