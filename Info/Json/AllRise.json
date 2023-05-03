@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0-4\n\nLần đầu phát hành"
+"markdown":"#### Phiên bản 1.0.0\n\nLần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
