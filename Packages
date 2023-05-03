@@ -168,6 +168,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Analog
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Analog_1.0.22_iphoneos-arm.deb
+Size: 1765490
+MD5sum: cea3260c6ad1366715f9997fab97bd58
+SHA1: be3e1b7f271334334985ada130247ca30fca41f0
+SHA256: 5c610169e1b93293373eab9cf59cfde612569aa6054a99086cd35695503f96cd
+SHA512: 90892918bb7fad11fa844f24bbd0ec9926b04c39ed7de3cff240dda9da328b0d9de76da9a913802f1994ef846c8add844bf628f3df358f1386aadef7b98f9602
+Homepage: https://apple-phong.github.io
+Description: Tiện ích cho Xen Html.
+Tag: role::enduser
+Name: Analog
+Depiction: https://apple-phong.github.io/Info/Html/Analog.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Analog.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Analog.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1

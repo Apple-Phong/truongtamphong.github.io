@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.analog",
+"title":"Analog",
+"url":"https://apple-phong.github.io/Images/Analog/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"com.matchstic.xenhtml",
 "title":"Xen HTML Việt Nam",
 "url":"https://apple-phong.github.io/Images/XenHTML/Banner.jpg",
