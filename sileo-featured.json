@@ -40,6 +40,12 @@
 "hideShadow":"false"
 },
 {
+"package":"hoangdinhphong.killapps-rootless",
+"title":"KillApps-Rootless",
+"url":"https://apple-phong.github.io/Images/KillApps-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.sourceiconhdp",
 "title":"Source Icon HDP",
 "url":"https://apple-phong.github.io/Info/System/Images/Banner.jpg",
