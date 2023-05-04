@@ -192,6 +192,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.BabyOneMoreTime
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.BabyOneMoreTime_1.0.0_iphoneos-arm.deb
+Size: 253648
+MD5sum: f26e52ad27897ec793ac940cc2f85ee0
+SHA1: 2a2d56c4b5f8b1039e27c89cbae949be3af49973
+SHA256: 57a0f43c92e59d7da00450c38d2c3fc776fb99708fd68a85b03f3af1803a2f82
+SHA512: 8dbf8a162e8886bebe6ba857a011ceadf6d2f0ecb8f85bcb306f95143f9fffa00e557d1ea45337d562e37fbc44a9feecd82ddd8a29df209fcc3e27d1535c5787
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông
+Tag: role::enduser
+Name: Baby one more time
+Depiction: https://apple-phong.github.io/Info/Html/BabyOneMoreTime.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/BabyOneMoreTime.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/BabyOneMoreTime.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Britney Spears
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
