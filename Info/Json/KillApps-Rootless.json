@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# KillApps-Rootless\n\n## Trình đóng nhanh đa nhiệm\n\nNhấn giữ vào ứng dụng trong trình đa nhiệm là sẽ đóng tất cả các thẻ đang chạy nền\n\n### Các chức năng chính trong cài đặt\n\n- Bật rung phản hồi\n\n- Bật phản hồi rung khi đóng đa nhiệm ứng dụng\n\n- Không đóng ứng dụng nhạc khi đang phát\n\n- Sử dụng nhấn giữ hoặc vuốt xuống để xoá\n\n- Tạo danh sách đen hoặc trắng để chọn ứng dụng loại trừ...\n\n\n",
+"markdown":"# KillApps\n\n## Trình đóng nhanh đa nhiệm\n\nNhấn giữ vào ứng dụng trong trình đa nhiệm là sẽ đóng tất cả các thẻ đang chạy nền\n\n### Các chức năng chính trong cài đặt\n\n- Bật rung phản hồi\n\n- Bật phản hồi rung khi đóng đa nhiệm ứng dụng\n\n- Không đóng ứng dụng nhạc khi đang phát\n\n- Sử dụng nhấn giữ hoặc vuốt xuống để xoá\n\n- Tạo danh sách đen hoặc trắng để chọn ứng dụng loại trừ...\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
