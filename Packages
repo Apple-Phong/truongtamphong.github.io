@@ -237,6 +237,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.KillApps-Rootless
+Architecture: iphoneos-arm64
+Version: 1.2-2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.KillApps-Rootless_1.2-2_iphoneos-arm64.deb
+Size: 1683588
+MD5sum: 358a8ea8c3c5e31fd9b98060e00c48d2
+SHA1: 44d18fb41484ed4a471ee6bab912d9b4d824ffff
+SHA256: a4647d9a39529d6c66be230f0322d9f6844c6fc586650304aad3fc7d1351362b
+SHA512: 68869c8f6dd40f410fb9a5c27985ca5ac45f174b87343827d9ebe146bd1f2eae8a527dc3ff8799b53aa789b7d0789ee849a3a6a231b65c79756703fbdac57191
+Homepage: https://apple-phong.github.io
+Description: Đóng nhanh các ứng dụng trong nền đa nhiệm
+Tag: role::enduser
+Name: KillApps-Rootless
+Depiction: https://apple-phong.github.io/Info/Html/KillApps-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/KillApps-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/KillApps-Rootless.json
+Tags: compatible_min::ios15.0
+Author: Netskao
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.MusicArtworkSave-Rootless
 Architecture: iphoneos-arm64
 Version: 1.2.1
