@@ -192,6 +192,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AndoPro
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10)
+Filename: ./Deb/HoangDinhPhong.AndoPro_1.0.0_iphoneos-arm.deb
+Size: 3835986
+MD5sum: 7d6736936e2fe7eff584dd317d3746a9
+SHA1: b68a9d37db0fef186e909e2139928c26721af5cc
+SHA256: d6894b6c49e15c4365cd9117aaca6898771c38ce1b8a981bb115a7d8807684a5
+SHA512: 32b1458f175e22417f6086db93fe252da162087088109d98a9e52f0ec6948c6c866ab1b41ebfb8fff9f17fea1c27658a296e1711b37073828e45f7866f306fc4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Ando Pro
+Depiction: https://apple-phong.github.io/Info/Html/AndoPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AndoPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AndoPro.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.BabyOneMoreTime
 Architecture: iphoneos-arm
 Version: 1.0.0
