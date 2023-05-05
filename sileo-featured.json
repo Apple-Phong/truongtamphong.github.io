@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.aprilttp",
+"title":"April TTP",
+"url":"https://apple-phong.github.io/Images/AprilTTP/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.anime",
 "title":"Anime",
 "url":"https://apple-phong.github.io/Images/Anime/Banner.jpg",

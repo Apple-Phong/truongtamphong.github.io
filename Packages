@@ -288,6 +288,30 @@ Author: Fouad Raheb
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.AprilTTP
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10)
+Filename: ./Deb/HoangDinhPhong.AprilTTP_1.0.0_iphoneos-arm.deb
+Size: 47866660
+MD5sum: a1afa643ef474d023a5f0ed4e7286f66
+SHA1: aed5e388e8e8419e14c0ff66e0764ec0c10b247f
+SHA256: b6ae024a2ef8fb32e98e55be23bd2ae803277adbebee528f48563fed3fdda863
+SHA512: c6f743f8e7ff328580128be613bf1c6daab9ebe7369fd801080557c17ed9e023f3b5c54484dcc23acf589ef088d4bc72c207c5fbb2c94e34add714e46114efa9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Tag: role::enduser
+Name: April TTP
+Depiction: https://apple-phong.github.io/Info/Html/AprilTTP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AprilTTP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AprilTTP.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.BabyOneMoreTime
 Architecture: iphoneos-arm
 Version: 1.0.0
