@@ -216,6 +216,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Angel
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10)
+Filename: ./Deb/HoangDinhPhong.Angel_1.0.0_iphoneos-arm.deb
+Size: 3056866
+MD5sum: 0f0481900da3eee8582cdd6f4585067c
+SHA1: be9640e116d5924621b0a278ef8dbf56eef35064
+SHA256: 2a3867685872c0d4e3be6f4a8405e34e64198f8227178b9fcfb58842dd212622
+SHA512: c3eff5ca7ae67352b68f188befb59e2394aafe8edbd0abb201ca46ef44f49cb3595b898c9dd2388ce6cb8fe20674738c7fee87f534ad3c3f961fe01c4383b777
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Tag: role::enduser
+Name: Angel
+Depiction: https://apple-phong.github.io/Info/Html/Angel.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Angel.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Angel.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.BabyOneMoreTime
 Architecture: iphoneos-arm
 Version: 1.0.0
