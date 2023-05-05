@@ -1,0 +1,107 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Images/AppData/Banner.jpg",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/AppData/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/AppData/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# AppData\n\n## Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực\n\n### Chức năng bao gồm:\n\n+ Xem kích thước và phiên bản gói ứng dụng\n\n+ Xem và sao chép số ID nhận dạng gói ứng dụng\n\n+ Chỉnh sửa tên biểu tượng ứng dụng\n\n+ Xóa hoặc cập nhật số huy hiệu ứng dụng\n\n+ Kiểm tra kích thước dữ liệu/bộ đệm của ứng dụng và xóa chúng\n\n+ Giảm tải ứng dụng bằng cách gỡ cài đặt ứng dụng và giữ lại dữ liệu\n\n+ Đặt lại quyền ứng dụng\n\n+ Truy cập gói ứng dụng và vùng chứa dữ liệu\n\n+ Truy cập các nhóm vùng chứa ứng dụng\n\n+ Mở trang AppStore của ứng dụng\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận nhiều may mắn 🍀\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Fouad Raheb"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"05/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 11.0 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.3.6\n\n- Đã thêm tùy chọn để chọn màu giao diện mặc định (Tối theo mặc định)\n\n- Đã di chuyển mục menu cảm ứng lực của AppData vào phần hệ thống\n\n- Đã sửa lỗi quyền đặt lại trên iOS 12\n\n- Ẩn menu cảm ứng lực khỏi Widget trên iSO 14"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
