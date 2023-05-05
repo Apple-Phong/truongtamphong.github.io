@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.93\n\nThêm chỉnh màu văn bản chính, văn bản thời gian: đồng hồ, ngày tháng và năm"
+"markdown":"#### Phiên bản 1.0.93\n\nThêm chỉnh màu văn bản chính, văn bản đồng hồ, văn bản ngày tháng và năm"
 },
 {
 "class":"DepictionLabelView",
