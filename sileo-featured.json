@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.anime",
+"title":"Anime",
+"url":"https://apple-phong.github.io/Images/Anime/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.analog",
 "title":"Analog",
 "url":"https://apple-phong.github.io/Images/Analog/Banner.jpg",

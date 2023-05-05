@@ -1,7 +1,7 @@
 {
 "minVersion":"0.1",
 "headerImage":"https://apple-phong.github.io/Images/SnowBoard/Banner.jpg",
-"tintColor":"#6CC1FF",
+"tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
@@ -77,7 +77,7 @@
 "title":"Liên hệ hỗ trợ",
 "action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
 "openExternal":"true",
-"tintColor":"#6CC1FF"
+"tintColor":"#5777B8"
 },
 {
 "class":"DepictionLabelView",

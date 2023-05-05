@@ -1,7 +1,7 @@
 {
 "minVersion":"0.1",
 "headerImage":"https://apple-phong.github.io/Images/Joyous/Banner.jpg",
-"tintColor":"#A6A6A6",
+"tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
@@ -73,7 +73,7 @@
 "title":"Liên hệ hỗ trợ",
 "action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
 "openExternal":"true",
-"tintColor":"#A6A6A6"
+"tintColor":"#5777B8"
 },
 {
 "class":"DepictionLabelView",

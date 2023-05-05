@@ -1,7 +1,7 @@
 {
 "minVersion":"0.1",
 "headerImage":"https://apple-phong.github.io/Images/RingManager/Banner.jpg",
-"tintColor":"#FF5D5F",
+"tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
@@ -69,7 +69,7 @@
 "title":"Liên hệ hỗ trợ",
 "action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
 "openExternal":"true",
-"tintColor":"#FF5D5F"
+"tintColor":"#5777B8"
 },
 {
 "class":"DepictionLabelView",
