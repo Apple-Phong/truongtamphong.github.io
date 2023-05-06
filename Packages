@@ -319,16 +319,16 @@ Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), com.opa334.ccsupport
 Filename: ./Deb/HoangDinhPhong.AutoBrightness_0.1-7_iphoneos-arm.deb
-Size: 17634
-MD5sum: 94336ca6b1c579fd9622b78666362558
-SHA1: 461d054a9c9b419c99dfe4cb856a91fb514e133a
-SHA256: fc682b09deb7c9b9fcba1d44d4862cc29bdff25ed6ed7e84ec1c7af23e6498ac
-SHA512: 4a46359a4f23dadcc18f07812e7bd5b30a2d42eb68fe763745d737916db8dcaa27db620415639193890f040f9264a7ae17f68acf3f39a8bf1ad3a940973faf01
+Size: 17630
+MD5sum: 14326b89e94832ac44cd1989481d26dd
+SHA1: 00dadf880de15ed0c7873ec2e77ccd3fa7fa6e24
+SHA256: 5d033689363f259d759ed16d4b0ef6eb1d39bf856339ef41f1c9b78037cdb5a6
+SHA512: e22d49eef1edb975084f046bd13561d413ddf712cb20eb5b4ab2f1740ae3d093a13f4b1ca6441418e65500e3093e7da83b1dee243c16e0e93cc9824f2e4eafd0
 Homepage: https://apple-phong.github.io
 Description: Bật/Tắt Độ sáng tự động trong trung tâm điều khiển
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Name: AutoBrightness Toggle
-Depiction: https://apple-phong.github.io/Info/Html AutoBrightness.html
+Depiction: https://apple-phong.github.io/Info/Html/AutoBrightness.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/AutoBrightness.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/AutoBrightness.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
