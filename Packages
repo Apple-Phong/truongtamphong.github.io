@@ -360,6 +360,30 @@ Author: Britney Spears
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.BigAnalog
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.BigAnalog_1.6.0_iphoneos-arm.deb
+Size: 5560950
+MD5sum: 4328739c23e1e2df41e97272c408a749
+SHA1: 1fa2e82e220de8381f3a89e005e20348246fd903
+SHA256: 1189d403005ce7d40d60d9dbac4728b975d48123ec5f4e7ae9590f25bae24a1f
+SHA512: b7833f4127c843c0c998ff398c87840b01e50208bfbf56f687d0fc978733ddff40299acc576829267387473b74a00be2c3a9b32dfcf41910d365969c7b0822b1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Big Analog
+Depiction: https://apple-phong.github.io/Info/Html/BigAnalog.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/BigAnalog.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/BigAnalog.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
