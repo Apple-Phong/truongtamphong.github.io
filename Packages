@@ -407,6 +407,29 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ClassicWatches
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.ClassicWatches_1.0.0_iphoneos-arm.deb
+Size: 144940
+MD5sum: 915fdf74f38e398b1a62e6b7f8b04979
+SHA1: 32170d432291d2c7f766c65dcf3995d6fa19c191
+SHA256: 495a4589d012a661f44d3b61a41ca47f5fa32186a36672ea28f313dc9365073c
+SHA512: b40d39ed791b537a8585489eacc5be0c9535b71468ddb1c326173593317baa777d4b7c645a3f4d9189656729e09ccb439a89861c48215d2c1fd8962479df11d0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Classic Watches
+Depiction: https://apple-phong.github.io/Info/Html/ClassicWatches.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ClassicWatches.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ClassicWatches.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
