@@ -430,6 +430,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Cover_1.7.1_iphoneos-arm.deb
+Size: 2969522
+MD5sum: d5f936b1a9c52de552c37ec467889e52
+SHA1: e8e5a7357f59de6a8d9542ee5dfc45a821df2725
+SHA256: a13c78e88fee502c42e05f25451b2414d8f8cb65eaaeb67a65c0a6c0446d9f9c
+SHA512: 2eb5b55be8cb2673d5cc55fe5f0906343e23a3253a89003d0121486d6232056d4f2acc78f45569a87284e64218e0bf20d41af5c5fdcc5195dcae1774087a3f04
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cover
+Depiction: https://apple-phong.github.io/Info/Html/Cover.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -456,13 +478,13 @@ Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
-Depends: firmware (>=10.0)
+Depends: firmware (>=10.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Joyous_1.0.1_iphoneos-arm.deb
-Size: 25084584
-MD5sum: e7b50e487e9fdeb05a643a5c25051336
-SHA1: dbaee5586065585c8a1ab575708e53533d2fd856
-SHA256: 56265291159db8e208877e43c4aca2082c4f67f922151e5b6ce653d1b94078cb
-SHA512: 8a9f2219f06f0a6844c2b3e57e1569b0af44ed62928f9870aca32c516a2e8f70fc3c7f229fda67273b52247c81e00d21e97f76013666718a029e15bc2177864a
+Size: 25084610
+MD5sum: 2df22ed7a398e29918707cac3f3def6a
+SHA1: b6de020c68ef8b8ad87b7f55111da77ce7a1edc4
+SHA256: 16b55e7d52b40418398e11160be51d8e5595e5b73b067effc15b4c3fecae6dbe
+SHA512: f5e0a6cf75348eb1668f3b386224760d3c7621b92a770d002c0e7de8ad0a1f8626e545131d98dae8201e23e087f0a5bb26f126d41c423f8fc6a34fc06a5f1e72
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Tag: role::enduser
