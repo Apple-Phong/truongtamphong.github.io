@@ -367,11 +367,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0)
 Filename: ./Deb/HoangDinhPhong.BigAnalog_1.6.0_iphoneos-arm.deb
-Size: 5560950
-MD5sum: 4328739c23e1e2df41e97272c408a749
-SHA1: 1fa2e82e220de8381f3a89e005e20348246fd903
-SHA256: 1189d403005ce7d40d60d9dbac4728b975d48123ec5f4e7ae9590f25bae24a1f
-SHA512: b7833f4127c843c0c998ff398c87840b01e50208bfbf56f687d0fc978733ddff40299acc576829267387473b74a00be2c3a9b32dfcf41910d365969c7b0822b1
+Size: 5560948
+MD5sum: 7c851f60db5ea2fc56e88342f8f13cb1
+SHA1: baf94020f3696725d25e6c88085562954e638e64
+SHA256: 20098f3ac74e7c70afd64e38b61e14e990fbfb626e87a646c5656c6bb0939819
+SHA512: 4634af9805efe121f592dc789bbae6a5b9dab73b6d9ca34c49dc79ec1e170231b6ad6339fcbfdd39ac11d4e686be1ae3724447829f003cd0541eb8dd3090e13e
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Tag: role::enduser
