@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.circle",
+"title":"Circle",
+"url":"https://apple-phong.github.io/Images/Circle/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.biganalog",
 "title":"Big Analog",
 "url":"https://apple-phong.github.io/Images/BigAnalog/Banner.jpg",
