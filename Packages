@@ -312,6 +312,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AutoBrightness
+Architecture: iphoneos-arm
+Version: 0.1-7
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), com.opa334.ccsupport
+Filename: ./Deb/HoangDinhPhong.AutoBrightness_0.1-7_iphoneos-arm.deb
+Size: 17634
+MD5sum: 94336ca6b1c579fd9622b78666362558
+SHA1: 461d054a9c9b419c99dfe4cb856a91fb514e133a
+SHA256: fc682b09deb7c9b9fcba1d44d4862cc29bdff25ed6ed7e84ec1c7af23e6498ac
+SHA512: 4a46359a4f23dadcc18f07812e7bd5b30a2d42eb68fe763745d737916db8dcaa27db620415639193890f040f9264a7ae17f68acf3f39a8bf1ad3a940973faf01
+Homepage: https://apple-phong.github.io
+Description: Bật/Tắt Độ sáng tự động trong trung tâm điều khiển
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: AutoBrightness Toggle
+Depiction: https://apple-phong.github.io/Info/Html AutoBrightness.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AutoBrightness.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AutoBrightness.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Ichitaso
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.BabyOneMoreTime
 Architecture: iphoneos-arm
 Version: 1.0.0

@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://apple-phong.github.io/Images/Aerelys/Banner.jpg",
+"headerImage":"https://apple-phong.github.io/Images/AutoBrightness/Banner.jpg",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -10,27 +10,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Aerelys/Screenshots/4.png",
+"url":"https://apple-phong.github.io/Images/AutoBrightness/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
-"itemSize":"{185,400}"
+"itemSize":"{400,185}"
 },
 {
-"markdown":"# Aerelys\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n ### Nội dung hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Pin\n\n+ Thanh tìm kiếm\n\n\n",
+"markdown":"# AutoBrightness Toggle\n\n## Bật/Tắt Độ sáng tự động trong trung tâm điều khiển\n\nKhông có tuỳ chỉnh trong cài đặt\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -56,22 +44,22 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"HĐP & CodeOne88"
+"text":"Ichitaso"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Widgets"
+"text":"Tweaks"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/04/2023"
+"text":"06/05/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -98,7 +86,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi mà bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
+"markdown":"#### Phiên bản 0.1-7\n\nThu nhỏ lại biểu tượng cho đẹp và gọn gàng hơn"
 },
 {
 "class":"DepictionLabelView",
