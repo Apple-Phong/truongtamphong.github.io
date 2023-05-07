@@ -128,15 +128,15 @@ Section: Ringtones
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.AllRise_1.0.0_iphoneos-arm.deb
-Size: 256232
-MD5sum: 586492f4dffc71f4eab204bab00f21c9
-SHA1: 9396491e142ab3fd456b5af96da2ac1ebb0ab48d
-SHA256: 92d0c1caa51b6b2fd77ef7414979214a01335c8cafbaf43e4848937fe7b0f6bc
-SHA512: 32a2a05abcae9cab576e9070bd7d7383e2c8abbd3bbaba801c4fe9b703e331b0310a8a6dc02456554ba18d9606fe706d326037248d9955ad45845e5ba15a3b14
+Size: 256226
+MD5sum: 4d110fd7974a430730777e2f170d01d8
+SHA1: ddf990877bcc9e0f0613694f97c63c3db24cf971
+SHA256: 214cfbbec15d84766244c5334602ca9e0c0327b7c4bb7bd7d143e1bbb4439b31
+SHA512: 9c9b6fe09f7954ae37eb1d1cf9e701cd8f2a2a43866f3d42581ec32ff0528dd9b565f607e1f5568d631c08e0a35ce40993d4d4719f55c7b00990bc93574ab2f1
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông
 Tag: role::enduser
-Name: All Rise
+Name: All rise
 Depiction: https://apple-phong.github.io/Info/Html/AllRise.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/AllRise.json
@@ -482,13 +482,13 @@ Maintainer: Hoàng Đình Phong
 Depends: firmware (>=7.0)
 Filename: ./Deb/HoangDinhPhong.CuVoiVang_1.0.0_iphoneos-arm.deb
 Size: 355214
-MD5sum: 4720074ca3ed6fc029adc4f3fdd63890
-SHA1: 1e1dfa61fc7098836d1cf017b5f2fb09a4baadc7
-SHA256: 421bbac532cbeb878820fb43efe9918442608ec5ca8dcf44db274f281dd3f434
-SHA512: 030b6db15ce318964981433dad72eeb1d8c54e115c45394be4455c692a2eabb99eae4cda143b73734c2f9a0424d1e1e75f7129170aafebaf2c9683e4e0cf0146
+MD5sum: 780838e69bb20a59d543d9a186e0559d
+SHA1: e2c3557ebfb7ee87e48ddfd1394513843c323f5a
+SHA256: 6ee881d3b4bc62bbae982166010a05e565c9f0a915ee49840ecfdff029445078
+SHA512: 9879f9074d88bf36fee90307cbb84d7119c48a44190193233c973751b34f76d9a726ed15686807ba3add2ffa7656b0f9e6d53488f6a61e8f16f3f14f8f4c3757
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông Việt Nam
-Name: Cứ Vội Vàng
+Name: Cứ vội vàng
 Depiction: https://apple-phong.github.io/Info/Html/CuVoiVang.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/CuVoiVang.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/CuVoiVang.json
