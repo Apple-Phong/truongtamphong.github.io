@@ -452,6 +452,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Criminal
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0)
+Filename: ./Deb/HoangDinhPhong.Criminal_1.0.0_iphoneos-arm.deb
+Size: 259454
+MD5sum: 7aabb0980c63e7102a38134905fdf0ba
+SHA1: f2e48fad05c7a92e87a985e378ddf8a5541869b2
+SHA256: e1c4800725a5b3d25fabbca52ceebc8e04598924f7dd7e607c709d56c50e1d3d
+SHA512: 98b361d18ab173b0b9e85f4476c09f5d1ac7612e966d4bce5894fb30a1d0124dedf005db149311c8ecfee38135731e4d11b64e6bf093b1d7b8628208224d474e
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Quốc tế
+Name: Criminal
+Depiction: https://apple-phong.github.io/Info/Html/Criminal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Criminal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Criminal.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Britney Spears
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
