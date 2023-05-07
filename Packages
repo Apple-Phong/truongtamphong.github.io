@@ -496,6 +496,28 @@ Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: Rô Ti
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.Cydown_7.1.2_iphoneos-arm.deb
+Size: 4305804
+MD5sum: 0d1804d2435acf6c80d7aa05c3c2f473
+SHA1: 7f4b1926e8a0aec4be9bb7d7fd4fcf63682873d0
+SHA256: c03dc66ef96544c9a893919911132ecf9284e13f2f1ec44c0e3ce6d489f26198
+SHA512: 2e46d9fb157add2ccda258936721706b446c3f137144b3e376935807922b6159d6db9773af69c25c368cbf87387c3ef698f27aabd18d389bb8e7ee197dc0c405
+Homepage: https://apple-phong.github.io
+Description: Trình quản lý tải xuống cho Cydia và các tính năng bổ sung
+Name: Cydown Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/Cydown.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cydown.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cydown.json
+Tags: compatible_min::ios6.0, compatible_max::ios14.8.1
+Author: Julioverne
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
