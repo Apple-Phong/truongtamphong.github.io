@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.cuvoivang",
+"title":"Cứ Vội Vàng",
+"url":"https://apple-phong.github.io/Images/CuVoiVang/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.criminal",
 "title":"Criminal",
 "url":"https://apple-phong.github.io/Images/Criminal/Banner.jpg",

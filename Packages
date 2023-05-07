@@ -474,6 +474,28 @@ Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: Britney Spears
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.CuVoiVang
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0)
+Filename: ./Deb/HoangDinhPhong.CuVoiVang_1.0.0_iphoneos-arm.deb
+Size: 355214
+MD5sum: 4720074ca3ed6fc029adc4f3fdd63890
+SHA1: 1e1dfa61fc7098836d1cf017b5f2fb09a4baadc7
+SHA256: 421bbac532cbeb878820fb43efe9918442608ec5ca8dcf44db274f281dd3f434
+SHA512: 030b6db15ce318964981433dad72eeb1d8c54e115c45394be4455c692a2eabb99eae4cda143b73734c2f9a0424d1e1e75f7129170aafebaf2c9683e4e0cf0146
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Cứ Vội Vàng
+Depiction: https://apple-phong.github.io/Info/Html/CuVoiVang.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/CuVoiVang.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/CuVoiVang.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Rô Ti
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
