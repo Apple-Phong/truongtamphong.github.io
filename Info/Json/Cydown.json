@@ -26,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Cydown\n\n## Cydown cho phép bạn tải Tweak trả phí trên Cydia. Nhưng không phải tất cả\n\n### Các chức năng chính gồm:\n\n+ Chặn quảng cáo\n\n+ Tự động lưu tệp Deb sau khi cài đặt Tweaks\n\n=> Đường dẫn: /var/mobile/Documents/CyDown\n\n+ Thêm nguồn nhanh\n\n+ Đếm các gói trong nguồn\n\n+ Sao lưu, khôi phục Tweaks và các nguồn lên Dropbox\n\n+ Không ngừng làm mới nguồn khi chạy ẩn Cydia\n\n+ Thêm nút đóng khi cài đặt xong Tweak\n\n+ Dịch ngôn ngữ Tweaks\n\n",
+"markdown":"# Cydown\n\n## Cydown cho phép bạn tải Tweak trả phí trong Cydia, Zebra & Installer. Nhưng không phải tất cả\n\n### Các chức năng chính gồm:\n\n+ Chặn quảng cáo\n\n+ Tự động lưu tệp Deb sau khi cài đặt Tweaks\n\n=> Đường dẫn: /var/mobile/Documents/CyDown\n\n+ Thêm nguồn nhanh\n\n+ Đếm các gói trong nguồn\n\n+ Sao lưu, khôi phục Tweaks và các nguồn lên Dropbox\n\n+ Không ngừng làm mới nguồn khi chạy ẩn Cydia\n\n+ Thêm nút đóng khi cài đặt xong Tweak\n\n+ Dịch ngôn ngữ Tweaks\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
