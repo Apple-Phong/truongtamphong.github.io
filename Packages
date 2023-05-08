@@ -818,3 +818,20 @@ Author: Matt Clarke
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.libPDDokdo
+Architecture: iphoneos-arm
+Version: 1.3
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.libPDDokdo_1.3_iphoneos-arm.deb
+Size: 10808
+MD5sum: 08b9634f34e3736e815fa244f0821f73
+SHA1: 4e02073e6bb64e5f3d5926dad7373864ec3948f7
+SHA256: 91b542ba18feb07b65131539be1661adc372c16c6c2adf7a301e5ba251486549
+SHA512: 225d988785371530a31144965a3cb2ad6d66158b1117806a49983e7e70d60775234c50e15085aa2afdeb93d5a2e1b0c1103c8fa043e4f509f0f96a51ef296995
+Homepage: https://apple-phong.github.io
+Description: Gói hỗ trợ thời tiết cho tinh chỉnh Dodo
+Name: LibPDDokdo
+Author: Soongyu Kwon
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
