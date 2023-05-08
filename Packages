@@ -518,6 +518,28 @@ Tags: compatible_min::ios6.0, compatible_max::ios14.8.1
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DockOne
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.DockOne_1.0.1_iphoneos-arm.deb
+Size: 2158
+MD5sum: 1eef217a6c41b38c5a65a22926739eb1
+SHA1: 7c04f9290195166be5348dc4a04974d5132564f1
+SHA256: 887365263d5ebe85c1f3d3ab3a2638d91d84520d6eac0898bc394ac1c62c713c
+SHA512: 1c47aaeaa64012c3dc6d3ae52724a9fab4338beb12a23db6933a76f3562da81fdc65b04219bbe748286c2b4abca2380bdffc0c9869fe5c3e95d1c3cf27e7f809
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Author: Hoàng Đình Phong
+Name: DockOne
+Depiction: https://apple-phong.github.io/Info/Html/DockOne.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DockOne.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DockOne.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1

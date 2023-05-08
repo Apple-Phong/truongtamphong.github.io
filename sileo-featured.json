@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.dockone",
+"title":"DockOne",
+"url":"https://apple-phong.github.io/Images/DockOne/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.cydown",
 "title":"Cydown",
 "url":"https://apple-phong.github.io/Images/Cydown/Banner.jpg",
