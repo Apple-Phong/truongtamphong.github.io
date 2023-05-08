@@ -540,6 +540,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DockOne.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Dodo
+Architecture: iphoneos-arm
+Version: 2.4.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, hoangdinhphong.libpddokdo
+Filename: ./Deb/HoangDinhPhong.Dodo_2.4.2_iphoneos-arm.deb
+Size: 388032
+MD5sum: 9b8cd17449652ca359b324810eca6078
+SHA1: 88826419e290a3a4d71c706a7c2e97abe82f76c4
+SHA256: 198fc7579df27b4f272ded943402e6b0a4614e72081b852ee89a586883c67872
+SHA512: d0540c77d8b98292e98488bf1176a08af895e7fb5300388a09cb5fec850afb468e78f06ef92a63207e590bc05543977abd8f0172effdae66171cc14a24ca75e6
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh cho Màn hình khoá
+Name: Dodo Việt Nam
+Author: Ginsu
+Depiction: https://apple-phong.github.io/Info/Html/Dodo.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dodo.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dodo.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
