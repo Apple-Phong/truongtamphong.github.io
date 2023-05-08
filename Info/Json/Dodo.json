@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Dodo\n\n## Tinh chỉnh này hiển thị thông tin thời tiết, nhạc, lịch, thời gian & ứng dụng yêu thích lên màn hình khoá\n\n### Các tuỳ chọn trong cài đặt bao gồm\n\n+ Tuỳ chỉnh định dạng ngày tháng năm\n\n+ Tuỳ chỉnh thời tiết\n\n+ Tuỳ chỉnh trình phát nhạc\n\n+ Tuỳ chỉnh vị trí thông báo\n\n+ Tuỳ chỉnh ẩn hiện thanh trạng thái\n\n+ Tuỳ chỉnh định dạng thời gian\n\n+ Tuỳ chỉnh phông nền cho nhạc\n\n\n",
+"markdown":"# Dodo\n\n## Tinh chỉnh này hiển thị thông tin thời tiết, nhạc, lịch, thời gian & ứng dụng yêu thích lên màn hình khoá \n\n\n### Các tuỳ chọn trong cài đặt bao gồm\n\n+ Tuỳ chỉnh định dạng ngày tháng năm\n\n+ Tuỳ chỉnh thời tiết\n\n+ Tuỳ chỉnh trình phát nhạc\n\n+ Tuỳ chỉnh vị trí thông báo\n\n+ Tuỳ chỉnh ẩn hiện thanh trạng thái\n\n+ Tuỳ chỉnh định dạng thời gian\n\n+ Tuỳ chỉnh phông nền cho nhạc\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
