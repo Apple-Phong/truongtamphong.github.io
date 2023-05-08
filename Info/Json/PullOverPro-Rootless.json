@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://apple-phong.github.io/Images/DockOne/Banner.jpg",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/Banner.jpg",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -10,23 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/DockOne/Screenshots/1.jpg",
+"url":"https://apple-phong.github.io/Images/PullOverPro-Rootless/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://apple-phong.github.io/Images/DockOne/Screenshots/2.jpg",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/DockOne/Screenshots/3.jpg",
+"url":"https://apple-phong.github.io/Images/PullOverPro-Rootless/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":5,
+"itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# DockOne\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n### Nội dung cài đặt\n\n+ Tuỳ chỉnh kiểu dáng, màu sắc, kích cỡ cho viền Dock\n\n+ Tuỳ chỉnh độ mờ đục và độ bo góc nền Dock\n\n+ Tuỳ chỉnh kích cỡ chiều cao và chiều rộng thanh Dock\n\n\n",
+"markdown":"# PullOver Pro\n\n## Tạo một tab nhỏ ở bên cạnh viền màn hình\n\n- Cho phép ghim một ứng dụng và kéo nó lên trên ứng dụng hiện tại\n\n- Sử dụng menu Chuyển đổi nhanh bằng cách giữ thanh kẹp trong nửa giây, một menu sẽ bật lên. Kéo ngón tay lên hoặc xuống để chọn ứng dụng muốn ghim. Các ứng dụng này có thể được chọn trước bằng cách chọn 'Ứng dụng yêu thích' trong cài đặt hoặc 'Ứng dụng gần đây', được lấy từ trình chuyển đổi ứng dụng\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -52,12 +48,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Hoàng Đình Phong"
+"text":"c1d3r"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Widgets"
+"text":"Tweaks"
 },
 {
 "class":"DepictionTableTextView",
@@ -67,7 +63,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 15.0 đến 15.6.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -94,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.1\n\nSửa lỗi lệch nền mờ trên iOS 13"
+"markdown":"#### Phiên bản 2.1.2-3\n\n- Khắc phục sự cố cho iOS 15\n\n- Sửa bàn phím không hiển thị\n\n- Sửa lỗi chuyển đổi kích hoạt không hợp lệ\n\n- Thêm tất cả các giao diện ngôn ngữ cho các mục cài đặt"
 },
 {
 "class":"DepictionLabelView",

@@ -657,6 +657,29 @@ Author: ETHN
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.PullOverPro-Rootless
+Architecture: iphoneos-arm64
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./Deb/HoangDinhPhong.PullOverPro-Rootless_2.1.2-3_iphoneos-arm64.deb
+Size: 1170986
+MD5sum: 89b2a9a51ba79db5b3af2510b2021f24
+SHA1: 63d2a102c92c8637ae00b2735be603711252fc04
+SHA256: f256156cd9a8c1d57783c41b83a80c5ce98680bcdda950228e959b7541daade4
+SHA512: 298bc598b9ee87090d60fab94b0e2f73cc3bafb88ba7c5bfb217b6f59fa807e9fd9e40c528af8a15eac87ed449c8fe3f9fe12582960eb1189b2ac265ca7535ed
+Homepage: https://apple-phong.github.io
+Description: Một cách tốt hơn để đa nhiệm
+Name: PullOver Pro Rootless
+Author: c1d3r
+Depiction: https://apple-phong.github.io/Info/Html/PullOverPro-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.8
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.RingManager
 Architecture: iphoneos-arm
 Version: 1.0.0-4
