@@ -659,17 +659,17 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
-Version: 2.1.2-3
+Version: 2.1.2-4
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./Deb/HoangDinhPhong.PullOverPro-Rootless_2.1.2-3_iphoneos-arm64.deb
-Size: 1170986
-MD5sum: 89b2a9a51ba79db5b3af2510b2021f24
-SHA1: 63d2a102c92c8637ae00b2735be603711252fc04
-SHA256: f256156cd9a8c1d57783c41b83a80c5ce98680bcdda950228e959b7541daade4
-SHA512: 298bc598b9ee87090d60fab94b0e2f73cc3bafb88ba7c5bfb217b6f59fa807e9fd9e40c528af8a15eac87ed449c8fe3f9fe12582960eb1189b2ac265ca7535ed
+Filename: ./Deb/HoangDinhPhong.PullOverPro-Rootless_2.1.2-4_iphoneos-arm64.deb
+Size: 1170934
+MD5sum: 37d1d0a29ab4e385e221dc9843faf5b3
+SHA1: 020e4e3e13cd6a7e38a5eed1642e21e84681fe29
+SHA256: 20c718e6a6fb579eb1de404f8594b8a172d48790873820757080047f74d016d7
+SHA512: a333be4d952c7d2ad3a162c3fe78c54dfa3a5006170d0f866c8ae40cb7b2bbbed9b9dbe243bab53b86be4c5a3631bc52785d792ccde8d68b6101e3eea7fa8f67
 Homepage: https://apple-phong.github.io
 Description: Một cách tốt hơn để đa nhiệm
 Name: PullOver Pro Rootless

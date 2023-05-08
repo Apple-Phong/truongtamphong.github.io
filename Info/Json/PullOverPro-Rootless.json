@@ -90,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.2-3\n\n- Khắc phục sự cố cho iOS 15\n\n- Sửa bàn phím không hiển thị\n\n- Sửa lỗi chuyển đổi kích hoạt không hợp lệ\n\n- Thêm tất cả các giao diện ngôn ngữ cho các mục cài đặt"
+"markdown":"#### Phiên bản 2.1.2-4\n\n- Khắc phục sự cố cho iOS 15\n\n- Sửa bàn phím không hiển thị\n\n- Sửa lỗi chuyển đổi kích hoạt không hợp lệ\n\n- Thêm tất cả các giao diện ngôn ngữ cho các mục cài đặt"
 },
 {
 "class":"DepictionLabelView",
