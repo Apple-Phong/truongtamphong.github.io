@@ -712,11 +712,11 @@ Depends: firmware (>=15.0)
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.9-Beta4_iphoneos-arm64.deb
-Size: 1635074
-MD5sum: fb57534c9bdf0478ce7cce44c0e47b09
-SHA1: 7cd2abef99058fbd170b75c329680cae2adeca82
-SHA256: 081d8ddd0cfd0ee3ad313e814ee270969a6bd4e6f0fbfb8886f11b1a73cc44e2
-SHA512: 011e65c37e76e8048016c0ab073460e9f58e757db8393fc2d30a35bbac908f11a3aa1d849d427d2f220a68e09af56c2226db398d9848073c503910b91ddfe42c
+Size: 1527440
+MD5sum: 8d2ab17997b6a1bc64337346e12b3a0b
+SHA1: 95c79a11d7205f427d16f24ba0b4b729e14d19bf
+SHA256: f1c9f86a680b03b5681aab315e8be4402c95049113b0a69da23816dd7d0186a0
+SHA512: e981fc81f8752cea1c01c42610bf197af9d3435927130e94f0cf23b7a0b4792a1ec638963ee785a66c78cdc56e4be525907fcb84a22649ddb162bc98c26fdb1f
 Homepage: https://apple-phong.github.io
 Description: Tinh chỉnh này dùng thay đổi chủ đề
 Name: SnowBoard-Rootless Việt Nam
