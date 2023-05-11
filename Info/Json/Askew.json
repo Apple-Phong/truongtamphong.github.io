@@ -62,7 +62,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"10/05/2023"
+"text":"11/05/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -92,6 +92,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.25\n\n- Sửa lỗi không hiện Pin và thời tiết\n\n- Thêm bóng đổ vào trong nền tạo độ nổi hơn\n\n- Thêm 6 phông chữ cho lời chào\n\n- Thêm kiểu chữ in hoa & chữ in nghiêng\n\n- Thêm độ bo góc và độ nhoà cho hình nền"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 1.22\n\nChirnh sửa lại hoàn thiện hơn"
