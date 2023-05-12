@@ -356,6 +356,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: HĐP & Alimaulana
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Askew
+Architecture: iphoneos-arm
+Version: 1.28
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Askew_1.28_iphoneos-arm.deb
+Size: 3097926
+MD5sum: a6f9f14207d344ef79d71e5acf5d59d7
+SHA1: 2ba6f62218bc47dc32d2fe041939e1d68a99729f
+SHA256: d3825d67a6469fd9ef8731f93c44f176a946858be80496d64e71d6e446beedf8
+SHA512: 81f96c440c65c4427ede7907b1a54f04cf23ff638fddbc8feb58e5ee2d81520200207028246c4172f9c0432df04fa9b8ca1f77ffc9d30e13c1801a7487034ae6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Askew
+Depiction: https://apple-phong.github.io/Info/Html/Askew.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: HĐP & Alimaulana
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AutoBrightness
 Architecture: iphoneos-arm
 Version: 0.1-7
@@ -745,6 +767,31 @@ Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: MacOS
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SnowBoard-Rootless
+Architecture: iphoneos-arm64
+Version: 1.5.13-Beta3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: firmware (>=15.0)
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.13-Beta3_iphoneos-arm64.deb
+Size: 1539864
+MD5sum: 0f7e4e9602d3eab18495a9d3df5d4b23
+SHA1: 550e2f5e62a4d47d5d08bccbbc2e0dc916eaae7e
+SHA256: 3c2e639c7d10ad8ea3bca521655ac616c77d63fe101867f55bcec6de0a37226a
+SHA512: fc57ca2c917b92dae1dfc8d2c8963e11dec930d3f69e56f393617b684ecc400a515e9c64b4feea5267f3f6f347aec8a02c076588c091e30ac7bedf9a6ad586e8
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh này dùng thay đổi chủ đề
+Name: SnowBoard-Rootless Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: https://apple-phong.github.io/Info/Html/SnowBoard-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
