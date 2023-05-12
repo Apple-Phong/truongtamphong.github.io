@@ -865,18 +865,18 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
-Version: 3.61~release
+Version: 3.62~release
 Priority: optional
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
-Filename: ./Deb/HoangDinhPhong.XenHTML_3.6.1~release_iphoneos-arm.deb
-Size: 8253624
-MD5sum: 6317b51429b877f09cf4674f187da50c
-SHA1: 131f92acee94c37a946ec836381fbd8ffa38cb8c
-SHA256: e8f74c6c216ec5ab03257fd62f83c144ced127b6a17bf792f91d1530a236ea4c
-SHA512: 5db597b5f717e8fb5062119577490ef85332aa5cfa0969e5abd226430ced77e8a77a2b743cb2f65c5658510aa7937c8b7cb990b8d0af42f383490e3bdce9e768
+Filename: ./Deb/HoangDinhPhong.XenHTML_3.6.2~release_iphoneos-arm.deb
+Size: 8259386
+MD5sum: 0b03c4c124f1c84bdde2d3eba317e01f
+SHA1: 381efdde184d4c86d2263161f22120b5857acc9c
+SHA256: 468ece04f7faad566f6f970fc6cb7eba1f3ab3f212552b16ab1df7dd26176708
+SHA512: bcff7d61f90954dc23256b2fddd6248825510897df587cbfe141d04fa23abc9e64603019aff2c2d4c8696615d09044becf98217444e732520068e3c71c46b88d
 Homepage: https://apple-phong.github.io
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Name: Xen HTML Việt Nam
