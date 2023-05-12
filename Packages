@@ -872,11 +872,11 @@ Maintainer: Hoàng Đình Phong
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Filename: ./Deb/HoangDinhPhong.XenHTML_3.6.1~release_iphoneos-arm.deb
-Size: 8253808
-MD5sum: f4be5e558639877785343bd4444af735
-SHA1: b2923acd686773fc9d39db5ef3bf1166ab5400a0
-SHA256: 65a2299bbe328a45f028a7a2ddee226ffa8500ba13626fa982fe02354138eedb
-SHA512: 0fc70451f6b1275a17ae04744ad44bc87ce61d157b49547baac93e365a207c858493eb913e01324bc8871b057c0b6bf6fed1b56d04c8739852c69721e23225d3
+Size: 8253624
+MD5sum: 6317b51429b877f09cf4674f187da50c
+SHA1: 131f92acee94c37a946ec836381fbd8ffa38cb8c
+SHA256: e8f74c6c216ec5ab03257fd62f83c144ced127b6a17bf792f91d1530a236ea4c
+SHA512: 5db597b5f717e8fb5062119577490ef85332aa5cfa0969e5abd226430ced77e8a77a2b743cb2f65c5658510aa7937c8b7cb990b8d0af42f383490e3bdce9e768
 Homepage: https://apple-phong.github.io
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Name: Xen HTML Việt Nam
