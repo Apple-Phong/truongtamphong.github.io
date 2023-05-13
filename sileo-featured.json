@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.dustryblue",
+"title":"Dustry Blue",
+"url":"https://apple-phong.github.io/Images/DustryBlue/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.askew",
 "title":"Askew",
 "url":"https://apple-phong.github.io/Images/Askew/Banner.jpg",

@@ -400,6 +400,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: HĐP & Alimaulana
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Askew
+Architecture: iphoneos-arm
+Version: 1.31
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Askew_1.31_iphoneos-arm.deb
+Size: 3099096
+MD5sum: 9b31381905451db3a4ea1afc92f1b08b
+SHA1: 8fe73b5349a9178d3b27ec64f3b99185c9a69c80
+SHA256: 5d64d944a2ef16256db33fe4bbc85e339d80e10e0b800b9e40bb38367a108932
+SHA512: 55ac077f56c9c9cede8bc6d80a4ab7e6053741d29d4aedfe21f215a2c2c4b9b468c1ed708ad072ed49d2eace3c641006219ae605cc2e13fe0a6e62cb82aae76a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Askew
+Depiction: https://apple-phong.github.io/Info/Html/Askew.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: HĐP & Alimaulana
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AutoBrightness
 Architecture: iphoneos-arm
 Version: 0.1-7
@@ -649,6 +671,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/Dodo.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Dodo.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.DustryBlue
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Keyboard
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0)
+Filename: ./Deb/HoangDinhPhong.DustryBlue_1.0.0_iphoneos-arm.deb
+Size: 4917648
+MD5sum: 00f5b264473c661affcd185b95656deb
+SHA1: 5b5e3625825acda409901c7f55ef9dcf94121405
+SHA256: 7a62f1c82013cfe44d12625409acdc8a8a751dc7625f7ad758bd327354365694
+SHA512: fa27e1ebef8f0149077329bedc9f65cf186090a62b497436ce3b26e79ff1396d40971e7f98735f60ca03c135010e3bdd7af9a7043a19cbc9c17d173c17a90b9a
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryBlue.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryBlue.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryBlue.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
 
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
