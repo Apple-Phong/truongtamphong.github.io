@@ -694,6 +694,72 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DustryBlue.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.DustryGreen
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0)
+Filename: ./Deb/HoangDinhPhong.DustryGreen_1.0.0_iphoneos-arm.deb
+Size: 4710358
+MD5sum: a08f4dd35835a11a0ae2b7dae3166fcb
+SHA1: 1065adc87ce56e56d3d323169891dd95d4440bce
+SHA256: 92faa3fafde45e778ff0912d8fa8da4e49947318636ffe411eb84e107ff9e5b2
+SHA512: 0d249e2351be88a40a4f30e9aab22ac44ae7382e978e28f6dccd48c10d37d1d1755faa31edeb38c3d0d0def5f44aec144d39421288e66afe29cd4b89e8cb5973
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Green
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryGreen.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryGreen.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryGreen.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
+Package: HoangDinhPhong.DustryOrange
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0)
+Filename: ./Deb/HoangDinhPhong.DustryOrange_1.0.0_iphoneos-arm.deb
+Size: 4705156
+MD5sum: 07a607c2bffa923dc9ebe783ae200f0a
+SHA1: 39baaf5e9b6aa542080d1da4f82d23af01837142
+SHA256: c7cad04ca986eb60c8c026b82f703c27ecd2656f044660890cb5301d36e9ab37
+SHA512: 735ea3c6fd8aff8941a5f8ccedf58c3e0d4139164b866ab93c3cebec7e8e2aeb419c43d10b386fdf34a406d8369dee3a7a1f9adab1e622783acefd87ce9518d7
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Orange
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryOrange.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryOrange.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryOrange.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
+Package: HoangDinhPhong.DustryRed
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0)
+Filename: ./Deb/HoangDinhPhong.DustryRed_1.0.0_iphoneos-arm.deb
+Size: 4698504
+MD5sum: bee01754784db65bafa52619316927d4
+SHA1: 6de33ebdedf8a37e9c15e1f257076ad8f74fb0eb
+SHA256: d59f7f28036ccd27c6e47246cb542d14d16caa70f8139264e8545c6d739175da
+SHA512: dc0f2783e4af51ce9cefef851e13cba662a46a6beebb61e4ab290339c7c351d13d799a592e0e31b011a93e40216a274b458f2151940a08385711d36ef84b924b
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Red
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryRed.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryRed.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryRed.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1

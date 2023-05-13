@@ -1,0 +1,103 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Images/DustryRed/Banner.jpg",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/DustryRed/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{600,277}"
+},
+{
+"markdown":"# Dustry Red\n\n## Chủ đề bàn phím dành cho tinh chỉnh Laetus\n\n- Thay thế bàn phím mặc định bằng bàn phím màu hồng đỏ\n\n- Phong cách trẻ trung & thiết kế độc đáo\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Polyphian"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Keyboards"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"13/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13.0 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.0.0\n\nLần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

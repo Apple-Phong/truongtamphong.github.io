@@ -10,6 +10,24 @@
 "hideShadow":"false"
 },
 {
+"package":"hoangdinhphong.dustrygreen",
+"title":"Dustry Green",
+"url":"https://apple-phong.github.io/Images/DustryGreen/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.dustryorange",
+"title":"Dustry Orange",
+"url":"https://apple-phong.github.io/Images/DustryOrange/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.dustryred",
+"title":"Dustry Red",
+"url":"https://apple-phong.github.io/Images/DustryRed/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.askew",
 "title":"Askew",
 "url":"https://apple-phong.github.io/Images/Askew/Banner.jpg",
