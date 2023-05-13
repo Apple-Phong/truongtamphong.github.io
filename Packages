@@ -675,15 +675,15 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 Package: HoangDinhPhong.DustryBlue
 Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Keyboard
+Section: Keyboards
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=13.0)
 Filename: ./Deb/HoangDinhPhong.DustryBlue_1.0.0_iphoneos-arm.deb
-Size: 4917648
-MD5sum: 00f5b264473c661affcd185b95656deb
-SHA1: 5b5e3625825acda409901c7f55ef9dcf94121405
-SHA256: 7a62f1c82013cfe44d12625409acdc8a8a751dc7625f7ad758bd327354365694
-SHA512: fa27e1ebef8f0149077329bedc9f65cf186090a62b497436ce3b26e79ff1396d40971e7f98735f60ca03c135010e3bdd7af9a7043a19cbc9c17d173c17a90b9a
+Size: 4917652
+MD5sum: 34811dfbe0b287c5f06f6bca184d453c
+SHA1: b9b19f1721c933c112fa0b70e1aee8e0602ec3cd
+SHA256: c46cb9bd98609955b60a3f124fe04e8a66934db5eb0697abeb8a47a00d352aa4
+SHA512: 9bee195ee5d452d2055c235dff0e1c75aa52afb9dcc3f78774b0c93d68efb83803e2e8c913e1d843ad9e0b40a019aa99dc4c313f1374f5cc55253aa54aee8ddd
 Homepage: https://apple-phong.github.io
 Description: Chủ đề bàn phím cho Laetus
 Name: Dustry Blue
