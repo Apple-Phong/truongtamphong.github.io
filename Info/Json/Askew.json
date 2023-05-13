@@ -97,6 +97,13 @@
 "markdown":"#### Phiên bản 1.28\n\n- Chỉnh lại khung ảnh\n\n- Thêm Lịch âm\n\n- Sửa lỗi lời chào"
 },
 {
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Askew/Screenshots/Update/1.28/1.png",
+"accessibilityText":"Screenshot"
+},
+{
 "class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 1.25\n\n- Sửa lỗi không hiện Pin và thời tiết\n\n- Thêm bóng đổ vào trong nền tạo độ nổi hơn\n\n- Thêm 6 phông chữ cho lời chào\n\n- Thêm kiểu chữ in hoa & chữ in nghiêng\n\n- Thêm độ bo góc và độ nhoà cho hình nền"
 },
