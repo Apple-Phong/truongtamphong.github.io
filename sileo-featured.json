@@ -4,6 +4,18 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.fridayttp",
+"title":"Friday TTP",
+"url":"https://apple-phong.github.io/Images/FridayTTP/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.flyingbirds",
+"title":"Flying Birds",
+"url":"https://apple-phong.github.io/Images/FlyingBirds/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.flower",
 "title":"Flower",
 "url":"https://apple-phong.github.io/Images/Flower/Banner.jpg",

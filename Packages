@@ -958,6 +958,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FlyingBirds
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.FlyingBirds_1.0.1_iphoneos-arm.deb
+Size: 104896
+MD5sum: b4b02c3d908c13f6bcb999e6fe4146b9
+SHA1: b73e47676b0516d591392346279a63c370e032aa
+SHA256: c32ec2aaca5da7b406a9f055142189da83b2f9208c5ac0f2e5bcb019c03488ea
+SHA512: 3c52b0145ecb8e8c8495b59b26d07d112de082e5301a8852059478b89f1ee5b9c1379ee61575d14c20426383d8a6143cea9c18d2290034ad888d29fab2983683
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flying Birds
+Author: Quốc Huy
+Depiction: https://apple-phong.github.io/Info/Html/FlyingBirds.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FlyingBirds.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FlyingBirds.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -978,6 +1000,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.4_iphoneos-arm.deb
+Size: 12865828
+MD5sum: 45fdf04d2743a19e625571f67887504e
+SHA1: 900098f828687ef000f747124e98ebe304b63d82
+SHA256: b2a51565525f34325db1c38dd4647b5f130b4547cc954503e022ea7cf00b8d5d
+SHA512: 16f6771c6b9a006e86693a5d4bf809f9ce0a02542d851bb43e3a6a8978a28f9ce61f25bac5d14f2727d52815096594199743b86db98dcaf4417b481047160919
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Friday TTP
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/FridayTTP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FridayTTP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FridayTTP.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm

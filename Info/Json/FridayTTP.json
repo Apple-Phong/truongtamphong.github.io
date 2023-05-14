@@ -1,0 +1,111 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Images/FridayTTP/Banner.jpg",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/FridayTTP/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/FridayTTP/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/FridayTTP/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Friday TTP\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n### Nội dung hiển thị\n\n+ Lịch dương\n\n+ Lịch âm\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\n+ Ảnh bìa (Chạm vào nền Ngày để thay ảnh từ bộ sưu tập của bạn)\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Hoàng Đình Phong"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Widgets"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"14/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 10.0 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.3.4\n\n- Thay thế tuỳ chỉnh điền phông sang chọn phông\n\n- Sửa lỗi không tự động chuyển ngày\n\n- Thêm hiện ảnh bìa khi phát YouTube\n\n- Tăng chiều cao Widget cho thoáng hơn\n\n- Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
