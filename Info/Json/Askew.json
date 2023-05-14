@@ -94,6 +94,21 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.32\n\n- Thêm chỉnh màu cho lịch âm\n\n- Thêm công tắc bật tắt cho bóng tối & nền nhoà"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Askew/Screenshots/Update/1.32/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 1.31\n\nSửa chữa một vài lỗi"
 },
 {

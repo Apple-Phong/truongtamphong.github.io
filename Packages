@@ -422,6 +422,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: HĐP & Alimaulana
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Askew
+Architecture: iphoneos-arm
+Version: 1.32
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Askew_1.32_iphoneos-arm.deb
+Size: 3099034
+MD5sum: 8621b19a7744297a1dc5795184ebb77a
+SHA1: 4f481b289a6b9ea0d8b23009ada2d114beb777a3
+SHA256: 63586da35050e2454c81f167893c7e5dd3fa1095da49cf372e4e3ae83959dd9e
+SHA512: 0f09975170350fbeb59119dcb31b51b8d7177290c8630f59a3ce45e6dc05bc6a45d8ee4cc532f4feae16d7f77723df57179626ad44da99f6cdf43464bf4b62a6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Askew
+Depiction: https://apple-phong.github.io/Info/Html/Askew.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: HĐP & Alimaulana
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AutoBrightness
 Architecture: iphoneos-arm
 Version: 0.1-7
