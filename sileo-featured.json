@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.htcclock",
+"title":"HTC Clock",
+"url":"https://apple-phong.github.io/Images/HTCClock/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.hdpjuly",
 "title":"HDP July",
 "url":"https://apple-phong.github.io/Images/HDPJuly/Banner.jpg",

@@ -1111,6 +1111,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HDPJuly.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.HTCClock_1.2.3_iphoneos-arm.deb
+Size: 24298366
+MD5sum: c6364d8532134f0862791d4ef9101638
+SHA1: 7dbbe78c472854a6426e24ff114added9858c145
+SHA256: d6059658ea6f4c41c95e80e15cf5dffaaf3e55e06de93a248a83c9db5d05a424
+SHA512: b2be8e597d93e41f58d0e5c2c89b6e833959d97c1998b48e2ebe49fb450d419665fc8ae6433e0ac4065f4543ff6a68c5494a60b17acd0eb6b89ff34e9473faf9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: HTC Clock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/HTCClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
 Version: 1.0.1
