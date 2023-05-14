@@ -58,7 +58,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/05/2023"
+"text":"14/05/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -88,6 +88,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 2.1.3-3\n\n- Khắc phục sự cố văng khỏi cài đặt\n\n- Tối ưu hoá nút di chuột\n\n- Thêm quyền truy cập máy ảnh"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 2.1.3\n\n- Sửa lỗi cử chỉ trượt lên của hệ thống không tự động tái chế vấn đề bảng điều khiển\n\n- Sửa nút di chuột sẽ không tự động rút lại sau khi chuyển nhanh đến ứng dụng (khi chức năng được bật)\n\n- Khắc phục sự cố cài đặt sự cố sau khi ứng dụng vào yêu thích được gỡ cài đặt\n\n- Thêm nhiều cử chỉ của bảng tái chế hệ thống\n\n- Tối ưu hóa xác suất của màn hình trắng"

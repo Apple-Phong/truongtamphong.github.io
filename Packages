@@ -922,6 +922,29 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
+Version: 2.1.3-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./Deb/HoangDinhPhong.PullOverPro-Rootless_2.1.3-3_iphoneos-arm64.deb
+Size: 1266680
+MD5sum: d3ff6be5a420155cc5c74e59b7dc8fe7
+SHA1: 6df7fb316044f6bca4a7cc626e7c0d6203cdb1cf
+SHA256: 189f3ae197f72fdf661cdb3ed6e9eb0e44b4185fbb9471dff4049b5e3b88361c
+SHA512: 207098fdb540a4b58f0008dd6daf61afdca94422b2e7550bf75558deddbbdffb5fbc276296788d286eec175fb7d7f38b7d01ae5ce917659083e29d54e0dc0c3b
+Homepage: https://apple-phong.github.io
+Description: Một cách tốt hơn để đa nhiệm
+Name: PullOver Pro Rootless
+Author: c1d3r
+Depiction: https://apple-phong.github.io/Info/Html/PullOverPro-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.8
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.PullOverPro-Rootless
+Architecture: iphoneos-arm64
 Version: 2.1.3
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
@@ -982,6 +1005,31 @@ MD5sum: 0f7e4e9602d3eab18495a9d3df5d4b23
 SHA1: 550e2f5e62a4d47d5d08bccbbc2e0dc916eaae7e
 SHA256: 3c2e639c7d10ad8ea3bca521655ac616c77d63fe101867f55bcec6de0a37226a
 SHA512: fc57ca2c917b92dae1dfc8d2c8963e11dec930d3f69e56f393617b684ecc400a515e9c64b4feea5267f3f6f347aec8a02c076588c091e30ac7bedf9a6ad586e8
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh này dùng thay đổi chủ đề
+Name: SnowBoard-Rootless Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: https://apple-phong.github.io/Info/Html/SnowBoard-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SnowBoard-Rootless
+Architecture: iphoneos-arm64
+Version: 1.5.13-Beta4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: firmware (>=15.0)
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.13-Beta4_iphoneos-arm64.deb
+Size: 1596706
+MD5sum: 4935973c94558bd8835d7a1e5bad5b95
+SHA1: 2ec651fbbd0028e431fcecab9454141bf8dc2d2c
+SHA256: 1241cd9464535b085e4d2ec18e69314d5578a28c4924c5bde1b9ca679053cb97
+SHA512: 9fec35f54270a32e0ea6bd30ef28a8df5240ba6764ea501f656ddfe715d71d811b7e7d4aa100104a6ddcf4dd08e92e597981e2e2e25b7006fd1b7d1f50fbb82f
 Homepage: https://apple-phong.github.io
 Description: Tinh chỉnh này dùng thay đổi chủ đề
 Name: SnowBoard-Rootless Việt Nam
