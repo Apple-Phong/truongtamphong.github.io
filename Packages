@@ -628,6 +628,50 @@ Tags: compatible_min::ios6.0, compatible_max::ios14.8.1
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DepthsL-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.DepthsL-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 19558734
+MD5sum: 5f167b3bc7ba06ccc5895fa724bb4f92
+SHA1: 883ed547b731f5b9beecc95e7ccc92b72738e07a
+SHA256: af96175d0e9498ee9ee55ffebaee8b32f0e244f4acdde554cccdc32c86a8a320
+SHA512: 0c958261eba260cde762440e5e0a4b3495c7175b59387e7f303fff61f9e9e34bf7a52223d8d0896d02d3b4f32af4ae2d6147eba8d9834db00cf1d5dd55ad44df
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: DepthsL - Rootless
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DepthsL-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DepthsL-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DepthsL-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
+Package: HoangDinhPhong.DepthsL
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0)
+Filename: ./Deb/HoangDinhPhong.DepthsL_1.0.0_iphoneos-arm.deb
+Size: 19558438
+MD5sum: 56bc29eefbd69b081ef48f6db5017d92
+SHA1: 946477f4da8d0865f6df3aeadf048438b98bbb01
+SHA256: bd75f1f0f2c09dfb9bc72155ca7d8a2214ea0ae0e4831b8734cb84b3a24c49ec
+SHA512: 29044297926b51100b40babfc52a7fde90cb0b2ec1b35d524a4bccefbe46526596308bbe26e22ce9f95a559d7c3e45217469c2812346fcb78bf1ce4cce80e1f5
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: DepthsL
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DepthsL.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DepthsL.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DepthsL.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
 Package: HoangDinhPhong.DockOne
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -672,6 +716,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Dodo.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DustryBlue-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.DustryBlue-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4918086
+MD5sum: 139d7294b8f11bcc02db62fcc3d3cbc9
+SHA1: f91b8e22df855ccc8fa91d779a19e26797da67a8
+SHA256: 8371a110cff927cee0fa7f132bb785491a90244e12c745d93a231be88277ed6e
+SHA512: ce963e22ae02caa4c3e9aecb78ebb73a93056859f24e3dc8e034b67cbb344cf7ba9095c2ed7bc77a1adc2f65c2ac17db81ecc47d787f57839eaff729f26768e5
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue - Rootless
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryBlue-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryBlue-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryBlue-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
 Package: HoangDinhPhong.DustryBlue
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -692,6 +758,28 @@ Depiction: https://apple-phong.github.io/Info/Html/DustryBlue.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/DustryBlue.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/DustryBlue.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
+Package: HoangDinhPhong.DustryGreen-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.DustryGreen-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4711208
+MD5sum: c55588af75c633f698769aefd607c38a
+SHA1: 5a6ac78a1fc39140efb309ca991016253578c8f4
+SHA256: 0dc8fe251f83447856dc5df049f7266c2de5767a6379673bcfb002a9a6608878
+SHA512: c856fee4073a69a25d49326d8fa34df4b55bb752d07041b78bf0fb263bac1f9d75ad5e1b103efaa9366ec037ecc7354836558f9a73465fa9342a82326a60d155
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Green - Rootless
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryGreen-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryGreen-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryGreen-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
 Package: HoangDinhPhong.DustryGreen
@@ -716,6 +804,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DustryGreen.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.DustryOrange-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.DustryOrange-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4706570
+MD5sum: 804448bf0d58b18b02b9dd6375193e3c
+SHA1: b2af23636c8970fb2272b6ee2b556d3d89c0fea4
+SHA256: 7d4486792db30d7dbb186bd2f3c32c74d5f8cc46d9dd64a7a605d8f42325c47c
+SHA512: e121ab2df0ef5b1db41750fa5786889174f357f689fa641bb1bf7a4cd25799a1a3397cf12c3af425143c47f4c98b945feb7889c3b03c4611c9c1eccc46ec1346
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Orange - Rootless
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryOrange-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryOrange-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryOrange-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
 Package: HoangDinhPhong.DustryOrange
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -736,6 +846,28 @@ Depiction: https://apple-phong.github.io/Info/Html/DustryOrange.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/DustryOrange.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/DustryOrange.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/k.png
+
+Package: HoangDinhPhong.DustryRed-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Keyboards
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.DustryRed-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4698764
+MD5sum: 5abc272676fed740b91b69272a6ca936
+SHA1: dae580825bcb4648a114568d8fb8d63176673c6e
+SHA256: 8db137708adb86170591fa32e3a162b6180c074ad167c110531c0684745df650
+SHA512: a897e903240d297d11c08a69788a88b22b1d7ca3abe0477e4f42eda0c2d5149098f21cafd05cfc6b4213fd6b478bd377fc4df101681af27a82c703f1eb6354c1
+Homepage: https://apple-phong.github.io
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Red - Rootless
+Author: Polyphian
+Depiction: https://apple-phong.github.io/Info/Html/DustryRed-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DustryRed-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DustryRed-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
 Package: HoangDinhPhong.DustryRed
@@ -801,6 +933,28 @@ Author: Hoàng Đình Phong
 Depiction: https://apple-phong.github.io/Info/Html/Faint.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Faint.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Faint.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Flower
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Flower_1.0.1_iphoneos-arm.deb
+Size: 3198
+MD5sum: 5150dfb334dc32c07a1d05a577c90998
+SHA1: e8fbbb270904c31209f116ad918618cf5d525df7
+SHA256: 2c90e8f43c54a749e6d863aec8ebfe9565dc9f424308c8716b15aa88af8af253
+SHA512: fb7267c9777408a7d75dd990873c1bdfbadd64d5324d85ccf40b90ce099eef49a73f8d64c49f734ebeb165679d8ff4a23b64e6233dff3ac82fd63fe89dd1266b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flower
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Flower.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Flower.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
