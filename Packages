@@ -760,6 +760,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DustryRed.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.EdwartPro_1.0.2_iphoneos-arm.deb
+Size: 47801040
+MD5sum: 76dba1b414018cfe4d3ac88f874bf4ca
+SHA1: 1ecde199d9253909748f220d258aff6710e11e7f
+SHA256: 9bb597d4f032fa0a609bd6185314db6bb1b4226b4df23348b68e6d9c5302802e
+SHA512: 4cb2ef4c2da1be27749a85f6560aed8ea4569d6bc8cd674d2d7f037e80aeb71ab2c72d2dee33526fe449814a2ae73e6b322c8bc89acca0a69a1906b04d4a4c12
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: EdwartPro
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/EdwartPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
