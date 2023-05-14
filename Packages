@@ -128,13 +128,13 @@ Section: Ringtones
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.AllRise_1.0.0_iphoneos-arm.deb
-Size: 256226
-MD5sum: 4d110fd7974a430730777e2f170d01d8
-SHA1: ddf990877bcc9e0f0613694f97c63c3db24cf971
-SHA256: 214cfbbec15d84766244c5334602ca9e0c0327b7c4bb7bd7d143e1bbb4439b31
-SHA512: 9c9b6fe09f7954ae37eb1d1cf9e701cd8f2a2a43866f3d42581ec32ff0528dd9b565f607e1f5568d631c08e0a35ce40993d4d4719f55c7b00990bc93574ab2f1
+Size: 256244
+MD5sum: 9362add67a8fb94f9e1ba8fcd5754efe
+SHA1: 7881522deff00cd464adda396d8d44fe170df959
+SHA256: 9a5cf319e42a7e1c54bef7a6dd886849eeb25cd5e3d0b86e27a246cfafcc938b
+SHA512: 17227672d29dd67b34952b54ae53dd03bc285a77ec1f0bd2e7978821289d1c0419eae4eb29138e00ec188b81b008cb83af2a351f34ef2b33320e6400c197f0f7
 Homepage: https://apple-phong.github.io
-Description: Nhạc chuông
+Description: Nhạc chuông Quốc tế
 Tag: role::enduser
 Name: All rise
 Depiction: https://apple-phong.github.io/Info/Html/AllRise.html
@@ -453,13 +453,13 @@ Section: Ringtones
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.BabyOneMoreTime_1.0.0_iphoneos-arm.deb
-Size: 253648
-MD5sum: f26e52ad27897ec793ac940cc2f85ee0
-SHA1: 2a2d56c4b5f8b1039e27c89cbae949be3af49973
-SHA256: 57a0f43c92e59d7da00450c38d2c3fc776fb99708fd68a85b03f3af1803a2f82
-SHA512: 8dbf8a162e8886bebe6ba857a011ceadf6d2f0ecb8f85bcb306f95143f9fffa00e557d1ea45337d562e37fbc44a9feecd82ddd8a29df209fcc3e27d1535c5787
+Size: 253664
+MD5sum: 423123a77f0ba8e8ed537bd5631748e8
+SHA1: b67c779dcb32bb8481db86dbbaf83afa923d82c8
+SHA256: ba71b7493e20c0f3a568a1c8259daec702d15306f52376fea65be9b8580551e9
+SHA512: 503be5cb363d46d3a959b7f0d2bb1bb06a78b1c3d461e449f2b399edd05a0a875121bc5f4d4b4e778ccf56fbd151661ca8bab841f9f6f735406bbd38c2c9e8ae
 Homepage: https://apple-phong.github.io
-Description: Nhạc chuông
+Description: Nhạc chuông Quốc tế
 Tag: role::enduser
 Name: Baby one more time
 Depiction: https://apple-phong.github.io/Info/Html/BabyOneMoreTime.html
@@ -1066,6 +1066,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.GiaVoThuongAnhDuocKhong
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.GiaVoThuongAnhDuocKhong_1.0.0_iphoneos-arm.deb
+Size: 254740
+MD5sum: 3f5f7d370bdd8151b438ffa0f95e0931
+SHA1: 8c56fe7a02f36b13b3685739e44e9cc8bf963b52
+SHA256: 65d503dbba5e264f9d612fc52dcb60227231eae66f4e9830f2222ea5d61608f1
+SHA512: e27b036f3ea7f9d83dd8582e85066ffed4d895a42cae2ddfee52d2127b5e1bf1f8d3394fef38ba25d516a9ebf08cb472aecfe25e846f841296bef4403317049b
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Giả vờ thương anh được không
+Author: Chu Bin
+Depiction: https://apple-phong.github.io/Info/Html/GiaVoThuongAnhDuocKhong.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/GiaVoThuongAnhDuocKhong.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/GiaVoThuongAnhDuocKhong.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
