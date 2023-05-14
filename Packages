@@ -782,6 +782,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Faint_1.0.3_iphoneos-arm.deb
+Size: 141712
+MD5sum: cc8ac2cc4216129a4478177c32f332a2
+SHA1: 7739dd8942d50f146e1e283771aabff48eee892c
+SHA256: 653c6326681d7571390b2f5749046a643a5c69d4e37ff2a6e247077751fdda42
+SHA512: 2a4064dd51a9e2fa2c2c920cd76279878326d1b14c8726194b303064928f60ee36e153f458621f14ea8fb96c705577de81e5f8bfa3489832922d9055e617cf26
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Faint
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Faint.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Faint.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Faint.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
 Version: 1.0.1
