@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.futureweather",
+"title":"Future Weather",
+"url":"https://apple-phong.github.io/Images/FutureWeather/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.fridayttp",
 "title":"Friday TTP",
 "url":"https://apple-phong.github.io/Images/FridayTTP/Banner.jpg",

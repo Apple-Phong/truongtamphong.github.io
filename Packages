@@ -1023,6 +1023,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/FridayTTP.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FutureWeather
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FutureWeather_1.1.1_iphoneos-arm.deb
+Size: 24841124
+MD5sum: 218703460bae35a75363235635f3b653
+SHA1: 7de5d167d958a3e22a44e5110ed64018ba950612
+SHA256: c8b0e206f9286d8f99926adbc7e98997370227518b206339ad072d82f715b431
+SHA512: 4172610eb65f21bd5dc67994b64f6b9b99082205e741fbf02b33b06c0d83fe494bbd598da23b3fa5bc329d7e401a45e36a5fca5e50185701c756ad0f42e738e5
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Future Weather
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/FutureWeather.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
 Version: 1.0.1
