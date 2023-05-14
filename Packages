@@ -562,6 +562,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.7.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Cover_1.7.2_iphoneos-arm.deb
+Size: 726672
+MD5sum: f28cd956e94b229e1d4806927e6a506e
+SHA1: b35cf53a69b2d574d6e12df4dd6d5febd880e4c8
+SHA256: 52bed05ecd787f39add38bb7e243faec656b2dce3ff6a0b50f01a615321b008a
+SHA512: 39b8cf3ebf8aa462b1485cb5e5ac5974bad85563ab6868832b82605a091e8558742d341544a6cd473d69e4cfe85e655299e26470a5f5e9f7ec7dc7c40b85390f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cover
+Depiction: https://apple-phong.github.io/Info/Html/Cover.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Criminal
 Architecture: iphoneos-arm
 Version: 1.0.0

@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Future Weather\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Thời tiết\n\n+ Pin\n\n\n",
+"markdown":"# Future Weather\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Thời tiết\n\n+ Pin\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },

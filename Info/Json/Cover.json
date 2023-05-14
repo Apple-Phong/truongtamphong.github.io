@@ -62,7 +62,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"06/05/2023"
+"text":"15/05/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -92,6 +92,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.7.2\n\nGiảm dung lượng gói"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 1.7.1\n\n- Thêm 11 phông chữ\n\n- Thay đổi điền phông sang chọn phông"
