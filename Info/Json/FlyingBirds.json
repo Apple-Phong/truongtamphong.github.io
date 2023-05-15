@@ -27,7 +27,7 @@
 "class":"DepictionMarkdownView"
 },
 {
-"markdown":"# Flying Birds\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n\n+ Từng đàn chim bay lượn khắp màn hình của bạn. Lên tới cả trăm con cùng một lượt bay đến\n\n+ Số lượng chim tuỳ chỉnh trong cài đặt\n\n\n",
+"markdown":"# Flying Birds\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n\n* Từng đàn chim bay lượn khắp màn hình của bạn. Lên tới cả trăm con cùng một lượt bay đến\n\n* Số lượng chim tuỳ chỉnh trong cài đặt\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
