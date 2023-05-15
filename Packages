@@ -492,6 +492,29 @@ Author: Britney Spears
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Barmoji-Rootless
+Architecture: iphoneos-arm64
+Version: 2023.3.3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./Deb/HoangDinhPhong.Barmoji-Rootless_2023.3.3_iphoneos-arm64.deb
+Size: 74330
+MD5sum: 782117e2d06ed357a10125943f018eb8
+SHA1: ace3c55c4cfccbec1c6b956c786512c30255ca81
+SHA256: 67688a16e91952e77f533d77aa08e366382e23c6b3edc795758c919d42bea890
+SHA512: fa3de5b50ac98c1507cb6a3140de29995a13bee1df38cb0f1240a18964d21a990fded5e0ff44e6bfc4200f5ca3a88873a190ec59008d0a6703a8c85bb3e36d89
+Homepage: https://apple-phong.github.io
+Description: Thanh biểu tượng cảm xúc cho bàn phím
+Name: Barmoji - Rootless
+Author: CP Digital Darkroom
+Depiction: https://apple-phong.github.io/Info/Html/Barmoji-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Barmoji-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Barmoji-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.BigAnalog
 Architecture: iphoneos-arm
 Version: 1.6.0

@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.barmoji-rootless",
+"title":"Barmoji - Rootless",
+"url":"https://apple-phong.github.io/Images/Barmoji-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.htcclock",
 "title":"HTC Clock",
 "url":"https://apple-phong.github.io/Images/HTCClock/Banner.jpg",
