@@ -1355,11 +1355,11 @@ Depends: firmware (>=15.0)
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.13-Beta4_iphoneos-arm64.deb
-Size: 1596706
-MD5sum: 4935973c94558bd8835d7a1e5bad5b95
-SHA1: 2ec651fbbd0028e431fcecab9454141bf8dc2d2c
-SHA256: 1241cd9464535b085e4d2ec18e69314d5578a28c4924c5bde1b9ca679053cb97
-SHA512: 9fec35f54270a32e0ea6bd30ef28a8df5240ba6764ea501f656ddfe715d71d811b7e7d4aa100104a6ddcf4dd08e92e597981e2e2e25b7006fd1b7d1f50fbb82f
+Size: 1596712
+MD5sum: ad9c9302ed2d925684b0b83f85f8bf60
+SHA1: 80b925f6c854c5354ba41fe8a08c63a7548356ac
+SHA256: 58c7f63ada649abe5ae827979940cc430c83fec7394dcd2c111fefe5e74a225c
+SHA512: ae00ded2e3543682357e83373d9660312ae70a2fc7a992728fd861ca6e88a2c9d3151eca2241e7847bddd225dfa0e681faf11cd9b525a8add41d3c353998097a
 Homepage: https://apple-phong.github.io
 Description: Tinh chỉnh này dùng thay đổi chủ đề
 Name: SnowBoard-Rootless Việt Nam
@@ -1368,7 +1368,7 @@ Depiction: https://apple-phong.github.io/Info/Html/SnowBoard-Rootless.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
 Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
-Icon: file:///Applications/Cydia.app/Sections/w.png
+Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
