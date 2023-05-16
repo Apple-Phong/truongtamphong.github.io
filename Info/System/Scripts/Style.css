@@ -254,6 +254,18 @@ p {
 	-webkit-box-reflect: below 0em -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(90%, transparent), to(rgba(0, 0, 0, 0.6)));
 }
 
+.scroll_view>.imgcard {
+	width: 210px;
+	margin-left: 1px;
+	margin-right: 14px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-weight: bold;
+	position: relative;
+	display: inline-block;
+	font-size: 0px;
+}
+
 .card>p {
 	color: white;
 	bottom: 15px;
