@@ -1178,6 +1178,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ice
+Architecture: iphoneos-arm
+Version: 1.0.36
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Ice_1.0.36_iphoneos-arm.deb
+Size: 1382088
+MD5sum: fa98f221d901876bb162e56f9fadb548
+SHA1: fc0a8867abf924338c500f092f94b073ec3e4447
+SHA256: b9b38639a0222f6caa28d5065a0f28a3923f12000493d03ef0a0a43e1d406315
+SHA512: 3f596a7266e28be6bad5b78e1a3af99f450106851db5ae59d83b182027381d06d442bf0a2c8a35f6f721187ca16b234da122f24baf9aac7050c7bc9249e3563e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ice
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Ice.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
 Version: 1.0.1

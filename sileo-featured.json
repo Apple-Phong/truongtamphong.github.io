@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.ice",
+"title":"Ice",
+"url":"https://apple-phong.github.io/Images/Ice/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.barmoji-rootless",
 "title":"Barmoji - Rootless",
 "url":"https://apple-phong.github.io/Images/Barmoji-Rootless/Banner.jpg",
