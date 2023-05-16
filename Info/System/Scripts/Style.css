@@ -355,11 +355,11 @@ h3 {
 }
 
 .compatibility {
-	background-color: #EFEFEF;
-	color: #000000;
-	border: 1px solid #EFEFEF;
+	background-color: #efefef;
+	color: #000;
+	border: 0px solid #EFEFEF;
 	border-radius: 10px;
-	padding: 5px;
+	padding: 6px;
 	text-align: center;
 }
 

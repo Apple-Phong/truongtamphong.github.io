@@ -4,13 +4,13 @@ function compatible(works_min, works_max, tweak_compatibility) {
    works_max = numerize(works_max);
    let el = document.querySelector(".compatibility");
    if (currentiOS < works_min) {
-      el.innerHTML = "Phiên bản iOS của bạn quá cũ đối với gói này. Gói này hoạt động trên " + tweak_compatibility + ".";
+      el.innerHTML = "Phiên bản iOS của bạn quá cũ đối với gói này. Gói này hoạt động trên " + tweak_compatibility + " ❌";
       el.classList.add("677b86")
    } else if (currentiOS > works_max) {
-      el.innerHTML = "Phiên bản iOS của bạn quá mới đối với gói này. Gói này hoạt động trên " + tweak_compatibility + ".";
+      el.innerHTML = "Phiên bản iOS của bạn quá mới đối với gói này. Gói này hoạt động trên " + tweak_compatibility + " ☹️";
       el.classList.add("677b86")
    } else if (String(currentiOS) != "NaN") {
-      el.innerHTML = "Gói này hoạt động trên thiết bị của bạn!";
+      el.innerHTML = "Gói này hoạt động trên thiết bị của bạn 😊";
       el.classList.add("486271")
    }
 }
