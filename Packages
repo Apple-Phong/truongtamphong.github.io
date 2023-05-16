@@ -1248,30 +1248,6 @@ Author: Netskao
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
-Package: HoangDinhPhong.MusicArtworkSave-Rootless
-Architecture: iphoneos-arm64
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Depends: firmware (>=15.0)
-Filename: ./Deb/HoangDinhPhong.MusicArtworkSave-Rootless_1.2.1_iphoneos-arm64.deb
-Size: 16406
-MD5sum: fe540d6ce68c6a3e2a209aba3e157779
-SHA1: aedb5140ab29cbefd206a9184c427fc4875bfb50
-SHA256: 2bb1c099c430bd4778cfdd38ff0f40bd600ed60648c29cf898285fa8b012328c
-SHA512: 3bbaa8b04f51e9a70764fa909b4d0c8d72577230b4133cca6b0208aa66a7dceb9a23c18a228706c56aa7a1fb27fd724ea551d42fe2dc473d04e53ef62721ebb1
-Homepage: https://apple-phong.github.io
-Description: Save Album Artwork in Music app!
-Tag: role::enduser
-Name: MusicArtworkSave-Rootless
-Depiction: https://apple-phong.github.io/Info/Html/MusicArtworkSave-Rootless.html
-SileoDepiction: https://apple-phong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-ModernDepiction: https://apple-phong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-Tags: compatible_min::ios15.0, compatible_max::ios16.4
-Author: ETHN
-SomeOtherEntryToControl: True
-Icon: file:///Applications/Cydia.app/Sections/t.png
-
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
