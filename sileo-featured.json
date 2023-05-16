@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.iclock",
+"title":"iClock",
+"url":"https://apple-phong.github.io/Images/iClock/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.ice",
 "title":"Ice",
 "url":"https://apple-phong.github.io/Images/Ice/Banner.jpg",

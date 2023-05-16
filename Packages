@@ -1556,6 +1556,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.iClock
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.iClock_1.0.0_iphoneos-arm.deb
+Size: 2247116
+MD5sum: bf38e9f710983a1239c899ea50c592b9
+SHA1: 1c59f4e2d517c8391984611d6c1703b01b8a9575
+SHA256: 99f6101d7ec202e84bb275a6a695cd8d5b6d06a00ff38a9379f9ff817ebe3511
+SHA512: 5af70ff26e835ab5dfece6c36c409f8753fa8c71464103c170075792b7d712524fb8418223a390374969b91046c8da8e687163521e8c32d86de956c8504aece9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: iClock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/iClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iClock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.libPDDokdo
 Architecture: iphoneos-arm
 Version: 1.3
