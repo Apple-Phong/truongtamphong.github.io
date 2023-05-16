@@ -1178,6 +1178,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ILoveTime
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.ILoveTime_1.9.1_iphoneos-arm.deb
+Size: 74364
+MD5sum: 6664db203d1c471facc85eb4d96a8f25
+SHA1: ad5901253e66fe0fcbb5054ce4b2e96d47f15b6a
+SHA256: 6965a49d1accfa3c9501517d2628e1e77c160fd4933556c4a3de74c27d7b0005
+SHA512: a67a948ab84c69f216b11818dc09db2c61f5b12d091a1e0d822b37e6f0ec99f869b95c3ceb5164b13e35894ab4198c26e0be6f89fc1dd2810b65b4d75e06f564
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: I Love Time
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/ILoveTime.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ILoveTime.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ILoveTime.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Ice
 Architecture: iphoneos-arm
 Version: 1.0.36
