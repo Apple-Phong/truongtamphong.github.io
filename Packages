@@ -490,6 +490,28 @@ Author: Ichitaso
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.AvenirNext-Rootless
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.AvenirNext-Rootless_1.1.0_iphoneos-arm64.deb
+Size: 12010942
+MD5sum: 42c269086bcb847d95905cebf7ff5439
+SHA1: 3e35637938548b4e07f9ecbee179ab0a9f4ca1ee
+SHA256: a41bbfae9072d6f414285af1ae6864f0a6e24ca20e48452dd02aeb51c57e6ef3
+SHA512: 32de01ce42e91ead4ce4b71629e80dc0e478540f1ebd7496a18f6b8b34306e9a4c4100baf18f3f3c564a94465260a091ae9a648406c73160290c8a2aef05d582
+Homepage: https://apple-phong.github.io
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Avenir Next - Rootless
+Author: Evelyn
+Depiction: https://apple-phong.github.io/Info/Html/AvenirNext-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AvenirNext-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AvenirNext-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
+
 Package: HoangDinhPhong.BabyOneMoreTime
 Architecture: iphoneos-arm
 Version: 1.0.0
