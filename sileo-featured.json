@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.sica-rootless",
+"title":"Sica - Rootless",
+"url":"https://apple-phong.github.io/Images/Sica-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.ilovetime",
 "title":"I Love Time",
 "url":"https://apple-phong.github.io/Images/ILoveTime/Banner.jpg",

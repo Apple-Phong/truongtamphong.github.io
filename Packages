@@ -444,6 +444,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: HĐP & Alimaulana
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Askew
+Architecture: iphoneos-arm
+Version: 1.33
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Askew_1.33_iphoneos-arm.deb
+Size: 3099030
+MD5sum: 5213f5062ff2ddcf7595569316979c03
+SHA1: 8867b3a6cb9c63e5776d476c828a44581234303e
+SHA256: 8199853bb036c26ad753e1a6c4b67e1093514d30c9bbf97fe645fd19d3532c07
+SHA512: 0a2bdcfd3f4f01bd7dcee8ce1f09db676c38debb9073f44c22a69a3474b66d4cad6a1fdaf7f588c792a66a53067881f8f24c1760e8d9409ad72d57acc4c15b83
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Askew
+Depiction: https://apple-phong.github.io/Info/Html/Askew.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: HĐP & Alimaulana
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AutoBrightness
 Architecture: iphoneos-arm
 Version: 0.1-7
@@ -1362,6 +1384,28 @@ Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: MacOS
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Sica-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.Sica-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 15388570
+MD5sum: d233c349b2d7cb756b0ee99f69d26096
+SHA1: f7c07846bbc040c147340bfc9760507d91355e8f
+SHA256: d0ae81df3b2a298cc0ae76c68d3c8ff580d1d5e6c170cbe341650027a23c2e7e
+SHA512: c839a2709c9f1cfc45b17b9e079ed5407f153976238d29719ba4757974f40a6e708d69cfa8ec53d951fcf8fd29fd3129e3851a844fc48958d34d06c9663e17e7
+Homepage: https://apple-phong.github.io
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Sica - Rootless
+Author: Evelyn
+Depiction: https://apple-phong.github.io/Info/Html/Sica-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Sica-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Sica-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
