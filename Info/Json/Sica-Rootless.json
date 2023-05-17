@@ -26,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Sica\n\n## Thay đổi phông chữ mặc định\n\n- Phông chữ được áp dụng qua Snowboard\n\n- Sau khi áp dụng cần Respring lại máy để sử dụng đầy đủ cho bàn phím\n\n\n",
+"markdown":"# Sica\n\n## Thay đổi phông chữ mặc định của bạn\n\n- Phông chữ được áp dụng qua Snowboard\n\n- Kích thước phông 100%\n\n- Sau khi áp dụng cần Dọn rác & Respring lại máy để sử dụng đầy đủ cho bàn phím\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },

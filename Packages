@@ -607,6 +607,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ConteSans-Rootless
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.ConteSans-Rootless_1.1.0_iphoneos-arm64.deb
+Size: 12921186
+MD5sum: 75d2fb469b6c06fc606e65225edec7b5
+SHA1: 766ff29057f88a2de102776f96e7e8c9cd8d4ac2
+SHA256: 33a4d4d4b36906415c6709a136885c8da5e6bcaa867d131204b9727b3847fbee
+SHA512: e57d3ab7fbac630b89b6e7d0e4e184591c1cef36e90bc39e1ad7ff6e1ff9bcb79c94a182ea807f43c802c65d3f340f8947912e2b34b01b1c473e11ba9fbf8a6e
+Homepage: https://apple-phong.github.io
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Conte Sans - Rootless
+Author: Evelyn
+Depiction: https://apple-phong.github.io/Info/Html/ConteSans-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ConteSans-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ConteSans-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
+
 Package: HoangDinhPhong.Cover
 Architecture: iphoneos-arm
 Version: 1.7.1

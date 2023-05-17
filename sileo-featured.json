@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.contesans-rootless",
+"title":"Conte Sans - Rootless",
+"url":"https://apple-phong.github.io/Images/ConteSans-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.sica-rootless",
 "title":"Sica - Rootless",
 "url":"https://apple-phong.github.io/Images/Sica-Rootless/Banner.jpg",
