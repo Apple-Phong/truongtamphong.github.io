@@ -62,7 +62,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/05/2023"
+"text":"17/05/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -92,6 +92,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.5.15-Beta3\n\n- Sửa tùy chọn cho tiện ích mở rộng khi không root\n\n- Khắc phục chủ đề CarPlay với các chủ đề có biểu tượng có kích thước không chính xác (phải bật chủ đề CarPlay từ Tùy chọn SnowBoard)\n\n- Khắc phục sự cố khi áp dụng ảnh làm biểu tượng thay thế\n\n- Sửa lỗi lịch không làm mới chính xác nếu không khởi động lại\n\n- Các bản sửa lỗi và cải tiến nhỏ khác\n\n"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"#### Phiên bản 1.5.13-Beta4\n\nThêm hiệu ứng cho biểu tượng\n\n"
