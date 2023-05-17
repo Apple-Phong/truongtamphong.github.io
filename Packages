@@ -1415,19 +1415,19 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
-Version: 1.5.15-Beta3
+Version: 1.5.15-Beta4
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.15-Beta3_iphoneos-arm64.deb
-Size: 8050194
-MD5sum: 38d37d0c3b2541cf62cca89c98e8d66f
-SHA1: dccbc6b60d62400d16d73eadf10655edf200c5e4
-SHA256: 4717a8120f4a70e69e424c7feddaf0ac36ccb3745d8ccc6e6e5402cdbaa67f2a
-SHA512: ecee3d91481199766735a8addf94ede6ec5bbc7a3b60a25f2cf87329911ddad6afcdb608db723c612d6ca3c3a2ada0f6a46269cf7aeb283ee65993d2f7cd491a
+Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.15-Beta4_iphoneos-arm64.deb
+Size: 7599590
+MD5sum: f2123757105520bb9b2342e4827e989d
+SHA1: adbf6c784ff87e3fe5fe0b118015d7c8e303b1cd
+SHA256: 097f241747db9a077efc67c3854c84732005dbc94c0f9a28d5d88d1a669e2ba9
+SHA512: dc2461f436146fab7c720942d0333910e429abb985f60c99644e43614e5ebfb83ec37fcc1c9251d128260ba9fa16ca8a8eff5f975dbc81f9418608339fb3cfb2
 Homepage: https://apple-phong.github.io
 Description: Tinh chỉnh này dùng thay đổi chủ đề
 Name: SnowBoard - Rootless Việt Nam
@@ -1435,7 +1435,7 @@ Author: Spark & Dennis D. Bednarz
 Depiction: https://apple-phong.github.io/Info/Html/SnowBoard-Rootless.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
-Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
