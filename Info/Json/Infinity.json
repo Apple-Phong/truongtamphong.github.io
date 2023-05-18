@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Infinity\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Lịch dương\n\n+ Lịch âm\n\n+ Thời tiết\n\n+ Đồng hồ\n\n+ Pinn\n\n",
+"markdown":"# Infinity\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Lịch dương\n\n+ Lịch âm\n\n+ Thời tiết\n\n+ Đồng hồ\n\n+ Pin\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
