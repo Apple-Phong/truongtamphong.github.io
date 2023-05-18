@@ -4,8 +4,15 @@
 "title":"Liên hệ hỗ trợ",
 "views":[
 {
-"minVersion":"0.1",
-"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.jpg"
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Info/System/Images/Banner.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":8,
+"itemSize":"{600,277}"
 },
 {
 "class":"DepictionMarkdownView",
