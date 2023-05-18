@@ -1,5 +1,7 @@
 {
 "class":"DepictionStackView",
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.jpg",
 "tintColor":"#5777B8",
 "title":"Liên hệ hỗ trợ",
 "views":[
