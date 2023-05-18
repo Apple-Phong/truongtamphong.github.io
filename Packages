@@ -1711,6 +1711,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/iClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.iPhoneRemix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.iPhoneRemix_1.0.0_iphoneos-arm.deb
+Size: 424740
+MD5sum: 0455be8acc87cd370b56ecbabd601468
+SHA1: 5eb136d50678aedef2be79020caccdb4cc68394f
+SHA256: 03e7ec27d821b1f02188eab8eb972d1fd875fd634034204996ac1a34ed00f8fc
+SHA512: 70101a41bb7041c115bd3bd39b30c602ab4ad2b396dadfd1962aa830f6d2d7eef1979c8a1978dda487c22b74ab952bead1f2e7bb7156a02282b186159f2e46c5
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông đa âm
+Name: iPhone remix
+Author: Apple
+Depiction: https://apple-phong.github.io/Info/Html/iPhoneRemix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iPhoneRemix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iPhoneRemix.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.libPDDokdo
 Architecture: iphoneos-arm
 Version: 1.3
