@@ -7,11 +7,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Info/System/Images/Banner.jpg",
+"url":"https://apple-phong.github.io/Info/System/Images/SupportBanner.png",
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":8,
+"itemCornerRadius":0,
 "itemSize":"{600,277}"
 },
 {
