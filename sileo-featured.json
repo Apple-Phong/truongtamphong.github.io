@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.iphoneremix",
+"title":"iPhone remix",
+"url":"https://apple-phong.github.io/Images/iPhoneRemix/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.infinity",
 "title":"Infinity",
 "url":"https://apple-phong.github.io/Images/Infinity/Banner.jpg",
