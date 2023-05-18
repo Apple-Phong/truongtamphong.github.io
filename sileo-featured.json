@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.infinity",
+"title":"Infinity",
+"url":"https://apple-phong.github.io/Images/Infinity/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.avenirnext-rootless",
 "title":"Avenir Next - Rootless",
 "url":"https://apple-phong.github.io/Images/AvenirNext-Rootless/Banner.jpg",
