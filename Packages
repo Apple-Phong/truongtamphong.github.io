@@ -1641,6 +1641,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: HoangDinhPhong.TexGyre-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.TexGyre-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 15130066
+MD5sum: e7c1a7cc47af0b18e941012faa333600
+SHA1: 09ccd18015a6ae540b9a3c39245c70720bddcab9
+SHA256: 0e6f28cd1120b9d5fccb0dee412d63274af06b39ef19a02af6a690419c253a47
+SHA512: 9cf2f1f28f26e2d71740e63526121894599fd1bb42d62f2e70fcdae262d67fbbf22155758a0f3baecac8aa5800c7bef71d11b2eed94a1cd6895baba383fe4655
+Homepage: https://apple-phong.github.io
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Tex Gyre - Rootless
+Author: Herb Lubalin
+Depiction: https://apple-phong.github.io/Info/Html/TexGyre-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/TexGyre-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/TexGyre-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
+
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 3.60
