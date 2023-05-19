@@ -629,6 +629,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Compact-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.Compact-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 33230910
+MD5sum: d312eedee984293f9c624e15e995a597
+SHA1: 09b7dc2d2bd1272c3fd0e9eedafab4127114175e
+SHA256: b544ff7e6e519fc803cabfe792877ab18bdca03a15323afd1003f888a21bf0d8
+SHA512: 3037ddbed3d4dfc422f0c553553969aae81c487438851b944c419308428dc8b59a8597f25d1164328d0658c68ab014854cc478ba367bb920be97755521f0f62e
+Homepage: https://apple-phong.github.io
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Compact - Rootless
+Author: Apple
+Depiction: https://apple-phong.github.io/Info/Html/Compact-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Compact-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Compact-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
+
 Package: HoangDinhPhong.ConteSans-Rootless
 Architecture: iphoneos-arm64
 Version: 1.1.0
