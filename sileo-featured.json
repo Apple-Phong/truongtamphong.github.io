@@ -4,9 +4,9 @@
 "itemCornerRadius":8,
 "banners":[
 {
-"package":"hoangdinhphong.texgyre",
-"title":"Tex Gyre",
-"url":"https://apple-phong.github.io/Images/TexGyre/Banner.jpg",
+"package":"hoangdinhphong.texgyre-rootless",
+"title":"Tex Gyre - Rootless" ,
+"url":"https://apple-phong.github.io/Images/TexGyre-Rootless/Banner.jpg",
 "hideShadow":"false"
 },
 {
