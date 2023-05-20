@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.33\n\nSửa lỗi Pin từ 20% trở xuống không hiển thị hình quả pin"
+"markdown":"### Phiên bản 1.33\n\n- Sửa lỗi Pin từ 20% trở xuống không hiển thị hình quả pin"
 },
 {
 "class":"DepictionScreenshotsView",
