@@ -90,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\nLần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",

@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.7.2\n\nGiảm dung lượng gói"
+"markdown":"### Phiên bản 1.7.2\n\n- Giảm dung lượng gói"
 },
 {
 "class":"DepictionMarkdownView",

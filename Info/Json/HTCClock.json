@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2.3\n\nGỡ bỏ tuỳ chỉnh thay phông vì bị lỗi lệch đồng hồ trên iOS 13 và iOS 14"
+"markdown":"### Phiên bản 1.2.3\n\n- Gỡ bỏ tuỳ chỉnh thay phông vì bị lỗi lệch đồng hồ trên iOS 13 và iOS 14"
 },
 {
 "class":"DepictionLabelView",

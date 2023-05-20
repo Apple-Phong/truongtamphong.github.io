@@ -90,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.1-7\n\nThu nhỏ lại biểu tượng cho đẹp và gọn gàng hơn"
+"markdown":"### Phiên bản 0.1-7\n\n- Thu nhỏ lại biểu tượng cho đẹp và gọn gàng hơn"
 },
 {
 "class":"DepictionLabelView",

@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.9.1\n\nĐã tương thích với các thiết bị từ iPhone 5 đến 12 Pro Max"
+"markdown":"### Phiên bản 1.9.1\n\n- Đã tương thích với các thiết bị từ iPhone 5 đến 12 Pro Max"
 },
 {
 "class":"DepictionLabelView",

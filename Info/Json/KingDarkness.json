@@ -90,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\nThêm tuỳ chọn đổi phông"
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chọn đổi phông"
 },
 {
 "class":"DepictionLabelView",

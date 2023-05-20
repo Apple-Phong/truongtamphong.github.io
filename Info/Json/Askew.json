@@ -128,11 +128,11 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.31\n\nSửa chữa một vài lỗi"
+"markdown":"### Phiên bản 1.31\n\n- Sửa chữa một vài lỗi"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.30\n\n - Thêm chọn kiểu khung ảnh bìa Phân mảnh hoặc Liền mạch\n\n- Thêm cảm ứng thay ảnh trực tiếp trên màn hình khoá. Để cảm ứng được, bạn phải thêm widget này tại Màn hình khoá/Widget đứng trước"
+"markdown":"### Phiên bản 1.30\n\n- Thêm chọn kiểu khung ảnh bìa Phân mảnh hoặc Liền mạch\n\n- Thêm cảm ứng thay ảnh trực tiếp trên màn hình khoá. Để cảm ứng được, bạn phải thêm widget này tại Màn hình khoá/Widget đứng trước"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -170,7 +170,7 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.22\n\nChirnh sửa lại hoàn thiện hơn"
+"markdown":"### Phiên bản 1.22\n\n- Chỉnh sửa lại hoàn thiện hơn"
 },
 {
 "class":"DepictionLabelView",

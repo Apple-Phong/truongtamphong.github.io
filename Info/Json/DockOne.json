@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\nSửa lỗi lệch nền mờ trên iOS 13"
+"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi lệch nền mờ trên iOS 13"
 },
 {
 "class":"DepictionLabelView",

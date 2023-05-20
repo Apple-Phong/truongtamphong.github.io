@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.9.13\n\nSửa lỗi và tăng tính tương thích cho một số dòng máy"
+"markdown":"### Phiên bản 1.9.13\n\n- Sửa lỗi và tăng tính tương thích cho một số dòng máy"
 },
 {
 "class":"DepictionLabelView",

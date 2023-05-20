@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.4.2\n\nThêm gói libPDDokdo (nếu bạn đã cài gói libPDDokdo ở nguồn khác, vui lòng gỡ bỏ rồi quay lại đây để nâng cấp lên bản mới nhất)"
+"markdown":"### Phiên bản 2.4.2\n\n- Thêm gói libPDDokdo (nếu bạn đã cài gói libPDDokdo ở nguồn khác, vui lòng gỡ bỏ rồi quay lại đây để nâng cấp lên bản mới nhất)"
 },
 {
 "class":"DepictionLabelView",

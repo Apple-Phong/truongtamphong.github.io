@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.71\n\nSửa lỗi lịch tháng"
+"markdown":"### Phiên bản 1.1.71\n\n- Sửa lỗi lịch tháng"
 },
 {
 "class":"DepictionLabelView",

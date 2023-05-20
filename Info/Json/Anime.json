@@ -98,11 +98,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.93\n\nSửa lỗi cho dòng Plus"
+"markdown":"### Phiên bản 1.0.93\n\n- Sửa lỗi cho dòng Plus"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.9\n\nThêm chỉnh màu văn bản chính, văn bản đồng hồ, văn bản ngày tháng và năm"
+"markdown":"### Phiên bản 1.0.9\n\n- Thêm chỉnh màu văn bản chính, văn bản đồng hồ, văn bản ngày tháng và năm"
 },
 {
 "class":"DepictionLabelView",

@@ -22,7 +22,7 @@
 "title":"Xem Video"
 },
 {
-"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Videos/FlyingBirds.mp4) để xem thử\n\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Videos/FlyingBirds.mp4) để xem thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -31,7 +31,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\n* Từng đàn chim bay lượn khắp màn hình của bạn. Lên tới cả trăm con cùng một lượt bay đến\n\n* Số lượng chim tuỳ chỉnh trong cài đặt\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n* Từng đàn chim bay lượn khắp màn hình của bạn. Lên tới cả trăm con cùng một lượt bay đến\n\n => Số lượng chim tuỳ chỉnh trong cài đặt\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -99,7 +99,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\nChuyển sang loại cài đặt mới"
+"markdown":"### Phiên bản 1.0.1\n\n- Chuyển sang loại cài đặt mới"
 },
 {
 "class":"DepictionLabelView",

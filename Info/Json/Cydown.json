@@ -98,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 7.1.2\n\nKhắc phục sự cố khởi động Cydia trong các phiên bản iOS gần đây"
+"markdown":"### Phiên bản 7.1.2\n\n- Khắc phục sự cố khởi động Cydia trong các phiên bản iOS gần đây"
 },
 {
 "class":"DepictionLabelView",

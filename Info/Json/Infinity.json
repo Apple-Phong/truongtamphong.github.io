@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0.7\n\nThay đổi tuỳ chỉnh điền phông sang chọn phông"
+"markdown":"### Phiên bản 2.0.7\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"
 },
 {
 "class":"DepictionLabelView",

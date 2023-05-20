@@ -94,7 +94,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\nThêm tuỳ chỉnh vị trí Lịch"
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chỉnh vị trí Lịch"
 },
 {
 "class":"DepictionLabelView",
