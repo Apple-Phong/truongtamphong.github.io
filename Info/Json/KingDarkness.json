@@ -22,12 +22,9 @@
 "title":"Nội dung"
 },
 {
-"markdown":"#### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n#### Hiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n Chức năng gồm có:\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\nㅤ\n\",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
 },
 {
 "class":"DepictionSpacerView"
@@ -37,12 +34,9 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
 },
 {
 "class":"DepictionSpacerView"
@@ -69,10 +63,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
-},
-{
-"class":"DepictionSpacerView"
+"text":"iOS 10.0 đến 14.8.1\n\nㅤ\n\"
 },
 {
 "class":"DepictionSpacerView"
