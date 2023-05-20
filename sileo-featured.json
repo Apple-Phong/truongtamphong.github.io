@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.kingdarkness",
+"title":"King Darkness" ,
+"url":"https://apple-phong.github.io/Images/KingDarkness/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.texgyre-rootless",
 "title":"Tex Gyre - Rootless" ,
 "url":"https://apple-phong.github.io/Images/TexGyre-Rootless/Banner.jpg",

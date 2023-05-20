@@ -1358,6 +1358,28 @@ Author: Netskao
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.KingDarkness
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.KingDarkness_1.0.1_iphoneos-arm.deb
+Size: 1186216
+MD5sum: 725ea341f535a469167233cc0f5df9c9
+SHA1: 98a2aae16b2f799f9d416424c663a2fc8657b876
+SHA256: 7226ec4e5c63d898e8d56794b45a43d64fca4825c9cd3b4e7cd31a1e5ed03858
+SHA512: 685d548b5fbf5f7829cd33dc1fa10171b20dea425b4506efd267695e67a4986762941c7b4ee55feb0a6845c3a392d8d79e79f34e977d9d2c07efc63ecb2bd9ce
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: King Darkness
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/KingDarkness.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
