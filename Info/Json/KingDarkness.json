@@ -26,6 +26,9 @@
 "class":"DepictionSpacerView"
 },
 {
+"class":"DepictionSpacerView"
+},
+{
 "class":"DepictionHeaderView",
 "title":"Ủng hộ"
 },
