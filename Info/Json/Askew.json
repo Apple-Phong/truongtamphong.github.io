@@ -26,7 +26,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Askew\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Pin\n\n### Chú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Pin\n\nㅤ\n\nChú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -38,7 +42,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -94,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.33\n\nSửa lỗi Pin từ 20% trở xuống không hiển thị hình quả pin"
+"markdown":"### Phiên bản 1.33\n\nSửa lỗi Pin từ 20% trở xuống không hiển thị hình quả pin"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -109,7 +113,7 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.32\n\n- Thêm chỉnh màu cho lịch âm\n\n- Thêm công tắc bật tắt cho bóng tối & nền nhoà"
+"markdown":"### Phiên bản 1.32\n\n- Thêm chỉnh màu cho lịch âm\n\n- Thêm công tắc bật tắt cho bóng tối & nền nhoà"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -124,11 +128,11 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.31\n\nSửa chữa một vài lỗi"
+"markdown":"### Phiên bản 1.31\n\nSửa chữa một vài lỗi"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.30\n\n - Thêm chọn kiểu khung ảnh bìa Phân mảnh hoặc Liền mạch\n\n- Thêm cảm ứng thay ảnh trực tiếp trên màn hình khoá. Để cảm ứng được, bạn phải thêm widget này tại Màn hình khoá/Widget đứng trước"
+"markdown":"### Phiên bản 1.30\n\n - Thêm chọn kiểu khung ảnh bìa Phân mảnh hoặc Liền mạch\n\n- Thêm cảm ứng thay ảnh trực tiếp trên màn hình khoá. Để cảm ứng được, bạn phải thêm widget này tại Màn hình khoá/Widget đứng trước"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -147,7 +151,7 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.28\n\n- Chỉnh lại khung ảnh\n\n- Thêm Lịch âm\n\n- Sửa lỗi lời chào"
+"markdown":"### Phiên bản 1.28\n\n- Chỉnh lại khung ảnh\n\n- Thêm Lịch âm\n\n- Sửa lỗi lời chào"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -162,11 +166,11 @@
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.25\n\n- Sửa lỗi không hiện Pin và thời tiết\n\n- Thêm bóng đổ vào trong nền tạo độ nổi hơn\n\n- Thêm 6 phông chữ cho lời chào\n\n- Thêm kiểu chữ in hoa & chữ in nghiêng\n\n- Thêm độ bo góc và độ nhoà cho hình nền"
+"markdown":"### Phiên bản 1.25\n\n- Sửa lỗi không hiện Pin và thời tiết\n\n- Thêm bóng đổ vào trong nền tạo độ nổi hơn\n\n- Thêm 6 phông chữ cho lời chào\n\n- Thêm kiểu chữ in hoa & chữ in nghiêng\n\n- Thêm độ bo góc và độ nhoà cho hình nền"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.22\n\nChirnh sửa lại hoàn thiện hơn"
+"markdown":"### Phiên bản 1.22\n\nChirnh sửa lại hoàn thiện hơn"
 },
 {
 "class":"DepictionLabelView",

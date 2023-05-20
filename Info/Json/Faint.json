@@ -18,7 +18,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Faint\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -30,7 +34,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -86,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.3\n\n- Chuyển sang dạng cài đặt mới\n\n- Thêm tuỳ chỉnh màu sắc"
+"markdown":"### Phiên bản 1.0.3\n\n- Chuyển sang dạng cài đặt mới\n\n- Thêm tuỳ chỉnh màu sắc"
 },
 {
 "class":"DepictionLabelView",

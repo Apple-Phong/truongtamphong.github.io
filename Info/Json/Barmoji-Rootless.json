@@ -18,7 +18,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Barmoji\n\n## Thêm thanh biểu tượng cảm xúc truy cập nhanh vào bàn phím\n\nNgười dùng iPhone X trở lên có tùy chọn thêm thanh dưới cùng, trong khi người dùng thiết bị khác có thể thay thế thanh văn bản tiên đoán bằng Barmoji\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Thêm thanh biểu tượng cảm xúc truy cập nhanh vào bàn phím\n\nNgười dùng iPhone X trở lên có tùy chọn thêm thanh dưới cùng, trong khi người dùng thiết bị khác có thể thay thế thanh văn bản tiên đoán bằng Barmoji\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -30,7 +34,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -86,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2023.3.3\n\n- Thêm tùy chọn để đặt biểu tượng cảm xúc trên mỗi hàng\n\n- Thêm tùy chọn để điều chỉnh độ lệch trái và phải\n\n- Thêm tùy chọn để đặt chiều cao tùy chỉnh cho thanh dưới cùng\n\n- Đã xóa tùy chọn chiều rộng đầy đủ\n\n- Thêm tùy chọn để ẩn nút quả địa cầu\n\n- Thêm tùy chọn để ẩn nút đọc chính tả\n\n- Sửa chữa Barmoji được hiển thị trong khi đọc chính tả\n\n- Sửa chữa Barmoji được hiển thị khi ở thanh ngang dưới cùng"
+"markdown":"### Phiên bản 2023.3.3\n\n- Thêm tùy chọn để đặt biểu tượng cảm xúc trên mỗi hàng\n\n- Thêm tùy chọn để điều chỉnh độ lệch trái và phải\n\n- Thêm tùy chọn để đặt chiều cao tùy chỉnh cho thanh dưới cùng\n\n- Đã xóa tùy chọn chiều rộng đầy đủ\n\n- Thêm tùy chọn để ẩn nút quả địa cầu\n\n- Thêm tùy chọn để ẩn nút đọc chính tả\n\n- Sửa chữa Barmoji được hiển thị trong khi đọc chính tả\n\n- Sửa chữa Barmoji được hiển thị khi ở thanh ngang dưới cùng"
 },
 {
 "class":"DepictionLabelView",

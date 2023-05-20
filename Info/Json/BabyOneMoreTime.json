@@ -18,7 +18,11 @@
 "itemSize":"{600,277}"
 },
 {
-"markdown":"# Baby one more time\n\n## Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Ringtones/BabyOneMoreTime.mp3) để nghe thử\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Ringtones/BabyOneMoreTime.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -30,7 +34,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -86,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0\n\nLần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\nLần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",

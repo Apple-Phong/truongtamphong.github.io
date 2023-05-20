@@ -26,7 +26,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Alert Controller\n\n## Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\n### Những gì bạn có thể làm với tinh chỉnh này\n\n\n- Huỷ bỏ bằng cách chạm vào bên ngoài khi ẩn nút Huỷ bỏ\n- Hiển thị biểu tượng\n- Ẩn nút hủy bỏ\n\n- Chọn Kiểu cho cảnh báo (thay vào đó là sử dụng kiểu Kiểu nhóm bảng)\n\n- Chọn Kiểu cho nhóm bảng (thay vào đó hãy sử dụng Kiểu cảnh báo)\n\n- Kiểu cảnh báo có giao diện tuỳ chọn (Theo hệ thống/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Kiểm soát kích thước phông chữ cho phần tiêu đề\n\n- Kiểm soát cỡ chữ cho phần nội dung\n\n- Làm vuông góc nền\n\n- Kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Chọn kích thước nút nhấn to hoặc nhỏ\n\n- Hiện các nút theo chiều dọc\n\n- Hợp nhất nền với nút Huỷ bỏ\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị\n\nㅤ\n\nNhững gì bạn có thể làm với tinh chỉnh này\n\n- Huỷ bỏ bằng cách chạm vào bên ngoài khi ẩn nút Huỷ bỏ\n- Hiển thị biểu tượng\n- Ẩn nút hủy bỏ\n\n- Chọn Kiểu cho cảnh báo (thay vào đó là sử dụng kiểu Kiểu nhóm bảng)\n\n- Chọn Kiểu cho nhóm bảng (thay vào đó hãy sử dụng Kiểu cảnh báo)\n\n- Kiểu cảnh báo có giao diện tuỳ chọn (Theo hệ thống/Sáng/Tối) dành cho iOS 13 trở lên\n\n- Kiểm soát kích thước phông chữ cho phần tiêu đề\n\n- Kiểm soát cỡ chữ cho phần nội dung\n\n- Làm vuông góc nền\n\n- Kiểm soát mức độ hiển thị của dấu phân cách dành cho iOS 13 trở lên\n\n- Chọn kích thước nút nhấn to hoặc nhỏ\n\n- Hiện các nút theo chiều dọc\n\n- Hợp nhất nền với nút Huỷ bỏ\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -38,7 +42,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -94,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.4.2\n\n- Cập nhật thêm cài đặt tinh chỉnh\n\n- Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ\n\n- Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của bảng Cảnh báo và Nhóm bảng\n\n- Đã thêm khả năng thay đổi kiểu bảng thông báo thành trang riêng\n\n- Thêm khả năng kiểm soát kích thước phông chữ cho tiêu đề (riêng cho Bảng thông báo và Hành động)\n\n- Thêm khả năng kiểm soát kích thước phông chữ cho nội dung (riêng cho Cảnh báo và Nhóm bảng)\n\n- Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong bảng Cảnh báo và Nhóm bảng\n\n- Thêm khả năng chọn kích thước nút nhấn (lớn/nhỏ riêng biệt cho bảng Cảnh báo và Nhóm bảng)\n\n- Thêm khả năng hợp nhất nút Huỷ bỏ với phần còn lại của danh sách trong bảng hành động\n\n- Thêm khả năng đặt lại cài đặt\n\n- Đã thêm hỗ trợ cho iOS 12 không có tùy chọn 'Ẩn đường phân cách' và 'Kiểu giao diện sáng tối'\n\n- Đã hỗ trợ cho iOS 14\n\n- Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới\n\n- Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng"
+"markdown":"### Phiên bản 1.4.2\n\n- Cập nhật thêm cài đặt tinh chỉnh\n\n- Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ\n\n- Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của bảng Cảnh báo và Nhóm bảng\n\n- Đã thêm khả năng thay đổi kiểu bảng thông báo thành trang riêng\n\n- Thêm khả năng kiểm soát kích thước phông chữ cho tiêu đề (riêng cho Bảng thông báo và Hành động)\n\n- Thêm khả năng kiểm soát kích thước phông chữ cho nội dung (riêng cho Cảnh báo và Nhóm bảng)\n\n- Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong bảng Cảnh báo và Nhóm bảng\n\n- Thêm khả năng chọn kích thước nút nhấn (lớn/nhỏ riêng biệt cho bảng Cảnh báo và Nhóm bảng)\n\n- Thêm khả năng hợp nhất nút Huỷ bỏ với phần còn lại của danh sách trong bảng hành động\n\n- Thêm khả năng đặt lại cài đặt\n\n- Đã thêm hỗ trợ cho iOS 12 không có tùy chọn 'Ẩn đường phân cách' và 'Kiểu giao diện sáng tối'\n\n- Đã hỗ trợ cho iOS 14\n\n- Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới\n\n- Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng"
 },
 {
 "class":"DepictionLabelView",

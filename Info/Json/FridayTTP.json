@@ -26,7 +26,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Friday TTP\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n### Nội dung hiển thị\n\n+ Lịch dương\n\n+ Lịch âm\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\n+ Ảnh bìa (Chạm vào nền Ngày để thay ảnh từ bộ sưu tập của bạn)\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nMàn hình hiển thị\n\n+ Lịch dương\n\n+ Lịch âm\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\n+ Ảnh bìa (Chạm vào nền Ngày để thay ảnh từ bộ sưu tập của bạn)\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -38,7 +42,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -94,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.3.4\n\n- Thay thế tuỳ chỉnh điền phông sang chọn phông\n\n- Sửa lỗi không tự động chuyển ngày\n\n- Thêm hiện ảnh bìa khi phát YouTube\n\n- Tăng chiều cao Widget cho thoáng hơn\n\n- Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa"
+"markdown":"### Phiên bản 1.3.4\n\n- Thay thế tuỳ chỉnh điền phông sang chọn phông\n\n- Sửa lỗi không tự động chuyển ngày\n\n- Thêm hiện ảnh bìa khi phát YouTube\n\n- Tăng chiều cao Widget cho thoáng hơn\n\n- Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa"
 },
 {
 "class":"DepictionLabelView",

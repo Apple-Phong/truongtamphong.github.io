@@ -30,7 +30,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Aerelys\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\n ### Nội dung hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Pin\n\n+ Thanh tìm kiếm\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Pin\n\n+ Thanh tìm kiếm\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -42,7 +46,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -98,7 +102,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi mà bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
+"markdown":"### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi mà bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
 },
 {
 "class":"DepictionLabelView",

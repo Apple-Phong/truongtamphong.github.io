@@ -26,7 +26,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# BigAnalog\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch\n\n+ Thời tiết\n\n+ Pin\n\n+ Giá đỡ ứng dụng\n\n+ Thanh Dock\n\n+ Văn bản hiển thị xung quanh viền đồng hồ\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch\n\n+ Thời tiết\n\n+ Pin\n\n+ Giá đỡ ứng dụng\n\n+ Thanh Dock\n\n+ Văn bản hiển thị xung quanh viền đồng hồ\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -38,7 +42,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -94,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.6.0\n\n- Thêm tuỳ chỉnh kích cỡ phông chữ\n\n- Sửa lỗi lệch chữ khi ở chế độ phóng to\n\n- Thêm bóng cho đồng hồ và bóng đổ cho giá đỡ ứng dụng"
+"markdown":"### Phiên bản 1.6.0\n\n- Thêm tuỳ chỉnh kích cỡ phông chữ\n\n- Sửa lỗi lệch chữ khi ở chế độ phóng to\n\n- Thêm bóng cho đồng hồ và bóng đổ cho giá đỡ ứng dụng"
 },
 {
 "class":"DepictionLabelView",

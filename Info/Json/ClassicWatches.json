@@ -26,7 +26,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Classic Watches\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\n### Nội dung hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch ngày\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch ngày\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -94,7 +98,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0\n\nLần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\nLần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",

@@ -22,7 +22,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# PullOver Pro\n\n## Tạo một tab nhỏ ở bên cạnh viền màn hình\n\n- Cho phép ghim một ứng dụng và kéo nó lên trên ứng dụng hiện tại\n\n- Sử dụng menu Chuyển đổi nhanh bằng cách giữ thanh kẹp trong nửa giây, một menu sẽ bật lên. Kéo ngón tay lên hoặc xuống để chọn ứng dụng muốn ghim. Các ứng dụng này có thể được chọn trước bằng cách chọn 'Ứng dụng yêu thích' trong cài đặt hoặc 'Ứng dụng gần đây', được lấy từ trình chuyển đổi ứng dụng\n\n\n",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tạo một tab nhỏ ở bên cạnh viền màn hình\n\n- Cho phép ghim một ứng dụng và kéo nó lên trên ứng dụng hiện tại\n\n- Sử dụng menu Chuyển đổi nhanh bằng cách giữ thanh kẹp trong nửa giây, một menu sẽ bật lên. Kéo ngón tay lên hoặc xuống để chọn ứng dụng muốn ghim. Các ứng dụng này có thể được chọn trước bằng cách chọn 'Ứng dụng yêu thích' trong cài đặt hoặc 'Ứng dụng gần đây', được lấy từ trình chuyển đổi ứng dụng\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +38,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -90,15 +94,15 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.3-3\n\n- Khắc phục sự cố văng khỏi cài đặt\n\n- Tối ưu hoá nút di chuột\n\n- Thêm quyền truy cập máy ảnh"
+"markdown":"### Phiên bản 2.1.3-3\n\n- Khắc phục sự cố văng khỏi cài đặt\n\n- Tối ưu hoá nút di chuột\n\n- Thêm quyền truy cập máy ảnh"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.3\n\n- Sửa lỗi cử chỉ trượt lên của hệ thống không tự động tái chế vấn đề bảng điều khiển\n\n- Sửa nút di chuột sẽ không tự động rút lại sau khi chuyển nhanh đến ứng dụng (khi chức năng được bật)\n\n- Khắc phục sự cố cài đặt sự cố sau khi ứng dụng vào yêu thích được gỡ cài đặt\n\n- Thêm nhiều cử chỉ của bảng tái chế hệ thống\n\n- Tối ưu hóa xác suất của màn hình trắng"
+"markdown":"### Phiên bản 2.1.3\n\n- Sửa lỗi cử chỉ trượt lên của hệ thống không tự động tái chế vấn đề bảng điều khiển\n\n- Sửa nút di chuột sẽ không tự động rút lại sau khi chuyển nhanh đến ứng dụng (khi chức năng được bật)\n\n- Khắc phục sự cố cài đặt sự cố sau khi ứng dụng vào yêu thích được gỡ cài đặt\n\n- Thêm nhiều cử chỉ của bảng tái chế hệ thống\n\n- Tối ưu hóa xác suất của màn hình trắng"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.2-4\n\n- Khắc phục sự cố cho iOS 15\n\n- Sửa bàn phím không hiển thị\n\n- Sửa lỗi chuyển đổi kích hoạt không hợp lệ\n\n- Thêm tất cả các giao diện ngôn ngữ cho các mục cài đặt"
+"markdown":"### Phiên bản 2.1.2-4\n\n- Khắc phục sự cố cho iOS 15\n\n- Sửa bàn phím không hiển thị\n\n- Sửa lỗi chuyển đổi kích hoạt không hợp lệ\n\n- Thêm tất cả các giao diện ngôn ngữ cho các mục cài đặt"
 },
 {
 "class":"DepictionLabelView",

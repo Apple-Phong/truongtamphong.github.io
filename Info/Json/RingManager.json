@@ -18,7 +18,11 @@
 "itemSize":"{600,277}"
 },
 {
-"markdown":"# RingManager\n\n## Tiện ích hỗ trợ nhạc chuông \n\n- Hoạt động trên iOS 7 - 13! Không có tùy chọn để định cấu hình",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tiện ích hỗ trợ nhạc chuông\n\n- Hoạt động trên iOS 7 - 13! Không có tùy chọn để định cấu hình\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -30,7 +34,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -86,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0-4\n\nLần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0-4\n\nLần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
