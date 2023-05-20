@@ -18,7 +18,11 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# King Darkness\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n### Nội dung hiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm",
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"#### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n#### Hiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -33,9 +37,12 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
 },
 {
 "class":"DepictionSpacerView"
@@ -68,8 +75,15 @@
 "class":"DepictionSpacerView"
 },
 {
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Hỗ trợ"
+},
+{
 "class":"DepictionTableButtonView",
-"title":"Liên hệ hỗ trợ",
+"title":"Liên hệ",
 "action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
 "openExternal":"true",
 "tintColor":"#5777B8"
@@ -100,7 +114,10 @@
 }
 ],
 "class":"DepictionStackView"
-}
+},
 ],
 "class":"DepictionTabView"
+},
+{
+"class":"DepictionSpacerView"
 }
