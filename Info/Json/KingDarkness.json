@@ -22,7 +22,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nChức năng gồm có:\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nHiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -63,18 +63,14 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1\n\nㅤ\n\n"
+"text":"iOS 10.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Hỗ trợ"
-},
-{
 "class":"DepictionTableButtonView",
-"title":"Liên hệ",
+"title":"Liên hệ hỗ trợ",
 "action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
 "openExternal":"true",
 "tintColor":"#5777B8"
