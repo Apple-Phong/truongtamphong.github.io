@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# King Darkness\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n### Nội dung hiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm\n\nㅤ\n\n",
+"markdown":"# King Darkness\n\n### Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\n### Nội dung hiển thị\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\n+ Thanh tìm kiếm",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
