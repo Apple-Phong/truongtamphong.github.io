@@ -114,10 +114,7 @@
 }
 ],
 "class":"DepictionStackView"
-},
+}
 ],
 "class":"DepictionTabView"
-},
-{
-"class":"DepictionSpacerView"
 }
