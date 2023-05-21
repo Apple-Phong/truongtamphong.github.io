@@ -1424,6 +1424,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Lynx
+Architecture: iphoneos-arm
+Version: 1.9.5-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./Deb/HoangDinhPhong.Lynx_1.9.5-3_iphoneos-arm.deb
+Size: 1383620
+MD5sum: 29d337cdb08878807c743da70533b63f
+SHA1: df2f30882679d7fcfa20b1787a4548bf5367393f
+SHA256: c20025f10613f552dc27447c112411fa4800b644f2c93ca86dbc591974d3139c
+SHA512: 70addbb96f50d9a30c3ff9b54ab822a573283f83b150ebdb47329ede50d0f34aa36d574459c65b311a8cee612d285060e118fe34d889ba6667c5301e634c5410
+Homepage: https://apple-phong.github.io
+Description: Tùy chỉnh ẩn các thể loại cho hệ thống
+Name: Lynx Việt Nam
+Author: MTAC
+Depiction: https://apple-phong.github.io/Info/Html/Lynx.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Lynx.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Lynx.json
+Tags: compatible_min::ios12.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
