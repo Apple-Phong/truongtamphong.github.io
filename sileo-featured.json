@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.lightly",
+"title":"Lightly" ,
+"url":"https://apple-phong.github.io/Images/Lightly/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.kingdarkness",
 "title":"King Darkness" ,
 "url":"https://apple-phong.github.io/Images/KingDarkness/Banner.jpg",

@@ -1380,6 +1380,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Lightly
+Architecture: iphoneos-arm
+Version: 1.0.03
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Lightly_1.0.03_iphoneos-arm.deb
+Size: 13105074
+MD5sum: 466987eb07350a05c2a931df99f86f12
+SHA1: 4d13dbcc0a9158c42c6b793686491ff87025e552
+SHA256: 9bcf86b77fdbd623c83c0b0d87757d546c22fb84fd3f589f9e85b607eb4980be
+SHA512: 9628994b0b6e3b06ed6c5931644de3ffbd6c82cddc4edf83331e4e94dbaceef58e5776647b0baa78cc5fd51adaae54a06c77c8b7bc977e53999203aea56e5194
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Lightly
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Lightly.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
