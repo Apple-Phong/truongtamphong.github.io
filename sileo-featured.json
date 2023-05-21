@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.linecolor",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/LineColor/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.lightly",
 "title":"Lightly" ,
 "url":"https://apple-phong.github.io/Images/Lightly/Banner.jpg",

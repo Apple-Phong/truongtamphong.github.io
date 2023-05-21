@@ -1402,6 +1402,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.LineColor
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.LineColor_1.0.6_iphoneos-arm.deb
+Size: 23668792
+MD5sum: 909279a0cab19d8aeb91989bb32420b7
+SHA1: 60a5bd8d5b9e8e6732f9e8496da6af00af17d445
+SHA256: 2aa249298cd42e3ab27b86d65bd71607cfcf3ba4b46fff0efabc33d7ea14b1f6
+SHA512: 23e558c6e3f7d499693fa416b0ad13df62724f4d14be48c086b2b2a365bff0bdc8a420005d98749cf68cba70bc07fd23a7a1e418774c46748d603130c7b3c652
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Line Color
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/LineColor.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
