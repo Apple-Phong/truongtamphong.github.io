@@ -700,13 +700,13 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Ringtones
 Maintainer: Hoàng Đình Phong
-Depends: firmware (>=7.0)
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.Criminal_1.0.0_iphoneos-arm.deb
-Size: 259454
-MD5sum: 7aabb0980c63e7102a38134905fdf0ba
-SHA1: f2e48fad05c7a92e87a985e378ddf8a5541869b2
-SHA256: e1c4800725a5b3d25fabbca52ceebc8e04598924f7dd7e607c709d56c50e1d3d
-SHA512: 98b361d18ab173b0b9e85f4476c09f5d1ac7612e966d4bce5894fb30a1d0124dedf005db149311c8ecfee38135731e4d11b64e6bf093b1d7b8628208224d474e
+Size: 259478
+MD5sum: 70f94e399c51e0dd1807040629c4875c
+SHA1: fb261e1e088dc030b8c8bac01f69a74865d9ccec
+SHA256: ba428a8f61d17741a3bf9f04317cff4e8b181e44bf8c3ef68f95b8dcb7579da4
+SHA512: 97aeda493d0d6bd86c788d22b54311e9efbfd49d69fda43b20662a52408768e2c5e235c90516e17c8ad43dfe9d2077256b48111ba278b5b0b3e271b16ba2ff1e
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông Quốc tế
 Name: Criminal
@@ -722,13 +722,13 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Ringtones
 Maintainer: Hoàng Đình Phong
-Depends: firmware (>=7.0)
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.CuVoiVang_1.0.0_iphoneos-arm.deb
-Size: 355214
-MD5sum: 780838e69bb20a59d543d9a186e0559d
-SHA1: e2c3557ebfb7ee87e48ddfd1394513843c323f5a
-SHA256: 6ee881d3b4bc62bbae982166010a05e565c9f0a915ee49840ecfdff029445078
-SHA512: 9879f9074d88bf36fee90307cbb84d7119c48a44190193233c973751b34f76d9a726ed15686807ba3add2ffa7656b0f9e6d53488f6a61e8f16f3f14f8f4c3757
+Size: 355236
+MD5sum: 53ac93d600bef195d0bb2637486ebcd2
+SHA1: ecf80cbdc0d8a9204d614f1153fdf87cbb57ae67
+SHA256: 35133726a58fdb0616af78b86b937af6496427f8edeb95d58a007350eea54d44
+SHA512: 484f2aafe69940d854375813c497d6467b1e71c5a85245e37172d141f3cca0a91d6a73eb977f2545ea4a9c9fa0ff98127d44bb49032e171e81681a47d30bdbe7
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông Việt Nam
 Name: Cứ vội vàng
@@ -1444,6 +1444,182 @@ Depiction: https://apple-phong.github.io/Info/Html/Lynx.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Lynx.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Lynx.json
 Tags: compatible_min::ios12.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Mars
+Architecture: iphoneos-arm
+Version: 1.0.013
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mars_1.0.013_iphoneos-arm.deb
+Size: 146172
+MD5sum: 8f600e4074b4dabad86409dccd62b710
+SHA1: e761a22012a76b98984631eac91b67c55aa22121
+SHA256: 47a2b8578f9d89ae7297453bdad195d4a79023b83a3ff07d0ffeeb56a34cee7f
+SHA512: def534f59847249acd389030286db2164547b98ce571e866e74d7c84558e855c6f8b019bb7fa44ad6c688663792e8f82dc45ea9afc3ce5719b15a743f7c69fc6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mars
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Mars.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mars.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mars.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Meteor
+Architecture: iphoneos-arm
+Version: 1.0.01
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Meteor_1.0.01_iphoneos-arm.deb
+Size: 848516
+MD5sum: 41d59b4492b6ba93e9fd669364e3d549
+SHA1: 931728ea519d3d0f8c601c3fbb33b569d8734b92
+SHA256: 22ce6334a8e99146dff4e80e84fdc8f7497bd60f75ef08be7fd289d8034de6f8
+SHA512: b6d2f77674354f9174c309cd76a14e6c325c3e205853e8c4108d5f3605d1bf6def3822628078ad146f0d15f7591146b6655e3fc0f25c3485a92addc9eb34c41a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Meteor
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Meteor.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meteor.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meteor.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.MuDark
+Architecture: iphoneos-arm
+Version: 1.0.70
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.MuDark_1.0.70_iphoneos-arm.deb
+Size: 14604574
+MD5sum: 0a3c6570fb02d26329993e8d0ef72574
+SHA1: 206cc44e97125d17fbc501f7d1680d4504ab3c28
+SHA256: 837cb70910d5d60d54dd5005be628c18f70c6cdc39e8cffef2672ca1ba60651c
+SHA512: 4ac9fd1e86c0079bf2e9dfda110eb52ca55f597cfa87f2a602958a1367f3b6228649bb77d473fea6ed14887248da29df5c314d94389fe1585175b44588c0a902
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: MuDark
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/MuDark.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.MyLove
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.MyLove_1.0.0_iphoneos-arm.deb
+Size: 255230
+MD5sum: 777dd43c8576b8e7cd1ba5e5890f3da4
+SHA1: 09d72f0fae816bd21840f00278f0fd3e5dec943b
+SHA256: 0902f3b9223029bb00ec7563f6de959c9dc0151385c8dd3b007147db2a6f9eb7
+SHA512: 32aedce3c650ebd7852291e99a531acc3ecc35145be7e7812379d4a9ac819f0c92bb978ce04e77d76ad64dac5066a41c14a4cb1a5d190cf7b933184912c2a706
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Quốc tế
+Name: My love
+Depiction: https://apple-phong.github.io/Info/Html/MyLove.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/MyLove.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/MyLove.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Westlife
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
+Package: HoangDinhPhong.NanoBanners
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.NanoBanners_1.1.1_iphoneos-arm.deb
+Size: 161532
+MD5sum: 1c7426eb36f4b021390eabe39e9a48da
+SHA1: 3623602669d1860a896f132b81b0df12a08d8d69
+SHA256: bc4039ad433337de926879e37f9060ded8f0d9d05e69c68c46eec0b3dae065b8
+SHA512: 0cac4a2e7212e98781f896cce2fe621c88c3a68ca9b223b99f8c3188957369d411e34e8f0d22ba382d5d5e0e807a3425dc20c2fbd44146235b23b464b325e2e9
+Homepage: https://apple-phong.github.io
+Description: Thu gọn thông báo trên thanh trạng thái
+Name: NanoBanners Việt Nam
+Author: Nepeta
+Depiction: https://apple-phong.github.io/Info/Html/NanoBanners.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/NanoBanners.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/NanoBanners.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Narrow
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Narrow_1.0.0_iphoneos-arm.deb
+Size: 2129688
+MD5sum: 66440d9d6036f3b1dbfce5d757901e48
+SHA1: a52af5c5f798514bdf48893e3a5dee52fc35e584
+SHA256: 690fccbc9bccdc2856daa0ee81ed79d01a4e74bcdcda3a42c55c6072434745ee
+SHA512: 75e50dded522be2c3d1c90401d0ddce9148b2111a5e5fab871cbcbe5191890f47bba3b2a09596e25c8bac31f9382ec57ab0ec0e2945a74b705ee59ed156e874d
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Narrow
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Narrow.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Narrow.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Narrow.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Neon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Neon_1.0.0_iphoneos-arm.deb
+Size: 223610
+MD5sum: b1b013a4f656ee5913991a5ec2724040
+SHA1: fb1ed4fb518d9e856687ac56e080d0f129b0ec17
+SHA256: 7b7456a694e0f405711b679360db362c33be9f7ab9a7c323e1154c0b45fa2c37
+SHA512: b8a970d614f978e4d8c5798a86b6b0fb6efe74080ac34287b338725d3e53838921ff1f6fd29aa3b06349da8250f3e44f046195397a15742b6fb47062b0007b2e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Neon
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Neon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Neon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Neon.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.NiceBarX13VN
+Architecture: iphoneos-arm
+Version: 1.0.2.61
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0), com.niceios.nicebarx13
+Filename: ./Deb/HoangDinhPhong.NiceBarX13VN_1.0.2.61_iphoneos-arm.deb
+Size: 20878
+MD5sum: 11b69a8da7e2dfbf659aa117cfaca043
+SHA1: 8ff1254fd630ba9f12803dfb6738ff5ec604e7d3
+SHA256: a44cda685a02149cdc6e6a218f5e649b0b92ab7a8ec036ae39c648389a047df7
+SHA512: 22eee3381a4607b4d5cb38ea134809b218c68485d3b3cca294994d8050a56666ac21926be4a217d68e5a5e9aa5208d610f26386a3c872199ee9331efb0dba1b3
+Homepage: https://apple-phong.github.io
+Description: Dịch lại cho tinh chỉnh NiceBarX iOS 13
+Name: NiceBarX 13 gói tiếng Việt chuẩn
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/NiceBarX13VN.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.PullOverPro-Rootless

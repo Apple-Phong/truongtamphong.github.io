@@ -7,23 +7,7 @@
 }
 
 bold{
-  font-weight: 550;
-}
-
-red{
-  color: #E50000;
-}
-
-blue{
-  color: #007AFE;
-}
-
-green{
-  color: #40C33B;
-}
-
-purple{
-  color: #8F48FA;
+	font-weight: 550;
 }
 
 .wrapper {
@@ -515,4 +499,20 @@ a.pkg-button.cydia {
 	display: flex;
 	column-gap: 20px;
 	justify-content: space-between;
+}
+
+red{
+	color: #E50000;
+}
+
+blue{
+	color: #007AFE;
+}
+
+green{
+	color: #40C33B;
+}
+
+purple{
+	color: #8F48FA;
 }

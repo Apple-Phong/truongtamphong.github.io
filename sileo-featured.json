@@ -4,15 +4,63 @@
 "itemCornerRadius":8,
 "banners":[
 {
-"package":"hoangdinhphong.lynx",
-"title":"Lynx Việt Nam" ,
-"url":"https://apple-phong.github.io/Images/Lynx/Banner.jpg",
+"package":"hoangdinhphong.nicebarx13vn",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/NiceBarX13VN/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.neon",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Neon/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.narrow",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Narrow/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.nanobanners",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/NanoBanners/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.mylove",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/MyLove/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.mudark",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/MuDark/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.meteor",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Meteor/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.mars",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Mars/Banner.jpg",
 "hideShadow":"false"
 },
 {
 "package":"hoangdinhphong.linecolor",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/LineColor/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.lynx",
+"title":"Lynx Việt Nam" ,
+"url":"https://apple-phong.github.io/Images/Lynx/Banner.jpg",
 "hideShadow":"false"
 },
 {
