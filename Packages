@@ -1993,6 +1993,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/TexGyre-Rootless.json
 Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/f.png
 
+Package: HoangDinhPhong.WeatherStatusBar
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.WeatherStatusBar_1.1.5_iphoneos-arm.deb
+Size: 46822252
+MD5sum: 4948995d70a1c5e0691a83fd7ec707bc
+SHA1: d8456ff43370b54a16c5aa252508a67aef89dde5
+SHA256: ec24e020371f768fa38723eec784583af3c8515fcf33c3aaf5b3cb25e8253b21
+SHA512: 1cdb3cfc60a1bbd4f19699017f6b1a34c9eac558a1fa6b5284b76ab20dba7dce4f822a85d0e4c29b8f36d322815db5ee55ff3450c7532b975b135b67dcc3888f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Weather Status Bar
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/WeatherStatusBar.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/WeatherStatusBar.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/WeatherStatusBar.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 3.60

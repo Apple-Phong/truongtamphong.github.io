@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.weatherstatusbar",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/WeatherStatusBar/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.peaceful",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/Peaceful/Banner.jpg",
