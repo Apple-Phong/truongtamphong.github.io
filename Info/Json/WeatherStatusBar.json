@@ -26,7 +26,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nMàn hình hiển thị\n\n+ Lịch âm\n\n+ Lịch dương\n\n+ Thời tiết\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Lịch âm\n\n+ Lịch dương\n\n+ Thời tiết\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },

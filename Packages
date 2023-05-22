@@ -2000,11 +2000,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.WeatherStatusBar_1.1.5_iphoneos-arm.deb
-Size: 46822252
-MD5sum: 4948995d70a1c5e0691a83fd7ec707bc
-SHA1: d8456ff43370b54a16c5aa252508a67aef89dde5
-SHA256: ec24e020371f768fa38723eec784583af3c8515fcf33c3aaf5b3cb25e8253b21
-SHA512: 1cdb3cfc60a1bbd4f19699017f6b1a34c9eac558a1fa6b5284b76ab20dba7dce4f822a85d0e4c29b8f36d322815db5ee55ff3450c7532b975b135b67dcc3888f
+Size: 46822222
+MD5sum: d2559594c4a88f42d905eea0a66f8e76
+SHA1: 6911e0d115c7f7637724e650eb8901bcae598368
+SHA256: d1432492060cd885d227ad32b36fa1d2b467b855de6ed526aa4cdf8e22c6a3c1
+SHA512: 8414fc4d79cc4e970daecbec722d56aff6b518ba0543d99e995b05c149f6dd2a284a839dd51facc5b71e9a3eda1845045c72231847d184fb1e2ca112e6cf377b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Weather Status Bar
