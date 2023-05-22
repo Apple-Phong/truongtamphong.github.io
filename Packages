@@ -1629,15 +1629,15 @@ Section: Ringtones
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.ringmanager
 Filename: ./Deb/HoangDinhPhong.NhuGioVoiMay_1.0.0_iphoneos-arm.deb
-Size: 258750
-MD5sum: 77b5eeaf67d17245e749df887712153e
-SHA1: bb9a5004b877bc2e4f3a7ffb8e0db868b718753d
-SHA256: cc03f2671e4df4d4d599d990b51a634f59212e03bc9005cd7e824ee37b52927d
-SHA512: bc25304e2cd4f0204ad1eafdec59e08054553ef71f0e8658f0e2ce937e56efe40e8fb1459101eb2d97440d50ae54547b868c16b8eb592d70c44c471a560792f5
+Size: 258754
+MD5sum: ef627f7372c65ab3ec11ac0e2560ca82
+SHA1: 548e3314b98b5b7a2af0f45abc9890aaab7ad009
+SHA256: 9bad7cd81dda34728930c69572fef74d597e3b8128a510332ece81b79a421c71
+SHA512: ef7c1983118ae5f96c45e878d2bafc577e10e6bc754e6d4e65034727cd8a16397af0fa8806ecc4324d7d632cc62c6949c738195d235f80c0809eac1512a41c14
 Homepage: https://apple-phong.github.io
 Description: Nhạc chuông Việt Nam
 Name: Như gió với mây
-Author: Đình Đại Vũ
+Author: Đinh Đại Vũ
 Depiction: https://apple-phong.github.io/Info/Html/NhuGioVoiMay.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/NhuGioVoiMay.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/NhuGioVoiMay.json
