@@ -4,6 +4,24 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.peaceful",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Peaceful/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.nhugiovoimay",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/NhuGioVoiMay/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.ngamhoaleroi",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/NgamHoaLeRoi/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.nicebarx13vn",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/NiceBarX13VN/Banner.jpg",

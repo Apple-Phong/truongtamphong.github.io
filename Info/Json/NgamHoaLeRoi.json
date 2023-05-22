@@ -10,19 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/Mars/Screenshots/1.png",
+"url":"https://apple-phong.github.io/Images/NgamHoaLeRoi/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
-"itemSize":"{185,400}"
+"itemSize":"{600,277}"
 },
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\nㅤ\n\n",
+"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Ringtones/NgamHoaLeRoi.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -47,23 +47,23 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
-"text":"Hoàng Đình Phong"
+"title":"Ca sĩ thể hiện",
+"text":"Ưng Hoàng Phúc"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Widgets"
+"text":"Ringtones"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/05/2023"
+"text":"22/05/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 7.0 đến 13.7"
 },
 {
 "class":"DepictionSpacerView"
@@ -90,7 +90,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.013\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",

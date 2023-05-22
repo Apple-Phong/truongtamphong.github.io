@@ -1600,6 +1600,50 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Neon.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.NgamHoaLeRoi
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.NgamHoaLeRoi_1.0.0_iphoneos-arm.deb
+Size: 241936
+MD5sum: f1c0ee69413b18164f92ae927af9301e
+SHA1: 461dee9da7e457d1b147523ce53c48f2042a5471
+SHA256: 1688baff67253fce8bd5717740f0de1d4cd97681ce77821ed7b303eb2d8c7438
+SHA512: 2c2656c6dea3982832eb9f68adfd90178e545a4934f271c7a636ed373442d47253ad5942647883a7eb5bd8701ddfc4e031a9725d1f62ef3cac17d18b732772f9
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Ngắm hoa lệ rơi
+Author: Ưng Hoàng Phúc
+Depiction: https://apple-phong.github.io/Info/Html/NgamHoaLeRoi.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/NgamHoaLeRoi.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/NgamHoaLeRoi.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
+Package: HoangDinhPhong.NhuGioVoiMay
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.NhuGioVoiMay_1.0.0_iphoneos-arm.deb
+Size: 258750
+MD5sum: 77b5eeaf67d17245e749df887712153e
+SHA1: bb9a5004b877bc2e4f3a7ffb8e0db868b718753d
+SHA256: cc03f2671e4df4d4d599d990b51a634f59212e03bc9005cd7e824ee37b52927d
+SHA512: bc25304e2cd4f0204ad1eafdec59e08054553ef71f0e8658f0e2ce937e56efe40e8fb1459101eb2d97440d50ae54547b868c16b8eb592d70c44c471a560792f5
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Như gió với mây
+Author: Đình Đại Vũ
+Depiction: https://apple-phong.github.io/Info/Html/NhuGioVoiMay.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/NhuGioVoiMay.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/NhuGioVoiMay.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
 Version: 1.0.2.61
@@ -1621,6 +1665,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Peaceful
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Peaceful_1.0.0_iphoneos-arm.deb
+Size: 306104
+MD5sum: 83c50ef7073080b1b3a8046abe36e608
+SHA1: 035509859b7ca675b86d676912eeac0257ef17c0
+SHA256: 45afc135554d71cd275e37241cd75917c31e90b8dc11a059c0bac18f4c1055b3
+SHA512: 11a5fa468b5d78fc019462da6dab8805fb78f6e143ab565fa283f5f23dc65b0ad6144ba2a51e06783be3a3e6e46b8b4b5cc5afc1a42bbe41cc35358efeef39df
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Peaceful
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Peaceful.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
