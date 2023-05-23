@@ -1754,6 +1754,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/PicoBanners.json
 Tags: compatible_min::ios12.0, compatible_max::ios12.5.7
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Plane
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Plane_1.0.2_iphoneos-arm.deb
+Size: 43513700
+MD5sum: fe9d1824ecc6cb23e310d824e6ff7f2a
+SHA1: 341abbff3daa206a59a0b0d92a6d81a1eae635da
+SHA256: 0004bdaf878184402a3cc7ee3f204fac69b68665f87a4c84cc24266e70fabc90
+SHA512: 1370d83604845e1b96466ea221132eb9b000d8977037d7858b226732fdac94e8231ddc4b3938d9d1ae4949de513e4b7a50148cc0eee2fe99bbee9022d4593def
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Plane
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Plane.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Plane.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Plane.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
