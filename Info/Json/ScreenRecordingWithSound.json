@@ -1,0 +1,107 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/ScreenRecordingWithSound/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":10,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Jun Elvin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"24/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 13.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

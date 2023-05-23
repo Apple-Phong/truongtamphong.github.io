@@ -1891,6 +1891,28 @@ Author: MacOS
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.ScreenRecordingWithSound
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.ScreenRecordingWithSound_1.0.0_iphoneos-arm.deb
+Size: 4454
+MD5sum: f7f2e5ddfa889f6f6cbbfbff9661a9d2
+SHA1: 697c2a9eb694fd1fdacc35bcfa13ad2b33b2058b
+SHA256: 333d08ffdb22df23d94b15f39076ebff5720f517729972a19220c1f12c29bd99
+SHA512: ce17703e2d83a94390effb1a70308f6a5b5ec83456b7040b2321a62a6abc293238002c91206eb03acef44f2708f7374871816278068d5838659c07ad6937b9e7
+Homepage: https://apple-phong.github.io
+Description: Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình
+Name: Screen Recording With Sound
+Author: Jun Elvin
+Depiction: https://apple-phong.github.io/Info/Html/ScreenRecordingWithSound.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ScreenRecordingWithSound.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ScreenRecordingWithSound.json
+Tags: compatible_min::ios12.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Sica-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
