@@ -1688,6 +1688,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Peak
+Architecture: iphoneos-arm
+Version: 1.0.082
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Peak_1.0.082_iphoneos-arm.deb
+Size: 22551310
+MD5sum: 33b982d290a4d57d21a7a00dff574654
+SHA1: be3635be7122ad2e4b87af65947663185bf562f6
+SHA256: 43fbbda1e0898ad4b860cb7fe678b8b57638e97efca006c1a037c0af396f8a6c
+SHA512: 24ce07246a80808fcdf2bd822a92e1d6ec9f34099be58b422e5f965fbdc11d7552dab40e9caa19b299d514d6bd6a516a841e019fb42a38c09d250c0386ba0a63
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Peak
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Peak.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Peak.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Peak.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
