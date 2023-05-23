@@ -1732,6 +1732,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Petal.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.PicoBanners
+Architecture: iphoneos-arm
+Version: 0.0.1b2-9
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.PicoBanners_0.0.1b2-9_iphoneos-arm.deb
+Size: 72720
+MD5sum: e8c0cf70a719c72507f5641b8571fc41
+SHA1: e1aff3bc51b4cdbf5610f6f56aef31b20296f8e2
+SHA256: bbe2d67477319c1b63cc8de6bd3b2e5c11c54795cc444294f51393a131a525de
+SHA512: 0c4803c5e2373efd612fb2fa7d6bcff857fbc3b6263e8f968a949fa21417355a2591cd7d6fb078045ef50d454997be338013f9ba2d0fb93d097306294eb743aa
+Homepage: https://apple-phong.github.io
+Description: Thu nhỏ thông báo trên thanh trạng thái
+Name: PicoBanners
+Author: Michele Primavera
+Depiction: https://apple-phong.github.io/Info/Html/PicoBanners.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/PicoBanners.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/PicoBanners.json
+Tags: compatible_min::ios12.0, compatible_max::ios12.5.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.PullOverPro-Rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2-4
@@ -2105,6 +2127,29 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
 Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.YouTubeReborn
+Architecture: iphoneos-arm
+Version: 1.1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus
+Filename: ./Deb/HoangDinhPhong.YouTubeReborn_1.1.0.0_iphoneos-arm.deb
+Size: 307316
+MD5sum: 5b9854a70da41d13beb7a307017bb102
+SHA1: ba913a1ae197040b60fcec8a7efff82e8223021f
+SHA256: a3e43b3177f1a9580b811d868429ec0a8988433bd131ac5d3cec1fdad176386f
+SHA512: af3121d9cee24263239a3d49f789779eef03ac8eb8fde83fcb6a9282f0bf4fba8f4e106f1cdbeef08ab03df23e48bab5ba1a61883a728254ab81974d882a58f6
+Homepage: https://apple-phong.github.io
+Description: Tuỳ chỉnh YouTube của bạn
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: https://apple-phong.github.io/Info/Html/YouTubeReborn.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/YouTubeReborn.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/YouTubeReborn.json
+Tags: compatible_min::ios12.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.iClock

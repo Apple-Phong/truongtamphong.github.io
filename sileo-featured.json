@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.youtubereborn",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/YouTubeReborn/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.petal",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/Petal/Banner.jpg",
