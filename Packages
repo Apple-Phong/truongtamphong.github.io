@@ -1712,16 +1712,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Petal
 Architecture: iphoneos-arm
-Version: 1.1.4
+Version: 1.1.5
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Petal_1.1.4_iphoneos-arm.deb
-Size: 4882410
-MD5sum: 63e1c3a6a6a418aeec54d221642fe555
-SHA1: ce16d7de8235989c721da41022474083cd8212e5
-SHA256: f47c37f0668257f63ebb2f6956f715a8e8f43249926a766f406010b541c53d5b
-SHA512: 0bff5640f4632ff84fa86481cbfc41dd8ff5f254808014e700435f38567c1853792aad9050290ffcc6505cf3dc2ac5a85a5653dc2d8bd3c82c949fa118f69826
+Filename: ./Deb/HoangDinhPhong.Petal_1.1.5_iphoneos-arm.deb
+Size: 4882414
+MD5sum: 78deca0eb32030e5094db3c9caf21d91
+SHA1: 838a9d09462c3ca129c752bf9e6f88327320f88b
+SHA256: 87d0edcd5c9c4fe1de1e85ca3ebb4f434397de3724daba1a5355b162cc3e1230
+SHA512: c8cbcc2d319844e4e5d8a856c871d86efe9c6d3c3fabd53ff5c2d6b5fac34fef7fee75e5952969721c5871296442c5ae8d81da287d6501115898355d900e8c0b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Petal
