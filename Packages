@@ -1845,6 +1845,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.js
 Tags: compatible_min::ios15.0, compatible_max::ios15.8
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Pyramid
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Pyramid_1.0.1_iphoneos-arm.deb
+Size: 136136
+MD5sum: e2bab44403b6dbcb14a2c20e5b1d5dda
+SHA1: 9addecfa8b47d8f093eaa49810b0297a8e9222d5
+SHA256: 8296e44a41ccbc95e2eb14baf4a12358a5fd3eae773b8d134a1c880e82104c4a
+SHA512: 109b58cab89c5c40b5fd86e87c86063b3f29442b27a45668785669cc347b8843d337fe3de930ae42224589326477d7bde59bf252f93cf470e1d4a5b01d62e974
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Pyramid
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Pyramid.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.RingManager
 Architecture: iphoneos-arm
 Version: 1.0.0-4
