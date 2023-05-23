@@ -4,9 +4,15 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.petal",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Petal/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.peak",
 "title":"" ,
-"url":"https://apple-phong.github.io/Images/Peak/Banner.png",
+"url":"https://apple-phong.github.io/Images/Peak/Banner.jpg",
 "hideShadow":"false"
 },
 {
