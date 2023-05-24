@@ -1979,6 +1979,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SkinnyMenu
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0), mobilesubstrate, com.foxfort.libfoxfortutils
+Filename: ./Deb/HoangDinhPhong.SkinnyMenu_1.0.1_iphoneos-arm.deb
+Size: 289856
+MD5sum: 9a76659a361344437892e9077d9a79b1
+SHA1: 796fa80f2adfbe952b3936b55d4e0d30494f9f25
+SHA256: b0d9da46cfcdaf62c3ce58fc542ccfa83d8d1cd40c895b9e235a668a013fcf3b
+SHA512: 14fc148281cfffade490287eec387fb7f88f3d90e3b5e8f53ba61869737237a7795199131f434745cc54932754230baec35bfe791924019540c749a3979cfb53
+Homepage: https://apple-phong.github.io
+Description: Xóa chia sẻ và tra cứu khỏi menu
+Name: SkinnyMenu Việt Nam
+Author: FoxfortMobile
+Depiction: https://apple-phong.github.io/Info/Html/SkinnyMenu.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SkinnyMenu.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SkinnyMenu.json
+Tags: compatible_min::ios13.0, compatible_max::ios16.4.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
 Version: 1.5.13-Beta3
