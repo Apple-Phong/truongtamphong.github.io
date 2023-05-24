@@ -10,19 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/ScreenRecordingWithSound/Screenshots/1.jpg",
+"url":"https://apple-phong.github.io/Images/Soledad/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":20,
-"itemSize":"{185,400}"
+"itemCornerRadius":0,
+"itemSize":"{600,277}"
 },
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
 },
 {
-"markdown":"Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
+"markdown":"Nhạc chuông hay cho dế yêu\n\nNhấn vào [**đây**](https://apple-phong.github.io/Sound/MyLove.mp3) để nghe thử\n\nㅤ\n\n *LỜI BÀI HÁT*\n\n If only you could see the tears\n\n In the world you left behind\n\n If only you could heal my heart\n\n Just one more time\n\n Even when I close my eyes\n\n There's an image of your face\n\n And once again I come to realize\n\n You're a loss I can't replace\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n Walking down the streets of Nothingville\n\n Where our love was young and free\n\n Can't believe just what an empty place\n\n It has come to be\n\n I would give my life away\n\n If it could only be the same\n\n Cause I can't still the voice inside of me\n\n That is calling out your name\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -47,13 +47,13 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
-"text":"Jun Elvin"
+"title":"Ca sĩ thể hiện",
+"text":"Westlife Band"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Ringtones"
 },
 {
 "class":"DepictionTableTextView",
@@ -63,7 +63,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 13.7"
+"text":"iOS 7.0 đến 13.7"
 },
 {
 "class":"DepictionSpacerView"

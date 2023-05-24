@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.soledad",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/Soledad/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.snowflake",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/SnowFlake/Banner.jpg",

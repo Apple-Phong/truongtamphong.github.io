@@ -2150,6 +2150,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SnowFlake.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Soledad
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.Soledad_1.0.0_iphoneos-arm.deb
+Size: 260896
+MD5sum: 3b4bbead46292418bee8c689f6dc9683
+SHA1: 1e9c5460f97b0bd61846c4050c55a79ccc4fbe3f
+SHA256: dcb1d9a45e9665f0f04b1621c53f32363893064676aded576c5e8f589992945f
+SHA512: 0ae4f4563d2934f093bd5ce3e5a18a463274d3f8e563a1f9617710e3e248ed92b361cba010acbc3553599d5b8ac726c7bea78d107ff238606a9ee65ec54bd91c
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Quốc tế
+Name: Soledad
+Author: Westlife
+Depiction: https://apple-phong.github.io/Info/Html/Soledad.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Soledad.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Soledad.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.2.0
