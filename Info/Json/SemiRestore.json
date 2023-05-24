@@ -1,0 +1,107 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/SemiRestore/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Ứng dụng này dùng để gỡ Jailbreak\n\nㅤ\n\n- Hỗ trợ: iOS 11.3 đến 14.8.1 trên tất cả các thiết bị\n\n- Xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng\n\n- Yêu cầu sao lưu lại tài liệu trong máy trước khi chạy\n\n- Ứng dụng khá đơn giản. Chỉ có một nút nhấn Unjailbreak. Nó sẽ bắt đầu chạy khi bạn xác nhận\n\n- Thiết bị sẽ khởi động với một thanh tiến trình gỡ dữ liệu và khôi phục lại toàn bộ hệ thống. Bạn chỉ việc chờ cho đến khi xong\n\n- Nếu bị treo Táo trên 5 phút, vui lòng nhấn tổ hợp phím cứng để cho quá trình khôi phục được tiếp tục (iPhone X trở lên nhấn tăng âm bỏ tay, giảm âm bỏ tay & nhấn giữ nút nguồn tới khi lên táo)\n\nㅤ\n\nLưu ý! Tắt công Tắc bên dưới là bảo vệ thông tin của bạn. Bật công Tắc là để xóa tất cả các thông tin của bạn\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Pwn20wnd"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Ứng dụng"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"24/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 11.3 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.6\n\n- Hỗ trợ lên tới iOS 14.8.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
