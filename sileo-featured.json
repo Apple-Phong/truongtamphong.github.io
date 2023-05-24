@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.sixls",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/SixLs/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.semirestore",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/SemiRestore/Banner.jpg",

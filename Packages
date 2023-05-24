@@ -1957,6 +1957,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Sica-Rootless.json
 Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/f.png
 
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.81
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.81_iphoneos-arm.deb
+Size: 21483682
+MD5sum: 391244b3153b564e5db9f1caeb719617
+SHA1: 97e8afeeacc88836e51cf217aea656786f9defb6
+SHA256: f087d42ec90bed66e9f90c3e314d7c05f2ff96b50f637cf5c473e45df07d8b15
+SHA512: eb74bdb93a7bec62c21138a0b9ef107428c61b43d2fc4e27c6fac31756d0ddd56f5f88b55af502478c3ad56fb366e5368da07f19abd66a70df36295477181829
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/SixLs.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
 Version: 1.5.13-Beta3
