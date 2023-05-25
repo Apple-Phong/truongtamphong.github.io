@@ -1380,6 +1380,23 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.LibSkittyColor
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.LibSkittyColor_1.0.0_iphoneos-arm.deb
+Size: 49148
+MD5sum: bf3a93f18e565987267392611c0bec64
+SHA1: 53689d225de37ecc1c3d554830415acb47492548
+SHA256: d9f9a88e1cb9d17fbf3564f7f4c02ee54ec1c2306ba15658a4e388636208cd3b
+SHA512: 6847a6ed3dc5858781785aff483a2f5b0475520c020513205f3fae7c7bf7ed4cf60a21fbe8884a6b45a4524cf2285da0e701bdef9e0be72fcab8fd36fc533210
+Homepage: https://apple-phong.github.io
+Description: Gói hỗ trợ màu cho tinh chỉnh Spectrum
+Name: LibSkittyColor
+Author: Skitty
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
 Package: HoangDinhPhong.Lightly
 Architecture: iphoneos-arm
 Version: 1.0.03
@@ -2212,6 +2229,28 @@ Tags: compatible_min::ios5.0, compatible_max::ios69.6
 Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.Spectrum
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=13.0), mobilesubstrate, hoangdinhphong.libskittycolor
+Filename: ./Deb/HoangDinhPhong.Spectrum_1.1_iphoneos-arm.deb
+Size: 104490
+MD5sum: b77685fa733bc8275f85d2db5bc5b394
+SHA1: 9ff89a2a27bdc05f0e8a5484fae4f846f15420f6
+SHA256: 142945767026904514d77e1b72055fd0a23e4a29c58f431467faf4a6faac9dec
+SHA512: d57f874d4d2dab53998d75fcb7ff9f1ff40bad531e8c87f7526ff66a99079e7714059c383e7cce53e3a1fc330dc04e7fd00fb6305fad6aa1e06f527a19b05e9b
+Homepage: https://apple-phong.github.io
+Description: Tùy chỉnh màu sắc hệ thống!
+Name: Spectrum Việt Nam
+Author: Skitty & EvenDev
+Depiction: https://apple-phong.github.io/Info/Html/Spectrum.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Spectrum.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Spectrum.json
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
