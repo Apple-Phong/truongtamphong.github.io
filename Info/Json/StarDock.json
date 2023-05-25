@@ -98,6 +98,21 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.7\n\n- Thêm lớp phủ ảnh bìa Album\n\n- Thêm tuỳ chỉnh tốc độ cuộn tên bài hát\n\n- Thêm xoay ảnh bìa Album & tuỳ chỉnh tốc độ xoay"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/StarDock/Screenshots/Update/1.0.7/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.6\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông\n\n- Thay đổi lại tốc độ hiển thị nhanh hơn"
 },
 {

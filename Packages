@@ -2274,6 +2274,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.StarDock
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.StarDock_1.0.7_iphoneos-arm.deb
+Size: 24063886
+MD5sum: 2cb333657e3917e4b68b30e9e59aa5e9
+SHA1: 7409f87988d4ed836677573aad581a712bdcc5df
+SHA256: 77b2025c360ec5886f739e0f65fbe55828f93e624f5c09abaab1c8e3432479fb
+SHA512: ecca292fc32c167581c47d61ceb21f6e7f724c77bb30e2ab56f242d1faead9c22e162b66dc4bb4d0b6d508192b430e901529aa4347305bfe130071807215d140
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: StarDock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/StarDock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
