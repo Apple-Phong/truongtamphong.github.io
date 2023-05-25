@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.stardock",
+"title":"" ,
+"url":"https://apple-phong.github.io/Images/StarDock/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.spectrum",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/Spectrum/Banner.jpg",
