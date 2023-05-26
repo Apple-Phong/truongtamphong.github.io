@@ -98,13 +98,13 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.40\n\n- Thêm trình phát nhạc"
+"markdown":"### Phiên bản 1.41\n\n- Thêm trình phát nhạc"
 },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/Askew/Screenshots/Update/1.40/1.png",
+"url":"https://apple-phong.github.io/Images/Askew/Screenshots/Update/1.41/1.png",
 "accessibilityText":"Screenshot"
 }
 ],

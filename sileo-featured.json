@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.askew",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Askew/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.stardock",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/StarDock/Banner.jpg",
@@ -313,12 +319,6 @@
 "package":"hoangdinhphong.dustryred",
 "title":"Dustry Red",
 "url":"https://apple-phong.github.io/Images/DustryRed/Banner.jpg",
-"hideShadow":"false"
-},
-{
-"package":"hoangdinhphong.askew",
-"title":"Askew",
-"url":"https://apple-phong.github.io/Images/Askew/Banner.jpg",
 "hideShadow":"false"
 },
 {
