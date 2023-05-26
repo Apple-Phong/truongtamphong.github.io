@@ -30,7 +30,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Pin\n\nㅤ\n\nChú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Trình phát nhạc\n\n+ Pin\n\nㅤ\n\nChú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -56,7 +56,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"HĐP & Alimaulana"
+"text":"Hoàng Đình Phong & Alimaulana"
 },
 {
 "class":"DepictionTableTextView",
@@ -66,7 +66,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/05/2023"
+"text":"26/05/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -96,6 +96,21 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.40\n\n- Thêm trình phát nhạc"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Askew/Screenshots/Update/1.40/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.33\n\n- Sửa lỗi Pin từ 20% trở xuống không hiển thị hình quả pin"
