@@ -626,6 +626,49 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/CGP.json
 Tags: compatible_min::ios11.0, compatible_max::ios16.5
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.CGP
+Architecture: iphoneos-arm
+Version: 451
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.CGP_451_iphoneos-arm.deb
+Size: 93961554
+MD5sum: 8a2194cf308868ed92fc28356f3de201
+SHA1: e36bde7ec4871f421eec6a1e0f05efb238237185
+SHA256: 30bf7298e4155ab0849b1810c2c9ef2e375ae79d961fece4a82e70ee600488b2
+SHA512: 90fc694fa7fa70094262cf595cab40ffc9c30434f9222fb1597e3ab4ec765f2d0dd63daedb91911688fe16f914ac587e1ed5340ea76398acc60f186c8484607b
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu tối
+Name: CGP
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/CGP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/CGP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/CGP.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.Carbon
+Architecture: iphoneos-arm
+Version: 514
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Carbon_514_iphoneos-arm.deb
+Size: 97785212
+MD5sum: 34d111c6aec8ec671976c2e431bb407e
+SHA1: dccf6dc595ac037d28b8bc0b5ae5f85941523984
+SHA256: acd293977b4ea0cb69f881fdf5a19b4a28d4a01800c8478a44ac7cf020f93369
+SHA512: 60cc3639fb280403502752caa2fb74014f8ed7d24859c1db4a2f04414e217dedb17a20baa18552a26c514199b3a926b0e1d34f2fdb2f8ba891c7c94c15459c29
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu tối
+Name: Carbon
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Carbon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Carbon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Carbon.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.0.13

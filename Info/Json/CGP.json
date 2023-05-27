@@ -98,6 +98,10 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 451\n\n- Tách riêng gói Settings UI ra ngoài để hiển thị đầy đủ hơn\n\n- Đã có thể đổi tên các mục của tinh chỉnh Shuffle mà không cần giữ tên gốc, biểu tượng gói sẽ không bị mất đi *Lưu ý!* Bạn cần phải sắp xếp kéo mục Settings UI lên hàng đầu so với theme thì mới có tác dụng"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 450\n\n- Thêm nhiều biểu tượng mới"
 },
 {
