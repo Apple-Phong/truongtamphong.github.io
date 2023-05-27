@@ -611,11 +611,11 @@ Version: 448
 Section: Themes
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.CGP_448_iphoneos-arm.deb
-Size: 93952438
-MD5sum: 561b6dfd39d3b0fd136155b3ce874f22
-SHA1: 379e92d55b4f75a1203c87327e5c627a61b46288
-SHA256: 46f6bd3d56b502c8dd8a60fa5ccfe24a3236b8182a8200329a4f8184ed355899
-SHA512: 2cbdb4f1209f4a8324bf2c00979ed94d922397c81bf28bbcb5f2a1107dd6e11bff0d8d2a90f55a6d927f79d673da4435de634b73315795840dc7eb924b89b766
+Size: 93959492
+MD5sum: 681220e8d774ddb489ad39013e98981f
+SHA1: 8a050a622d2aa970711002830a409a284c93cfa7
+SHA256: 2391e70021ff227a2d9882584abaf7ddbec1c297d8986c18b6c5d8efbef5f158
+SHA512: 7857b88cd6adfa3f5ed02a37fe6f094f29e0f9b09ba50d6bdd30b8b896ae3daa0061aa0e09b6b259533d8715c8c15d75283cae8dd0d328f3afcf7eeefc554a22
 Homepage: https://apple-phong.github.io
 Description: Chủ đề màu tối
 Name: CGP
