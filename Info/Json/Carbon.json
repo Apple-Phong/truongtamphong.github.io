@@ -97,6 +97,17 @@
 "markdown":"### Phiên bản 514\n\n- Thêm nhiều biểu tượng mới\n\n- Đã có thể đổi tên các mục của tinh chỉnh Shuffle mà không cần giữ tên gốc, biểu tượng gói sẽ không bị mất đi. *Lưu ý!* Bạn cần phải sắp xếp kéo mục Settings UI lên hàng đầu so với theme thì mới có tác dụng"
 },
 {
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Carbon/Screenshots/Update/514/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
 "class":"DepictionLabelView",
 "text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
 "textColor":"#999999",
