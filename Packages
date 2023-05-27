@@ -1449,11 +1449,11 @@ Section: Themes
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Juno_422_iphoneos-arm.deb
-Size: 48667242
-MD5sum: f98093303326bb5025cb0fb90b5d58bc
-SHA1: 085804c724147f1851275e685e486cd2fdb88e72
-SHA256: 510ef331c5551c7f99b5bac7aac1b2860c100d741b98359e41fe2fbd3ff16239
-SHA512: e5062488f56e3b9e828627de7031ca493b62a972483d4a387631fb5c84713006df71eae503953c1f364c24b5b37a013af98235c0b01b2220dbfbec7951b94dc2
+Size: 48667234
+MD5sum: b99d430d30197599dedfd7332f0338c8
+SHA1: 873a1a7d56812b987ae6460f3c59b14e22176e99
+SHA256: 61645f044bb3bb3747b4c97ae8038d69d844a9a5e9de68d8de53e9c96b55acd0
+SHA512: a88ae068dfa5b6bb20ed024c5d9195184bc3ccbb0d9cdd457691417d214f7aa660b1be6c63f7ed867546a8d37348fd2f928e375888ac2f5d6198bb01754bfb17
 Homepage: https://apple-phong.github.io
 Description: Chủ đề màu sáng
 Name: Juno
@@ -1462,7 +1462,7 @@ Depiction: https://apple-phong.github.io/Info/Html/Juno.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Juno.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Juno.json
 Tags: compatible_min::ios11.0, compatible_max::ios16.5
-Icon: file:///Applications/Cydia.app/Sections/w.png
+Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.KillApps-Rootless
 Architecture: iphoneos-arm64
