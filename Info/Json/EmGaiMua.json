@@ -1,0 +1,107 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/EmGaiMua/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{600,277}"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"- Nhạc chuông hay cho dế yêu\n\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/EmGaiMua.mp3) để nghe thử\n\nㅤ\n\n *LỜI BÀI HÁT*\n\n Mưa trôi cả bầu trời nắng trượt theo những nỗi buồn\n\nThấm ướt lệ sầu môi đắng vì đánh mất hy vọng\n\nLần đầu gặp nhau dưới mưa trái tim rộn ràng bởi ánh nhìn\n\nTình cảm dầm mưa thấm lâu em nào ngờ\n\nMình hợp nhau đến như vậy thế nhưng không phải là yêu\n\nVà em muốn hỏi anh rằng chúng ta là thế nào\n\nRồi lặng người đến vô tận trách sao được sự tàn nhẫn\n\nAnh trót vô tình thương em như là em gái\n\nㅤ\n\nĐừng lo lắng về em khi mà em vẫn còn yêu anh\n\nCàng xa lánh càng trống vắng tim cứ đau và nhớ lắm\n\nĐành phải buông hết tất cả thôi nụ cười mỉm sau bờ môi\n\nẤm áp dịu dàng vai anh em đã bao lần yên giấc\n\nNhìn trên cao khoảng trời yêu mà em lỡ dành cho anh\n\nGiờ mây đen quyện thành bão giông tố đang dần kéo đến\n\nChồi non háo hức đang đợi mưa\n\nGiọt mưa giống em ngày xưa\n\nMưa trôi để lại ngây thơ trong giấc mơ buốt lạnh...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ca sĩ thể hiện",
+"text":"Hương Tràm"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Ringtones"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"27/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 7.0 đến 13.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

@@ -1090,6 +1090,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.EmGaiMua
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.EmGaiMua_1.0.0_iphoneos-arm.deb
+Size: 204814
+MD5sum: 0de7195a487a9811a2c556ccdaffc5bb
+SHA1: 162d5e2696807e6f171edfb6d8dcadfeab614835
+SHA256: 18db13a6b51e394734c1ad5df01488ddef51c3c4c0573a15a653c2d13dfeb24d
+SHA512: 6ae4a54bc36b92d630e2667efdb338b0909dd2f2223567bd194391f47fefb7f6389f0f8f6c385521fa7a096222972c7262953d5beb437efa34987cc04207ad94
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Em gái mưa
+Depiction: https://apple-phong.github.io/Info/Html/EmGaiMua.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/EmGaiMua.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/EmGaiMua.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Author: Hương Tràm
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Faint
 Architecture: iphoneos-arm
 Version: 1.0.3
