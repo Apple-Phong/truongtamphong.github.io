@@ -607,15 +607,15 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.CGP
 Architecture: iphoneos-arm
-Version: 448
+Version: 450
 Section: Themes
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.CGP_448_iphoneos-arm.deb
-Size: 93959492
-MD5sum: 681220e8d774ddb489ad39013e98981f
-SHA1: 8a050a622d2aa970711002830a409a284c93cfa7
-SHA256: 2391e70021ff227a2d9882584abaf7ddbec1c297d8986c18b6c5d8efbef5f158
-SHA512: 7857b88cd6adfa3f5ed02a37fe6f094f29e0f9b09ba50d6bdd30b8b896ae3daa0061aa0e09b6b259533d8715c8c15d75283cae8dd0d328f3afcf7eeefc554a22
+Filename: ./Deb/HoangDinhPhong.CGP_450_iphoneos-arm.deb
+Size: 93959484
+MD5sum: 7eb46539795a2cb73346c9770b3ef417
+SHA1: 04d75032bfb00113b12a7ca9d1f3544220555069
+SHA256: bfefa1a44f48960151ea2bb90b283a66945e1a12d48476428cd42d8195e5fc8c
+SHA512: 5376afd19aae826115e47263353cc6a622fe87931f4b672db875491cef4ca6319efd399dc88ee4d718cbd9a6cb13e627adee4633086c9d7a59f7da08b2371634
 Homepage: https://apple-phong.github.io
 Description: Chủ đề màu tối
 Name: CGP
