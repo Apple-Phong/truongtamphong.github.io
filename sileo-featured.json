@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.cgp",
+"title":"",
+"url":"https://apple-phong.github.io/Images/CGP/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.askew",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Askew/Banner.jpg",

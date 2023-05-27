@@ -605,6 +605,27 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.CGP
+Architecture: iphoneos-arm
+Version: 448
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.CGP_448_iphoneos-arm.deb
+Size: 93952438
+MD5sum: 561b6dfd39d3b0fd136155b3ce874f22
+SHA1: 379e92d55b4f75a1203c87327e5c627a61b46288
+SHA256: 46f6bd3d56b502c8dd8a60fa5ccfe24a3236b8182a8200329a4f8184ed355899
+SHA512: 2cbdb4f1209f4a8324bf2c00979ed94d922397c81bf28bbcb5f2a1107dd6e11bff0d8d2a90f55a6d927f79d673da4435de634b73315795840dc7eb924b89b766
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu tối
+Name: CGP
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/CGP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/CGP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/CGP.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.0.13
