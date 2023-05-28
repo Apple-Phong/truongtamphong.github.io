@@ -2470,6 +2470,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SymbianBelle.json
 Tags: compatible_min::ios11.0, compatible_max::ios16.5
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.SystemInfo
+Architecture: iphoneos-arm
+Version: 2.7.2-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.SystemInfo_2.7.2-3_iphoneos-arm.deb
+Size: 427886
+MD5sum: a0e0c60b2ebd521bcff6b57ce0d96d2d
+SHA1: cd0104d146f3eeca8ed5fc0aa4b05a90cc027179
+SHA256: 6f5920c976184435167fb5befb7f0d013a9957be620b40bc5751e355cd0866e7
+SHA512: 5a6edc5e2e382869cada8261c829f20482dde461ab802c0758d825235eabdd828517fb1ed4fabc93271f24d93d7b07b87a377a6551b57bb7d7dd26ced79a6917
+Homepage: https://apple-phong.github.io
+Description: Xem chi tiết thông tin hệ thống
+Name: System Info Việt Nam
+Author: ARX8x
+Depiction: https://apple-phong.github.io/Info/Html/SystemInfo.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SystemInfo.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SystemInfo.json
+Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0

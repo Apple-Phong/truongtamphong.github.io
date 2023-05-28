@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.systeminfo",
+"title":"",
+"url":"https://apple-phong.github.io/Images/SystemInfo/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.symbianbelle",
 "title":"",
 "url":"https://apple-phong.github.io/Images/SymbianBelle/Banner.jpg",

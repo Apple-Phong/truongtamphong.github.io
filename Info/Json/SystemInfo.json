@@ -1,0 +1,111 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/SystemInfo/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/SystemInfo/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh giúp thay đổi tỉ độ phân giải, hiển thị thêm nhiều thông tin hệ thống như: Nhiệt độ CPU. Thời gian chạy jailbreak. Dung lượng pin. Số lần sạc pin. Nguồn sạc vào. Đặt boot-nonce. Lưu SHSH, v.v...\n\nㅤ\n\n- Thông tin hệ thống xem tại Cài đặt chung -> Thông tin\n\n- Thay đổi độ phân giải tại Màn hình & Độ sáng -> Phân giải màn hình\n\n- Thông tin chi tiết pin tại -> Pin (phần bên dưới)\n\n- Thông tin bộ nhớ và phân vùng tại Cài đặt chung -> Dung lượng iPhone\n\nㅤ\n\n* Lưu ý! *\n\nKhông tuỳ chỉnh độ phân giải lung tung nếu không biết. Hậu quả là do bạn\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"ARX8x"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"28/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 7.0 đến 14.8.1"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 2.7.2-3\n\n- Khắc phục sự cố iofbres trong khi cố gắng thiết lập đặt lại độ phân giải trên unc0ver\n\n- Khắc phục sự cố chế độ xem pin ứng dụng trên thiết bị A12"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
