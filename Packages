@@ -2448,6 +2448,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SymbianBelle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
+Size: 2675644
+MD5sum: d30d5a81f5e7fb41aafcb1e5338b2694
+SHA1: 2ca89b9ea066b919064d33c0f6a4e9596ac705e5
+SHA256: db16dadce811d12953c6cabc28aea6777f12cfa2956551c20a12a35d5f3a509f
+SHA512: abbd720aa5e21f92d5c0acfab8a5e01d61551a463ca79fb545e9940def4b3ba8eb84e07b7d7ca67424b8247a43484462608340b701c1a17b86040b42b316b6e9
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu sáng
+Name: Symbian Belle
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/SymbianBelle.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SymbianBelle.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SymbianBelle.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
