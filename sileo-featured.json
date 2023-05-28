@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.t9dialer",
+"title":"",
+"url":"https://apple-phong.github.io/Images/T9Dialer/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.systeminfo",
 "title":"",
 "url":"https://apple-phong.github.io/Images/SystemInfo/Banner.jpg",

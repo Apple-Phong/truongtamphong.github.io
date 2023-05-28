@@ -2492,6 +2492,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SystemInfo.json
 Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.T9Dialer
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware (>= 11.1.2)
+Filename: ./Deb/HoangDinhPhong.T9Dialer_1.2.0_iphoneos-arm.deb
+Size: 68106
+MD5sum: 2f89027cbff4efef3553ab4d0bfdfaab
+SHA1: d890154881f5a72321659dfd1b1851ccbc4b5baa
+SHA256: 4718aa9dc62909e2b01a512c0eb1497b35df640a6083708b9f0db377fe0cd1c9
+SHA512: 6aa77557bee87411bbf9532a9e50699d8cac60b733cb4b4d09c07e83605cc2d4fc319737380029dda96ad8e082552164c61054eae00af3d17a6d905b527b36d2
+Homepage: https://apple-phong.github.io
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại
+Name: T9Dialer Việt Nam
+Author: Jordan Koch
+Depiction: https://apple-phong.github.io/Info/Html/T9Dialer.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/T9Dialer.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/T9Dialer.json
+Tags: compatible_min::ios11.1.2, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0

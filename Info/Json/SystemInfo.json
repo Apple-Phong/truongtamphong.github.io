@@ -26,7 +26,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh giúp thay đổi tỉ độ phân giải, hiển thị thêm nhiều thông tin hệ thống như: Nhiệt độ CPU. Thời gian chạy jailbreak. Dung lượng pin. Số lần sạc pin. Nguồn sạc vào. Đặt boot-nonce. Lưu SHSH, v.v...\n\nㅤ\n\n- Thông tin hệ thống xem tại Cài đặt chung -> Thông tin\n\n- Thay đổi độ phân giải tại Màn hình & Độ sáng -> Phân giải màn hình\n\n- Thông tin chi tiết pin tại -> Pin (phần bên dưới)\n\n- Thông tin bộ nhớ và phân vùng tại Cài đặt chung -> Dung lượng iPhone\n\nㅤ\n\n* Lưu ý! *\n\nKhông tuỳ chỉnh độ phân giải lung tung nếu không biết. Hậu quả là do bạn\n\nㅤ\n\n",
+"markdown":"Tinh chỉnh giúp thay đổi tỉ độ phân giải, hiển thị thêm nhiều thông tin hệ thống như: Nhiệt độ CPU. Thời gian chạy jailbreak. Dung lượng pin. Số lần sạc pin. Nguồn sạc vào. Đặt boot-nonce. Lưu SHSH, v.v...\n\nㅤ\n\n- Thông tin hệ thống xem tại Cài đặt chung -> Thông tin\n\n- Thay đổi độ phân giải tại Màn hình & Độ sáng -> Phân giải màn hình\n\n- Thông tin chi tiết pin tại -> Pin (phần bên dưới)\n\n- Thông tin bộ nhớ và phân vùng tại Cài đặt chung -> Dung lượng iPhone\n\nㅤ\n\n*Lưu ý!*\n\nKhông tuỳ chỉnh độ phân giải lung tung nếu không biết. Hậu quả là do bạn\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
