@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.letopro",
+"title":"",
+"url":"https://apple-phong.github.io/Images/LetoPro/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.juno",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Juno/Banner.jpg",

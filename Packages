@@ -1510,6 +1510,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.LetoPro
+Architecture: iphoneos-arm
+Version: 423
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.LetoPro_423_iphoneos-arm.deb
+Size: 48883182
+MD5sum: 48b520a1fa2064e5dbba981b8b31760f
+SHA1: 27de45d530bccc67b77aa22bf503b097ad193c1a
+SHA256: 7e9dbb2067ab31064a23fff056c9250a051dbc3430af6c4240e2512c9214d2b3
+SHA512: f0539f2fd4367e0793605c9abd6cb886f462607a2c594ef123d37a328c15879a14d7f3f8578cbb3134b8532ade70f7c2f741966a238389e23e72e787987b1af0
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu ấm
+Name: LetoPro
+Author: MtK
+Depiction: https://apple-phong.github.io/Info/Html/LetoPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/LetoPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/LetoPro.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.LibSkittyColor
 Architecture: iphoneos-arm
 Version: 1.0.0
