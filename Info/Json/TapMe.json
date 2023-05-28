@@ -10,11 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/T9Dialer/Screenshots/1.png",
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/2.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/3.jpg",
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":0,
+"itemCornerRadius":39,
 "itemSize":"{185,400}"
 },
 {
@@ -22,7 +30,18 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh này dùng để tìm kiếm số điện thoại theo tên hoặc số trực tiếp trên bàn phím thay vì kéo tìm trong danh bạ\n\nㅤ\n\n*Các tuỳ chọn trong cài đặt*\n\n+ Hiện tab bàn phím khi khởi chạy\n\n+ Chuyển trường số lên trên\n\n+ Phản hồi rung khi nhấn phím\n\n+ Ưu tiên tên trước họ sau\n\n+ Tìm kiếm theo số điện thoại\n\n+ Màu chữ nhập liệu\n\nㅤ\n\n",
+"markdown":"Tinh chỉnh này dùng để phát âm thanh & rung khi nhấn mở ứng dụng hoặc thư mục\n\nㅤ\n\nCác tuỳ chọn trong cài đặt\n\n+ Rung phản hồi nhẹ, vừa & mạnh\n\n+ Chọn âm thanh",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"*Lưu ý!*",
+"textColor":"#859AF4",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"Âm thanh không hoạt động ở chế độ im lặng\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -48,7 +67,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Jordan Koch"
+"text":"Alex"
 },
 {
 "class":"DepictionTableTextView",
@@ -63,7 +82,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 11.1.2 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -90,7 +109,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2.0\n\n- Nâng cấp và sửa lỗi"
+"markdown":"### Phiên bản 1.3\n\n- Thay đổi một số âm thanh gốc"
 },
 {
 "class":"DepictionLabelView",

@@ -2514,6 +2514,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/T9Dialer.json
 Tags: compatible_min::ios11.1.2, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.TapMe
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.TapMe_1.3_iphoneos-arm.deb
+Size: 2967934
+MD5sum: 83fc87bc1f2979cf054fee8ba32c5278
+SHA1: e25cc00c16ee82daa7873251bf6cc2d89a36b7ab
+SHA256: 1be6bc2e9b73c6205aba4e4c7319d0c035cdf50a2de2797b75d8401e4214d29e
+SHA512: e39d2fb7354e39aec70dfcb7b21b15071df91dab9c9aa3baf065160d6483941738b59067652b8340c795a6d5fa9bfe12a35c5e138c34891673e6b31f30afd54d
+Homepage: https://apple-phong.github.io
+Description: Phát âm thanh và rung khi mở ứng dụng hoặc thư mục
+Name: TapMe
+Author: Alex
+Depiction: https://apple-phong.github.io/Info/Html/TapMe.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/TapMe.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/TapMe.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
