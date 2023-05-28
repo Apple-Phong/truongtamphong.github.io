@@ -22,7 +22,7 @@
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":39,
+"itemCornerRadius":20,
 "itemSize":"{185,400}"
 },
 {
@@ -35,10 +35,11 @@
 "class":"DepictionMarkdownView"
 },
 {
-"markdown":"*Lưu ý!*",
+"text":"Lưu ý!",
 "textColor":"#859AF4",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
+"fontSize":"10.0",
+"class":"DepictionLabelView",
+"alignment":0
 },
 {
 "markdown":"Âm thanh không hoạt động ở chế độ im lặng\n\nㅤ\n\n",
