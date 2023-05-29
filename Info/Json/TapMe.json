@@ -30,14 +30,13 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh này dùng để phát âm thanh & rung khi nhấn mở ứng dụng hoặc thư mục\n\nㅤ\n\nCác tuỳ chọn trong cài đặt\n\n+ Rung phản hồi nhẹ, vừa & mạnh\n\n+ Chọn âm thanh",
+"markdown":"Tinh chỉnh này dùng để phát âm thanh & rung khi nhấn mở ứng dụng hoặc thư mục\n\n\n\nCác tuỳ chọn trong cài đặt\n\n+ Rung phản hồi nhẹ, vừa & mạnh\n\n+ Chọn âm thanh",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
 {
 "text":"Lưu ý!",
 "textColor":"#FF3A03",
-"fontSize":"12.0",
 "class":"DepictionLabelView",
 "alignment":0
 },
