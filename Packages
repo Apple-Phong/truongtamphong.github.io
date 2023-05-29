@@ -2558,6 +2558,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/TexGyre-Rootless.json
 Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/f.png
 
+Package: HoangDinhPhong.ThaRangNhuTheRemix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.ThaRangNhuTheRemix_1.0.0_iphoneos-arm.deb
+Size: 260686
+MD5sum: 0f08de58cb49b157c6a2441bbfd66c45
+SHA1: 30274f965b0401f25a6c810436cc30b66bd32419
+SHA256: 04da0b6236c5aec328c5c6988a9b11ab29b71630eaaccc6e8285c1bd59265958
+SHA512: 6fcab5a1d1597c2cbe83e0799fac32d141fc6352df1c1cb31ac445424b1ff30f7b2db4334aa34af636e89a7c5f0f7566ceeb060d67c67b6f21a7ff8ffa568ab7
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Thà rằng như thế (Remix)
+Author: Ưng Hoàng Phúc
+Depiction: https://apple-phong.github.io/Info/Html/ThaRangNhuTheRemix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ThaRangNhuTheRemix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ThaRangNhuTheRemix.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.WeatherStatusBar
 Architecture: iphoneos-arm
 Version: 1.1.5

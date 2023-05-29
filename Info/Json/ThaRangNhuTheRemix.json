@@ -15,19 +15,24 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh này chủ yếu dùng để chặn quảng cáo và chạy ẩn khi phát Video trên YouTube",
+"markdown":"Nhạc chuông hay cho dế yêu",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionLabelView",
-"text":"Các tuỳ chọn trong cài đặt bao gồm:",
+"text":"Lời bài hát",
 "textColor":"Green",
 "fontSize":"14.0",
 "alignment":0
-}
+},
 {
-"markdown":"+ Tuỳ chọn video\n\n+ Tuỳ chọn lớp phủ\n\n+ Tuỳ chọn thanh tab\n\n+ Tuỳ chọn màu sắc\n\n+ Kiểu iPad trên iPhone\n\n+ Ẩn & Tắt các thành phần khác nhau...\n\nㅤ\n\n",
+"markdown":"Cố giấu nước mắt lặng thầm nhìn nhau nghe nhói lòng\n\nBiết nói chi đây một câu trước khi biệt ly\n\nChiều buồn nghẹn ngào buông lơi chút ánh sáng nhạt nhoà\n\nTựa như níu kéo bước chân người đi\n\nHãy cố nhắm mắt tìm đường vượt qua cơn bão lòng\n\nHãy cố quên nhau dù cho xót xa lệ rơi\n\nĐể lại cuộc tình trong cơn hấp hối chút ngọt ngào\n\nNgười hỡi hôn nhau đi lần cuối...\n\nㅤ\n\nThà như thế, thà rằng như thế\n\nThà đừng cố níu kéo nát tan lòng nhau chi hỡi em\n\nThà như thế thà rằng như thế\n\nThà đừng nhắc đến nữa những ân tình đã phôi phai\n\nGiấc mơ qua rồi...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/ThaRangNhuTheRemix.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -42,16 +47,12 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://apple-phong.github.io/Images/YouTubeReborn/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/YouTubeReborn/Screenshots/2.png",
+"url":"https://apple-phong.github.io/Images/ThaRangNhuTheRemix/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
-"itemSize":"{185,400}"
+"itemSize":"{600,277}"
 },
 {
 "class":"DepictionHeaderView",
@@ -71,23 +72,23 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
-"text":"SarahH12099"
+"title":"Ca sĩ thể hiện",
+"text":"Ưng Hoàng Phúc"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Ringtones"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"23/05/2023"
+"text":"29/05/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 15.7.4"
+"text":"iOS 7.0 đến 13.7"
 },
 {
 "class":"DepictionSpacerView"
@@ -114,7 +115,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.0.0\n\n- Sửa lỗi và nâng cấp hỗ trợ YouTube bản mới nhất"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",
