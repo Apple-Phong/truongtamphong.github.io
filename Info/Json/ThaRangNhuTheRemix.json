@@ -23,7 +23,7 @@
 "class":"DepictionLabelView",
 "text":"Lời bài hát",
 "textColor":"Green",
-"fontSize":"20",
+"fontSize":"20.9",
 "alignment":0
 },
 {
@@ -47,7 +47,7 @@
 "itemSize":"{600,277}"
 },
 {
-"markdown":"- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/ThaRangNhuTheRemix.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/ThaRangNhuTheRemix.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
