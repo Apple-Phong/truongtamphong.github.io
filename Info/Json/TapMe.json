@@ -7,6 +7,10 @@
 "tabname":"Chi tiết",
 "views":[
 {
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
+{
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
