@@ -23,7 +23,7 @@
 "class":"DepictionLabelView",
 "text":"Lời bài hát",
 "textColor":"Green",
-"fontSize":"14.0",
+"fontSize":"20",
 "alignment":0
 },
 {
@@ -32,16 +32,8 @@
 "class":"DepictionMarkdownView"
 },
 {
-"markdown":"- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/ThaRangNhuTheRemix.mp3) để nghe thử\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
 "class":"DepictionHeaderView",
-"title":"Hình ảnh"
+"title":"Nghe nhạc"
 },
 {
 "class":"DepictionScreenshotsView",
@@ -53,6 +45,14 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{600,277}"
+},
+{
+"markdown":"- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/ThaRangNhuTheRemix.mp3) để nghe thử\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
 },
 {
 "class":"DepictionHeaderView",

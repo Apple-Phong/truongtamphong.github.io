@@ -1637,6 +1637,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Mars.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Meloso-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Fonts
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.Meloso-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 40697914
+MD5sum: 3e857bc18b3583d607c966a083e8be96
+SHA1: e9c9ec2afb9a6b4d07896c4d53ea21374754910b
+SHA256: 4412a43bdf6923da011f630394be1c650f4c1223158f87b0809ef34aa221ec33
+SHA512: 4fb66907d18ae08629e3f9e1043f8aecc0774ff5cc97ec6b23cdd066d37d6615cbcf65930c2abadb71a76126e64a133555507d39edb497d98766f3ad9acbbc89
+Homepage: https://apple-phong.github.io
+Description: Phông chữ áp dụng qua tiện ích Snowboard
+Name: Meloso - Rootless
+Author: Rachel Kick
+Depiction: https://apple-phong.github.io/Info/Html/Meloso-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meloso-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meloso-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
+Icon: file:///Applications/Cydia.app/Sections/f.png
+
 Package: HoangDinhPhong.Meteor
 Architecture: iphoneos-arm
 Version: 1.0.01

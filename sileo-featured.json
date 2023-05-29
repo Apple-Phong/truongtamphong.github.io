@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.meloso-rootless",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Meloso-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.tharangnhutheremix",
 "title":"",
 "url":"https://apple-phong.github.io/Images/ThaRangNhuTheRemix/Banner.jpg",
