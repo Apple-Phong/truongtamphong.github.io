@@ -22,7 +22,7 @@
 "accessibilityText":"Screenshot"
 }
 ],
-"itemCornerRadius":20,
+"itemCornerRadius":10,
 "itemSize":"{185,400}"
 },
 {
@@ -36,8 +36,8 @@
 },
 {
 "text":"Lưu ý!",
-"textColor":"#859AF4",
-"fontSize":"10.0",
+"textColor":"#FF3A03",
+"fontSize":"12.0",
 "class":"DepictionLabelView",
 "alignment":0
 },

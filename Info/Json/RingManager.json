@@ -22,7 +22,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tiện ích hỗ trợ nhạc chuông\n\n- Hoạt động trên iOS 7 - 13! Không có tùy chọn để định cấu hình\n\nㅤ\n\n",
+"markdown":"Tiện ích hỗ trợ nhạc chuông\n\n- Hoạt động trên iOS 7 - 13!\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },

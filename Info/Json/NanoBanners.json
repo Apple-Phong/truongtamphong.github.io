@@ -22,7 +22,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh giúp thu gọn thông báo trên thanh trạng thái\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n- Độ trễ ẩn thông báo\n\n- Tốc độ cuộn chữ\n\nㅤ\n\n",
+"markdown":"Tinh chỉnh giúp thu gọn thông báo trên thanh trạng thái\n\nCác tuỳ chọn trong cài đặt\n\n- Độ trễ ẩn thông báo\n\n- Tốc độ cuộn chữ\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
