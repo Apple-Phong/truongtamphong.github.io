@@ -7,6 +7,9 @@
 "tabname":"Chi tiết",
 "views":[
 {
+"class":"DepictionSpacerView"
+},
+{
 "class":"DepictionHeaderView",
 "title":"Nội dung"
 },
@@ -17,6 +20,10 @@
 },
 {
 "class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
 },
 {
 "class":"DepictionScreenshotsView",
