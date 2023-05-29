@@ -7,6 +7,18 @@
 "tabname":"Chi tiết",
 "views":[
 {
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh này chủ yếu dùng để chặn quảng cáo và chạy ẩn khi phát Video trên YouTube\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Tuỳ chọn video\n\n+ Tuỳ chọn lớp phủ\n\n+ Tuỳ chọn thanh tab\n\n+ Tuỳ chọn màu sắc\n\n+ Kiểu iPad trên iPhone\n\n+ Ẩn & Tắt các thành phần khác nhau...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
@@ -20,18 +32,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh này chủ yếu dùng để chặn quảng cáo và chạy ẩn khi phát Video trên YouTube\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Tuỳ chọn video\n\n+ Tuỳ chọn lớp phủ\n\n+ Tuỳ chọn thanh tab\n\n+ Tuỳ chọn màu sắc\n\n+ Kiểu iPad trên iPhone\n\n+ Ẩn & Tắt các thành phần khác nhau...\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
 },
 {
 "class":"DepictionHeaderView",
