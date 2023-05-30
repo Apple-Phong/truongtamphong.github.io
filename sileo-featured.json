@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.windows10clock",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Windows10Clock/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.xindunglangim",
 "title":"",
 "url":"https://apple-phong.github.io/Images/XinDungLangIm/Banner.jpg",
