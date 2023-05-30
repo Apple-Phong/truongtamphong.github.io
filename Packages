@@ -2646,6 +2646,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.UntilYou
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.UntilYou_1.0.0_iphoneos-arm.deb
+Size: 207700
+MD5sum: 836da1e4f30816d8ea3c75ca6d40d111
+SHA1: 409f500f61afc906e8d481eba3166512d2ebf98d
+SHA256: 8d97741101173ba45687ca14fcebbcfd4c21fd3f6634ca5ee65c0b6e40f1f32f
+SHA512: 79cb31d081fec95cb3dc96945d6fcc9cdbf22fe006e716e75d187392aa1e285cc215aa02a3b5197c4277b0cea0c394ffbd0645a0e23b39d7e224090e92fc976e
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Quốc tế
+Name: Until you
+Author: Shayne Ward
+Depiction: https://apple-phong.github.io/Info/Html/UntilYou.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/UntilYou.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/UntilYou.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.WeatherStatusBar
 Architecture: iphoneos-arm
 Version: 1.1.5
