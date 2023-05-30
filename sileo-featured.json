@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.venus",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Venus/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.untilyou",
 "title":"",
 "url":"https://apple-phong.github.io/Images/UntilYou/Banner.jpg",

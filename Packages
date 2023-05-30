@@ -2668,6 +2668,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/UntilYou.json
 Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Venus
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Venus_1.0.1_iphoneos-arm.deb
+Size: 7123706
+MD5sum: 48208f61791c65cc5e1833af16698e07
+SHA1: 3175159f66f0c07f44b33e9271c8ef7c47920ce3
+SHA256: 2febf604c392bf3f0d2fd315c065117f8b78087ba1e8dc8b8bebe6cbac3e974f
+SHA512: ae926026ded97719674187b2852cf3a407f4dd5c6b0e11811bbf794040ce2a068462b76ad881213d9f2c2c75c75097cf43ec4d708906701accf327025d641549
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Venus
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Venus.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Venus.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Venus.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.WeatherStatusBar
 Architecture: iphoneos-arm
 Version: 1.1.5
