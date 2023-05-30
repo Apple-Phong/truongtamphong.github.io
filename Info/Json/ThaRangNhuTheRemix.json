@@ -20,8 +20,8 @@
 "class":"DepictionMarkdownView"
 },
 {
-"class":"DepictionTableTextView",
-"text":"Ưng Hoàng Phúc",
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
 "textColor":"Green"
 },
 {

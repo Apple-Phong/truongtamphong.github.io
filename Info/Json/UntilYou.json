@@ -20,7 +20,7 @@
 "class":"DepictionMarkdownView"
 },
 {
-"class":"DepictionTableTextView",
+"class":"DepictionLabelView",
 "text":"Lời bài hát",
 "textColor":"Green"
 },
