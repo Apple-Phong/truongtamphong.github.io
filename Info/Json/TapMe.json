@@ -8,26 +8,7 @@
 "views":[
 {
 "class":"DepictionHeaderView",
-"title":"Hình ảnh"
-},
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
-{
-"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/1.jpg",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/2.jpg",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/3.jpg",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":10,
-"itemSize":"{185,400}"
+"title":""
 },
 {
 "class":"DepictionHeaderView",
@@ -48,6 +29,29 @@
 "markdown":"Âm thanh không hoạt động ở chế độ im lặng\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/1.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/2.jpg",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/TapMe/Screenshots/3.jpg",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":10,
+"itemSize":"{185,400}"
 },
 {
 "class":"DepictionSpacerView"
