@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.xindunglangim",
+"title":"",
+"url":"https://apple-phong.github.io/Images/XinDungLangIm/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.venus",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Venus/Banner.jpg",

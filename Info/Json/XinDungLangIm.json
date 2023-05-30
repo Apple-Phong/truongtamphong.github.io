@@ -1,0 +1,130 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionHeaderView",
+"title":""
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"Anh vẫn nhớ phút ấy khi anh rời xa\n\nNgười chẳng nói một lời chỉ đứng yên vậy thôi\n\nEm đã cất giấu hết bao nhiêu buồn đau\n\nCòn kí ức ngọt ngào anh mang theo dù ở đâu\n\nLàm gì để trở về?\n\nㅤ\n\nNgười đừng lặng im đến thế\n\nVì lặng im sẽ giết chết con tim\n\nDù yêu thương chẳng còn\n\nAnh vẫn xin em nói một lời\n\nNgoài kia bao la thế giới\n\nNhưng trong anh thế giới chỉ là em thôi\n\nMình xa nhau thật rồi\n\nNhưng anh vẫn chờ đợi...\n\nㅤ\n\nĐã có lúc cố gắng để hiểu được em\n\nRồi cứ thế mỏi mệt chỉ biết bên cạnh em\n\nĐây có lẽ chẳng phải yêu thương trọn vẹn\n\nNgười tìm nơi bắt đầu, người bỏ đi ở phía sau\n\nVới tất cả nỗi sầu...\n\nㅤ\n\nAnh chẳng biết được là khi tất cả đã qua\n\nEm đã nghĩ điều gì, ngày anh cất bước đi\n\nThà một lời rồi cùng buồn đau\n\nCòn hơn riêng em cố giấu\n\nAnh chẳng biết được là xa nhau hay bước tiếp\n\nÊm đềm hay muộn phiền cho nhau hai lối riêng\n\nMột lần để mai sau chẳng hề hối tiếc...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nghe nhạc"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/XinDungLangIm/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{600,277}"
+},
+{
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/XinDungLangIm.mp3) để nghe thử\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ca sĩ thể hiện",
+"text":"Soobin Hoàng Sơn"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Ringtones"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"30/05/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 7.0 đến 13.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

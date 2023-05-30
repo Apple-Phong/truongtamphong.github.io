@@ -2760,6 +2760,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.XinDungLangIm
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Ringtones
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=7.0), hoangdinhphong.ringmanager
+Filename: ./Deb/HoangDinhPhong.XinDungLangIm_1.0.0_iphoneos-arm.deb
+Size: 244666
+MD5sum: c8d6b6fe6281a0793a0f7e27c9bcc25e
+SHA1: e3ef18aee29d16eabb773f4cbcbd527de239ba8a
+SHA256: 1b9aff92ed69e39aac122c8a7cc663e2dbfc1082b2c9cae11c2a954dbbf4cec4
+SHA512: 752a9d6f697b100181fc1c6f4b1eb455cbcb86d80a1cc3c7efe34a331b51ed27ce58405a663bc2a0d3b99ef22912f10124580b9ab6cb3283d37ba19a182eb1cb
+Homepage: https://apple-phong.github.io
+Description: Nhạc chuông Việt Nam
+Name: Xin đừng lặng im
+Author: Soobin Hoàng Sơn
+Depiction: https://apple-phong.github.io/Info/Html/XinDungLangIm.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/XinDungLangIm.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/XinDungLangIm.json
+Tags: compatible_min::ios7.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.YouTubeReborn
 Architecture: iphoneos-arm
 Version: 1.1.0.0
