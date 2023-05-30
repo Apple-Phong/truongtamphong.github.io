@@ -4,6 +4,11 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.ttp1408",
+"url":"https://apple-phong.github.io/Images/TTP1408/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.tranquility",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Tranquility/Banner.jpg",

@@ -2536,6 +2536,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/T9Dialer.json
 Tags: compatible_min::ios11.1.2, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.TTP1408
+Architecture: iphoneos-arm
+Version: 1.0.25
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.TTP1408_1.0.25_iphoneos-arm.deb
+Size: 843818
+MD5sum: 68a45358a1897d38ba31409b08f87e3b
+SHA1: af358e48ec3c760168d160db9c0853a364d62217
+SHA256: ab8a27d6609003f5dbec6faba687f0f4c5113d4d880d201061db68b8ed69e010
+SHA512: 0d058044df2b4590479ff30c0705539b98f0279c260e3b0eb58b6ef9e567fda12e832beb1fd42420ebf2794bc0b747de3b2b973b2109d54e470690ffce102087
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: TTP 1408
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/TTP1408.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/TTP1408.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/TTP1408.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.TapMe
 Architecture: iphoneos-arm
 Version: 1.3
