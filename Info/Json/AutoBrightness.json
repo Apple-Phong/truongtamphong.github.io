@@ -27,6 +27,7 @@
 "itemCornerRadius":0,
 "itemSize":"{400,185}"
 },
+{ "class":"DepictionHeaderView", "title":"" },
 {
 "class":"DepictionSpacerView"
 },

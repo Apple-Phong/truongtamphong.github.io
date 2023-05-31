@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh này hiển thị thông tin thời tiết, nhạc, lịch, thời gian & ứng dụng yêu thích lên màn hình khoá \n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm\n\n+ Tuỳ chỉnh định dạng ngày tháng năm\n\n+ Tuỳ chỉnh thời tiết\n\n+ Tuỳ chỉnh trình phát nhạc\n\n+ Tuỳ chỉnh vị trí thông báo\n\n+ Tuỳ chỉnh ẩn hiện thanh trạng thái\n\n+ Tuỳ chỉnh định dạng thời gian\n\n+ Tuỳ chỉnh phông nền cho nhạc\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -22,15 +33,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh này hiển thị thông tin thời tiết, nhạc, lịch, thời gian & ứng dụng yêu thích lên màn hình khoá \n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm\n\n+ Tuỳ chỉnh định dạng ngày tháng năm\n\n+ Tuỳ chỉnh thời tiết\n\n+ Tuỳ chỉnh trình phát nhạc\n\n+ Tuỳ chỉnh vị trí thông báo\n\n+ Tuỳ chỉnh ẩn hiện thanh trạng thái\n\n+ Tuỳ chỉnh định dạng thời gian\n\n+ Tuỳ chỉnh phông nền cho nhạc\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -38,7 +40,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Ginsu"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.4.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

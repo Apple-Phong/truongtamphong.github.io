@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Cydown cho phép bạn tải Tweak trả phí trong Cydia, Zebra & Installer. Nhưng không phải tất cả\n\nㅤ\n\nCác chức năng chính gồm:\n\n+ Chặn quảng cáo\n\n+ Tự động lưu tệp Deb sau khi cài đặt Tweaks\n\n=> Đường dẫn: /var/mobile/Documents/CyDown\n\n+ Thêm nguồn nhanh\n\n+ Đếm các gói trong nguồn\n\n+ Sao lưu, khôi phục Tweaks và các nguồn lên Dropbox\n\n+ Không ngừng làm mới nguồn khi chạy ẩn Cydia\n\n+ Thêm nút đóng khi cài đặt xong Tweak\n\n+ Dịch ngôn ngữ Tweaks\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -26,15 +37,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Cydown cho phép bạn tải Tweak trả phí trong Cydia, Zebra & Installer. Nhưng không phải tất cả\n\nㅤ\n\nCác chức năng chính gồm:\n\n+ Chặn quảng cáo\n\n+ Tự động lưu tệp Deb sau khi cài đặt Tweaks\n\n=> Đường dẫn: /var/mobile/Documents/CyDown\n\n+ Thêm nguồn nhanh\n\n+ Đếm các gói trong nguồn\n\n+ Sao lưu, khôi phục Tweaks và các nguồn lên Dropbox\n\n+ Không ngừng làm mới nguồn khi chạy ẩn Cydia\n\n+ Thêm nút đóng khi cài đặt xong Tweak\n\n+ Dịch ngôn ngữ Tweaks\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -42,7 +44,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,6 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Julioverne"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"7.1.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

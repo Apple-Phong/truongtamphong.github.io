@@ -12,9 +12,14 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Nhạc chuông hay cho dế yêu\n\nㅤ\n\n[**Lời bài hát**]",
+"markdown":"Nhạc chuông hay cho dế yêu",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
 },
 {
 "markdown":"He is a hustler, he's no good at all\n\nHe is a loser, he's a bum, bum, bum, bum\n\nHe lies, he bluffs, he's unreliable\n\nHe is a sucker with a gun, gun, gun, gun\n\nI know you told me I should stay away\n\nI know you said he's just a dog astray\n\nHe's a bad boy with a tainted heart\n\nAnd even I know this ain't smart\n\nㅤ\n\nBut mama, I'm in love with a criminal\n\nAnd this type of love isn't rational, it's physical\n\nMama, please don't cry, I will be alright\n\nAll reason aside, I just can't deny, love the guy\n\nㅤ\n\n",

@@ -19,6 +19,7 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[

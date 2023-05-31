@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},Tiện ích này áp dụng với tinh chỉnh Xen HTML 
+{
+"markdown":"Chủ đề bàn phím này áp dụng cho tinh chỉnh Laetus\n\n- Thay thế bàn phím mặc định bằng bàn phím màu trắng ngà\n\n- Phong cách trẻ trung & thiết kế độc đáo\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,15 +29,6 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Chủ đề bàn phím dành cho tinh chỉnh Laetus\n\n- Thay thế bàn phím mặc định bằng bàn phím màu trắng ngà\n\n- Phong cách trẻ trung & thiết kế độc đáo\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -34,7 +36,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +52,7 @@
 "title":"Nhà phát triển",
 "text":"Polyphian"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

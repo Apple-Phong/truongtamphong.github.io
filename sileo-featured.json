@@ -389,7 +389,7 @@
 },
 {
 "package":"hoangdinhphong.depthsl",
-"title":"DepthsL",
+"title":"",
 "url":"https://apple-phong.github.io/Images/DepthsL/Banner.jpg",
 "hideShadow":"false"
 },
@@ -407,25 +407,25 @@
 },
 {
 "package":"hoangdinhphong.dustryblue",
-"title":"Dustry Blue",
+"title":"",
 "url":"https://apple-phong.github.io/Images/DustryBlue/Banner.jpg",
 "hideShadow":"false"
 },
 {
 "package":"hoangdinhphong.dustrygreen",
-"title":"Dustry Green",
+"title":"",
 "url":"https://apple-phong.github.io/Images/DustryGreen/Banner.jpg",
 "hideShadow":"false"
 },
 {
 "package":"hoangdinhphong.dustryorange",
-"title":"Dustry Orange",
+"title":"",
 "url":"https://apple-phong.github.io/Images/DustryOrange/Banner.jpg",
 "hideShadow":"false"
 },
 {
 "package":"hoangdinhphong.dustryred",
-"title":"Dustry Red",
+"title":"",
 "url":"https://apple-phong.github.io/Images/DustryRed/Banner.jpg",
 "hideShadow":"false"
 },
@@ -533,7 +533,7 @@
 },
 {
 "package":"com.matchstic.xenhtml",
-"title":"Xen HTML Việt Nam",
+"title":"",
 "url":"https://apple-phong.github.io/Images/XenHTML/Banner.jpg",
 "hideShadow":"false"
 },
