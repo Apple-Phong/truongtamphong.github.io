@@ -6,9 +6,6 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
 { "class":"DepictionHeaderView", "title":"" },
 {
 "class":"DepictionHeaderView",
@@ -20,6 +17,9 @@
 "class":"DepictionMarkdownView"
 },
 { "class":"DepictionHeaderView", "title":"Nghe nhạc" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
 {
 "url":"https://apple-phong.github.io/Images/iPhoneRemix/Screenshots/1.png",
 "accessibilityText":"Screenshot"
