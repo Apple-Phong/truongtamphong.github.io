@@ -74,6 +74,7 @@
 "title":"Nhà phát triển",
 "text":"SarahH12099"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

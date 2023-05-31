@@ -34,7 +34,7 @@
 }
 ],
 "itemCornerRadius":15,
-"itemSize":"{300,138}"
+"itemSize":"{300,158}"
 },
 {
 "class":"DepictionSpacerView"

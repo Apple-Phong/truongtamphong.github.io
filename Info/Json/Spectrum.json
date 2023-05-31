@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Spectrum là công cụ tùy chỉnh màu hệ thống dành cho iOS 13+\n\n- Nó cho phép bạn thay đổi không chỉ màu sắc xanh lam mặc định trong tất cả các ứng dụng mà còn cả màu của chế độ sáng và tối, cho phép bạn tạo các chế độ màu tùy chỉnh của riêng mình\n\n- Theo mặc định, Spectrum bao gồm một số cấu hình chế độ tối hoàn chỉnh và có thể tạo hoặc thêm nhiều cấu hình khác\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -24,15 +35,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Spectrum là công cụ tùy chỉnh màu hệ thống dành cho iOS 13+\n\n- Nó cho phép bạn thay đổi không chỉ màu sắc xanh lam mặc định trong tất cả các ứng dụng mà còn cả màu của chế độ sáng và tối, cho phép bạn tạo các chế độ màu tùy chỉnh của riêng mình\n\n- Theo mặc định, Spectrum bao gồm một số cấu hình chế độ tối hoàn chỉnh và có thể tạo hoặc thêm nhiều cấu hình khác\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -58,6 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Skitty & EvenDev"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

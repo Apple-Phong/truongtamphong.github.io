@@ -21,6 +21,17 @@
 "title":"Xem Video"
 },
 {
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/SnowFlake/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
 "markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Videos/SnowFlake.mp4) để xem thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"

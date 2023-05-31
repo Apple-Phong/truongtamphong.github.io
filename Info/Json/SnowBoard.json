@@ -16,7 +16,7 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
- "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -60,7 +60,11 @@
 "title":"Nhà phát triển",
 "text":"Spark & Dennis D. Bednarz"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.20~Beta4" },
+{ 
+"class":"DepictionTableTextView",
+ "title":"Phiên bản",
+ "text":"1.4.20~Beta4" 
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
