@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống, ứng dụng bên thứ ba. Và thêm nhiều chức năng tuyệt vời khác\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Tuỳ chỉnh cho toàn hệ thống\n\n+ Tuỳ chỉnh màn hình chính\n\n+ Tuỳ chỉnh màn hình khoá\n\n+ Tuỳ chỉnh đa nhiệm\n\n+ Tuỳ chỉnh thanh trạng thái\n\n+ Tuỳ chỉnh trung tâm điều khiển\n\n+ Tuỳ chỉnh trang tiện ích hôm nay\n\n+ Tuỳ chỉnh tin nhắn iMessage\n\n+ Tuỳ chỉnh Cài đặt máy\n\n+ Tuỳ chỉnh ứng dụng Ảnh\n\n+ Tuỳ chỉnh Safari\n\n+ Tuỳ chỉnh AppStore\n\n+ Tuỳ chỉnh Camera\n\n+ Tuỳ chỉnh ứng dụng Điện thoại\n\n+ Tuỳ chỉnh ứng dụng Nhạc\n\n+ Tuỳ chỉnh ứng dụng bên thứ ba\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -22,15 +33,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống, ứng dụng bên thứ ba. Và thêm nhiều chức năng tuyệt vời khác\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Tuỳ chỉnh cho toàn hệ thống\n\n+ Tuỳ chỉnh màn hình chính\n\n+ Tuỳ chỉnh màn hình khoá\n\n+ Tuỳ chỉnh đa nhiệm\n\n+ Tuỳ chỉnh thanh trạng thái\n\n+ Tuỳ chỉnh trung tâm điều khiển\n\n+ Tuỳ chỉnh trang tiện ích hôm nay\n\n+ Tuỳ chỉnh tin nhắn iMessage\n\n+ Tuỳ chỉnh Cài đặt máy\n\n+ Tuỳ chỉnh ứng dụng Ảnh\n\n+ Tuỳ chỉnh Safari\n\n+ Tuỳ chỉnh AppStore\n\n+ Tuỳ chỉnh Camera\n\n+ Tuỳ chỉnh ứng dụng Điện thoại\n\n+ Tuỳ chỉnh ứng dụng Nhạc\n\n+ Tuỳ chỉnh ứng dụng bên thứ ba\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -38,7 +40,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"MTAC"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.9.5-3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

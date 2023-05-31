@@ -6,6 +6,27 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"An empty street, an empty house\n\nA hole inside my heart\n\nI'm all alone, the rooms are getting smaller\n\nI wonder how, I wonder why\n\nI wonder where they are\n\nThe days we had, the songs we sang together\n\nOh yeah\n\nAnd oh, my love\n\nI'm holding on forever\n\nReaching for the love that seems so far\n\nㅤ\n\nSo I say a little prayer\n\nAnd hope my dreams will take me there\n\nWhere the skies are blue\n\nTo see you once again, my love\n\nOverseas from coast to coast\n\nTo find a place I love the most\n\nWhere the fields are green\n\nTo see you once again, my love...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +39,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Nhạc chuông hay cho dế yêu\n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/MyLove.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/MyLove.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +51,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +67,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Westlife Band"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

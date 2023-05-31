@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Chủ đề này của tác giả Hoàng Đình Phong thiết kế, hơn 400 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 422 biểu tượng ứng dụng\n\n+ 3 gói AE\n\n+ 3 gói huy hiệu\n\n+ 2 gói Respring\n\n+ 3 gói thanh Dock\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -24,15 +35,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Chủ đề này của tác giả Hoàng Đình Phong thiết kế, hơn 400 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 422 biểu tượng ứng dụng\n\n+ 3 gói AE\n\n+ 3 gói huy hiệu\n\n+ 2 gói Respring\n\n+ 3 gói thanh Dock\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -58,6 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"422" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Trình đóng nhanh đa nhiệm\n\nNhấn giữ vào ứng dụng trong trình đa nhiệm là sẽ đóng tất cả các thẻ đang chạy nền\n\nㅤ\n\nCác chức năng chính trong cài đặt\n\n- Bật phản hồi rung khi đóng đa nhiệm\n\n- Không đóng ứng dụng nhạc khi đang phát\n\n- Sử dụng nhấn giữ hoặc vuốt xuống để đóng đa nhiệm\n\n- Tạo danh sách đen hoặc trắng để chọn ứng dụng loại trừ hoặc giữ lại\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -22,15 +33,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Trình đóng nhanh đa nhiệm\n\nNhấn giữ vào ứng dụng trong trình đa nhiệm là sẽ đóng tất cả các thẻ đang chạy nền\n\nㅤ\n\nCác chức năng chính trong cài đặt\n\n- Bật phản hồi rung khi đóng đa nhiệm\n\n- Không đóng ứng dụng nhạc khi đang phát\n\n- Sử dụng nhấn giữ hoặc vuốt xuống để đóng đa nhiệm\n\n- Tạo danh sách đen hoặc trắng để chọn ứng dụng loại trừ hoặc giữ lại\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -38,7 +40,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Netskao"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2-2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
