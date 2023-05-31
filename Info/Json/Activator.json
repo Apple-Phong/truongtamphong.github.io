@@ -7,6 +7,19 @@
 "tabname":"Chi tiết",
 "views":[
 {
+"class":"DepictionHeaderView",
+"title":""
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Gán mọi hành động của bạn để thực hiện các chức năng mà bạn muốn! \n\n - Ví dụ: Chọn Tất cả mọi nơi (bao gồm Màn hình chính, Màn hình khoá và Trong ứng dụng). Trong phần Thanh trạng thái, chọn Chạm giữ bên trái, nhấn vào Chụp ảnh màn hình để kích hoạt nó. Kết quả là sau khi chạm giữ bên trái trên thanh trạng thái điện thoại của bạn sẽ chụp ảnh màn hình.\n\n - Ví dụ bên trên chỉ là một hành động nhỏ. Còn rất rất nhiều cử chỉ có thể gán thêm. Nó không thể thiếu nếu như bạn thuộc lòng về cách cài đặt lẫn thao tác.\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
@@ -26,15 +39,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Gán mọi hành động của bạn để thực hiện các chức năng mà bạn muốn! \n\n - Ví dụ: Chọn Tất cả mọi nơi (bao gồm Màn hình chính, Màn hình khoá và Trong ứng dụng). Trong phần Thanh trạng thái, chọn Chạm giữ bên trái, nhấn vào Chụp ảnh màn hình để kích hoạt nó. Kết quả là sau khi chạm giữ bên trái trên thanh trạng thái điện thoại của bạn sẽ chụp ảnh màn hình.\n\n - Ví dụ bên trên chỉ là một hành động nhỏ. Còn rất rất nhiều cử chỉ có thể gán thêm. Nó không thể thiếu nếu như bạn thuộc lòng về cách cài đặt lẫn thao tác.\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -42,7 +46,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -57,6 +61,11 @@
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
 "text":"Ryan Petrich"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.9.13"
 },
 {
 "class":"DepictionTableTextView",

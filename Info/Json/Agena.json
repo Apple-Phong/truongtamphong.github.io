@@ -66,6 +66,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

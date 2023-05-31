@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực\n\nㅤ\n\nChức năng bao gồm:\n\n+ Xem kích thước và phiên bản gói ứng dụng\n\n+ Xem và sao chép số ID nhận dạng gói ứng dụng\n\n+ Chỉnh sửa tên biểu tượng ứng dụng\n\n+ Xóa hoặc cập nhật số huy hiệu ứng dụng\n\n+ Kiểm tra kích thước dữ liệu/bộ đệm của ứng dụng và xóa chúng\n\n+ Giảm tải ứng dụng bằng cách gỡ cài đặt ứng dụng và giữ lại dữ liệu\n\n+ Đặt lại quyền ứng dụng\n\n+ Truy cập gói ứng dụng và vùng chứa dữ liệu\n\n+ Truy cập các nhóm vùng chứa ứng dụng\n\n+ Mở trang AppStore của ứng dụng\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -22,15 +33,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực\n\nㅤ\n\nChức năng bao gồm:\n\n+ Xem kích thước và phiên bản gói ứng dụng\n\n+ Xem và sao chép số ID nhận dạng gói ứng dụng\n\n+ Chỉnh sửa tên biểu tượng ứng dụng\n\n+ Xóa hoặc cập nhật số huy hiệu ứng dụng\n\n+ Kiểm tra kích thước dữ liệu/bộ đệm của ứng dụng và xóa chúng\n\n+ Giảm tải ứng dụng bằng cách gỡ cài đặt ứng dụng và giữ lại dữ liệu\n\n+ Đặt lại quyền ứng dụng\n\n+ Truy cập gói ứng dụng và vùng chứa dữ liệu\n\n+ Truy cập các nhóm vùng chứa ứng dụng\n\n+ Mở trang AppStore của ứng dụng\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -38,7 +40,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Fouad Raheb"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.6" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

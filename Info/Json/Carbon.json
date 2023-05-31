@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Chủ đề này của tác giả NyK0n đã được Hoàng Đình Phong thiết kế thêm hơn 400 biểu tượng cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 513 biểu tượng ứng dụng\n\n+ 14 gói AE\n\n+ 4 gói huy hiệu\n\n+ 2 gói thư mục\n\n+ 2 gói dấu chấm trang\n\n+ 3 gói công tắc bật tắt\n\n+ 9 gói thanh Dock\n\n+ Gói pin & sóng cho thanh trạng thái\n\n+ Gói biểu tượng cho cài đặt\n\n+ Gói khung chát cho iMessage\n\n+ Gói bàn phím gọi & bàn phím điền mật khẩu\n\n+ Gói biểu tượng cho ứng dụng iCleaner Pro\n\n+ Gói âm thanh khoá màn hình, sạc pin & gõ bàn phím\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -20,15 +31,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Chủ đề này của tác giả NyK0n đã được Hoàng Đình Phong thiết kế thêm hơn 400 biểu tượng cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 513 biểu tượng ứng dụng\n\n+ 14 gói AE\n\n+ 4 gói huy hiệu\n\n+ 2 gói thư mục\n\n+ 2 gói dấu chấm trang\n\n+ 3 gói công tắc bật tắt\n\n+ 9 gói thanh Dock\n\n+ Gói pin & sóng cho thanh trạng thái\n\n+ Gói biểu tượng cho cài đặt\n\n+ Gói khung chát cho iMessage\n\n+ Gói bàn phím gọi & bàn phím điền mật khẩu\n\n+ Gói biểu tượng cho ứng dụng iCleaner Pro\n\n+ Gói âm thanh khoá màn hình, sạc pin & gõ bàn phím\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"514" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

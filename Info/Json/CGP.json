@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Chủ đề này của tác giả NyK0n đã được Hoàng Đình Phong vẽ lại toàn bộ, đổi màu sắc sang Gold và thêm hơn 300 biểu tượng cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 448 biểu tượng ứng dụng\n\n+ 5 gói AE\n\n+ 3 gói huy hiệu\n\n+ 2 gói thư mục\n\n+ 2 gói biểu tượng cho cài đặt\n\n+ 2 gói dấu chấm trang\n\n+ Gói công tắc bật tắt\n\n+ Gói bàn phím gọi & bàn phím điền mật khẩu\n\n+ Gói biểu tượng cho ứng dụng iCleaner Pro\n\n+ Gói âm thanh khoá màn hình, sạc pin & gõ bàn phím\n\n+ Gói thanh Dock\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -24,15 +35,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Chủ đề này của tác giả NyK0n đã được Hoàng Đình Phong vẽ lại toàn bộ, đổi màu sắc sang Gold và thêm hơn 300 biểu tượng cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 448 biểu tượng ứng dụng\n\n+ 5 gói AE\n\n+ 3 gói huy hiệu\n\n+ 2 gói thư mục\n\n+ 2 gói biểu tượng cho cài đặt\n\n+ 2 gói dấu chấm trang\n\n+ Gói công tắc bật tắt\n\n+ Gói bàn phím gọi & bàn phím điền mật khẩu\n\n+ Gói biểu tượng cho ứng dụng iCleaner Pro\n\n+ Gói âm thanh khoá màn hình, sạc pin & gõ bàn phím\n\n+ Gói thanh Dock\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -58,6 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"451" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

@@ -6,6 +6,22 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu\n\nㅤ\n\n[**Lời bài hát**]",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"He is a hustler, he's no good at all\n\nHe is a loser, he's a bum, bum, bum, bum\n\nHe lies, he bluffs, he's unreliable\n\nHe is a sucker with a gun, gun, gun, gun\n\nI know you told me I should stay away\n\nI know you said he's just a dog astray\n\nHe's a bad boy with a tainted heart\n\nAnd even I know this ain't smart\n\nㅤ\n\nBut mama, I'm in love with a criminal\n\nAnd this type of love isn't rational, it's physical\n\nMama, please don't cry, I will be alright\n\nAll reason aside, I just can't deny, love the guy\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +34,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/Criminal.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/Criminal.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +46,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +62,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Britney Spears"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

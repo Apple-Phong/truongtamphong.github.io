@@ -6,6 +6,27 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"Oh, baby, baby\n\nOh, baby, baby\n\nㅤ\n\nOh, baby, baby\n\nHow was I supposed to know\n\nThat something wasn't right here?\n\nOh, baby, baby\n\nI shouldn't have let you go\n\nAnd now you're out of sight, yeah\n\nㅤ\n\nShow me how you want it to be\n\nTell me, baby\n\nCause I need to know now, oh, because\n\nMy loneliness\n\nIs killing me and I\n\nI must confess\n\nI still believe, still believe\n\nWhen I'm not with you I lose my mind\n\nGive me a sign\n\nHit me, baby, one more time\n\nㅤ\n\nOh, baby, baby\n\nThe reason I breathe is you\n\nBoy, you got me blinded\n\nOh, pretty baby\n\nThere's nothing that I wouldn't do\n\nIt's not the way I planned it\n\nㅤ\n\nShow me how you want it to be\n\nTell me, baby\n\nCause I need to know now, oh, because\n\nMy loneliness\n\nIs killing me and I\n\nI must confess\n\nI still believe, still believe\n\nWhen I'm not with you I lose my mind\n\nGive me a sign\n\nHit me, baby, one more time...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +39,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/BabyOneMoreTime.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/BabyOneMoreTime.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +51,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +67,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Britney Spears"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
