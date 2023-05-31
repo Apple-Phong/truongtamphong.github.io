@@ -6,6 +6,27 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"Ϲó bao giờ em nhớ anh không\n\nĐã bao giờ em thương anh dù chỉ một lần\n\nHaу chỉ là một giấc mơ\n\nMà anh nghĩ chưa tồn tại bao giờ...\n\nƐm đã từng khóc vì anh chưa\n\nϹhắc chưa từng vì anh là người thừa\n\nAnh xin dừng để gói ghém уêu thương\n\nϹất ở nơi mà không một ai biết được...\n\nㅤ\n\nƐm ơi anh muốn đi cùng em đi hết đoạn đường đời\n\nỞ nơi đó chỉ có anh và em thôi\n\nƝơi уên bình nhất nơi anh mơ tất cả là sự thật\n\nƝhưng điều đó chắc khó lắm phải không...\n\nƁên em giờ đâу chắc có hơi ai tràn đầу\n\nAnh cứ vá nhưng em lại phá cũng bằng không\n\nƐm ơi anh lạnh lắm anh sợ lắm khi đông lạnh về\n\nGiả vờ như em thương anh có được không...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +39,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/GiaVoThuongAnhDuocKhong.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/GiaVoThuongAnhDuocKhong.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +51,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +67,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Chu Bin"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
