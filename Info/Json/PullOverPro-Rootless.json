@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tạo một tab nhỏ ở bên cạnh viền màn hình\n\n- Cho phép ghim một ứng dụng và kéo nó lên trên ứng dụng hiện tại\n\n- Sử dụng menu Chuyển đổi nhanh bằng cách giữ thanh kẹp trong nửa giây, một menu sẽ bật lên. Kéo ngón tay lên hoặc xuống để chọn ứng dụng muốn ghim. Các ứng dụng này có thể được chọn trước bằng cách chọn 'Ứng dụng yêu thích' trong cài đặt hoặc 'Ứng dụng gần đây', được lấy từ trình chuyển đổi ứng dụng\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -22,15 +33,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tạo một tab nhỏ ở bên cạnh viền màn hình\n\n- Cho phép ghim một ứng dụng và kéo nó lên trên ứng dụng hiện tại\n\n- Sử dụng menu Chuyển đổi nhanh bằng cách giữ thanh kẹp trong nửa giây, một menu sẽ bật lên. Kéo ngón tay lên hoặc xuống để chọn ứng dụng muốn ghim. Các ứng dụng này có thể được chọn trước bằng cách chọn 'Ứng dụng yêu thích' trong cài đặt hoặc 'Ứng dụng gần đây', được lấy từ trình chuyển đổi ứng dụng\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -38,7 +40,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"c1d3r"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.1.3-3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

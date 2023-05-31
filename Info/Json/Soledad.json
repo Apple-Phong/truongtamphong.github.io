@@ -6,6 +6,27 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"- Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"If only you could see the tears\n\n In the world you left behind\n\n If only you could heal my heart\n\n Just one more time\n\n Even when I close my eyes\n\n There's an image of your face\n\n And once again I come to realize\n\n You're a loss I can't replace\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n Walking down the streets of Nothingville\n\n Where our love was young and free\n\n Can't believe just what an empty place\n\n It has come to be\n\n I would give my life away\n\n If it could only be the same\n\n Cause I can't still the voice inside of me\n\n That is calling out your name\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +39,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"- Nhạc chuông hay cho dế yêu\n\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/Soledad.mp3) để nghe thử\n\nㅤ\n\n *LỜI BÀI HÁT*\n\n If only you could see the tears\n\n In the world you left behind\n\n If only you could heal my heart\n\n Just one more time\n\n Even when I close my eyes\n\n There's an image of your face\n\n And once again I come to realize\n\n You're a loss I can't replace\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n Walking down the streets of Nothingville\n\n Where our love was young and free\n\n Can't believe just what an empty place\n\n It has come to be\n\n I would give my life away\n\n If it could only be the same\n\n Cause I can't still the voice inside of me\n\n That is calling out your name\n\n Soledad\n\n It's a keeping for the lonely\n\n Since the day that you were gone\n\n Why did you leave me\n\n Soledad?\n\n In my heart you were the only\n\n And your memory lives on\n\n Why did you leave me\n\n Soledad?\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/Soledad.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +67,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Westlife Band"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

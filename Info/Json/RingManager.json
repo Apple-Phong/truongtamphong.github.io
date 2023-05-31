@@ -6,6 +6,16 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tiện ích hỗ trợ nhạc chuông\n\n- Hoạt động trên iOS 7 - 13!\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,15 +28,6 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tiện ích hỗ trợ nhạc chuông\n\n- Hoạt động trên iOS 7 - 13!\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -34,7 +35,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +51,7 @@
 "title":"Nhà phát triển",
 "text":"MacOS"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0-4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh này dùng để ẩn tuỳ chọn Chia sẻ và Tra cứu trong Menu hành động\n\nKhi bạn nhấn và giữ một từ trong nội dung văn bản trên iPhone hoặc iPad, bạn sẽ thấy màn hình được hiển thị một Menu hành động chứa các tùy chọn hữu ích khác nhau tùy thuộc vào ứng dụng bạn đang sử dụng. Nếu bạn đang sử dụng trình soạn thảo văn bản thì bạn có thể thấy các tùy chọn Sao chép, Cắt và Dán. Trong các khu vực khác của iOS, bạn có thể tìm thấy những tùy chọn đó cùng với các tùy chọn không cần thiết khác, như Tra cứu và Chia sẻ, v.v.\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Ẩn tuỳ chọn Chia sẻ\n\n+ Ẩn tuỳ chọn Tra cứu\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -20,15 +31,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh này dùng để ẩn tuỳ chọn Chia sẻ và Tra cứu trong Menu hành động\n\nKhi bạn nhấn và giữ một từ trong nội dung văn bản trên iPhone hoặc iPad, bạn sẽ thấy màn hình được hiển thị một Menu hành động chứa các tùy chọn hữu ích khác nhau tùy thuộc vào ứng dụng bạn đang sử dụng. Nếu bạn đang sử dụng trình soạn thảo văn bản thì bạn có thể thấy các tùy chọn Sao chép, Cắt và Dán. Trong các khu vực khác của iOS, bạn có thể tìm thấy những tùy chọn đó cùng với các tùy chọn không cần thiết khác, như Tra cứu và Chia sẻ, v.v.\n\nㅤ\n\nCác tuỳ chọn trong cài đặt bao gồm:\n\n+ Ẩn tuỳ chọn Chia sẻ\n\n+ Ẩn tuỳ chọn Tra cứu\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -54,6 +56,7 @@
 "title":"Nhà phát triển",
 "text":"FoxfortMobile"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

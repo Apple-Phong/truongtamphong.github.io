@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Biên dịch lại cho tinh chỉnh NiceBarX iOS 13\n\nVui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Gói tiếng Việt này không phải là tweak NiceBarX\n\n- Vui lòng thêm nguồn [**NiceiOS**](https://global.niceios.com/) rồi tìm mua NiceBarX(iOS13) trước khi cài gói này\n\n- Gói này chỉ hỗ trợ cho NiceBarX iOS 13. Không dành cho NiceBarX iOS khác\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -42,15 +53,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Biên dịch lại cho tinh chỉnh NiceBarX iOS 13\n\nVui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Gói tiếng Việt này không phải là tweak NiceBarX\n\n- Vui lòng thêm nguồn [**NiceiOS**](https://global.niceios.com/) rồi tìm mua NiceBarX(iOS13) trước khi cài gói này\n\n- Gói này chỉ hỗ trợ cho NiceBarX iOS 13. Không dành cho NiceBarX iOS khác\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -74,6 +76,7 @@
 "title":"Biên dịch",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2.61" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

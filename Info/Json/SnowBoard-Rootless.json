@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh này dùng thay đổi chủ đề\n\n- Snowboard là một sự kế thừa tinh thần nhẹ cho động cơ theo chủ đề Winterboard huyền thoại. Nó hoạt động với iOS 7 trở lên và hỗ trợ các định dạng từ tất cả các công cụ theo chủ đề phổ biến khác\n\n- Snowboard trung thành với tinh thần bẻ khóa và là một công cụ thiết yếu, do đó, nó được cung cấp miễn phí\n\n- Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác\n\n- Cho phép bạn thêm các chủ đề vào Màn hình chính\n\n- Đã tích hợp thêm một số AE & UI\n\nㅤ\n\nCác tính năng trong phần Cài đặt\n\n- Bo tròn góc biểu tượng: Các góc sẽ được bo lại tròn hơn hoặc vuông hơn\n\n- Kích thước biểu tượng: Thay đổi độ phóng to hoặc thu nhỏ cho các ứng dụng trên màn hình chính\n\n- Ẩn hiện những thành phần: Tên ứng dụng, dấu chấm trang, lớp phủ màu đen mờ khi cảm ứng lên ứng dụng\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -26,15 +37,6 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh này dùng thay đổi chủ đề\n\n- Snowboard là một sự kế thừa tinh thần nhẹ cho động cơ theo chủ đề Winterboard huyền thoại. Nó hoạt động với iOS 7 trở lên và hỗ trợ các định dạng từ tất cả các công cụ theo chủ đề phổ biến khác\n\n- Snowboard trung thành với tinh thần bẻ khóa và là một công cụ thiết yếu, do đó, nó được cung cấp miễn phí\n\n- Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác\n\n- Cho phép bạn thêm các chủ đề vào Màn hình chính\n\n- Đã tích hợp thêm một số AE & UI\n\nㅤ\n\nCác tính năng trong phần Cài đặt\n\n- Bo tròn góc biểu tượng: Các góc sẽ được bo lại tròn hơn hoặc vuông hơn\n\n- Kích thước biểu tượng: Thay đổi độ phóng to hoặc thu nhỏ cho các ứng dụng trên màn hình chính\n\n- Ẩn hiện những thành phần: Tên ứng dụng, dấu chấm trang, lớp phủ màu đen mờ khi cảm ứng lên ứng dụng\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
 "class":"DepictionSpacerView"
 },
 {
@@ -42,7 +44,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,6 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Spark & Dennis D. Bednarz"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.5.15-Beta4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

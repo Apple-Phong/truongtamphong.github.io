@@ -6,6 +6,27 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Nhạc chuông hay cho dế yêu",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionLabelView",
+"text":"Lời bài hát",
+"textColor":"Green"
+},
+{
+"markdown":"Gió mang làn mây, cuốn trôi về đâu, gió ơi đừng xa chốn đây\n\nGió như là em, thổi mát lòng anh, gió ơi đừng xa nhé em\n\nTình yêu anh trao về em nguyện như mây gió kia, cho dù qua muôn ngàn năm vẫn thế\n\nDù ngày sau ra làm sao tình yêu không đổi thay, ta cùng nhau vai kề vai suốt kiếp...\n\nㅤ\n\nVà nếu như anh được làm mây bay cùng với gió dìu nhau đến nơi tận cuối chân trời\n\nNgày tháng bên nhau không rời xa đâu , dù phong ba cầm tay nhau vượt lên trên ngút ngàn\n\nĐừng để đôi ta phải rời xa nhau, đừng rẽ lối vì anh chỉ muốn yêu mãi một người\n\nHãy để cho anh được gần bên em và cùng sánh bước tình yêu ta sẽ không xa cách rời\n\nLà gió cùng với mây...\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Nghe nhạc" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -18,11 +39,7 @@
 "itemSize":"{600,277}"
 },
 {
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Nhạc chuông hay cho dế yêu \n\n- Khi bạn đã nhàm chán với nhạc chuông mặc định. Hãy tải ngay nhạc chuông ở đây về và đổi gió đi thôi 😉\n- Nhấn vào [**đây**](https://apple-phong.github.io/Sound/NhuGioVoiMay.mp3) để nghe thử\n\nㅤ\n\n",
+"markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Sound/NhuGioVoiMay.mp3) để nghe thử\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +51,7 @@
 "title":"Ủng hộ"
 },
 {
-"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận được nhiều may mắn 🍀\n\nㅤ\n\n",
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,6 +67,7 @@
 "title":"Ca sĩ thể hiện",
 "text":"Đinh Đại Vũ"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

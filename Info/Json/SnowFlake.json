@@ -6,16 +6,15 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
 {
-"class":"DepictionScreenshotsView",
-"screenshots":[
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
 {
-"url":"https://apple-phong.github.io/Images/SnowFlake/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":0,
-"itemSize":"{185,400}"
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n* Từng bông tuyết bay bay trên màn hình của bạn. Lên tới vài trăm bông cùng một lượt rơi xuống\n\n => Số lượng bông tuyết tuỳ chỉnh trong cài đặt\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionHeaderView",
@@ -23,15 +22,6 @@
 },
 {
 "markdown":"Nhấn vào [**đây**](https://apple-phong.github.io/Videos/SnowFlake.mp4) để xem thử\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này dành cho Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n* Từng bông tuyết bay bay trên màn hình của bạn. Lên tới vài trăm bông cùng một lượt rơi xuống\n\n => Số lượng bông tuyết tuỳ chỉnh trong cài đặt\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -59,6 +49,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

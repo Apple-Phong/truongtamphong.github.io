@@ -6,6 +6,16 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -16,15 +26,6 @@
 ],
 "itemCornerRadius":39,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -50,6 +51,7 @@
 "title":"Nhà phát triển",
 "text":"Jun Elvin"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

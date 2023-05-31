@@ -6,6 +6,17 @@
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Tinh chỉnh giúp thu gọn thông báo tới hiển thị trong ứng dụng và màn hình chính\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -16,15 +27,6 @@
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Nội dung"
-},
-{
-"markdown":"Tinh chỉnh giúp thu gọn thông báo tới hiển thị trong ứng dụng và màn hình chính\n\n- Không có thiết lập trong cài đặt\n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
 },
 {
 "class":"DepictionSpacerView"
@@ -50,6 +52,7 @@
 "title":"Nhà phát triển",
 "text":"Michele Primavera"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1b2-9" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
