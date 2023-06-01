@@ -351,16 +351,6 @@ h3 {
 	text-align: center;
 }
 
-.green {
-	background-color: #83ff98;
-	border-color: #83ff98;
-}
-
-.red {
-	background-color: #ffa283;
-	border-color: #ffa283;
-}
-
 .banner_underlay {
 	background-size: cover;
 	background-position: center;
@@ -502,11 +492,11 @@ a.pkg-button.cydia {
 }
 
 red{
-	color: #E50000;
+	color: #FB006C;
 }
 
 blue{
-	color: #859AF4;
+	color: #007AFE;
 }
 
 green{
@@ -514,5 +504,5 @@ green{
 }
 
 purple{
-	color: #8F48FA;
+	color: #CC00FB;
 }
