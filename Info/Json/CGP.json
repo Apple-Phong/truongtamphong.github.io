@@ -36,9 +36,36 @@
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
-{
-"class":"DepictionSpacerView"
-},
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionSubheaderView",
+               "title":"Tải xuống",
+               "useMargins":true,
+               "useBottomMargin":true,
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionLabelView",
+               "useMargins":true,
+               "usePadding":false,
+               "textColor":"#adadad",
+               "alignment":0,
+               "text":"Tổng số lượt tải xuống: (6,553)"
+            },
+            {
+               "class":"DepictionLabelView",
+               "useMargins":true,
+               "usePadding":false,
+               "textColor":"#adadad",
+               "alignment":0,
+               "text":"Tổng số lượt tải xuống ở phiên bản này: (6,553)"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
 {
 "class":"DepictionHeaderView",
 "title":"Ủng hộ"
