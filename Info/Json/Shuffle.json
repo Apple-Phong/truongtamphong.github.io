@@ -15,8 +15,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Shuffle là một tinh chỉnh sắp xếp cài đặt của bạn thành các mục dễ sử dụng và gọn gàng hơn!\n\nㅤ\n\n- Phần tinh chỉnh để truy cập tất cả các cài đặt tinh chỉnh của bạn\n\n- Phần ứng dụng hệ thống cho tất cả các cài đặt liên quan đến ứng dụng gốc\n\n- Phần ứng dụng AppStore cho tất cả các cài đặt liên quan đến ứng dụng của bên thứ 3\n\nㅤ\n\nShuffle cũng thêm các tùy chọn hữu ích để quản lý các chỉnh sửa như:\n\n+ Sao chép danh sách tinh chỉnh của bạn\n\n+ Duyệt các gói đã cài đặt\n\n+ Ẩn tùy chọn chỉnh sửa\n\n+ Vô hiệu hóa tinh chỉnh dylibs (tương thích với iCleaner dylib manager)\n\n+ Xem thông tin/mô tả tinh chỉnh
-+ Gỡ cài đặt chỉnh sửa\n\nㅤ\n\n",
+"markdown":"Shuffle là một tinh chỉnh sắp xếp cài đặt của bạn thành các mục dễ sử dụng và gọn gàng hơn!\n\nㅤ\n\n- Phần tinh chỉnh để truy cập tất cả các cài đặt tinh chỉnh của bạn\n\n- Phần ứng dụng hệ thống cho tất cả các cài đặt liên quan đến ứng dụng gốc\n\n- Phần ứng dụng AppStore cho tất cả các cài đặt liên quan đến ứng dụng của bên thứ 3\n\nㅤ\n\nShuffle cũng thêm các tùy chọn hữu ích để quản lý các chỉnh sửa như:\n\n+ Sao chép danh sách tinh chỉnh của bạn\n\n+ Duyệt các gói đã cài đặt\n\n+ Ẩn tùy chọn chỉnh sửa\n\n+ Vô hiệu hóa tinh chỉnh dylibs (tương thích với iCleaner dylib manager)\n\n+ Xem thông tin/mô tả tinh chỉnh\n\n+ Gỡ cài đặt chỉnh sửa\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
