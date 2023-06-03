@@ -2148,6 +2148,31 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SemiRestore.json
 Tags: compatible_min::ios11.3, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/a.png
 
+Package: HoangDinhPhong.Shuffle
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Pre-Depends: firmware (>=10.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./Deb/HoangDinhPhong.Shuffle_1.6.2_iphoneos-arm.deb
+Size: 610346
+MD5sum: 2d5fb5d93371859f15c3698410b1895e
+SHA1: 9df0cd042edb87c2615e602d3d40e3e01b40153c
+SHA256: d57cf3d9849ff7f3298168b280201d86e66790ca4269b93c0bf03e7c2bca356b
+SHA512: 151467b2475ea40db9a4201f16762d56d26859c7de8fdfe9adc29ff5e324c3b3bde848e4b98f7b0821631ba65d7c7ea5cb7aaaa073d9deff690afe5b589de23f
+Homepage: https://apple-phong.github.io
+Description: Sắp xếp cài đặt của bạn
+Name: Shuffle
+Author: CreatureSurvive
+Depiction: https://apple-phong.github.io/Info/Html/Shuffle.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Shuffle.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Shuffle.json
+Tags: purpose::extension, compatible_min::ios10.0, compatible_max::ios15.5
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Sica-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0

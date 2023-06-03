@@ -1,0 +1,126 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionHeaderView",
+"title":""
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Shuffle là một tinh chỉnh sắp xếp cài đặt của bạn thành các mục dễ sử dụng và gọn gàng hơn!\n\nㅤ\n\n- Phần tinh chỉnh để truy cập tất cả các cài đặt tinh chỉnh của bạn\n\n- Phần ứng dụng hệ thống cho tất cả các cài đặt liên quan đến ứng dụng gốc\n\n- Phần ứng dụng AppStore cho tất cả các cài đặt liên quan đến ứng dụng của bên thứ 3\n\nㅤ\n\nShuffle cũng thêm các tùy chọn hữu ích để quản lý các chỉnh sửa như:\n\n+ Sao chép danh sách tinh chỉnh của bạn\n\n+ Duyệt các gói đã cài đặt\n\n+ Ẩn tùy chọn chỉnh sửa\n\n+ Vô hiệu hóa tinh chỉnh dylibs (tương thích với iCleaner dylib manager)\n\n+ Xem thông tin/mô tả tinh chỉnh
++ Gỡ cài đặt chỉnh sửa\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Shuffle/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Shuffle/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Shuffle/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"CreatureSurvive"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.6.2"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"02/06/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 10.0 đến 13.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.6.2\n\n- Đã hỗ trợ cho iOS 15 và Rootless jailbreak\n\n- Đã hỗ trợ cho ảnh động Gif trong hình ảnh biểu ngữ\n\n- Đã hỗ trợ tải lại nhanh ứng dụng cài đặt để áp dụng các thay đổi đối với cài đặt shuffle\n\n- Đã xóa tùy chọn gỡ cài đặt gói qua DPKG trong phần nâng cao\n\n- Đã khắc phục sự cố có thể khiến giao diện người dùng bị treo khi tải lại ứng dụng của bên thứ 3\n\n- Đã khắc phục sự cố có thể ngăn tiện ích phát ngẫu nhiên chạy nếu TweakSettings chưa được cài đặt"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
