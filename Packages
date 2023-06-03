@@ -2158,11 +2158,11 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./Deb/HoangDinhPhong.Shuffle_1.6.2_iphoneos-arm.deb
-Size: 610346
-MD5sum: 2d5fb5d93371859f15c3698410b1895e
-SHA1: 9df0cd042edb87c2615e602d3d40e3e01b40153c
-SHA256: d57cf3d9849ff7f3298168b280201d86e66790ca4269b93c0bf03e7c2bca356b
-SHA512: 151467b2475ea40db9a4201f16762d56d26859c7de8fdfe9adc29ff5e324c3b3bde848e4b98f7b0821631ba65d7c7ea5cb7aaaa073d9deff690afe5b589de23f
+Size: 610350
+MD5sum: 6ac18446a06cd2b199d12c4b4f7c4156
+SHA1: c08b5acd8ac48ef2a7ef8115de422f2c8ab1ab55
+SHA256: 8ac053d4a7c39c9fea55fc78437bc3f2cb9ab94b4d5cb9112df33303f37f19ac
+SHA512: 28c4ddff36be6387f770f53e44e013a2d4c6eaaf6c643aa8cebe469abac58362f0ee8c231d2da0a24f538a28cf32b80316a818cacf7f0b01fc8d4a5fe41014ed
 Homepage: https://apple-phong.github.io
 Description: Sắp xếp cài đặt của bạn
 Name: Shuffle
@@ -2171,7 +2171,7 @@ Depiction: https://apple-phong.github.io/Info/Html/Shuffle.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Shuffle.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Shuffle.json
 Tags: purpose::extension, compatible_min::ios10.0, compatible_max::ios15.5
-Icon: file:///Applications/Cydia.app/Sections/w.png
+Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.Sica-Rootless
 Architecture: iphoneos-arm64
