@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.snowboard-rootless",
+"title":"",
+"url":"https://apple-phong.github.io/Images/SnowBoard-Rootless/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.diamond",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Diamond/Banner.jpg",
@@ -442,12 +448,6 @@
 "hideShadow":"false"
 },
 {
-"package":"hoangdinhphong.snowboard-rootless",
-"title":"SnowBoard-Rootless Việt Nam",
-"url":"https://apple-phong.github.io/Images/SnowBoard-Rootless/Banner.jpg",
-"hideShadow":"false"
-},
-{
 "package":"hoangdinhphong.dodo",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Dodo/Banner.jpg",
@@ -563,7 +563,7 @@
 },
 {
 "package":"hoangdinhphong.snowboard",
-"title":"SnowBoard Việt Nam",
+"title":"",
 "url":"https://apple-phong.github.io/Images/SnowBoard/Banner.jpg",
 "hideShadow":"false"
 },

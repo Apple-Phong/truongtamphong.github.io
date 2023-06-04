@@ -15,7 +15,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Tinh chỉnh này dùng thay đổi chủ đề\n\n- Snowboard là một sự kế thừa tinh thần nhẹ cho động cơ theo chủ đề Winterboard huyền thoại. Nó hoạt động với iOS 7 trở lên và hỗ trợ các định dạng từ tất cả các công cụ theo chủ đề phổ biến khác\n\n- Snowboard trung thành với tinh thần bẻ khóa và là một công cụ thiết yếu, do đó, nó được cung cấp miễn phí\n\n- Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác\n\n- Cho phép bạn thêm các chủ đề vào Màn hình chính\n\n- Đã tích hợp thêm một số AE & UI\n\nㅤ\n\nCác tính năng trong phần Cài đặt\n\n- Bo tròn góc biểu tượng: Các góc sẽ được bo lại tròn hơn hoặc vuông hơn\n\n- Kích thước biểu tượng: Thay đổi độ phóng to hoặc thu nhỏ cho các ứng dụng trên màn hình chính\n\n- Ẩn hiện những thành phần: Tên ứng dụng, dấu chấm trang, lớp phủ màu đen mờ khi cảm ứng lên ứng dụng\n\nㅤ\n\n",
+"markdown":"Tinh chỉnh này dùng thay đổi chủ đề\n\n- Snowboard là một sự kế thừa tinh thần nhẹ cho động cơ theo chủ đề Winterboard huyền thoại. Nó hoạt động với iOS 7 trở lên và hỗ trợ các định dạng từ tất cả các công cụ theo chủ đề phổ biến khác\n\n- Snowboard trung thành với tinh thần bẻ khóa và là một công cụ thiết yếu, do đó, nó được cung cấp miễn phí\n\n- Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác\n\n- Cho phép bạn thêm các chủ đề vào Màn hình chính. Có khả năng thay phông chữ, thay thế hình ảnh Respring, thay đổi thanh Dock, chuyển dấu chấm trang, đổi các biểu tượng trong cài đặt, chèn thanh trạng thái, v.v...\n\n- Đã tích hợp thêm các AE, các biểu tượng UI hệ thống như thanh tab trong ứng dụng Điện thoại, Ảnh, Cydia, Sileo, v.v...\n\nㅤ\n\nThêm cấu hình khi đã thiết lập chủ đề như sau\n\n- Trên màn hình chính: Chạm giữ vào 1 ứng dụng bất kỳ. Chọn sửa màn hình. Sau đó nhấp đôi vào ứng dụng nào đó. Lúc này sẽ hiện 1 bảng tuỳ chỉnh. Bạn nhấn vào nút Cấu hình trên thanh tab. Sau đó chọn nút Thêm cấu hình hiện tại. Vậy là xong. Sau này bạn muốn sử dụng lại chủ đề ấy cùng những thiết lập như ban đầu. Chỉ cần vào phần Cấu hình và chọn nó\n\n- Cũng thao tác như trên nhưng lần này để thay thế biểu tượng mà bạn còn thiếu: Chọn tab Các biểu tượng hoặc tab Hình ảnh, tìm và thay thế cho mình những biểu tượng phù hợp có sẵn trong chủ đề mà bạn đang kích hoạt. Cũng có thể thay thế từ phần ảnh sưu tập của bạn\n\nㅤ\n\nCác tính năng trong phần Cài đặt\n\n- Bo tròn góc biểu tượng: Các góc sẽ được bo lại tròn hơn hoặc vuông hơn\n\n- Kích thước biểu tượng: Thay đổi độ phóng to hoặc thu nhỏ cho các ứng dụng trên màn hình chính\n\n- Ẩn hiện những thành phần: Tên ứng dụng, dấu chấm trang, lớp phủ màu đen mờ khi cảm ứng lên ứng dụng\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.5.15-Beta4"
+"text":"1.5.21-Beta3"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"17/05/2023"
+"text":"04/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -109,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.5.21-Beta3\n\n- Thêm 2 tiện ích Cấu hình & Thanh trạng thái\n\n- Sửa lỗi đổ bóng Dock\n\n- Sửa lỗi chủ đề tiêu điểm trên iOS 15.x\n\n- Sửa lỗi lặt vặt và cải tiến nhỏ khác\n\n"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.5.15-Beta4\n\n- Thêm 6 tiện ích: Phông, mặt lạ, hiệu ứng, UI biểu tượng, biểu tượng cho Cài đặt máy & tên ứng dụng\n\n- Thêm 2 gói UI biểu tượng\n\n- Thêm ứng dụng Snowboard vào màn hình chính\n\n- Sửa tùy chọn cho tiện ích mở rộng khi không root\n\n- Khắc phục chủ đề CarPlay với các chủ đề có biểu tượng có kích thước không chính xác (phải bật chủ đề CarPlay từ Tùy chọn SnowBoard)\n\n- Khắc phục sự cố khi áp dụng ảnh làm biểu tượng thay thế\n\n- Sửa lỗi lịch không làm mới chính xác nếu không khởi động lại\n\n- Các bản sửa lỗi và cải tiến nhỏ khác\n\n"

@@ -2338,6 +2338,31 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
+Version: 1.5.21-Beta3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard-Rootless_1.5.21-Beta3_iphoneos-arm64.deb
+Size: 7733116
+MD5sum: bbe4b203db0489c583864aa8adb67856
+SHA1: 12319b0b79f11bd77bad0b2e7a036ad1ea2cbc34
+SHA256: 3734fd919932576c7e39e3b84e544e3f0b33f9cf9cd84e0331326b3b0b94dbac
+SHA512: 514cb3ce6d0241c53e1369049b65a2929d2bd1e1dde7bbc90d94df7eb77a1313caf4d3c3fa1bb11a3c6cb46544479151f56e1f7501857e962c945a44889b0252
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh này dùng thay đổi chủ đề
+Name: SnowBoard - Rootless Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: https://apple-phong.github.io/Info/Html/SnowBoard-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7.1
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SnowBoard-Rootless
+Architecture: iphoneos-arm64
 Version: 1.5.9-Beta4
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
