@@ -2764,16 +2764,16 @@ Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.Venus
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.0.2
 Section: Widgets
 Maintainer: Hoàng Đình Phong
-Depends: firmware (>=10.0)
-Filename: ./Deb/HoangDinhPhong.Venus_1.0.1_iphoneos-arm.deb
-Size: 7123706
-MD5sum: 48208f61791c65cc5e1833af16698e07
-SHA1: 3175159f66f0c07f44b33e9271c8ef7c47920ce3
-SHA256: 2febf604c392bf3f0d2fd315c065117f8b78087ba1e8dc8b8bebe6cbac3e974f
-SHA512: ae926026ded97719674187b2852cf3a407f4dd5c6b0e11811bbf794040ce2a068462b76ad881213d9f2c2c75c75097cf43ec4d708906701accf327025d641549
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Venus_1.0.2_iphoneos-arm.deb
+Size: 7123728
+MD5sum: cea47b697446350b099e845c1f1c0c79
+SHA1: a05a99981c123d30454e46000d9c02e423b19baf
+SHA256: 0cf805eedaea530162dcc2e563e4981d3fa835b1ceb868864a221c01ed184fe3
+SHA512: 38416384f6c5c73f850ad394127aaeecaa038cfcd7c29845b781c7272b224b7aacc4486c7eefa08121ae6a0a31458b9b799f03ba0623b03e884a4f23c7e581a9
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Venus
