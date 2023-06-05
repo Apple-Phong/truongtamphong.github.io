@@ -66,7 +66,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"04/06/2023"
+"text":"05/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -107,7 +107,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"
+"markdown":"### Phiên bản 1.0.2\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"
 },
 {
 "class":"DepictionMarkdownView",
