@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.7"
+"text":"1.0.8"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/05/2023"
+"text":"05/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -109,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.8\n\n- Sửa lỗi phông chữ"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.7\n\n- Thay đổi cài đặt sang dạng mới\n\n- Thêm tuỳ chọn phông chữ\n\n- Thêm điền tên văn bản\n\n- Thêm nền nhoà cho đồng hồ"

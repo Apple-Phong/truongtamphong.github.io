@@ -2944,6 +2944,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Ybht.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Ybht_1.0.8_iphoneos-arm.deb
+Size: 7054
+MD5sum: c7bb9746635929604c1a08a84e7a1bc6
+SHA1: 16918cc776e930f9314b7528f46c030c205f99a3
+SHA256: 93eeca370d9df53c8e8ff7ce3f4323512dffbbeeef5518a586e580f3303cd71a
+SHA512: d4490afb6a9ba4464f3553d56d56c12c7d80eaa088949beb4545742839ad83958eaa612d4a08bb6ae5da8838ff839ee6a2e1714f81ea6be6a4c1ea536d5ae0e8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ybht
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Ybht.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ybht.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ybht.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.YouTubeReborn
 Architecture: iphoneos-arm
 Version: 1.1.0.0
