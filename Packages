@@ -1464,6 +1464,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ice
+Architecture: iphoneos-arm
+Version: 1.0.37
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Ice_1.0.37_iphoneos-arm.deb
+Size: 1382116
+MD5sum: 968781c6151ac7224f4c03ab4fbeb0ee
+SHA1: 67f388b69c2220ee1f030b5d0ec9882de80c03a6
+SHA256: 11a06df8a9a39ac498308cfe484260e294753a9ed373f085936f9300775a93d8
+SHA512: 7051386fabd061a902b6458ce31c4e7f29ca4d05d3560848f9a5b7cce1b289ff06acdf38f0c35a6c16c29874f111b3a98f3cb104890536d3aea5bc3f5ab13f06
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ice
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Ice.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.7
