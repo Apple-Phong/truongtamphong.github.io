@@ -63,7 +63,7 @@
 { 
 "class":"DepictionTableTextView",
  "title":"Phiên bản",
- "text":"1.4.20~Beta4" 
+ "text":"1.4.20~Beta5" 
 },
 {
 "class":"DepictionTableTextView",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"03/05/2023"
+"text":"16/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,6 +103,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.4.20~Beta5\n\n- Sửa lỗi báo đỏ trong Zebra, Sileo, Cydia & Installer khi cài đặt Tweaks\n\n- Việt hoá nốt phần tiếng Anh trong phần tiện ích"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.4.20~Beta4\n\n- Đã được biên dịch sang tiếng Việt hoàn chỉnh\n\n- Thêm chức năng cảnh báo những chủ đề nặng với những bức ảnh có kích thước lớn khiến máy bạn chậm lại. Qua tính năng này giúp bạn lựa chọn theme tốt hơn\n\n- Thêm tính ổn định cho iOS 14"

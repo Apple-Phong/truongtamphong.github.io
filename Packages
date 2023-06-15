@@ -2481,6 +2481,33 @@ Author: Spark
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta5
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard_1.4.20~Beta5_iphoneos-arm.deb
+Size: 5652298
+MD5sum: a743b676c511e7c6c8edc2839fcb7a10
+SHA1: 2fb75f56fbe00c14689cef4f000e8b675ae47eea
+SHA256: 2e787bd6d67941cf5677abaa116fc21bae33703c74fc910c7e13924e8532db1d
+SHA512: 86fe4b32def50918684f7a3c976ffb6ea147c3be3a3aeaa8945c6c937c350093ff92935c7240d432f26ba9f324249f405442c1c5ab8bbe37568694e0ce5886cf
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh này dùng thay đổi chủ đề
+Tag: role::enduser
+Name: SnowBoard Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/SnowBoard.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowBoard.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowBoard.json
+Tags: compatible_min::ios7.0, compatible_max::ios14.8.1
+Author: Spark
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SnowFlake
 Architecture: iphoneos-arm
 Version: 1.0.0
