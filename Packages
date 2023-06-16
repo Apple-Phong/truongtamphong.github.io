@@ -121,6 +121,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Airy
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Airy_1.1.8_iphoneos-arm.deb
+Size: 30345752
+MD5sum: 5de507332327fad40378b19fd4b2f17a
+SHA1: 902cd6d62aa9e246db3125c49a0d26800b3fbe49
+SHA256: 585d4a2db572c290a34eaa89da975062a42107c1e8cfd298fcbb329281308f96
+SHA512: f01f939af74dd2e0846ba0497d2e208c36ee3964bb237b7cb398e3b534a8f6522bf728e92666226d4453face002cc4746e82b53445b0ecf60d2769c743ef2f35
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Airy
+Depiction: https://apple-phong.github.io/Info/Html/Airy.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AlertController
 Architecture: iphoneos-arm
 Version: 1.4.2
