@@ -105,7 +105,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4.20~Beta5\n\n- Sửa lỗi báo đỏ trong Zebra, Sileo, Cydia & Installer khi cài đặt Tweaks\n\n- Việt hoá nốt phần tiếng Anh trong phần tiện ích"
+"markdown":"### Phiên bản 1.4.20~Beta5\n\n- Sửa lỗi báo đỏ trong Zebra, Sileo, Cydia & Installer khi cài đặt Tweaks\n\n- Dịch tiếng Anh trong phần cài đặt của Tiện ích"
 },
 {
 "class":"DepictionMarkdownView",
