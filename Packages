@@ -123,16 +123,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Airy
 Architecture: iphoneos-arm
-Version: 1.1.8
+Version: 1.1.80
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Airy_1.1.8_iphoneos-arm.deb
-Size: 30345752
-MD5sum: 5de507332327fad40378b19fd4b2f17a
-SHA1: 902cd6d62aa9e246db3125c49a0d26800b3fbe49
-SHA256: 585d4a2db572c290a34eaa89da975062a42107c1e8cfd298fcbb329281308f96
-SHA512: f01f939af74dd2e0846ba0497d2e208c36ee3964bb237b7cb398e3b534a8f6522bf728e92666226d4453face002cc4746e82b53445b0ecf60d2769c743ef2f35
+Filename: ./Deb/HoangDinhPhong.Airy_1.1.80_iphoneos-arm.deb
+Size: 30345762
+MD5sum: f8d42f7fad4c4e558e23a5d799e4ec55
+SHA1: c7c1077d78634f8e65993794a7416a462d845939
+SHA256: ae847762ecec972fa033ca8013b08010a192d2cfe8566c5da8e07b57aee72ac1
+SHA512: e2a9bd01d2e2fbf30379ea0c09c2c2e28579ccf9517425b3b406eb37911040046a7cd11a74373536da7c79db4b08f1aee89754f09e3cc18a36f31fb36693360a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Name: Airy
@@ -212,6 +212,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
+Version: 1.8.9
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.AmLichVaDanhNgon_1.8.9_iphoneos-arm.deb
+Size: 21976
+MD5sum: 44a037750d64fe3e434ece8584235041
+SHA1: dc8a6b0260028074f06d7aacf1febe18698e60b1
+SHA256: fe8702f0307e98efdbfc78a5506b4b7e30310c6224cca9503566f0bee089e60a
+SHA512: 0e8c55c000850550283283b5c7d8446bbfb0e49f7fff7255ddcf5a97b9ea296584743b77b0a25e4ae299f019f9a79260cf60de5513182857a9fad8c5a754b821
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Âm Lịch & Danh Ngôn
+Depiction: https://apple-phong.github.io/Info/Html/AmLichVaDanhNgon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AmLichVaDanhNgon.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Analog

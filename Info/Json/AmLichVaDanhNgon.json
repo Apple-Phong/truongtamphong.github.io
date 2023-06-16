@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.8.8-1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.8.9" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"03/05/2023"
+"text":"16/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +99,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.8.9\n\n- Thay đổi sang dạng cài đặt mới\n\n- Thêm tuỳ chỉnh thời gian chuyển danh ngôn"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.8.8-1\n\n- Cập nhật sửa lỗi tắt thanh pin không hiển thị danh ngôn\n\n- Thêm tuỳ chỉnh màu sắc, kiểu dáng chữ, cỡ phông, phóng to, ... vào cài đặt\n\n- Thêm danh ngôn về tình yêu\n\n- Thêm thanh pin đổi màu theo nấc 10% đổi 1 lần\n\n- Thêm công tắc bật tắt các thành phần"

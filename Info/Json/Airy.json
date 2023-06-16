@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.8" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.80" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -101,7 +101,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.8\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"
+"markdown":"### Phiên bản 1.1.80\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"
 },
 {
 "class":"DepictionMarkdownView",
