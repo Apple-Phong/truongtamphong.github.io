@@ -2192,6 +2192,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/PullOverPro-Rootless.js
 Tags: compatible_min::ios15.0, compatible_max::ios15.8
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Pure
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Pure_1.0.0_iphoneos-arm.deb
+Size: 6997070
+MD5sum: f5c6247dd30eef0e59dc29cb4456bed6
+SHA1: 9ab51f01fb567885b5b0d34dd0a444fde958ce48
+SHA256: de2fdc31bc6a03ff398d5db082f2d5cfc6b66460bab8da890293c469ced74086
+SHA512: b9ab95510a1f0627eace6a548d441ef7b82b2a119370977b1f316ace98c51214627017850e77932951cb335f4849f129ff098573f17e28f88f64a4e70ccfa9b2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Pure
+Depiction: https://apple-phong.github.io/Info/Html/Pure.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Pure.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Pure.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Pyramid
 Architecture: iphoneos-arm
 Version: 1.0.1
