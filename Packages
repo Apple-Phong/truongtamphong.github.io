@@ -937,6 +937,28 @@ Tags: compatible_min::ios6.0, compatible_max::ios14.8.1
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Dark
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Dark_1.0.0_iphoneos-arm.deb
+Size: 850736
+MD5sum: 86d84fd3fa086674ac72f0a51116dde6
+SHA1: 49a60e3ce0bc132c841065a95a9655f057f1723c
+SHA256: 357eebe585450300b37894d96e83b9d24d76eafc7a1d5680dc2de89abc9b2a66
+SHA512: 73ceb82c68995941388369c3ae429c1f9a0a9a8e35db450faeda2877e26bfd7a48f714f57aab449e33689ca3a5c605c6e34f4064735cb320cb70ebb673d0adf3
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dark
+Depiction: https://apple-phong.github.io/Info/Html/Dark.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dark.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dark.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.DepthsL-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
