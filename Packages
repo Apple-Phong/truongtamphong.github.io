@@ -1968,6 +1968,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Mystery
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mystery_1.0.1_iphoneos-arm.deb
+Size: 3076128
+MD5sum: d47189d0ec8d7d284d1b2c6ea3f71a32
+SHA1: 9862c3b34460fa209ee670de1c2ae506211b237c
+SHA256: 0fd02c9f3ddede3e85f3e7354ba428fa1a3737b33559a87327078789c89a34c6
+SHA512: 00335b144bfcdc0a815f93c40997a5152f1d15aef3ac20be73f39dd5c996e2126abae55dc6552a33743c9727ed52726c978eeaf8b37302cbe56320cc0a83756c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mystery
+Depiction: https://apple-phong.github.io/Info/Html/Mystery.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.NanoBanners
 Architecture: iphoneos-arm
 Version: 1.1.1
