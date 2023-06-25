@@ -58,7 +58,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -67,7 +67,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/06/2023"
+"text":"26/06/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -97,6 +97,21 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.5\n\n- Thêm chế độ sáng"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Dark/Screenshots/Update/1.0.5/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.4\n\n- Sửa một số lỗi\n\n- Thêm trình phát nhạc\n\n- Thêm hiệu ứng cho pin\n\n- Tăng chiều cao lịch bảng\n\nLưu ý!\n\n- Để thay hình ảnh nhấn vào biểu tượng ảnh theo mũi tên màu hồng, để phát nhạc nhấn vào biểu tượng nốt nhạc theo mũi tên màu xanh lá như hình ảnh bên dưới"
