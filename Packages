@@ -1946,6 +1946,28 @@ Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Author: Westlife
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Mystery
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mystery_1.0.0_iphoneos-arm.deb
+Size: 3076146
+MD5sum: af322de64fa613e4d2ab28db43c868a2
+SHA1: feb0c7533145be55e54b8214ea546bcebcff3f0a
+SHA256: fe0d7e99a21b16f60674b153e9246ce0ee785334537c096d0cb25ad685811758
+SHA512: 401c5345cd9005fd52cdb73d3e3e88676da1085d9e3fca5fb580c341b260c15a0a168a6f0579bd6e4d3f4d8bcfdfbeb5fdb5ac86beea62ad59895b8c1dff3c0e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dark
+Depiction: https://apple-phong.github.io/Info/Html/Mystery.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.NanoBanners
 Architecture: iphoneos-arm
 Version: 1.1.1
