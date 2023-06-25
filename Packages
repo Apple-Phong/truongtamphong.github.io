@@ -1953,14 +1953,14 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Mystery_1.0.0_iphoneos-arm.deb
-Size: 3076146
-MD5sum: af322de64fa613e4d2ab28db43c868a2
-SHA1: feb0c7533145be55e54b8214ea546bcebcff3f0a
-SHA256: fe0d7e99a21b16f60674b153e9246ce0ee785334537c096d0cb25ad685811758
-SHA512: 401c5345cd9005fd52cdb73d3e3e88676da1085d9e3fca5fb580c341b260c15a0a168a6f0579bd6e4d3f4d8bcfdfbeb5fdb5ac86beea62ad59895b8c1dff3c0e
+Size: 3076140
+MD5sum: 957b6679803a466fdd490d6addda760a
+SHA1: 6c4fa4cdd321f1c89117cb0d168b26c46f3297d2
+SHA256: 265caecc5b44ae3d042088bad6f80dbe634b646402112ab3de884006ad96cbfe
+SHA512: 9c0ca1ac2b987ac90bca55d16c452258c921bfd0dbee0cf9c19bbb3128e7a398691cfecb2adeb641eb1138af9ea0fc9a1be89271e1c9e63c9e051de89f0ed83d
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
-Name: Dark
+Name: Mystery
 Depiction: https://apple-phong.github.io/Info/Html/Mystery.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
