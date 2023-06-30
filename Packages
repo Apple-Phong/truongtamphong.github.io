@@ -2239,11 +2239,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Pearl_1.0.0_iphoneos-arm.deb
-Size: 352800
-MD5sum: 67298804e593d0f07e477f76664f0a97
-SHA1: a5272ac013c4f022c7aea470f93eaffbcce7a839
-SHA256: 2af187af4f02839c04f652c3246a1de2553d06ff60cead74e42b7563a0415f42
-SHA512: 2cb0a6881b9aaa1c30532e150c37873ec1bac3d228406ce806e27487abf2b3b1a72390a047fa1ea11db3207337a55e6ff76b11a157fd42dee599fdf95ae9bf41
+Size: 352796
+MD5sum: 88565c8543c342a00ece797f503103c8
+SHA1: 2c190e06b8cae976ba2dfacfde6946a5a060b220
+SHA256: a95cdea5bde0b5207b7910b9beb79fb64fc2f3707b42781a4ad3c7014bbb954c
+SHA512: 078c9e5344b5676e5ae760317fc0326b700e48709f5994f4c42f5d5a564b391ff71eb5baee310a1af3fc6d7a165cbe8e9126f6e392cf42e17ecd65445b57a94a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Pearl
