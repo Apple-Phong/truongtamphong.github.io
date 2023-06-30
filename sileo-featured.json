@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.pearl",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Pearl/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.disc",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Disc/Banner.jpg",
