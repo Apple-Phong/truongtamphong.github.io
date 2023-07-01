@@ -58,7 +58,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.12" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.13"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -97,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.13\n\n- Thêm tuỳ chỉnh bật tắt thanh pin"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.12\n\n- Tạo độ nổi cho thanh pin\n\n- Chỉnh lại khung Avatar\n\n- Thêm tuỳ chỉnh màu sắc cho một số thành phần"
