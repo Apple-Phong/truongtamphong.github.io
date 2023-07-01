@@ -2254,6 +2254,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Pearl.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Pearl
+Architecture: iphoneos-arm
+Version: 1.0.12
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Pearl_1.0.12_iphoneos-arm.deb
+Size: 353118
+MD5sum: 392c272368c881b50c6e5a5ef498c6c8
+SHA1: 7bb7e591142e37e1864df9682b65c15377f46b75
+SHA256: 317065329fc4fa66de4a12cf50354673f3191c4b454ac177dfd88ad02f0d8756
+SHA512: 6bbe88a3d6ba9690ec0c7a731ff71d98cdd6e24bf23170944c83bea5677f1733ae1eef1f8943d322812407ca20bb694f88dfe63c177f8bf81aa5c3da2b5288c8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Pearl
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Pearl.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Pearl.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Pearl.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Petal
 Architecture: iphoneos-arm
 Version: 1.1.5
