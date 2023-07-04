@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.anime",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Anime/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.gentle",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Gentle/Banner.jpg",
@@ -565,12 +571,6 @@
 "package":"hoangdinhphong.aprilttp",
 "title":"",
 "url":"https://apple-phong.github.io/Images/AprilTTP/Banner.jpg",
-"hideShadow":"false"
-},
-{
-"package":"hoangdinhphong.anime",
-"title":"",
-"url":"https://apple-phong.github.io/Images/Anime/Banner.jpg",
 "hideShadow":"false"
 },
 {

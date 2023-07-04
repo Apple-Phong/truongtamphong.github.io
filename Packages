@@ -332,6 +332,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Anime
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Anime_1.1.0_iphoneos-arm.deb
+Size: 48900770
+MD5sum: 98ff029058b5ac4c157cbdcf96c2f194
+SHA1: 3c7aa2052351fc221c49cee9fcb0ba590834254a
+SHA256: 518d7571fc5e40a774bc44a8a3b21eb3b6c2343b2878b223bc9ede1697f1798b
+SHA512: 43078cb62886a51771166bb5496b6917681c6e74c96c74d82fb6de9cbe0f76099360b91c40c8533b122a51e603d54cb47ed5f9e3c0dafc845aec2710c6227587
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Anime
+Depiction: https://apple-phong.github.io/Info/Html/Anime.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Anime.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Anime.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AppDataVN
 Architecture: iphoneos-arm
 Version: 1.3.6
