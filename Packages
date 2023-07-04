@@ -1551,6 +1551,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Gentle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Gentle_1.0.0_iphoneos-arm.deb
+Size: 13788720
+MD5sum: ec6425254e6f4df067af06244ce7e77f
+SHA1: cfc9854b384287b0ef092314c3e2c132fe5a5f60
+SHA256: 3620dd7e52189e9a74fa66b40f996c920e10b6261138d003c1266ebc67dda4ec
+SHA512: 3e2526855791618bcca17772663323367e2f97ece8f4414f9b2d9cace7d78ec10c4c5dbed03c8e9d767d72ee303b49c207e71a0962a99e8f2f6442d2d8fd7517
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Gentle
+Depiction: https://apple-phong.github.io/Info/Html/Gentle.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Gentle.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Gentle.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.GiaVoThuongAnhDuocKhong
 Architecture: iphoneos-arm
 Version: 1.0.0
