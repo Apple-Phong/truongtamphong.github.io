@@ -1771,6 +1771,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Infinity.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Information
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Information_1.0.0_iphoneos-arm.deb
+Size: 19815404
+MD5sum: 922b4b51d4a17604526320b5d1b41e20
+SHA1: 6c6c7712a7e2886884cff23e23846d31d96ae512
+SHA256: 26e3733d865d95a451f8c7e7b7de94c163b2e1e6526e9301ce3d53a89933276a
+SHA512: 6e27a049ff6f2bf4833957871bff5da6c2bb248f14936dafe6a13f490961e92cef31a05a2d5361797f70ee84b964edb720af889c3cffba7f785690dbde14d5b7
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Information
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Information.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Information.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Information.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Joyous
 Architecture: iphoneos-arm
 Version: 1.0.1
