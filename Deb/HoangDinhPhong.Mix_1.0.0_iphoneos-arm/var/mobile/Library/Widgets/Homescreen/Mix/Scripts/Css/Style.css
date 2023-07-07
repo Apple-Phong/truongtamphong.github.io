@@ -1,0 +1,714 @@
+body {
+position: fixed;
+margin: 0;
+padding: 0;
+font-family: 'FontSelect';
+}
+
+#AnaBg {
+position: absolute;
+top: 8.6%;
+left: 7%;
+width: 166px;
+height: 166px;
+background: #222;
+border-radius: 100px;
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.4),
+6px 6px 10px rgba(0,0,0, 0.5),
+13px 13px 20px rgba(0,0,0, 0.4),
+0 2px 4px rgba(0,0,0, 0.1),
+-2.3px -2.3px 2.3px rgba(0,0,0, 0.1) inset,
+-6px -6px 10px rgba(0,0,0, 0.2) inset,
+-13px -13px 20px rgba(0,0,0, 0.3) inset,
+-25px -25px 40px rgba(0,0,0, 0.08) inset,
+2.3px 2.3px 2.3px rgba(255,255,255, 0.05) inset,
+6px 6px 10px rgba(255,255,255, 0.08) inset,
+13px 13px 20px rgba(255,255,255, 0.1) inset,
+25px 25px 40px rgba(255,255,255, 0.04) inset;
+}
+
+#AnaBgIn {
+position: absolute;
+top: 50%;
+left: 50%;
+width: 95%;
+height: 95%;
+border-radius: 300px;
+transform: translate(-50%, -50%);
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.4) inset,
+6px 6px 10px rgba(0,0,0, 0.5) inset,
+13px 13px 20px rgba(0,0,0, 0.6) inset,
+25px 25px 40px rgba(0,0,0, 0.3) inset,
+-2.3px -2.3px 2.3px rgba(255,255,255, 0.05) inset,
+-6px -6px 10px rgba(255,255,255, 0.1) inset,
+-13px -13px 20px rgba(255,255,255, 0.15) inset,
+-25px -25px 40px rgba(255,255,255, 0.07) inset;
+}
+
+#AnaBgInCen {
+position: absolute;
+top: 50%;
+left: 50%;
+width: 20%;
+height: 20%;
+border-radius: 300px;
+transform: translate(-50%, -50%);
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.4),
+6px 6px 10px rgba(0,0,0, 0.5),
+13px 13px 20px rgba(0,0,0, 0.4),
+-2.3px -2.3px 2.3px rgba(0,0,0, 0.1) inset,
+-6px -6px 10px rgba(0,0,0, 0.2) inset,
+-13px -13px 20px rgba(0,0,0, 0.3) inset,
+-25px -25px 40px rgba(0,0,0, 0.05) inset,
+2.3px 2.3px 2.3px rgba(255,255,255, 0.03) inset,
+6px 6px 10px rgba(255,255,255, 0.07) inset,
+13px 13px 20px rgba(255,255,255, 0.1) inset,
+25px 25px 40px rgba(255,255,255, 0.04) inset;
+}
+
+#Glasses {
+position: absolute;
+top: 50%;
+left: 50%;
+width: 100%;
+height: 100%;
+transform: translate(-50%, -50%);
+z-index: 4;
+}
+
+#Analog {
+position: absolute;
+top: 50%;
+left: 50%;
+width: 93%;
+height: 93%;
+border-radius: 300px;
+background: var(--anaBgCl);
+transform: translate(-50%, -50%);
+}
+
+#Boss {
+position: absolute;
+top: 25%;
+left: 50%;
+width: 20%;
+height: 11px;
+font-size: 8px;
+padding-top: 2px;
+text-align: center;
+color: #BBB;
+border-radius: 3px;
+transform: translateX(-50%);
+box-shadow:
+0px 2px 2px rgba(0,0,0, 0.6) inset,
+0px -1px 2px rgba(255,255,255, 0.1) inset;
+z-index: 1;
+}
+
+.BgInCont {
+position: relative;
+display: flex;
+width: 100%;
+height: 100%;
+align-items: center;
+justify-content: center;
+}
+
+.BgIn {
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.BgIn::before {
+position: absolute;
+content: '';
+width: 5%;
+height: 5%;
+border-radius: 99%;
+background: #333333;
+border: 1px solid var(--secCl);
+box-shadow:
+0 0px 2px rgba(0,0,0, 0.7),
+0 2px 0px rgba(255,255,255, 0.2) inset,
+0 -2px 0px rgba(0,0,0, 0.5) inset;
+z-index: 2;
+}
+
+.HourCont, .MinCont, .SecCont {
+position: absolute;
+}
+
+.HourCont, .Hour {
+width: 100%;
+height: 70px;
+z-index: 1;
+}
+
+#HourBg {
+position: absolute;
+top: 1%;
+width: 2.1%;
+height: 18%;
+background: var(--hourBgCl);
+border-radius: 5px 5px 0px 0px;
+}
+
+.MinCont, .Min {
+width: 100%;
+height: 100px;
+z-index: 1;
+}
+
+#MinBg {
+position: absolute;
+top: 1%;
+width: 2.1%;
+height: 28%;
+border-radius: 5px 5px 0px 0px;
+background: var(--minuteBgCl);
+z-index: 1;
+}
+
+.SecCont, .Sec {
+width: 100%;
+height: 106px;
+z-index: 1;
+}
+
+#SecBg {
+position: absolute;
+bottom: 40%;
+width: 1.7%;
+height: 4%;
+background: var(--secCl);
+border-radius: 0px 0px 5px 5px;
+z-index: 1;
+}
+
+.Hour, .Min, .Sec {
+position: absolute;
+display: flex;
+border-radius: 99%;
+justify-content: center;
+}
+
+.Hour::before {
+position: absolute;
+content: '';
+width: 3%;
+height: 33px;
+background: var(--hourminCl);
+border-radius: 6px 6px 0px 0px;
+box-shadow:
+-1px -1px 2px rgba(0,0,0, 0.2),
+-2px -2px 3px rgba(0,0,0, 0.3),
+-3px -3px 4px rgba(0,0,0, 0.4);
+}
+
+.Min::before {
+position: absolute;
+content: '';
+width: 3%;
+height: 48px;
+background: var(--hourminCl);
+border-radius: 6px 6px 0px 0px;
+box-shadow:
+-1px -1px 2px rgba(0,0,0, 0.2),
+-2px -2px 3px rgba(0,0,0, 0.3),
+-3px -3px 4px rgba(0,0,0, 0.4);
+}
+
+.Sec::before {
+position: absolute;
+content: '';
+width: 0.6%;
+height: 63px;
+background: var(--secCl);
+}
+
+/*--------------------------------*/
+
+.TwelveSix, .OneSeven, .TwoEight, .NineThree, .FourTen, .FiveEleven {
+position: absolute;
+display: flex;
+width: 100%;
+height: 90%;
+align-items: center;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.TwelveSix {
+transform: rotate(180deg);
+}
+
+.OneSeven {
+transform: rotate(30deg);
+}
+
+.TwoEight {
+transform: rotate(60deg);
+}
+
+.FourTen {
+transform: rotate(-60deg);
+}
+
+.FiveEleven {
+transform: rotate(-30deg);
+}
+
+.NineThree {
+transform: rotate(90deg);
+}
+
+.One, .Two, .Three, .Four, .Five, .Six, .Seven, .Eight, .Nine, .Ten, .Eleven, .Twelve {
+width: 1.6%;
+height: 4.5%;
+background: var(--lineHourCl);
+}
+
+.M1-31, .M2-32, .M3-33, .M4-34, .M6-36, .M7-37, .M8-38, .M9-39, .M11-41, .M12-42, .M13-43, .M14-44, .M16-46, .M17-47, .M18-48, .M19-49, .M21-51, .M22-52, .M23-53, .M24-54, .M26-56, .M27-57, .M28-58, .M29-59 {
+position: absolute;
+display: flex;
+width: 100%;
+height: 90%;
+font-size: 33px;
+align-items: center;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.M1-31 {
+transform: rotate(6deg);
+}
+
+.M2-32 {
+transform: rotate(12deg);
+}
+
+.M3-33 {
+transform: rotate(18deg);
+}
+
+.M4-34 {
+transform: rotate(24deg);
+}
+
+.M6-36 {
+transform: rotate(36deg);
+}
+
+.M7-37 {
+transform: rotate(42deg);
+}
+
+.M8-38 {
+transform: rotate(48deg);
+}
+
+.M9-39 {
+transform: rotate(54deg);
+}
+
+.M11-41 {
+transform: rotate(66deg);
+}
+
+.M12-42 {
+transform: rotate(72deg);
+}
+
+.M13-43 {
+transform: rotate(78deg);
+}
+
+.M14-44 {
+transform: rotate(84deg);
+}
+
+.M16-46 {
+transform: rotate(96deg);
+}
+
+.M17-47 {
+transform: rotate(102deg);
+}
+
+.M18-48 {
+transform: rotate(108deg);
+}
+
+.M19-49 {
+transform: rotate(114deg);
+}
+
+.M21-51 {
+transform: rotate(126deg);
+}
+
+.M22-52 {
+transform: rotate(132deg);
+}
+
+.M23-53 {
+transform: rotate(138deg);
+}
+
+.M24-54 {
+transform: rotate(144deg);
+}
+
+.M26-56 {
+transform: rotate(156deg);
+}
+
+.M27-57 {
+transform: rotate(162deg);
+}
+
+.M28-58 {
+transform: rotate(168deg);
+}
+
+.M29-59 {
+transform: rotate(174deg);
+}
+
+.M1, .M2, .M3, .M4, .M6, .M7, .M8, .M9, .M11, .M12, .M13, .M14, .M16, .M17, .M18, .M19, .M21, .M22, .M23, .M24, .M26, .M27, .M28, .M29, .M31, .M32, .M33, .M34, .M36, .M37, .M38, .M39, .M41, .M42, .M43, .M44, .M46, .M47, .M48, .M49, .M51, .M52, .M53, .M54, .M56, .M57, .M58, .M59 {
+width: 0.5%;
+height: 3%;
+background: var(--lineMinCl);
+border-radius: 1px;
+}
+
+.SixTwelveNum, .ThreeNineNum {
+display: flex;
+position: absolute;
+font-size: 12px;
+align-items: center;
+color: var(--hourNumCl);
+justify-content: space-between;
+}
+
+.SixTwelveNum {
+width: 100%;
+height: 80%;
+flex-direction: column;
+}
+
+.TwelveNum {
+padding-top: 4px;
+}
+
+.ThreeNineNum {
+width: 72%;
+height: 100%;
+}
+
+.ThreeNum {
+padding-left: 89%;
+}
+
+.OneSevenNum, .TwoEightNum, .FourTenNum, .FiveElevenNum {
+position: absolute;
+display: flex;
+width: 100%;
+height: 77%;
+font-size: 12px;
+padding-top: 4px;
+align-items: center;
+flex-direction: column;
+color: var(--hourNumCl);
+justify-content: space-between;
+}
+
+.OneSevenNum {
+transform: rotate(30deg);
+}
+
+.OneNum, .SevenNum {
+transform: rotate(-30deg);
+}
+
+.TwoEightNum {
+padding-top: 0px;
+transform: rotate(60deg);
+}
+
+.TwoNum, .EightNum {
+transform: rotate(-60deg);
+}
+
+.FourTenNum {
+transform: rotate(-60deg);
+}
+
+.FourNum, .TenNum {
+transform: rotate(60deg);
+}
+
+.FiveElevenNum {
+transform: rotate(-30deg);
+}
+
+.FiveNum, .ElevenNum {
+transform: rotate(30deg);
+}
+
+/*---------- Search ----------*/
+
+#SearchCont {
+position: absolute;
+top: 31.6%;
+left: 7%;
+width: 40%;
+height: 5.5%;
+overflow: hidden;
+border-radius: 12px;
+background: #00000022;
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.2),
+6px 6px 10px rgba(0,0,0, 0.3),
+13px 13px 20px rgba(0,0,0, 0.1);
+}
+
+#GgLogo {
+position: absolute;
+top: 50%;
+left: 5%;
+width: 30px;
+height: 30px;
+transform: translateY(-50%);
+}
+
+#SeBox {
+position: absolute;
+width: 100%;
+height: 100%;
+}
+
+input[type=text] {
+top: 54%;
+right: 5%;
+height: 65%;
+width: 67%;
+border-radius: 4px;
+background: #1d1d1d00;
+transform: translateY(-50%);
+border: 1px solid rgba(255,255,255, 0);
+-box-shadow:
+0px 1px 2px rgba(0,0,0, 0.3),
+0px 2px 4px 2px rgba(0,0,0, 0.4) inset,
+0px 4px 8px 4px rgba(0,0,0, 0.5) inset,
+0px -2px 4px -1px rgba(255,255,255, 0.4) inset, 
+0px -4px 8px -2px rgba(255,255,255, 0.5) inset;
+}
+
+input:focus {
+outline: none;
+}
+
+#In {
+position: absolute;
+font-size: 13px;
+color: #FF8B3A;
+-text-shadow: 0px 1px 2px rgba(0,0,0, 1);
+}
+
+::placeholder {
+color: #FFFFFF;
+font-family: 'FontSelect';
+}
+
+/*---------- Weather ----------*/
+
+#WeCont {
+position: absolute;
+top: 41.3%;
+left: 7%;
+width: 40%;
+height: 15%;
+color: #FFFFFF;
+border-radius: 12px;
+background: #00000022;
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.2),
+6px 6px 10px rgba(0,0,0, 0.3),
+13px 13px 20px rgba(0,0,0, 0.1);
+}
+
+#WeatherIcon {
+position: absolute;
+top: 10%;
+right: 4%;
+width: 40%;
+}
+
+#Condition {
+position: absolute;
+top: 8%;
+left: 7%;
+width: 100%;
+font-size: 12px;
+text-align: left;
+}
+
+#Temp {
+position: absolute;
+top: 20.5%;
+left: 7%;
+width: 100%;
+font-size: 25px;
+text-align: left;
+font-weight: bold;
+}
+
+#RainIcon {
+position: absolute;
+top: 49.5%;
+left: 7%;
+font-size: 12px;
+font-family: 'Weather';
+}
+
+#Rain {
+position: absolute;
+top: 51%;
+left: 19%;
+width: 100%;
+font-size: 10px;
+text-align: left;
+}
+
+#HumiIcon {
+position: absolute;
+top: 64.5%;
+left: 8.2%;
+font-size: 12px;
+font-family: 'Weather';
+}
+
+#Humidity {
+position: absolute;
+top: 65%;
+left: 19%;
+width: 100%;
+font-size: 11px;
+text-align: left;
+}
+
+#WindIcon {
+position: absolute;
+top: 79.8%;
+left: 7%;
+font-size: 12px;
+font-family: 'Weather';
+}
+
+#WindSpeed {
+position: absolute;
+top: 80%;
+left: 19%;
+width: 100%;
+font-size: 12px;
+text-align: left;
+}
+
+/*---------- Calendar & Ram ----------*/
+
+#CalCont {
+position: absolute;
+top: 60.8%;
+left: 7%;
+width: 40%;
+height: 17.8%;
+border-radius: 12px;
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.2),
+6px 6px 10px rgba(0,0,0, 0.3),
+13px 13px 20px rgba(0,0,0, 0.1);
+background: linear-gradient(to bottom, #343434, #18181A);
+}
+
+#DateCont {
+position: absolute;
+top: -3px;
+left: -3px;
+width: 40%;
+height: 40%;
+background: #999;
+border-radius: 12px 0px 20px 0px;
+background: linear-gradient(to bottom, #C4C8C0, #9F9F96);
+box-shadow:
+2.3px 2.3px 2.3px rgba(0,0,0, 0.9),
+6px 6px 10px rgba(0,0,0, 1),
+13px 13px 20px rgba(0,0,0, 0.8);
+z-index: 1;
+}
+
+#Date {
+position: absolute;
+top: 52.5%;
+left: 50%;
+color: #000000;
+font-size: 25px;
+transform: translate(-50%, -50%);
+}
+
+#Month {
+position: absolute;
+top: 27%;
+right: 0%;
+width: 60%;
+display: none;
+color: #FFFFFF;
+font-size: 12px;
+text-align: center;
+text-transform: uppercase;
+}
+
+#Weekday {
+position: absolute;
+top: 14%;
+right: 0%;
+width: 60%;
+color: #FFFFFF;
+font-size: 11px;
+padding-top: 2px;
+text-align: center;
+background: #484950;
+text-transform: capitalize;
+}
+
+#FreeRAM {
+position: absolute;
+top: 52%;
+left: 0%;
+width: 100%;
+color: #FFFFFF;
+font-size: 30px;
+text-align: center;
+}
+
+#AlCont {
+position: absolute;
+top: 80%;
+left: 0%;
+width: 100%;
+color: #FFFFFF;
+font-size: 14px;
+text-align: center;
+text-transform: uppercase;
+}
+
+@font-face {
+font-family: 'Weather';
+src: url(../Scripts/../Fonts/Weather.ttf);
+}
