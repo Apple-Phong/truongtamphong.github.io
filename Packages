@@ -1465,6 +1465,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FlipClock
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FlipClock_1.0.1_iphoneos-arm.deb
+Size: 23337464
+MD5sum: b7d94df976ea9e44a6978e2ca42f607d
+SHA1: 8d475acf52832180440a3b57f8628e9a014b4f9d
+SHA256: a6fca773d5aeb5b7ca3339b44768e2e0631ad13da34fb0d430f54f2862bef924
+SHA512: ee520d9e84f2ddd554dd0ce5eef6422d6c4005178e35cb9b63faed1968135817e56df9d879f948b838c4df86dd6813f50cdf3f11cd111b113e4c14f54e06bc86
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flip Clock
+Depiction: https://apple-phong.github.io/Info/Html/FlipClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Flower
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2090,6 +2112,28 @@ MD5sum: e8813d4787b062b6c232a3684ebbf76c
 SHA1: 90f0661bb381de523a06e008956b352515fd3806
 SHA256: c3c1428eea1cd1e0d6aa3659dc258a7f83a60c37c9723c533e93dee6a0ecdad3
 SHA512: 152bd091d88784501522bde20caa78a4797291549f5f19f4236399014adb615f17bc0990243e7323879b9af557e093792def99d274f7f51d060f38ef8c7077f2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mix
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Mix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mix.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Mix
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mix_1.0.2_iphoneos-arm.deb
+Size: 20169978
+MD5sum: 0dc4e53348ebd20e8de42958ee44bf8d
+SHA1: 68c5943c94336186ef95799895aca7913e867376
+SHA256: 4263c169f718f6ee08f151d2d4b224b0bd4152127f00566fdfca6b357e6281a0
+SHA512: caffebeb176055ec9930d0ade26659def2171c9208f5edf45b040e9da40b92e39bbb35eb6819c6c6b8080064787044d6ec57b452a00cb8e6763a2af7b97d7535
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Mix
