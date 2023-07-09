@@ -1487,6 +1487,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FlipClock
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FlipClock_1.0.2_iphoneos-arm.deb
+Size: 23337456
+MD5sum: e31ca58dde04989ac01fea71343cc927
+SHA1: 1a18ba3bb41592682bd095c081254250abeaa0e6
+SHA256: f09842c0cf48046bb112face030319db435f9c1700d01682b4add4228f12fb44
+SHA512: cf2fc5f15a069c01566a556631434b0718477b4c6bb42b2327130a37d5c7fe9485c91d13146914b3cf12251b00128591e909b25589ac60b3e6db334d75e11ba6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flip Clock
+Depiction: https://apple-phong.github.io/Info/Html/FlipClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Flower
 Architecture: iphoneos-arm
 Version: 1.0.1
