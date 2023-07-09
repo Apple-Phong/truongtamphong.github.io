@@ -3194,10 +3194,10 @@ Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Strange_1.0.0_iphoneos-arm.deb
 Size: 175502
-MD5sum: 134c28bb4f500b3661b3ea2d3cbc6f18
-SHA1: a9e1b85416270728d6694e8ed3e043a8982c4551
-SHA256: 7cee0e8783a6e79d696967e98f672efe65d0626a4d87063907000d01dfb23d57
-SHA512: fda51b33c1d51b935758673bca2ded98bd6261e12ec1aaad35413fba6b37b28f189dda4e12e14a41bdec5981376f1efcac9bd2978816b9220876aad69ac800ee
+MD5sum: b77567bda040a00b600830f9fadd51d2
+SHA1: d9e1c4a8162d708ec2a81868773fc7c95b12374c
+SHA256: 98598b0d6e092bd5b7bfe1e31f7e8c9a2e967553ad126396814b953263d7a86d
+SHA512: 5009f13bc188d11c8137647987a4c2460ca43df175fee8c36976c58a9d62b9ab05a5a87ae3b2f209d7b77f1696ee3453d8ab5eb96a491141e0e8b869299a5b24
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Strange
