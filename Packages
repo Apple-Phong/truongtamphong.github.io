@@ -3208,6 +3208,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Strange.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Strange
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Strange_1.0.1_iphoneos-arm.deb
+Size: 175604
+MD5sum: aec164150ed971f4f82e07df6d7299db
+SHA1: 67684e0bfa9500905457381d397cd820e64dadd2
+SHA256: 9e107e2992fa18c65aa8dc962e70ad82dfba1c1810dc022d0adf80838c0f7523
+SHA512: 4fb0f4bc12cf1d7be996b15072c46389d995bafa6a1718ee20b8f69e4b92cca8694b54adf08fd548789efea87fc5586eb691cbfe2684e226f14f7567e713b3c2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Strange
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Strange.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Strange.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Strange.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SymbianBelle
 Architecture: iphoneos-arm
 Version: 1.0.0
