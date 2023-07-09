@@ -2078,6 +2078,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Meteor.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Meteorite
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Meteorite_1.0.0_iphoneos-arm.deb
+Size: 19753788
+MD5sum: f99649b4ed120db72e29710524b52be9
+SHA1: 3fa3cc650944d7fb8ef13cb81a65c4b326a4e88b
+SHA256: 8612064fa1a59c14513d3a0c547e6cbbfc6a08537de096d1dbdc32c6e1876dfa
+SHA512: 276e1928ca1846fac736cc0ef6a4768fc1106c91d72ae7f3d86552616eb0cf747d3cab64b9ae0e6b92f5448b480f7b9c2f5b09a8830bd65cc70db8c52567f2f0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Meteorite
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Meteorite.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Mix
 Architecture: iphoneos-arm
 Version: 1.0.0
