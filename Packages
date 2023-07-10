@@ -3414,10 +3414,10 @@ Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Tired_1.0.0_iphoneos-arm.deb
 Size: 112966
-MD5sum: 8d5fd68ce5d62408b0c9f93de8a0e636
-SHA1: a940a4a7471f4de330ba83fc44bcac8fd3c9492d
-SHA256: c7202f09a54f24637e355814456efeac6d69c57374e3953a79acbae08a8c0118
-SHA512: 3ca5a2a56c2e0254aa5663e714825feb51ecb5e67e6f800a63baf66c00d969ba736c0bae3583aea978127a8a56e3495a8a22dcb92984e40eda74d5b6a69fce26
+MD5sum: 3f976e3111b68fc754d6b14986dddf8e
+SHA1: 65c24e6d26a8bb3eee97e4bd8c437994e91c886f
+SHA256: f73e676de262c5c38089d02767911e42fb91712b7670154adb0dd71e86986f1b
+SHA512: 85281ef2b81b45611f727c57cf780aef5fe46efaef48e661583163e3bdd7035f49247c9a3322f5e9336362e0b39eb94599a0b89fcce336e3bd4e8920037d2b76
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Tired
