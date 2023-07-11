@@ -827,6 +827,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cloud
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Cloud_1.0.0_iphoneos-arm.deb
+Size: 424168
+MD5sum: 98516547b8f3565c017ecda4c7382582
+SHA1: d44d41745794cf7dbfe7466c2b711b219d4fd33e
+SHA256: e804e38bfd0dc606c397f393c5ee944abfcb0c7e9be1ce8b0121b83c6a8f4035
+SHA512: c4378e524fa363c3993447a810d7c6d2a717f638fd935ea1d42b4b52bcbca79c87170e1c00da3198d10690876224c0d59373ae24f116e9f5388fb302d80023db
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cloud
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Cloud.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ConteSans-Rootless
 Architecture: iphoneos-arm64
 Version: 1.1.0
