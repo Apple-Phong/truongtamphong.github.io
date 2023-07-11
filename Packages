@@ -2743,6 +2743,28 @@ Author: MacOS
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Rugged
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Rugged_1.0.0_iphoneos-arm.deb
+Size: 274632
+MD5sum: 603f6379b39e1c5db355856777b16a46
+SHA1: 6aba993d9e07e9a480c4c1f3e04bc8887cc8d6b0
+SHA256: 7df20ddc5f3564780a068c535579374ee9e5d03989dd7789d9b3e95f8148a4c0
+SHA512: ac2980d123ba37fd072c5d72fadadd6c59e81aacf8ee4be027ac431eebc2eca01d06fb940edbf6dd813805d405f61108db6d3c1a4208c36fcdec9ee2ad61a002
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Rugged
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Rugged.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Rugged.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Rugged.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ScreenRecordingWithSound
 Architecture: iphoneos-arm
 Version: 1.0.0
