@@ -849,6 +849,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ColdSnow
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.ColdSnow_1.0.0_iphoneos-arm.deb
+Size: 189118
+MD5sum: 4eed57adcb63800a50201d5e0a0d8696
+SHA1: 157c724e4c47c34ca422954d8707df508f008c43
+SHA256: efe927174e106a2d6043def048a4519c7dbd6dbaf64dd219943ba2aec2b385e7
+SHA512: 501bf6531f4c2c97b4445fcf89e6b2f0a6645b74bb63d02b3765878dfdab9cb2d1afb1797f7d706f27a205b459eb59a9eff57d995e8af3c812ed66b3023dc51f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cold Snow
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/ColdSnow.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ConteSans-Rootless
 Architecture: iphoneos-arm64
 Version: 1.1.0
