@@ -2166,6 +2166,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Mars.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Matrix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Matrix_1.0.0_iphoneos-arm.deb
+Size: 242100
+MD5sum: a6d348cafaa34ed0edf119178868f705
+SHA1: f0a0e7fc0ed2116983c076b312ddc1cb3843bfb8
+SHA256: cbfa9d373ee5818f5ce2d14f8b2fb7266ece8f569a35bf139a826852eaf23de1
+SHA512: 90eddf60f3ea4852d538944facb8787dd0394fce69faf043bfe734898395363ad93334f91b5ecf181e9a8c27a74a632890dd2803b32462d67ebb7e4058bffab0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Matrix
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Matrix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Matrix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Matrix.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Meloso-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
