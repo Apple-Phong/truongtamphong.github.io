@@ -2342,6 +2342,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Mix.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Moonlight
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Moonlight_1.0.0_iphoneos-arm.deb
+Size: 101314
+MD5sum: 073e8e4c85d695c54d58ea8cda3c3b82
+SHA1: 45025a114546043cf55d4a843dbcaa2aaae3164d
+SHA256: 17f0a137801c6a0778a371a4fd3e1e6a170371b5f8f559823e7650780426fe6f
+SHA512: 559a5b82c968a62a735cbe2d392a9a3440e37c2f4d76f319d8c8bc2308c17c17bb280db0bfe42f06833d8800651b5643c98f00e0e4ab9f262e1cef119d24c8d4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Moonlight
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Moonlight.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Moonlight.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Moonlight.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MuDark
 Architecture: iphoneos-arm
 Version: 1.0.70
