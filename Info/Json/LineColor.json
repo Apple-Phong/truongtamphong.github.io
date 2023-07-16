@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.6" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.7" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +61,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/05/2023"
+"text":"16/07/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -91,6 +91,21 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.7\n\n- Loại bỏ thanh âm lượng\n\n- Thu nhỏ logo Music\n\n- Thu nhỏ biểu tượng thời tiết cho các dòng máy Max"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/LineColor/Screenshots/Update/1.0.7/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.6\n\n- Thay đổi điền phông sang chọn phông"
