@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.stormy",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Stormy/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.opertationmeteor",
 "title":"",
 "url":"https://apple-phong.github.io/Images/OpertationMeteor/Banner.jpg",
