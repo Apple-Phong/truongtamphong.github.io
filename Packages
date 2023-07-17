@@ -3501,11 +3501,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Stormy_1.0.0_iphoneos-arm.deb
-Size: 2417268
-MD5sum: ceb8476729e64f2706259d20e6c1bc42
-SHA1: 5e0269134e13a7988716d15cc021c967b6bd8b03
-SHA256: 85ceb69df23d2b42d69a56996191a18e270e217b798a1b2a977b0cb7a08de0dd
-SHA512: 036b3f07a63e92ccdea79ef56b5863f36b424034915eb0936d0bcac7219d168e5337c0c39b8f8053fb98c24cafd527ba51f14fd3bdd1224b6d8ed21944fa3ea6
+Size: 2417272
+MD5sum: 379c2b9f8eef4dc0d64ea5a1be31324e
+SHA1: c5398f205a19c5d96743d0fd6137b2742cf84e25
+SHA256: ed610e8d0b4888cc3bc65da0ce9df0356b9e3c4ccf2e85b095e9b1b94c7a8323
+SHA512: af0da0091b0aff062ff5138ded06cdc498c11cb48870931d6f2be02696ce9fd01727f01b1390f7d13693b6bb6da402ab1cf7976c9f33fe32ceb0e90496806728
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Stormy
