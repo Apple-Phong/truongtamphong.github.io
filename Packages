@@ -3516,6 +3516,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Stormy.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Stormy
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Stormy_1.0.1_iphoneos-arm.deb
+Size: 2663498
+MD5sum: 50dc508a520341434c5536c8bc082e51
+SHA1: 14802eadcc3273d1c24e548d2433523234969db0
+SHA256: fa8ecde58d8844b36ffe44e354c154c2e5a481c702f419ead9786a4ca4136659
+SHA512: ca708c16fe90e7417c079615b4f0222266f4b401d55c4b44e3ff0d179670fe7fbe76abcaf3982c0bc94686ba2eddafebbf59bd80a5f30bc0606a28be1870331e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Stormy
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Stormy.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Stormy.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Stormy.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Strange
 Architecture: iphoneos-arm
 Version: 1.0.0
