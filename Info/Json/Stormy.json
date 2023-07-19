@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.3"
+"text":"1.0.4"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"19/07/2023"
+"text":"20/07/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi đổi màu văn bản"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.3\n\n- Thêm lựa chọn biểu tượng thời tiết"
