@@ -3164,6 +3164,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SkinnyMenu.json
 Tags: compatible_min::ios13.0, compatible_max::ios16.4.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Slope
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Slope_1.0.0_iphoneos-arm.deb
+Size: 654268
+MD5sum: 91e781cfb97025d66312d8fec94a9d6f
+SHA1: e0bae1d0f12f204d1ef108119231ce59bb0dd8b0
+SHA256: 01e434b46946d8d5ee9cd563ef754d03bd4221b91eed52a96b027cf273abb4e9
+SHA512: 7bbdd722a6e1a621eb679cc2f5f01091e0b6d8016444b41af0628bbe3f80bcc39a0586acf2c2430f62cbb41892a01a6bee2e1bf9c5f9d208417858fcc3ee7cf6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Slope
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Slope.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Slope.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Slope.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SnowBoard-Rootless
 Architecture: iphoneos-arm64
 Version: 1.5.13-Beta3
