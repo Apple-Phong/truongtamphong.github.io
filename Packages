@@ -1531,6 +1531,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Endless
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Endless_1.0.1_iphoneos-arm.deb
+Size: 26144582
+MD5sum: 9d91b151145b80344edda9ae104d5d73
+SHA1: 9fba8fd00bb3e202f81607377a38e7463ccbd3af
+SHA256: ab0dad4b9620d3c26593445a0a4b4cfbaca857fcdc55a11a6413dd2408ab373f
+SHA512: 8f623ba984289ae1fc6f2f723d9ee0cc37bf987e30d35acc0d93de29fe8c23747793a1e5b337abf71dbbaf2fceddd3580b04f367d9bbe25612a48c4ef2e9f001
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Endless
+Depiction: https://apple-phong.github.io/Info/Html/Endless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Endless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Endless.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Faint
 Architecture: iphoneos-arm
 Version: 1.0.3
