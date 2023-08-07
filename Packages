@@ -2650,6 +2650,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Opal
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Opal_1.0.1_iphoneos-arm.deb
+Size: 9025174
+MD5sum: 4c11714750143d6406d4b5c8dd15db9f
+SHA1: 4d4ecfbc03cff21ad65aab42845d1c8296672884
+SHA256: d3b53f2d7ba1389cfcffc03c37017046ce77ac0e2222e487888ca7e4ce1cd370
+SHA512: f62b71caee5961fcb8241be5b2e64b48097a730cfcb0757fe90d79d2c7834b8d0d90e49014aa3f33f479cd560fb0ba2ea2e4572d60615bede565bdfd11ca4918
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Opal
+Depiction: https://apple-phong.github.io/Info/Html/Opal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Opal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Opal.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.OpertationMeteor-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
