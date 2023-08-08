@@ -103,6 +103,21 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Thêm trình phát nhạc\n\n* Để chạy trình phát nhạc vui lòng nhấn vào thời tiết ngày thứ hai như hình ảnh bên dưới"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Opal/Screenshots/Update/1.0.2/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm lịch âm & phần trăm pin\n\n- Thiết kế rút gọn lại khung thời tiết động để có nhiều chỗ đứng hơn cho ứng dụng"
 },
 {
