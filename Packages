@@ -4066,6 +4066,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Uniani.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Uniani
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Uniani_1.0.3_iphoneos-arm.deb
+Size: 6392340
+MD5sum: 9e8767cb03b5d68d67cb0be4b3ff9ab3
+SHA1: 4b462ec250c671ee9eac84c350420b894b0fa452
+SHA256: d4c8aa3ac0a9affa0fa499387f7abea9bf5644eb637c699bbffb8673d89ff1f9
+SHA512: c6fb916f77ccf05f6a87a0ca0560bb139f30bac46de84ef01b2443750c5824c3fbcfc295bda1fb429f21c2af645d31bd4925dea92d3b5d9ef3b0052c189a5278
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Uniani
+Author: Redesign by Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Uniani.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Uniani.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Uniani.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.UntilYou
 Architecture: iphoneos-arm
 Version: 1.0.0

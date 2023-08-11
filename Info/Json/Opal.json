@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi mặt trời lúc bình minh không tự động chuyển hiệu ứng"
+"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi mặt trời lúc bình minh không tự động chuyển hiệu ứng ở chế độ bình thường"
 },
 {
 "class":"DepictionMarkdownView",
