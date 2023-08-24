@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.1"
+"text":"1.0.2"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/08/2023"
+"text":"24/08/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -105,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Sửa lỗi nhấn giữ vào bảng thời tiết bị phóng ảnh thời tiết"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi chớp nháy khi chạm vào thanh tìm kiếm"
