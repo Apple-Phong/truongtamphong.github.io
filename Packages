@@ -446,6 +446,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.CGP-Rootless
+Architecture: iphoneos-arm64
+Version: 451
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.CGP-Rootless_451_iphoneos-arm64.deb
+Size: 93981738
+MD5sum: 83868ccbb30dafba392e3903681a98da
+SHA1: 533855d981e676f673b074a84dd4b9aa77f101cb
+SHA256: 0097c295536d7905d10d908aceb64ff33c3edf1ed5856cd973047d5b20663edb
+SHA512: 3c569c89216677f1676e75fc54c8ff476f371423fe29bc1c8f80fde13a4913d0253b54fefa0db40fa594d7f7d1d07d61330bf82f69b837696ca098b6b9fb1365
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu tối
+Name: CGP - Rootless
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/CGP-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/CGP-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/CGP-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.CGP
 Architecture: iphoneos-arm
 Version: 451
@@ -465,6 +487,28 @@ Depiction: https://apple-phong.github.io/Info/Html/CGP.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/CGP.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/CGP.json
 Tags: compatible_min::ios11.0, compatible_max::ios16.5
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.Carbon-Rootless
+Architecture: iphoneos-arm64
+Version: 514
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.Carbon-Rootless_514_iphoneos-arm64.deb
+Size: 97801612
+MD5sum: b3eeb9073bc96a0ec64175a6f2fd537d
+SHA1: 73a77dd360fb30133435a55e527a13a49fc66690
+SHA256: fee379a364bd4a3ac9eeb057627bab139ee1e4863361b0dad3bcb6d787472900
+SHA512: 1e74885d2a46073069e89e0515d95b5894f00e13757aed64f3823209a224784935c1d473f6728a858751d21e11d36fd87699fdfe6f36447848c59f7352ca122e
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu tối
+Name: Carbon - Rootless
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Carbon-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Carbon-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Carbon-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.Carbon
@@ -1504,6 +1548,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Juno-Rootless
+Architecture: iphoneos-arm64
+Version: 422
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.Juno-Rootless_422_iphoneos-arm64.deb
+Size: 48677148
+MD5sum: ff7cec2d0591255e0422a8a595fd4e44
+SHA1: 0d46d2a6716a7f20699f557fa44951363f44d0fb
+SHA256: ab08b13f29aa20a7936b60ecd49589c2372741d91c086fa622a5ac7c14eb75ca
+SHA512: cc3a19493e66bbb1084b06dcb87bcc6f92c872aecb64426ed5bab671be67a66ecd67894b9010db89f0d8d458aab132541ff3069d7bcd10070c40ef9a7a5e75aa
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu sáng
+Name: Juno - Rootless
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Juno-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Juno-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Juno-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.Juno
 Architecture: iphoneos-arm
 Version: 422
@@ -1571,6 +1637,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/KingDarkness.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.LetoPro-Rootless
+Architecture: iphoneos-arm64
+Version: 423
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.LetoPro-Rootless_423_iphoneos-arm64.deb
+Size: 48908982
+MD5sum: f0f2e3ff55b0f54fd1b4f77d0f6fb5e5
+SHA1: 5fbcf766a50c26104f41754b87ed92c4b002d146
+SHA256: 38c2943e24fa986abccea1e68918c17bbd5e357e3aa3a31c343b716f2de2a012
+SHA512: dcdf0f30b0408ede20af6dab59e6631e0764ba417efbbd9b09a99ceb428b937117834a3571c51066bf1f5c3bb80224af4055053a0fd19dc32ab9a2f3b4f5a1b2
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu ấm
+Name: LetoPro - Rootless
+Author: MtK
+Depiction: https://apple-phong.github.io/Info/Html/LetoPro-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/LetoPro-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/LetoPro-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7
+Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.LetoPro
 Architecture: iphoneos-arm
@@ -2766,6 +2854,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/Strange.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Strange.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SymbianBelle-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.SymbianBelle-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 2684718
+MD5sum: 1a49b81779662f83cfa18d577d8f9ce4
+SHA1: 6522aa415de70443b47c78510d07828462b578b8
+SHA256: d99e28f29af924bda7cbd5c2736b4056a5904661aad2b6f33d3ae44a739fdbf8
+SHA512: 2c263823e0a507f8d8043795aca4265b15f3ef0ba138a76b4b61ce0a93830bb438e1f0d50d51b9336162e95675a0aed25919fe91b297528c29555e74cf567d61
+Homepage: https://apple-phong.github.io
+Description: Chủ đề màu sáng
+Name: Symbian Belle - Rootless
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/SymbianBelle-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SymbianBelle-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SymbianBelle-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios15.7
+Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.SymbianBelle
 Architecture: iphoneos-arm

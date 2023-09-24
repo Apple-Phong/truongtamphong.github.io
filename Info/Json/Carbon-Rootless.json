@@ -1,0 +1,125 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Chủ đề này của tác giả NyK0n đã được Hoàng Đình Phong thiết kế thêm hơn 400 biểu tượng cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài một trong những Tweak sau đây để sử dụng\n\n- Snowboard\n\n- iThemer\n\n- Anemone\n\n- Iconomatic\n\nㅤ\n\nChi tiết gói\n\n+ 513 biểu tượng ứng dụng\n\n+ 14 gói AE\n\n+ 4 gói huy hiệu\n\n+ 2 gói thư mục\n\n+ 2 gói dấu chấm trang\n\n+ 3 gói công tắc bật tắt\n\n+ 9 gói thanh Dock\n\n+ Gói pin & sóng cho thanh trạng thái\n\n+ Gói biểu tượng cho cài đặt\n\n+ Gói khung chát cho iMessage\n\n+ Gói bàn phím gọi & bàn phím điền mật khẩu\n\n+ Gói biểu tượng cho ứng dụng iCleaner Pro\n\n+ Gói âm thanh khoá màn hình, sạc pin & gõ bàn phím\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Carbon/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://apple-phong.github.io/Images/Carbon/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Hoàng Đình Phong"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"514" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Themes"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"24/09/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 15.7"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 514\n\n- Thêm nhiều biểu tượng mới\n\n- Đã có thể đổi tên các mục của tinh chỉnh Shuffle mà không cần giữ tên gốc, biểu tượng gói sẽ không bị mất đi. *Lưu ý!* Bạn cần phải sắp xếp kéo mục Settings UI lên hàng đầu so với theme thì mới có tác dụng"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/Carbon/Screenshots/Update/514/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
