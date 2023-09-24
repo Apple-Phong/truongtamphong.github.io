@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.4"
+"text":"1.0.5"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"11/09/2023"
+"text":"24/09/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.5\n\n- Thêm thanh tiêu đề bài hát"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.4\n\n- Chỉnh độ nổi khung ứng dụng rõ ràng hơn"
