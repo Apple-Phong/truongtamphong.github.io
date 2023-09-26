@@ -2791,16 +2791,16 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.StarDock
 Architecture: iphoneos-arm
-Version: 1.0.7
+Version: 1.0.8
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.StarDock_1.0.7_iphoneos-arm.deb
-Size: 24063886
-MD5sum: 2cb333657e3917e4b68b30e9e59aa5e9
-SHA1: 7409f87988d4ed836677573aad581a712bdcc5df
-SHA256: 77b2025c360ec5886f739e0f65fbe55828f93e624f5c09abaab1c8e3432479fb
-SHA512: ecca292fc32c167581c47d61ceb21f6e7f724c77bb30e2ab56f242d1faead9c22e162b66dc4bb4d0b6d508192b430e901529aa4347305bfe130071807215d140
+Filename: ./Deb/HoangDinhPhong.StarDock_1.0.8_iphoneos-arm.deb
+Size: 24063484
+MD5sum: c9709373fd7ed4531a820c8cec5da958
+SHA1: 97e7d4db11550de935b68c7db33e53283ef3e041
+SHA256: fb91f5cfbd743d373e1b184583d1a420c5321b36b596cabca4f71fa966f97f8b
+SHA512: a1081003c7e1cb91bbbf90a7ee027cea2d756a85da75e01cc5c9ec9e19d80101b509cfcdd502430c7eb925a70dd56497d1be217fbad33d62e76f3fb6c39fda3a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: StarDock

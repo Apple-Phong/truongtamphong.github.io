@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.7" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.8" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"25/05/2023"
+"text":"26/09/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +99,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.8\n\n- Thay đổi lại cài đặt\n\n- Loại bỏ bóng đổ văn bản\n\n- Thêm độ nổi cho ảnh bìa Album"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.7\n\n- Thêm lớp phủ ảnh bìa Album\n\n- Thêm tuỳ chỉnh tốc độ cuộn tên bài hát\n\n- Thêm xoay ảnh bìa Album & tuỳ chỉnh tốc độ xoay"
