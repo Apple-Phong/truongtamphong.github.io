@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.9" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/09/2023"
+"text":"27/09/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +99,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.0\n\n- Tiết kiệm Pin tối đa"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.9\n\n- Sửa lỗi"
