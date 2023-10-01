@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.dockcity",
+"title":"",
+"url":"https://apple-phong.github.io/Images/DockCity/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.joyless",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Joyless/Banner.jpg",
