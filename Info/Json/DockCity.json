@@ -15,7 +15,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nMàn hình hiển thị\n\n+ Thời tiết\n\n+ Thanh trạng thái\n\n+ Khung ứng dụng\n\n+ Thanh Dock\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính\n\nㅤ\n\nMàn hình hiển thị\n\n+ Thanh trạng thái\n\n+ Đồng hồ kim\n\n+ Lịch tháng\n\n+ Khung ứng dụng\n\n+ Thời tiết\n\n+ Thanh Dock\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.0"
+"text":"1.1.0"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"01/10/2023"
+"text":"02/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.0\n\n- Thêm màu nền cho khung ứng dụng, thanh trạng thái & Dock\n\n- Thêm đồng hồ kim\n\n- Thêm lịch tháng\n\n- Thêm tuỳ chỉnh màu sắc cho nhiều thành phần khác nhau\n\n- Thêm vách ngăn cho Dock\n\n- Nâng cấp làm đẹp lại thanh trạng thái & Dock"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
