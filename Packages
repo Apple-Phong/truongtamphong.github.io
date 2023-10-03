@@ -1897,6 +1897,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MiDevice
+Architecture: iphoneos-arm
+Version: 2.0.0-4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./Deb/HoangDinhPhong.MiDevice_2.0.0-4_iphoneos-arm.deb
+Size: 229250
+MD5sum: 650463a30c5568d5565f5b38a30922bf
+SHA1: 3c84a3d78d34eb5bde1f72dc92807ef34bdfb681
+SHA256: f3cd7ba573c0d2ceb939abff16a37d8e18dfe71285b16e9e8e9700d89db8d52c
+SHA512: a1687b445e53058d6331bb2a239a0e2d2c845e3cdead4ea238961e94c47bf89b64331d35ef59e74d409ca9a22031b1158761485f8390139db4a6032cb419905e
+Homepage: https://apple-phong.github.io
+Description: Tinh chỉnh đa chức năng
+Name: MiDevice Việt Nam
+Author: DodGraphics
+Depiction: https://apple-phong.github.io/Info/Html/MiDevice.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/MiDevice.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/MiDevice.json
+Tags: compatible_min::ios11.0, compatible_max::ios13.7
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Mix
 Architecture: iphoneos-arm
 Version: 1.0.2
