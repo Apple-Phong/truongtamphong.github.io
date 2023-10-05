@@ -887,6 +887,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.DockCity
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.DockCity_1.1.8_iphoneos-arm.deb
+Size: 514856
+MD5sum: 0896c10935a5b44257ccb892401f6ab9
+SHA1: 4d35696a1f912d8f2451e6a534e952d99ba830de
+SHA256: 2d9b13fc52a7813d94313cefad8151a10339c55da84aa8e30c70f9701ac8dc05
+SHA512: 99f8b70731597a631c67c0a948290bb85078bea2c8690fe8470a5ced84b84d8f4d71dd89120d16da3e87686591b654e67d19b72cfa5e0111d26260d8bad84ded
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Dock City
+Depiction: https://apple-phong.github.io/Info/Html/DockCity.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.DockOne
 Architecture: iphoneos-arm
 Version: 1.0.1

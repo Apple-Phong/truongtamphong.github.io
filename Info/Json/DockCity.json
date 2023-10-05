@@ -30,10 +30,6 @@
 "url":"https://apple-phong.github.io/Images/DockCity/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
-{
-"url":"https://apple-phong.github.io/Images/DockCity/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-}
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
@@ -65,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.7"
+"text":"1.1.8"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"05/10/2023"
+"text":"06/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -105,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.8\n\n- Thêm độ nổi cho khung lịch và khung ứng dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.7\n\n- Thêm màu sắc cho thanh Dock\n\n- Thay đổi lại kim đồng hồ\n\n- Sửa chữa một số lỗi"
