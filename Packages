@@ -867,16 +867,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.DockCity
 Architecture: iphoneos-arm
-Version: 1.1.5
+Version: 1.1.7
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.DockCity_1.1.5_iphoneos-arm.deb
-Size: 514642
-MD5sum: dcb2f18f8619120b4667aa557ac4b3d3
-SHA1: 20c4fc53c01b707bc26d6546873f3eb3fa4d667b
-SHA256: 30672fa593a4e29f4e561ebf1228317829f3b437d8c91cbd4dee85a09ba1ef16
-SHA512: ae7d7538797b525d94faf21fbe60c62c4c79c3dfa8b532a54ee020e4185528b276664d2e3140868a91bc9b6f5e2249c993e0fec80f783b856d5d213db1389a49
+Filename: ./Deb/HoangDinhPhong.DockCity_1.1.7_iphoneos-arm.deb
+Size: 514826
+MD5sum: 293494d337e662a6df6e0c31bfcc0800
+SHA1: 850ae620902faf505349abcb66be16bbef8811e2
+SHA256: c575115ad8b5195d58ca268a205c16466123eea6bf60e440bf5515bea95b3786
+SHA512: 4c39c06751bddc80f04e806ce9f05cffe0a8d55ca199af52801dd75fba44c68e8d97f47c99fe4cc93d8a55d95eac91b6b82fdf542db2cdb9c41bf75d2ecaf2bd
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Name: Dock City

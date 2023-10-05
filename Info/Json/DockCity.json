@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.5"
+"text":"1.1.7"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"04/10/2023"
+"text":"05/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -105,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.7\n\n- Thêm màu sắc cho thanh Dock\n\n- Thay đổi lại kim đồng hồ\n\n- Sửa chữa một số lỗi"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.5\n\n- Thêm kiểu dáng hiện đại cho đồng hồ Analog\n\n- Thêm thông tin bộ nhớ RAM\n\n- Tăng độ mượt cho ảnh bìa Album khi bật tắt nhạc"
