@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.9\n\n- Thêm trái tim vào khung ứng dụng"
+"markdown":"### Phiên bản 1.2.0\n\n- Thêm trái tim vào khung ứng dụng"
 },
 {
 "class":"DepictionMarkdownView",
