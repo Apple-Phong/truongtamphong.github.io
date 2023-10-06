@@ -4,12 +4,6 @@
 "itemCornerRadius":8,
 "banners":[
 {
-"package":"hoangdinhphong.midevice",
-"title":"",
-"url":"https://apple-phong.github.io/Images/MiDevice/Banner.jpg",
-"hideShadow":"false"
-},
-{
 "package":"hoangdinhphong.dockcity",
 "title":"",
 "url":"https://apple-phong.github.io/Images/DockCity/Banner.jpg",
@@ -25,6 +19,12 @@
 "package":"hoangdinhphong.opal",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Opal/Banner.jpg",
+"hideShadow":"false"
+},
+{
+"package":"hoangdinhphong.midevice",
+"title":"",
+"url":"https://apple-phong.github.io/Images/MiDevice/Banner.jpg",
 "hideShadow":"false"
 },
 {
