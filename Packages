@@ -821,6 +821,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DepthsL.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.Detention
+Architecture: iphoneos-arm
+Version: 1.0.12
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Detention_1.0.12_iphoneos-arm.deb
+Size: 14428338
+MD5sum: adaaaf92db1c25eede9b0d9fab704576
+SHA1: 861917e859e9ab70e7e0e9c4eace186132f9912c
+SHA256: bd4c003a1f9571b8a2b134d45cbdd5fcb3a5bc1e96613c41fb4633074c085b18
+SHA512: 5bb4fdec34055cb9b030a7d62161ef2fc0ac864d19505a949b6210c6d7634aa64c3f4ab424bf49ca97c3467966f554260424d2291b14100a4298f84c6fac958b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Detention
+Depiction: https://apple-phong.github.io/Info/Html/Detention.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Detention.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Detention.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Diamond
 Architecture: iphoneos-arm
 Version: 1.1.0
