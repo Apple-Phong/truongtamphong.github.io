@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.9"
+"text":"1.2.2"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"06/10/2023"
+"text":"07/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.2.2\n\n- Thêm kính cho đồng hồ\n\n- Thêm tâm nền đồng hồ khi phát nhạc\n\n- Thêm hiệu ứng mờ vào đồng hồ & khung nền lịch"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.2.0\n\n- Thêm trái tim vào khung ứng dụng"
