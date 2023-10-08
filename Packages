@@ -777,6 +777,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Dawn
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Dawn_1.0.7_iphoneos-arm.deb
+Size: 2062136
+MD5sum: 943abce8a90be06c689f97e4a88b8cbb
+SHA1: f874674c691eda1c757d4b1e31005947be020b91
+SHA256: eac35a937522c1290f509430207a03154cd4f9d9e27a4611f27091d36e8d6c1b
+SHA512: 4f7edf4e7625f38261badc45db8107ac6753a31e181768101c3ce85a4b884ee1cf2631cf0ce68b1360f26d0d0c2b11f6bfe06eca026bbb67fdf2b3e2c1a7725a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dawn
+Depiction: https://apple-phong.github.io/Info/Html/Dawn.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dawn.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dawn.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.DepthsL-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
