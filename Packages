@@ -1261,6 +1261,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Elite
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Elite_1.0.3_iphoneos-arm.deb
+Size: 13889714
+MD5sum: e63475855dfa141763f50788f5712470
+SHA1: 8eb962b3168584c3c7f3e952d866beb634859502
+SHA256: 9913f746c1a99cf233c7688e4de51255ec224805aa849afb689f2f6aa4126f7a
+SHA512: d0138baac5a1a3259f19b07891f6c4bdabccf4a3a8307cb747f1ff653d9dfb86eea4d15504f19a232aeb031939fae77eed5c4720ae0ad11d7ed537ad170cbfc2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Elite
+Depiction: https://apple-phong.github.io/Info/Html/Elite.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Elite.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Elite.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.EmGaiMua
 Architecture: iphoneos-arm
 Version: 1.0.0
