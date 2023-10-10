@@ -49,6 +49,28 @@ Author: HĐP & CodeOne88
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AgenaPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.AgenaPro_1.0.2_iphoneos-arm.deb
+Size: 3288778
+MD5sum: 21177bdcf22c1a9105bf1c25abe9b832
+SHA1: f90d938f80aa8eea7bf2ae60ce952530a6879a66
+SHA256: bf5e27358fe07b4411e6188fc77ee01bae6bbd736efe931ccd5dd5d26d3c4832
+SHA512: 9724dc2fcc51bc8f4b174182a64f8b579f6931b4a888dc42c3746d7679ce9142592cc551a8750320700177d90f74efd7df6bfc156f26b0d70402646eb68e2afd
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Agena Pro
+Depiction: https://apple-phong.github.io/Info/Html/AgenaPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Agena
 Architecture: iphoneos-arm
 Version: 1.0.2

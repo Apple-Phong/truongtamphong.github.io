@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.agenapro",
+"title":"",
+"url":"https://apple-phong.github.io/Images/AgenaPro/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.hk2702",
 "title":"",
 "url":"https://apple-phong.github.io/Images/HK2702/Banner.jpg",
