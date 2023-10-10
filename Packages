@@ -645,6 +645,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Comet
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Comet_1.0.0_iphoneos-arm.deb
+Size: 3248252
+MD5sum: 85f5b3d346d40ad8be0b5d03c1975f39
+SHA1: a2ec19fa7a0af77c66d27bb9f30dc81c19e0d2a1
+SHA256: 0ed01c9d45e4d6d8b5c1ae0764422dfb7246bb3e02a7fd9deb9f22e32bb9f55f
+SHA512: 13dfd5658be6c5392a00899ccd79353268ccfbfdb091efb0701e10fdda7c1b3e02d1bfd9a96d052e85b16b1cd9bc622bad4d6e8f6bc17d57a492ccac89f5788a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Comet
+Depiction: https://apple-phong.github.io/Info/Html/Comet.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Comet.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Comet.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ConteSans-Rootless
 Architecture: iphoneos-arm64
 Version: 1.1.0
