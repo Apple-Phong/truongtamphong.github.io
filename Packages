@@ -2612,11 +2612,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Rotate_1.0.1_iphoneos-arm.deb
-Size: 13952836
-MD5sum: 3e78bbf63145d7d81017967b1a383190
-SHA1: d4d00c29b620ff53b731c254adf5989b868d4dbe
-SHA256: a367c4ca0b4e37bc3ec0f7af1a2312baa82c121c2867252ad8ab791a8b4b7b3c
-SHA512: 67953e3b0bf8037e51b33fce92016ca96dba92389b5a86680a29cf0dcd889a1e0d303495c56e779b5492773a92302a89078c9594caf3a8bcae1523d0986bfeb1
+Size: 13952834
+MD5sum: 9ab5cf11ce72fa3777212bca88249b45
+SHA1: 3481f6e69c7896ae3f1d5f05cde4ca498747f981
+SHA256: ecb09d62fe7fd28e067eb7041555c3cf2f95cca9fbf7a9eb787e668b67df64e1
+SHA512: 7ff876efe7844b13ebf48b24f40245484d09b0f8eb18eb983fca7d3c1ab0bd981e9109dd73b0ba5cb2e3cf199eeaaafdb889df3b75d721e7aca2ccb3d0b55c59
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Rotate
