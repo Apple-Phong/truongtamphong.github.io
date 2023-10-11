@@ -12,7 +12,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Thời tiết\n\n+ Lời chào\n\n+ Trình phát nhạc\n\n+ Pin\n\nㅤ\n\nChú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ\n\n+ Lịch\n\n+ Pin\n\n+ Lời chào\n\n+ Thời tiết\n\n+ Trình phát nhạc\n\nㅤ\n\nChú ý!!!\n\n- Để thay ảnh, bạn cần thêm widget Askew Image Select ở phần Màn hình chính\n\n- Tại màn hình chính, bạn thao tác chạm phía dưới khu vực tai thỏ (dưới khu vực thanh trạng thái) để chọn ảnh\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
