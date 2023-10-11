@@ -2607,16 +2607,16 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.Rotate
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Rotate_1.0.0_iphoneos-arm.deb
-Size: 13952858
-MD5sum: 5cacdb0f5a41308deb6e5a6f5f4f0f10
-SHA1: d55826e1f96b05b50d47b282f26db570a949e770
-SHA256: 3e2462b26ed0a134ff16f9e58c042db13843c981de57ce89bc27a1ef8a14c91b
-SHA512: 8dd06cfb290a2273874a6ed8bfc8b123c8b90c5e26e1ea3f3d642ec206d82f314bd179f77fe4f4bc54697bc74af6b14c4eaa5a0e168e42ac7e7e77f2f97f4b7b
+Filename: ./Deb/HoangDinhPhong.Rotate_1.0.1_iphoneos-arm.deb
+Size: 13952836
+MD5sum: 3e78bbf63145d7d81017967b1a383190
+SHA1: d4d00c29b620ff53b731c254adf5989b868d4dbe
+SHA256: a367c4ca0b4e37bc3ec0f7af1a2312baa82c121c2867252ad8ab791a8b4b7b3c
+SHA512: 67953e3b0bf8037e51b33fce92016ca96dba92389b5a86680a29cf0dcd889a1e0d303495c56e779b5492773a92302a89078c9594caf3a8bcae1523d0986bfeb1
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Rotate
