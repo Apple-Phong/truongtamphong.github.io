@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.rotate",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Rotate/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.comet",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Comet/Banner.jpg",
