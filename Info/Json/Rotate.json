@@ -62,7 +62,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.1"
+"text":"1.0.11"
 },
 {
 "class":"DepictionTableTextView",
@@ -102,6 +102,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.11\n\n- Sửa một số lỗi nhỏ"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Lần đầu phát hành"
