@@ -60,7 +60,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.7.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.7.3"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/05/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +103,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.7.3\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp ảnh với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.7.2\n\n- Giảm dung lượng gói"

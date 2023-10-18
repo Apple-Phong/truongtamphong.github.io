@@ -58,7 +58,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.7"
+"text":"1.0.71"
 },
 {
 "class":"DepictionTableTextView",
@@ -68,7 +68,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"08/10/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -98,6 +98,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.71\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.7\n\n- Lần đầu phát hành"

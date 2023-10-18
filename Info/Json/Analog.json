@@ -27,10 +27,6 @@
 {
 "url":"https://apple-phong.github.io/Images/Analog/Screenshots/2.png",
 "accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Analog/Screenshots/3.png",
-"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -60,7 +56,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.22" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.28"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"03/05/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +99,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.28\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông\n\n- Di chuyển vị trí thời tiết và đồng hồ ra giữa màn hình khi tắt một trong hai\n\n- Thay đổi điền link hình ảnh sang chọn ảnh trực tiếp trên màn hình chính (Nhấn vào biểu tượng nốt nhạc để chọn ảnh)\n\n- Loại bỏ thanh tăng âm lượng và di chuyển thanh thời gian thay thế vào vị trí của nó\n\n- Thêm bóng đổ cho đồng hồ\n\n- Tạo hiệu ứng cho tên bài hát"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.22\n\n- Tuỳ chỉnh chiều cao cho thời tiết, nhạc và khung hình nền\n\n- Di chuyển vị trí lên xuống cho đồng hồ\n\n- Chèn ảnh vào khung nền\n\n- Tuỳ chỉnh bật tắt các thành phần\n\n- Tuỳ chỉnh bo góc ảnh nền Album, nút điều khiển nhạc và nền biểu tượng thời tiết 4 ngày sau\n\n- Tuỳ chỉnh bóng đổ vào trong khung nền"

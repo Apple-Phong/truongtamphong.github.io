@@ -63,7 +63,7 @@
 { 
 "class":"DepictionTableTextView", 
 "title":"Phiên bản", 
-"text":"1.42" 
+"text":"1.43" 
 },
 {
 "class":"DepictionTableTextView",
@@ -73,12 +73,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"01/06/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -103,6 +103,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.43\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp ảnh với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.42\n\n- Sửa chữa một số lỗi"

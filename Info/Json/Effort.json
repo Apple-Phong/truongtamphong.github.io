@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.13\n\n- Thêm đổ bóng văn bản\n\n- Thêm đổi màu cho phiên bản phần mềm, chỉ số Ram\n\n- Thu nhỏ Avatar & Pin\n\n- Tạo độ nổi 3D cho biểu tượng âm nhạc\n\n- Thêm hiệu ứng dịu dàng khi đóng mở hộp trình phát nhạc\n\n- Thay đổi thiết kế cho khung ảnh thời tiết\n\n- Thêm đèn báo sạc Pin\n\n- Thay đổi lại mã Avatar tránh trùng lặp ảnh Avatar với Widget khác\n\n- Thêm kiếm Rồng đeo sau lưng Avatar\n\n- Thay đổi toàn bộ ảnh thời tiết\n\n- Thêm hiệu ứng cho biểu tượng âm nhạc khi nhạc được phát\n\n- Thêm văn bản cho nhiệt độ Cao nhất và Thấp nhất trong ngày\n\n- Thêm công tắc bật tắt Trình phát nhạc. Khi tắt, khung ứng dụng sẽ kéo lên cao để có chỗ chứa nhiều ứng dụng hơn\n\n- Thêm chỉnh độ bão hoà cho ảnh bìa Album\n\n- Thay đổi kích cỡ kim đồng hồ to & rõ hơn\n\n- Sửa chữa một số lỗi"
+"markdown":"### Phiên bản 1.0.13\n\n- Thêm đổ bóng văn bản\n\n- Thêm đổi màu cho phiên bản phần mềm, chỉ số Ram\n\n- Thu nhỏ Avatar & Pin\n\n- Tạo độ nổi 3D cho biểu tượng âm nhạc\n\n- Thêm hiệu ứng dịu dàng khi đóng mở hộp trình phát nhạc\n\n- Thay đổi thiết kế cho khung ảnh thời tiết\n\n- Thêm đèn báo sạc Pin\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác\n\n- Thêm kiếm Rồng đeo sau lưng Avatar\n\n- Thay đổi toàn bộ ảnh thời tiết\n\n- Thêm hiệu ứng cho biểu tượng âm nhạc khi nhạc được phát\n\n- Thêm văn bản cho nhiệt độ Cao nhất và Thấp nhất trong ngày\n\n- Thêm công tắc bật tắt Trình phát nhạc. Khi tắt, khung ứng dụng sẽ kéo lên cao để có chỗ chứa nhiều ứng dụng hơn\n\n- Thêm chỉnh độ bão hoà cho ảnh bìa Album\n\n- Thay đổi kích cỡ kim đồng hồ to & rõ hơn\n\n- Sửa chữa một số lỗi"
 },
 {
 "class":"DepictionMarkdownView",

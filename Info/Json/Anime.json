@@ -60,7 +60,10 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.0" },
+{ "class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.1.1"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +72,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"04/07/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +102,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.1\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.0\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông\n\n- Đã hỗ trợ tiếng Việt cho lịch Thứ\n\n- Thay đổi lại sắp xếp cài đặt\n\n- Loại bỏ Pin, sóng và đồng hồ"

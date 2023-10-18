@@ -62,7 +62,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.09" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.1.0"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -71,12 +75,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"29/05/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -101,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.0\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp ảnh với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.09\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"

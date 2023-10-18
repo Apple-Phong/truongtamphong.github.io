@@ -54,7 +54,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.4"
+"text":"1.0.41"
 },
 {
 "class":"DepictionTableTextView",
@@ -64,7 +64,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"10/10/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -94,6 +94,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.41\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp ảnh với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.4\n\n- Lần đầu phát hành"

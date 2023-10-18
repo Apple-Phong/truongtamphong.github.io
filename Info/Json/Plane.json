@@ -56,7 +56,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.2" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.21"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"23/05/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,6 +99,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.21\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.2\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông"

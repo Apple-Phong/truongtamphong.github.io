@@ -58,7 +58,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.5" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.51"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -67,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/06/2023"
+"text":"18/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -97,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.51\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp ảnh với Widget khác"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.5\n\n- Thêm chế độ sáng"
