@@ -72,7 +72,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/10/2023"
+"text":"20/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -104,7 +104,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.1\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"
+"markdown":"### Phiên bản 1.1.1\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác\n\n- Thêm ảnh xem thử trước khi chọn Widget"
 },
 {
 "class":"DepictionMarkdownView",

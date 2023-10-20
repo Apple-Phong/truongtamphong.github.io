@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/10/2023"
+"text":"20/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,7 +101,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.28\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông\n\n- Di chuyển vị trí thời tiết và đồng hồ ra giữa màn hình khi tắt một trong hai\n\n- Thay đổi điền link hình ảnh sang chọn ảnh trực tiếp trên màn hình chính (Nhấn vào biểu tượng nốt nhạc để chọn ảnh)\n\n- Loại bỏ thanh tăng âm lượng và di chuyển thanh thời gian thay thế vào vị trí của nó\n\n- Thêm bóng đổ cho đồng hồ\n\n- Tạo hiệu ứng cho tên bài hát"
+"markdown":"### Phiên bản 1.0.28\n\n- Thay đổi tuỳ chỉnh điền phông sang chọn phông\n\n- Di chuyển vị trí thời tiết và đồng hồ ra giữa màn hình khi tắt một trong hai\n\n- Thay đổi điền link hình ảnh sang chọn ảnh trực tiếp trên màn hình chính (Nhấn vào biểu tượng nốt nhạc để chọn ảnh)\n\n- Loại bỏ thanh tăng âm lượng và di chuyển thanh thời gian thay thế vào vị trí của nó\n\n- Thêm bóng đổ cho đồng hồ\n\n- Tạo hiệu ứng cho tên bài hát\n\n- Thêm ảnh xem thử trước khi chọn Widget"
 },
 {
 "class":"DepictionMarkdownView",
