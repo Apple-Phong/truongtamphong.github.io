@@ -107,7 +107,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Thêm tuỳ chỉnh màu văn bản\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chỉnh màu văn bản\n\n- Thêm ảnh xem thử trước khi chọn Widget"
 },
 {
 "class":"DepictionMarkdownView",

@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.3\n\n- Sửa một số lỗi"
+"markdown":"### Phiên bản 1.0.3\n\n- Thêm ảnh xem thử trước khi chọn Widget"
 },
 {
 "class":"DepictionMarkdownView",
