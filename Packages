@@ -309,16 +309,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Askew
 Architecture: iphoneos-arm
-Version: 1.43
+Version: 1.44
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
-Filename: ./Deb/HoangDinhPhong.Askew_1.43_iphoneos-arm.deb
-Size: 3144116
-MD5sum: 48c8a50ac3ac37ade8ad7a6973ffde9d
-SHA1: 46c0c96d6c9f0f389c076a3f6bd2dccec24f5277
-SHA256: 880e001e5c0dc0ddd9402767271ad15632f374dfac2e34dd5d31cded780292fa
-SHA512: 3c352f6ef18577f5596ab76d1a7e3e08ed52154f668142bfb632fe2b3e79b580c6871030b904f9e9b28d6f0ec42c0ef28992a52919fad72ea33040d008b140fb
+Filename: ./Deb/HoangDinhPhong.Askew_1.44_iphoneos-arm.deb
+Size: 4029986
+MD5sum: 39379e86c9d10d7b08b0db776d6181e8
+SHA1: 52aa3254959fb070d1d39f121f241fe271214024
+SHA256: 675cd527035d6176c312e42b3172167d8892da8fa396fd714296c01aa9facfb9
+SHA512: 238825e4380cdfca740f0c4ca096efa208d7d7ee6f44475318e8fca1edb5c3e356c473663e46b80840c40783e9f3cd0edb3293215e281e22c5e9731ae96a5edc
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Askew
@@ -1436,16 +1436,16 @@ Icon: file:///Applications/Cydia.app/Sections/s.png
 
 Package: HoangDinhPhong.FridayTTP
 Architecture: iphoneos-arm
-Version: 1.3.5
+Version: 1.4.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.5_iphoneos-arm.deb
-Size: 12865954
-MD5sum: e8e72f18fb8476ceb35538573e72a6f6
-SHA1: 2ba64623b7b581143d8d8255b5418f27623b033a
-SHA256: f321b9933e389c698c9fbe2dd42312051bf3abd195dfb4e5ea113653926f8cc0
-SHA512: f3a8ab0611456cb21d3c425f02be09876ef35798a686b6002b7358373fda2e9c091eeadca8c8b74d8b0ad9e3d1eaf4abb9bdb0d42173ff7f8117813b4d104778
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.4.1_iphoneos-arm.deb
+Size: 14034976
+MD5sum: 84ffc2277f17747340801c3036f17762
+SHA1: 6e1025710bce7671b8271375bc9abae8bbae6b4d
+SHA256: 04e8a0c51ccce08cc36a21162764ea8e40f343ca2be99fab56424a403cb5c085
+SHA512: 94d5705b7adf6ad94f4499e8bbf63cc538de87e796b7e58eb4bce6124f3447fef834dc3dd4ae2a4bbcee48c3159b2760c815f637f51c4f71c49e68e994c4e2ad
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Friday TTP
@@ -3295,16 +3295,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Tranquility
 Architecture: iphoneos-arm
-Version: 1.1.0
+Version: 1.1.2
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Tranquility_1.1.0_iphoneos-arm.deb
-Size: 1489916
-MD5sum: 619cbddd8244b13cb96a43d34049d6cc
-SHA1: 5efe2fa9f8b071b9f33e0ff513f3bf5982a1b021
-SHA256: 36d773fc8cfbc37c7da44ca91d1c4a0559db6a61dfae78c3ccf88b7268c8a741
-SHA512: 55a659b20ebd15743aba90bf48122e00b2934d4225830d9fe2cc674f2b474098dd9c655602b3ed7f1a23f8cf8604083aacf2fd78e630647d704590c9b0594a50
+Filename: ./Deb/HoangDinhPhong.Tranquility_1.1.2_iphoneos-arm.deb
+Size: 1989618
+MD5sum: 48909333415681f6bf2048b9ced0655a
+SHA1: 56c5a2b5240422f5af6138512043a57285bed331
+SHA256: 70112438737374803deee116bb2e14aad6fc69c32deb5a7781b14fae47348204
+SHA512: ff1a73d27f49a2101275da6c96c5ee4d9f90839d7a4ea209f397898a6a484ca04565af70df6b4f291b32b1e3c052374dbdf69c3500488c7a90e20665c2a8e774
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Tranquility
@@ -3405,16 +3405,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
-Version: 1.0.36
+Version: 1.0.38
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.36_iphoneos-arm.deb
-Size: 37791066
-MD5sum: fcc48aa1e3977c7d47ccdea970191d17
-SHA1: 287738b44a3d1a5d8528aebe388195072d5a60c4
-SHA256: 56d08b2704508013018eea560dd62e16b698e30814bcf6a838d12de5c307a870
-SHA512: 4f75ea3cfc07b6f125096033f4a65bc11d930768d50282aafeae3fc8d138677e8f351edd2ae9871be478fe845b36d03f341269cb983a81677de759752847e9c2
+Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.38_iphoneos-arm.deb
+Size: 38604954
+MD5sum: 6810f885096243444d0ddafe80e2bb6b
+SHA1: cad5c3f128aba73a3b1daad2592a2aca0a7dfe8b
+SHA256: c1dd1513e3095303e69fac3656e8889442f142e6818d900bf13f7e7b9fa6cf7c
+SHA512: fd2643ac8e0e41496abf9d5c4f96e9f851b367721bb4b03018e5de7309ffba065701914e2ba5d8643021efce653aab46f817297af030f807d038235dccd59b9b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Windows 10 Clock
