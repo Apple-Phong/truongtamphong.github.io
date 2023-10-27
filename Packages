@@ -1237,6 +1237,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Effort
+Architecture: iphoneos-arm
+Version: 1.0.20
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Effort_1.0.20_iphoneos-arm.deb
+Size: 15340260
+MD5sum: 4b4097629d2b6350617ffe77bf138dbc
+SHA1: b35ab0ed1095e90d0fab60ffa086cd734c35bc22
+SHA256: e890a15f5bd069621c5933030d22800e6a3be499d5035ad2787aac76c5a4530a
+SHA512: 7416320996441710537435dce4c79fa6f00ef0d2488e86fd04a91e1fc43af4c0b4d1da56da31ea406b0a101d2178a0882c512efad74826496ff7511d9c6a6b32
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Effort
+Depiction: https://apple-phong.github.io/Info/Html/Effort.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Effort.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Effort.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Elite
 Architecture: iphoneos-arm
 Version: 1.0.3

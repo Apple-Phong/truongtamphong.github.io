@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.13"
+"text":"1.0.20"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"17/10/2023"
+"text":"27/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.20\n\n- Thay đổi khung Avatar\n\n- Thêm độ nổi cho lịch âm & phần trăm Pin\n\n- Thay đổi kiểu dáng đồng hồ\n\n- Thay đổi kiểu dáng khung ảnh bìa thời tiết\n\n- Thay đổi kiểu dáng khung trình phát nhạc\n\n- Thêm 2 con mắt trong ngăn kéo trình phát nhạc\n\n- Loại bỏ tất cả hiệu ứng khi phát nhạc vì hao pin và nóng máy\n\nㅤ\n\n### Hướng dẫn sử dụng cảm ứng:\n\n####+ Chạm vào quả táo để mở ngăn kéo trình phát nhạc\n\n####+ Chạm vào biểu tượng nốt nhạc để mở ứng dụng đang phát nhạc\n\n####+ Chạm vào mắt trái để quay lại bài hát trước\n\n####+ Chạm vào hình tam giác để phát nhạc\n\n####+ Chạm vào mắt phải để chuyển tiếp bài hát"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.13\n\n- Thêm đổ bóng văn bản\n\n- Thêm đổi màu cho phiên bản phần mềm, chỉ số Ram\n\n- Thu nhỏ Avatar & Pin\n\n- Tạo độ nổi 3D cho biểu tượng âm nhạc\n\n- Thêm hiệu ứng dịu dàng khi đóng mở hộp trình phát nhạc\n\n- Thay đổi thiết kế cho khung ảnh thời tiết\n\n- Thêm đèn báo sạc Pin\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác\n\n- Thêm kiếm Rồng đeo sau lưng Avatar\n\n- Thay đổi toàn bộ ảnh thời tiết\n\n- Thêm hiệu ứng cho biểu tượng âm nhạc khi nhạc được phát\n\n- Thêm văn bản cho nhiệt độ Cao nhất và Thấp nhất trong ngày\n\n- Thêm công tắc bật tắt Trình phát nhạc. Khi tắt, khung ứng dụng sẽ kéo lên cao để có chỗ chứa nhiều ứng dụng hơn\n\n- Thêm chỉnh độ bão hoà cho ảnh bìa Album\n\n- Thay đổi kích cỡ kim đồng hồ to & rõ hơn\n\n- Sửa chữa một số lỗi"
