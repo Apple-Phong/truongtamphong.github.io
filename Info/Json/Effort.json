@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.20\n\n- Thay đổi khung Avatar\n\n- Thêm độ nổi cho lịch âm & phần trăm Pin\n\n- Thay đổi kiểu dáng đồng hồ\n\n- Thay đổi kiểu dáng khung ảnh bìa thời tiết\n\n- Thay đổi kiểu dáng khung trình phát nhạc\n\n- Thêm 2 con mắt trong ngăn kéo trình phát nhạc\n\n- Loại bỏ tất cả hiệu ứng khi phát nhạc vì hao pin và nóng máy\n\nㅤ\n\n### Hướng dẫn sử dụng cảm ứng:\n\n####+ Chạm vào quả táo để mở ngăn kéo trình phát nhạc\n\n####+ Chạm vào biểu tượng nốt nhạc để mở ứng dụng đang phát nhạc\n\n####+ Chạm vào mắt trái để quay lại bài hát trước\n\n####+ Chạm vào hình tam giác để phát nhạc\n\n####+ Chạm vào mắt phải để chuyển tiếp bài hát"
+"markdown":"### Phiên bản 1.0.20\n\n- Thay đổi khung Avatar\n\n- Thêm độ nổi cho lịch âm & phần trăm Pin\n\n- Thay đổi kiểu dáng đồng hồ\n\n- Thay đổi kiểu dáng khung ảnh bìa thời tiết\n\n- Thay đổi kiểu dáng khung trình phát nhạc\n\n- Thêm 2 con mắt trong ngăn kéo trình phát nhạc\n\n- Loại bỏ tất cả hiệu ứng khi phát nhạc vì hao pin và nóng máy\n\nㅤ\n\n### Hướng dẫn sử dụng cảm ứng:\n\n+ Chạm vào quả táo để mở ngăn kéo trình phát nhạc\n\n+ Chạm vào biểu tượng nốt nhạc để mở ứng dụng đang phát nhạc\n\n+ Chạm vào mắt trái để quay lại bài hát trước\n\n+ Chạm vào hình tam giác để phát nhạc\n\n+Chạm vào mắt phải để chuyển tiếp bài hát\n\n"
 },
 {
 "class":"DepictionMarkdownView",
