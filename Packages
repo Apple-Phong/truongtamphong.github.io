@@ -3471,6 +3471,30 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 3.63~release
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./Deb/HoangDinhPhong.XenHTML_3.6.3~release_iphoneos-arm.deb
+Size: 8259178
+MD5sum: 0355d878c0cba1b7a035c17f74490e02
+SHA1: dbd440b9116442fb2b28a33da217f3da24e46cf2
+SHA256: 0c7a69626bd71fa12e51c2ce8b02c3d17148b4aaa3facddec2e3a7bc219b51b6
+SHA512: 05aba5f831fd6c70be22192dbcc05693c4976a58864e750b223fa4b3cd6a1d4495d5cc5b068605de0471de3222fd0afde347859b19bb1eb54dd95188f384b98c
+Homepage: https://apple-phong.github.io
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Name: Xen HTML Việt Nam
+Depiction: https://apple-phong.github.io/Info/Html/XenHTML.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/XenHTML.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.XinDungLangIm
 Architecture: iphoneos-arm
 Version: 1.0.0
