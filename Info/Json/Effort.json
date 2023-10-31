@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.31"
+"text":"1.0.32"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.32\n\n- Thêm hiệu ứng tạo gương mặt cho khung chứa đôi mắt"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.31\n\n- Thêm hiệu ứng loé sáng và chớp chớp cho đôi mắt\n\n- Thêm cảm ứng mở ứng dụng khi chạm vào một số khung\n\n- Thêm tuỳ chọn thay đổi ảnh bìa thời tiết\n\n- Thay đổi kiểu bóng đổ xuống cho các thành phần\n\n- Thay đổi độ nổi cho biểu tượng thời tiết và nhiệt độ hiện tại\n\n- Thêm độ nổi cho đèn báo sạc pin\n\n- Thêm kí tự cho nhiệt độ cao và thấp\n\n- Thêm nền tối cho khung tìm kiếm và thanh Dock\n\n- Thêm độ nổi cho ảnh bìa thời tiết\n\n- Thêm khung tròn cho biểu tượng nốt nhạc và quả táo\n\n- Thêm viền cho bộ nút ấn điều khiển nhạc\n\n- Làm đẹp lại bộ kim đồng hồ\n\n- Sửa chữa một số lỗi\n\nㅤ\n\n### Hướng dẫn sử dụng mở ứng dụng danh:\n\n⊕ Chạm vào Lịch âm để mở ứng dụng Lịch\n\n⊕ Chạm vào Đồng hồ kim để mở ứng dụng Đồng hồ\n\n⊕ Chạm vào Ảnh bìa thời tiết để mở ứng dụng Thời tiết\n\n⊕ Chạm vào Pin để mở ứng dụng Cài đặt\n\n⊕ Chạm vào biểu tượng nốt nhạc để mở ứng dụng đang phát nhạc\n\n"
