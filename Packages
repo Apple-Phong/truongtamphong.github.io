@@ -1266,11 +1266,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Effort_1.0.31_iphoneos-arm.deb
-Size: 21371936
-MD5sum: 31185f06fb087d23e61f3b73d7609c7b
-SHA1: 407cf0bad4c07faa75a0ea72fbac931ceb6770ac
-SHA256: 01a41e28b6235ccac1eecda3b1da488b224ba1d3c41edf4247ba49061caf7613
-SHA512: 8b1e1d5fa9760ebce2d5681dff65349fa33bad25d9e428dbdb6fe62ee27f29fbbd743fd7fd907379e61f35f4a2f2d88bd923cbe32ceb606e2ecec2cbeac022b4
+Size: 21372208
+MD5sum: 4f681c4ce71205862ab2673082161c8b
+SHA1: 9e8cfe5cb6a735ff9bbbf2ae2699d83c75e5d09f
+SHA256: 8b6ca8d6a6a8b8cd4eafcaa6308c779838234b422b0731d93a24ea35dbacad11
+SHA512: 758df2225692a607d3618ff56be99a25d1997e7db5039978e564ef17031b4a1d79100bfd9a00646b1e262ad63c59f4d2a7d7917546d89f1df9d21937870e71a6
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Effort
