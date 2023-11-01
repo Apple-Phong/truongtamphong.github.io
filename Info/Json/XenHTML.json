@@ -60,7 +60,11 @@
 "title":"Nhà phát triển",
 "text":"Matt Clarke"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.6.2~release" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"3.6.3~release"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"12/05/2023"
+"text":"30/10/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,7 +105,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 3.6.2~release\n\nSửa lỗi thời tiết và pin không hoạt động"
+"markdown":"### Phiên bản 3.6.3~release\n\n- Loại bỏ một số mã"
+},
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 3.6.2~release\n\n- Sửa lỗi thời tiết và pin không hoạt động"
 },
 {
 "class":"DepictionMarkdownView",

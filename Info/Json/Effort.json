@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.32"
+"text":"1.0.34"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"31/10/2023"
+"text":"01/11/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,7 +103,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.32\n\n- Thêm hiệu ứng tạo gương mặt cho khung chứa đôi mắt"
+"markdown":"### Phiên bản 1.0.34\n\n- Thêm độ nổi cho viền trang trí khung ảnh thời tiết\n\n- Thêm tuỳ chọn bật tắt hiệu ứng bo góc ngăn kéo trình phát nhạc"
+},
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.32\n\n- Thêm hiệu ứng bo góc ngăn kéo trình phát nhạc"
 },
 {
 "class":"DepictionMarkdownView",
