@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.34"
+"text":"1.0.35"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.34\n\n- Thêm độ nổi cho viền trang trí khung ảnh thời tiết\n\n- Thêm tuỳ chọn bật tắt hiệu ứng bo góc ngăn kéo trình phát nhạc"
+"markdown":"### Phiên bản 1.0.35\n\n- Thêm độ nổi cho viền trang trí khung ảnh thời tiết\n\n- Thêm tuỳ chọn bật tắt hiệu ứng bo góc ngăn kéo trình phát nhạc"
 },
 {
 "class":"DepictionMarkdownView",

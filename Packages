@@ -1305,16 +1305,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Effort
 Architecture: iphoneos-arm
-Version: 1.0.34
+Version: 1.0.35
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Effort_1.0.34_iphoneos-arm.deb
-Size: 21372418
-MD5sum: c28fc8fe298817a98c73e584e652225c
-SHA1: 8c6c9688cbfa12b5e44f6e47bb8a90fa365d0590
-SHA256: b16a2c1529594232facd084e8cec4acd2e07de5f509c4b1b19b2902fbecd1af1
-SHA512: c58bd7d5d8e3f9c00edb3055dee6e554fc3e850fae4cbbfa28a98e3e78025466727042e456ab10670554a40555305eb071efa8aace9ffd9009082bbb2a28ac19
+Filename: ./Deb/HoangDinhPhong.Effort_1.0.35_iphoneos-arm.deb
+Size: 21372442
+MD5sum: 79ca879f192aac4aacf29c55d3935c5b
+SHA1: 40adcb0d03282a10eb1e1c6f41d833d723eb6f2a
+SHA256: 103a6b045a4e14935b3229160e996acd8e7e48dccd76d4653f639b8ec46fd5de
+SHA512: 66fbacf5fae9543e58bad99b155f6c479a1aa9333acfd792b2797f9525db74f758cd19fcbca629a43b35a5b9d59139f9d9c29c916dabb4653a81ad92a7e5dd5a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Effort
