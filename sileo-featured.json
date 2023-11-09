@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.windows10",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Windows10/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.effort",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Effort/Banner.jpg",
