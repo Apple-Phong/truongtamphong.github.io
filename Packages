@@ -3535,6 +3535,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Windows10Clock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Windows10
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Windows10_1.0.0_iphoneos-arm.deb
+Size: 13635200
+MD5sum: da7909d6459aaa3a733e9d77edc69f2f
+SHA1: bc23117009ffe224f795a64633c480efdcfdaf51
+SHA256: b0c93e7365ff805f0a3b7e8e03d5895fc16eb1ca5f4e3ff98f903a1817688360
+SHA512: 2af6a0e02eb5921fe10ddf2ef51cecf1dcfec8c983ffc2f5bf86fc49abd4097ae3d9d0f6b0d13710179dbcadeb73fdf695f643359607e437d11212719cd36770
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Windows 10
+Depiction: https://apple-phong.github.io/Info/Html/Windows10.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Windows10.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Windows10.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 3.62~release
