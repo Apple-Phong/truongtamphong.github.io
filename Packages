@@ -3207,16 +3207,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Swords
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Swords_1.0.0_iphoneos-arm.deb
-Size: 4029454
-MD5sum: ec84df2cdd74bb852f78af906f278803
-SHA1: a828b6fd7f80ee067b4c0b9d6da503649f94c578
-SHA256: 7df350378a10ad248bb13991814fa7a9758cadce710805c55f4ac92a02d21624
-SHA512: ef0184b70d803850130eb9d1d5db9d1790b53167de4ef2c496b4d20201bc080ff8197763f52e8f00f101b7025ba710ac80361090128fa8dc9242d9bb2a0676bf
+Filename: ./Deb/HoangDinhPhong.Swords_1.0.1_iphoneos-arm.deb
+Size: 1763410
+MD5sum: 4635c4d28dcb435ef1b2a4100eba73bd
+SHA1: f17de1f98f5b752bc8ade6de9b0afbd2da0e271d
+SHA256: 4959929731533300667d90afd92243178890d410e89948b61fcb615acf845974
+SHA512: d23d1efc7e3b4cecf0f4ac8b701e38f91326c05dee0276b8690a63980138798c6c415908adab9137db87ca6aa482179b321cf930cfaec255b9d7a9fc83740cd8
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Swords
