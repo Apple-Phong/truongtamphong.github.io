@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.ethereal",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Ethereal/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.swords",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Swords/Banner.jpg",
