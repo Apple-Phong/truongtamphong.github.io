@@ -1552,11 +1552,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Fly_1.0.1_iphoneos-arm.deb
-Size: 1304138
-MD5sum: 20fc08095cd702b39227f0b8684dc0b3
-SHA1: 50f2ed88a6603a4321bbca487a2f7cfc6565bd16
-SHA256: 30b06c6c143092e96dc4adfc94d4e95f6de5a6288e5a25ba9fa054b025171d7a
-SHA512: 72d17c3950196ef096bf8b76503dfed44b4d14e0faac48f385e1a7959a29cf3647a87a70b669a4bee35f9327078959b1cfafa955111c64c8cd5f6ac8506748f9
+Size: 1280230
+MD5sum: 9c5da5e9a876ca04ca18633e907ef796
+SHA1: 788c620de7d14610e39545f65ff25b28e5b48d1c
+SHA256: e1f55b89804308c7eafbefca3609bf120ea566bcb01dc7d60726b271a180240b
+SHA512: e93518360ea0ecee7932df92a08d1a3e0837c87cb7cdb12a6ca58ec833b188f92c55da6fa186d141c534bf2004a91a0c3a89a4248b596d1f8e8d03fd546e460f
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Fly
