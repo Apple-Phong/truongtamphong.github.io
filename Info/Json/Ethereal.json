@@ -111,6 +111,10 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.0\n\n- Tăng độ sáng cho đĩa nhạc"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
