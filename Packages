@@ -1523,6 +1523,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Fly.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Fly
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Fly_1.0.1_iphoneos-arm.deb
+Size: 1304138
+MD5sum: 20fc08095cd702b39227f0b8684dc0b3
+SHA1: 50f2ed88a6603a4321bbca487a2f7cfc6565bd16
+SHA256: 30b06c6c143092e96dc4adfc94d4e95f6de5a6288e5a25ba9fa054b025171d7a
+SHA512: 72d17c3950196ef096bf8b76503dfed44b4d14e0faac48f385e1a7959a29cf3647a87a70b669a4bee35f9327078959b1cfafa955111c64c8cd5f6ac8506748f9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Fly
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Fly.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Fly.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Fly.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.FlyingBirds
 Architecture: iphoneos-arm
 Version: 1.0.1
