@@ -1457,6 +1457,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ethereal
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Ethereal_1.0.2_iphoneos-arm.deb
+Size: 9587396
+MD5sum: 1e778ddee16683ae9a814dbdb6f7a1bb
+SHA1: 098f47b2c7cd4347d5ea2383ba014058200c45c6
+SHA256: b360aa8047039b8d1cf97b5eda0cabb8e68568d90714c00a93bb084191727fbc
+SHA512: f8f01aee314bea7cf36effd636648e0f0a6a778d5124614a43add9b12e54b4803982e74180a0310b71e3e740b5e7e8fe02cdfc122fd7dcafe0b813d2012d9950
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ethereal
+Depiction: https://apple-phong.github.io/Info/Html/Ethereal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Faint
 Architecture: iphoneos-arm
 Version: 1.0.3
