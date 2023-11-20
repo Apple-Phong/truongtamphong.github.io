@@ -3359,6 +3359,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Swords
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Swords_1.0.3_iphoneos-arm.deb
+Size: 1878816
+MD5sum: 0335d0f95dd90e8da93acfa4570c277c
+SHA1: 98cb4abdb0f1fe3a6ae1c03edbdde157c5fd0b3b
+SHA256: 477890bba3e9899c0d1b530c656b800371f38642fa72f795d1034cde5111f69b
+SHA512: a0e5a5cbd6bcf6f7b13c08d7482e231b920df974fbd7de709bf14ec4a052c068255acaaf72808fc738737267dcc3089db5efe13332abaf05eafeee60f7a695b4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Swords
+Depiction: https://apple-phong.github.io/Info/Html/Swords.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Swords.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Swords.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SymbianBelle-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
