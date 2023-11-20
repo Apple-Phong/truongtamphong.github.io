@@ -929,6 +929,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Diamond.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Dim
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Dim_1.0.0_iphoneos-arm.deb
+Size: 62444
+MD5sum: fb7c2873f335fa39a658e3e95866948c
+SHA1: f6b6cd34ce2ffc49af7e8ebc2e7b5e0e06a7e200
+SHA256: cbf818f81933482382dadba49af21be96902d1576b3263e10eb17542f23a03a0
+SHA512: 3e0bf430e8da4789bde89f5b95448eba770ecef002755d4229e40e4e4dc98bb38c7e6c2424d12059e7429c5c9259b223d1b92c11f2eeece54ca608a052dc580d
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dim
+Depiction: https://apple-phong.github.io/Info/Html/Dim.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dim.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dim.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Disc
 Architecture: iphoneos-arm
 Version: 1.0.0
