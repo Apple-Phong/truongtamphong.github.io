@@ -931,16 +931,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Dim
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.Dim_1.0.0_iphoneos-arm.deb
-Size: 62444
-MD5sum: fb7c2873f335fa39a658e3e95866948c
-SHA1: f6b6cd34ce2ffc49af7e8ebc2e7b5e0e06a7e200
-SHA256: cbf818f81933482382dadba49af21be96902d1576b3263e10eb17542f23a03a0
-SHA512: 3e0bf430e8da4789bde89f5b95448eba770ecef002755d4229e40e4e4dc98bb38c7e6c2424d12059e7429c5c9259b223d1b92c11f2eeece54ca608a052dc580d
+Filename: ./Deb/HoangDinhPhong.Dim_1.0.1_iphoneos-arm.deb
+Size: 754092
+MD5sum: cc2eea46183de88a2895fed64fc8afa0
+SHA1: a7962f0f2c13c6b14d64bc427c003c7f6e73812a
+SHA256: 578ad32889d6f0f71acd03f9da26e3353900c452d66ee69f83d3f48b1c1e2f06
+SHA512: 08c78e13fae810da47fecbcffe455a44ff4ada495ee5f5c3365edd96d2b7baf4a9bee03b8b462bb5c95d48707c8bb44832518a1af03604718ad99bfac3b043f0
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Dim

@@ -54,7 +54,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.0"
+"text":"1.0.1"
 },
 {
 "class":"DepictionTableTextView",
@@ -94,6 +94,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm hiệu ứng tuyết rơi\n\n- Thêm khung ứng dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
