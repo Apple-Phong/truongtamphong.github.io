@@ -1523,6 +1523,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Faint.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Feeling
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Feeling_1.0.0_iphoneos-arm.deb
+Size: 2560162
+MD5sum: ed1bd7ef20daf097afaf950b866ea990
+SHA1: ab6e3fdff76a195740932a9e18c97ae2c6fef754
+SHA256: b9940ca9fdef5c8a870524b95067c5a0c111f738f2d8879afd6c3c1d065d6b26
+SHA512: b3a7baf2ab764d2353a9997e78015cfeeeeb5d23cd153f20a777048960eb098f309f329a60d9e8f06f1e1a1021ced08a3b85beb84d79d540c047e1044f080068
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Feeling
+Depiction: https://apple-phong.github.io/Info/Html/Feeling.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Feeling.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Feeling.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.FlipClock
 Architecture: iphoneos-arm
 Version: 1.0.2
