@@ -23,10 +23,6 @@
 {
 "url":"https://apple-phong.github.io/Images/Feeling/Screenshots/1.png",
 "accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Feeling/Screenshots/2.png",
-"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -58,7 +54,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.0"
+"text":"1.0.1"
 },
 {
 "class":"DepictionTableTextView",
@@ -98,6 +94,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Thay đổi biểu tượng thời tiết\n\n- Thu gọn thanh pin\n\n- Giảm tối đa dung lượng gói"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
