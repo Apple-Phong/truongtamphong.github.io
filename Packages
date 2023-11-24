@@ -3718,11 +3718,11 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Vast_1.0.0_iphoneos-arm.deb
-Size: 514798
-MD5sum: ed291f70f74232e1fa75d5f618721df5
-SHA1: 2aa637ceac2680a4071876475d71c8b18f088938
-SHA256: 0bcecce18cad5011f9ac92f2e95e19723a720406d1006d57c211a8f763fde523
-SHA512: f1bfc33f8daed1848ae9f8b9347c77d20cc08f069cfbc8d7937f1ffe02b7df769f0d36d9b2e516b8373b85bc5bc757052b85b6cd79980b8eec8dbdfbe7da2c64
+Size: 514786
+MD5sum: 00e5619f287be0a0673be3fef92ccd3e
+SHA1: 1c0669938618a39f7973902fd24d0ac076e53a0e
+SHA256: 03941ad67d7c0cbee1accf4c6414a6e6bc27047df0e067777a67aa4cb5cd2f89
+SHA512: e9fe9e29ff9e3da4191d0b80363fd5d63d677b4e5179fe1334b5c9c81a5b66e6c2254cc2d1a189eaad3f076bc1804c0a5a98ff99c8614c23db9be99484c75cc4
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Vast
