@@ -3711,6 +3711,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/UntilYou.json
 Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Vast
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Vast_1.0.0_iphoneos-arm.deb
+Size: 514798
+MD5sum: ed291f70f74232e1fa75d5f618721df5
+SHA1: 2aa637ceac2680a4071876475d71c8b18f088938
+SHA256: 0bcecce18cad5011f9ac92f2e95e19723a720406d1006d57c211a8f763fde523
+SHA512: f1bfc33f8daed1848ae9f8b9347c77d20cc08f069cfbc8d7937f1ffe02b7df769f0d36d9b2e516b8373b85bc5bc757052b85b6cd79980b8eec8dbdfbe7da2c64
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Vast
+Depiction: https://apple-phong.github.io/Info/Html/Vast.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Vast.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Vast.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Venus
 Architecture: iphoneos-arm
 Version: 1.0.2
