@@ -3667,6 +3667,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Undulating
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Undulating_1.0.0_iphoneos-arm.deb
+Size: 690762
+MD5sum: e2c88f6826070ccadf7dae27a42da17b
+SHA1: bc8e8ef55ece3d36700802b78da066497f2e7aca
+SHA256: 3840830d2b60c70a05e5b632f62f151881fb469a5ae088b620996962a8f5212c
+SHA512: 5ee08b3c643b4aec6e4fd90b889ad330044a2bf40cb385a5f36d00325ab2f9d7697602148c061fede7981dc1b9233dd398311fc658ae5b4e19acc41e14dfbf0e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Undulating
+Depiction: https://apple-phong.github.io/Info/Html/Undulating.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Undulating.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Undulating.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Uniani
 Architecture: iphoneos-arm
 Version: 1.0.3
