@@ -3913,6 +3913,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/XinDungLangIm.json
 Tags: compatible_min::ios7.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.Xiphias
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Xiphias_1.0.0_iphoneos-arm.deb
+Size: 664130
+MD5sum: 43ed1691b56dcbc8d5bc56aa4f3258b0
+SHA1: 4d7cae472798275d05244ddd4e744bd4b1fc8231
+SHA256: 1fad6127353a4a58360f9c316f7fe58e790f8838e58776d2efada52a53924f99
+SHA512: ab45b1cd780f35733155a8a3c69467ed58e7d8694a428f7f365d5f13c70b0f97b3fe0982241f1e8bb99751e674c1fc079e5467dd71510f53fa5d1e480850130b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Xiphias
+Depiction: https://apple-phong.github.io/Info/Html/Xiphias.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Xiphias.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Xiphias.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.8

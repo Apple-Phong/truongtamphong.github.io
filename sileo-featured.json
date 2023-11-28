@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.xiphias",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Xiphias/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.undulating",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Undulating/Banner.jpg",
