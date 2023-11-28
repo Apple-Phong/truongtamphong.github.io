@@ -3980,6 +3980,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/YouTubeReborn.json
 Tags: compatible_min::ios12.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Zest
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Zest_1.0.0_iphoneos-arm.deb
+Size: 346166
+MD5sum: 76789b5449ed81d75bfd4a9ebfcd7beb
+SHA1: 29713914c1f93a9b5d36a0698c46a065ef0b82a4
+SHA256: 48fd21e8cd8f971eaf76141f9bdf194f3e036a50569e52ec79f23353cb59c78f
+SHA512: dd90a35d372bba9ade5ff125738e1b028200c10d286ae2901c28ef4cec9b61e379329d64e2667a965d3d50f93501090a9effae1e57500ba9c789512bbb3ce6cc
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Zest
+Depiction: https://apple-phong.github.io/Info/Html/Zest.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Zest.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Zest.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.iClock
 Architecture: iphoneos-arm
 Version: 1.0.0
