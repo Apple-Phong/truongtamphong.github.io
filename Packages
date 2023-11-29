@@ -885,6 +885,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/DepthsL.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.Destroyer
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Destroyer_1.0.0_iphoneos-arm.deb
+Size: 849902
+MD5sum: e0b74c94c9d2e842b4b2e8eeec18beb5
+SHA1: b4e1ed9b5c46271a4f8ef64351c6c9cd894389e0
+SHA256: b78c52b48b92466a3957e3790cf23d0c896b4882310b76beb435bbf75b1ef729
+SHA512: 9faf296c5309e3083c5fcc0fbde9dd343b9bf28157e77e692abd3e5cf021d09574f1e856a1ffec06304ae2d3e66a545f00beee66eef6e7f7d8b9b8600f0cd4ca
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Destroyer
+Depiction: https://apple-phong.github.io/Info/Html/Destroyer.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Destroyer.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Destroyer.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Detention
 Architecture: iphoneos-arm
 Version: 1.0.12
