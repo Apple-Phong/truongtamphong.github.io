@@ -1984,6 +1984,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Horizon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Horizon_1.0.0_iphoneos-arm.deb
+Size: 495432
+MD5sum: a4b75261db70501fb5395faea5d755cf
+SHA1: dd73ddff8e588174bd00ce71abab54cae1cc648b
+SHA256: f9f6009731127753703fd6fc8297f0b428a2203cd0b2777a06ef15021521d012
+SHA512: a3ee8759db10b8213824ba0c53222104e1ac294eea4a9c91997c974b7f5383c5631cfeb4147b225a1c4848aa73c18de33ba902364d4c45b13577cf2b943dd794
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Horizon
+Depiction: https://apple-phong.github.io/Info/Html/Horizon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Horizon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Horizon.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ILoveTime
 Architecture: iphoneos-arm
 Version: 1.9.1
