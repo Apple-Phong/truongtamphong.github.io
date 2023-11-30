@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.3"
+"text":"1.0.4"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi lịch âm cho một số dòng máy"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.3\n\n- Thêm lịch âm\n\n- Thay đổi phông đồng hồ & pin"
