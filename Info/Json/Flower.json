@@ -6,26 +6,28 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
 },
 {
-"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ kim\n\n+ Cánh hoa\n\nㅤ\n\n",
+"markdown":"Vui lòng đọc kĩ nội dung trước khi Cài đặt\n\n- Tiện ích này áp dụng với tinh chỉnh Xen HTML\n\n- Yêu cầu cài Xen HTML để sử dụng\n\n- Hoạt động trên Màn hình chính & Màn hình khoá\n\nㅤ\n\nMàn hình hiển thị\n\n+ Đồng hồ kim\n\n+ Lịch\n\n+ Cánh hoa\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
 "url":"https://apple-phong.github.io/Images/Flower/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://apple-phong.github.io/Images/Flower/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -56,7 +58,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.2"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"14/05/2023"
+"text":"02/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Thêm lịch dương\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chỉnh vào cài đặt"

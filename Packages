@@ -1721,6 +1721,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Flower
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Flower_1.0.2_iphoneos-arm.deb
+Size: 344322
+MD5sum: 8798cd435995fdc03588989163830276
+SHA1: 92e3f37996e5a463c0cc955d0d65921aee5e0650
+SHA256: 9fa26e45642764677023586aa03274404c04e92d5f83a578ffb890c903d3cef4
+SHA512: f4435314044e3e5d7ef376ab28fa3f34fd97a9ad4a067fc1097b66e45c574715d9365d9c17eb5e93965dc0553cf1e0aa946c253534122642a1d00d647c6d42af
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flower
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Flower.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Flower.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fly
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1864,6 +1886,28 @@ MD5sum: 218703460bae35a75363235635f3b653
 SHA1: 7de5d167d958a3e22a44e5110ed64018ba950612
 SHA256: c8b0e206f9286d8f99926adbc7e98997370227518b206339ad072d82f715b431
 SHA512: 4172610eb65f21bd5dc67994b64f6b9b99082205e741fbf02b33b06c0d83fe494bbd598da23b3fa5bc329d7e401a45e36a5fca5e50185701c756ad0f42e738e5
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Future Weather
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/FutureWeather.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FutureWeather
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FutureWeather_1.1.2_iphoneos-arm.deb
+Size: 25036752
+MD5sum: f3d8e9e5123945d3eced03085f2a7a7c
+SHA1: 61d97dbd73c38d8f7c3feba2e60eb3e761d539d1
+SHA256: 64368d52e1b5ec841f5b16c6cf9a1c3459756f961d9e4fa263b734a068319732
+SHA512: 9f8a05eb19c021c4bf6e485c26d68b82eac2a9aab0d17185b0c1122df7c1edac1a105ee09121f4367a46bf927dae9849b87b9482c59aeb54170510a06c7462c0
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Future Weather
