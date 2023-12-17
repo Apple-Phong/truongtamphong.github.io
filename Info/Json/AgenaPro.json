@@ -58,7 +58,7 @@
 },
 { "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.3"
+"text":"1.0.4"
 },
 {
 "class":"DepictionTableTextView",
@@ -68,7 +68,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/10/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -98,6 +98,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.4\n\n- Thêm hiệu ứng khi chọn sử dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.3\n\n- Thêm ảnh xem thử trước khi chọn Widget"

@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -60,9 +66,10 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView",
+{
+"class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.21"
+"text":"1.0.22"
 },
 {
 "class":"DepictionTableTextView",
@@ -72,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"13/10/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -102,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.22\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm hiệu ứng khi chọn sử dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.21\n\n- Hỗ trợ hiển thị lên màn hình khoá"

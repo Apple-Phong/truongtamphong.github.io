@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -63,7 +69,7 @@
 { 
 "class":"DepictionTableTextView", 
 "title":"Phiên bản", 
-"text":"1.44" 
+"text":"1.45" 
 },
 {
 "class":"DepictionTableTextView",
@@ -73,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/10/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.45\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.44\n\n- Thêm ảnh xem thử trước khi chọn Widget"

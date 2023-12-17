@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.0"
+"text":"1.1.1"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"04/06/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -105,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.1\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.0\n\n- Thêm lựa chọn 24h\n\n- Thêm lựa chọn phông chữ\n\n- Thêm lựa chọn dùng thứ hoặc tháng\n\n- Thêm tuỳ chỉnh tỉ lệ\n\n- Thêm lựa chọn chế độ màu Trắng hoặc Gold"

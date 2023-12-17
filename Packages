@@ -71,6 +71,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AgenaPro
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.AgenaPro_1.0.4_iphoneos-arm.deb
+Size: 3856114
+MD5sum: 9bfb76ad9b77986f7fb59f8cab4de00e
+SHA1: 394229ab75688bdfdae6531bb486d5dcc3eba997
+SHA256: de3f6ba665c8f83fe87a3149483a0c23151e829e493c860dd6456e6aa730816c
+SHA512: a56077db75a4c1a01d148769ff115ea5f13494738cd27b341f9d1f57a377ceaa19945c76c9ea92a258feeac59e964b5ab9e379b6c431406b8aa91e1d07fd0de2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Agena Pro
+Depiction: https://apple-phong.github.io/Info/Html/AgenaPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Agena
 Architecture: iphoneos-arm
 Version: 1.0.21
@@ -83,6 +105,30 @@ MD5sum: 700ba3b613ea694b91d1aa8006446729
 SHA1: 99d013983eff690ed7a46b9340bf919acb5ccdf1
 SHA256: 779e88c672b2b126eeb49a791e1e075d99ce6f11201813416db5e0acd30f4c5f
 SHA512: e7d2ae391784903d6be81b6ca88f0fe5ea3f3c9e5cfe3acaaa2df22d889bc56c425e1f0fa6fd9d944d2783086c65414fda78575e39f85f798025a18550fea414
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Agena
+Depiction: https://apple-phong.github.io/Info/Html/Agena.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Agena.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Agena.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Agena
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Agena_1.0.22_iphoneos-arm.deb
+Size: 17853388
+MD5sum: 2a4b965aa0018fe123c696d91a6527fa
+SHA1: 27d00b0d7978cc6bd7c5672018314a9b98b6e7fc
+SHA256: 308dac26f2285c150196f9beca5d04dbe655bfdeebe60ddc01e834b9aa571c16
+SHA512: 59749389e271918b8e2067756c0b1679919563d6b163265ab20c3717ce5343160d03272f779314cff36ba90549d5aab13fbc993f5f9b07ba0cecdeb9893509fd
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Tag: role::enduser
@@ -189,6 +235,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Analog
+Architecture: iphoneos-arm
+Version: 1.0.29
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Analog_1.0.29_iphoneos-arm.deb
+Size: 3200596
+MD5sum: f9800a36d1c82fabd3a5aa8bb8e0abb7
+SHA1: dd9b379d46ef6e8d4f99c32080d9dd9274b76d87
+SHA256: ab76ff0442b387281d3fc2147fd157e7425290601adc973f90c3403df74da709
+SHA512: 4f68ff547a8bc250af621fa7c3c5346d7a6b7576a54c3cbc7dbf7235e10e9f03dbd51378691fe210f56114e13d0facb9cdd5bf031b517eff8327d9e5ffd146ad
+Homepage: https://apple-phong.github.io
+Description: Tiện ích cho Xen Html.
+Tag: role::enduser
+Name: Analog
+Depiction: https://apple-phong.github.io/Info/Html/Analog.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Analog.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Analog.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AndoPro
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -213,6 +283,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AndoPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10)
+Filename: ./Deb/HoangDinhPhong.AndoPro_1.0.2_iphoneos-arm.deb
+Size: 3760474
+MD5sum: 34a23f7dc0d92bcfadef085ac839cc4c
+SHA1: ef98c932e500191bc28fffb5b7c5845f93141b9c
+SHA256: 8f7b2715c663bfec1993f5de1270a2935e89a95f0a7e157ffbd5d09c645f4717
+SHA512: 494177204e6bbc3fd1c839becbffd15ad3134fc5785076e5eaded6971cd6d6c7902b842e7a48067ab64e0ff9c86c21241d4741698eec68ad4b1b367e3ab770a8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Ando Pro
+Depiction: https://apple-phong.github.io/Info/Html/AndoPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AndoPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AndoPro.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Angel
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -225,6 +319,30 @@ MD5sum: b69466702a2b29957812ca6ff3db2f72
 SHA1: b5db0f4e1d1ff030098cefba8401892cadf30f52
 SHA256: 9c89f64b8e7c267fe4a87bef54a2948e56fa53f67fa8afca0b5ec8f8f2ccc7a2
 SHA512: 262b08ac24a8df22d6a7c6ce57a3fc16b3d1b5045271d136d93bbe4072628a43de066cbb08471a3907fab63d13bbb8b4bc2c02694454f77cb7e5603ae17a0f87
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Tag: role::enduser
+Name: Angel
+Depiction: https://apple-phong.github.io/Info/Html/Angel.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Angel.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Angel.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Angel
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Angel_1.0.2_iphoneos-arm.deb
+Size: 2788590
+MD5sum: 157f4c3716130dd718faa88387de581c
+SHA1: 2a55ebd24622d03b9145f138a46170ab9f3b7775
+SHA256: 84a44059e8f22fb84715c16422004190fda8f076e2dce4bbdd09bbbdcf33103e
+SHA512: 8fff9707f5871c75b5a51fe9cecfea59e541045cd7954330f5b3e8e48a537eb18d814ec987af1ff3fa2727b60640a1e6920851c10596c54b0e4274aee6ed0377
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Tag: role::enduser
@@ -307,6 +425,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AprilTTP
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.AprilTTP_1.0.2_iphoneos-arm.deb
+Size: 47395836
+MD5sum: c0106e870e01d123d97ed0fd72f68bbb
+SHA1: d3002c719221c7f37d0e9c8d009be314421a712c
+SHA256: 65638d6adf0be2c964cf5e871c035df388dc54ce88c989990ff6cbbdee4a6ae5
+SHA512: 85655a1d66a9b45c63b59143c732872d323f29e9c12306863be68381d44496084bbc9588f3d09a7a83782e7c1d7392de18cf09a97f29e06e603664e3923c6b9f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Tag: role::enduser
+Name: April TTP
+Depiction: https://apple-phong.github.io/Info/Html/AprilTTP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AprilTTP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AprilTTP.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Askew
 Architecture: iphoneos-arm
 Version: 1.44
@@ -319,6 +461,28 @@ MD5sum: 39379e86c9d10d7b08b0db776d6181e8
 SHA1: 52aa3254959fb070d1d39f121f241fe271214024
 SHA256: 675cd527035d6176c312e42b3172167d8892da8fa396fd714296c01aa9facfb9
 SHA512: 238825e4380cdfca740f0c4ca096efa208d7d7ee6f44475318e8fca1edb5c3e356c473663e46b80840c40783e9f3cd0edb3293215e281e22c5e9731ae96a5edc
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Askew
+Depiction: https://apple-phong.github.io/Info/Html/Askew.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Askew.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: HĐP & Alimaulana
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Askew
+Architecture: iphoneos-arm
+Version: 1.45
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Askew_1.45_iphoneos-arm.deb
+Size: 3999354
+MD5sum: 88e755c47dc9c1c59a2b862c6fe37307
+SHA1: e2f4529a7d951b03398e75d8772cc27d5c62270e
+SHA256: 6b83872c6b4fc0700b01ed56088b74e5812722bc1e789438a80b2d76470a6541
+SHA512: 2f17f90ed9336924c155d47e123d6cc9b350e82f01d0f91f6a154fde87e45643307cb7bf6af92a3716213b48fc651e3324c337ffd7b9a45d119038e539b687f2
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Askew
@@ -444,6 +608,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.BigAnalog
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.BigAnalog_1.6.2_iphoneos-arm.deb
+Size: 4176814
+MD5sum: bcffdb6e32c9bf7cc62e50b35c73fb68
+SHA1: 254c8ca86f2dba6bb29bc1e32f96c0e48a78a3a9
+SHA256: 36ab0b5b65bb6df9d1786f417010097ab53790741877f1b47f9eac4c32d324ea
+SHA512: a17cad57e5d423dcf7925a7ec8350f4a2d11b70c1a25f78598eadf1087e4dc5304288a23df1433a5f0dc5cc621c7180d1110a5873176a02883313e2ef52e2910
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Big Analog
+Depiction: https://apple-phong.github.io/Info/Html/BigAnalog.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/BigAnalog.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/BigAnalog.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Broken
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -456,6 +642,28 @@ MD5sum: 26ef4ce11d0d8b7dc43cfa0c8a48effd
 SHA1: fa27f59baa6e249ac26ec2dcca900ee0785bee44
 SHA256: 2e44c20b3d7754b75567dd62de66418bdc1b0b315d988495e0edc1b990a25ef4
 SHA512: d704158117dcbc480b2103e18a044b8f3b6646fd28dadd259570cdbfbf21cc06a9cfc48b3e5205885d771a420e4e73ce9a2b3b5baa46271679464a4b9b1c5065
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Broken
+Depiction: https://apple-phong.github.io/Info/Html/Broken.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Broken.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Broken.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Broken
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Broken_1.0.2_iphoneos-arm.deb
+Size: 199582
+MD5sum: 4d36ba39c511c90c42e6c2298a6698bc
+SHA1: 322f92ffffdcf4e446f0b45bd255c805835cf3f6
+SHA256: 169d1a223bb3e1e0fa0f85add94efa4afca15bb2ad5d2950a47230d76f7fe472
+SHA512: 3b299e24d24967eaff22ed8ca10918048e316386920250b1b56c1ecbec0102b053ef9290f3dd6b03ab966fcd1c74a888a950cf4fb5af93b43123b05db9cd50f4
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Broken
@@ -599,6 +807,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ClassicWatches
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.ClassicWatches_1.0.1_iphoneos-arm.deb
+Size: 332154
+MD5sum: 2c99e94a6af2858a10e66900ca3fa090
+SHA1: 6f961f5a81db894e9e393eeec984002258b73609
+SHA256: 3e014a63372b3a00b10426815e81b80907ab4384cfa5018f3b67b3d2b6dd5bfa
+SHA512: 615786df706b67597d86a6d285914bfd16538f5974f9525f600f904130f64321c258f95ea1ea829815eb002fcec3f6695ce10be0de464ba009d684b046cb0a71
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Classic Watches
+Depiction: https://apple-phong.github.io/Info/Html/ClassicWatches.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ClassicWatches.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ClassicWatches.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cloud
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -621,6 +851,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cloud
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Cloud_1.0.1_iphoneos-arm.deb
+Size: 666456
+MD5sum: 1988457075cd2ce390d7f83fb2515da0
+SHA1: 6210bc9be0ea9df485ecd2da634327696853f4a5
+SHA256: f4e9d04cf3ec56102dd51c23b729fbc48b136a1ce43289b1049ab8602fba5db9
+SHA512: b0e40b6dfe999ff59a751f43fdedc348d31d96ed7061588be9d20ccee965380febb6d72533c4b9d706a60b5c91e576001b42bd579d522bbc52120d306b6bfcb8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cloud
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Cloud.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ColdSnow
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -633,6 +885,28 @@ MD5sum: 8c1adb2b21665aaf938e701daa3ccb48
 SHA1: a5cd42f8f2c4bfb4b859f61383be6581b7af8925
 SHA256: 33223067536b9dfca62ba19ae17a35da454a7e13db7fc16d5a4d9550dd2fecdd
 SHA512: 80445d0977d8f944528f2862615a2aafb36e1aeffd2c97622473754dfb16077037f35a6d7c2aa907d3084b4b747b8e695dc4a34be8ba0a8482270076ac1a263f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cold Snow
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/ColdSnow.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.ColdSnow
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.ColdSnow_1.0.4_iphoneos-arm.deb
+Size: 679634
+MD5sum: f31bac1e284d1e2be4e8a777bc067d59
+SHA1: f87f4ac9c62931ba3ddbe806d4eb2a5d2d24ce32
+SHA256: b0e6e505995462aace35c2b8289e962c8185484997be29ba1fef8e432bcb9933
+SHA512: ccc31c2b376ff7962ca7b2d037dc252bc178513efae45738a69c5de2699e745e20be547ce8e545338347f78abcbf13078fc129a1ba54692ff848a9bc1f02ba6d
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Cold Snow
@@ -709,6 +983,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cool
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Cool_1.0.1_iphoneos-arm.deb
+Size: 1523658
+MD5sum: 09649c375a4e39b4c792d6f24765ad03
+SHA1: 1b933455c7553156cd705275cdc8cf6a5451808d
+SHA256: d1939a8080e57d2c01613a58e1cbb1c1bc7429f953e767eb830912a2c36467cd
+SHA512: 46cb02c9fde1fe44444d44506f62231d63610984eb5816fb612463b04a3ef16c5145511689335efbba6ebdf6daf5a7da13e023b00757f23cbb4c50610d3c7e90
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cool
+Depiction: https://apple-phong.github.io/Info/Html/Cool.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cool.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cool.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cover
 Architecture: iphoneos-arm
 Version: 1.7.3
@@ -721,6 +1017,28 @@ MD5sum: 271502d082ec3d0dc8d042addbd5d6fc
 SHA1: 1933bb0382835dee432175f8175136c8bfa41066
 SHA256: 7fb6996168be3b55af6610b6d51ce64b04a7f87ae158d26dad3ce1c50d6b852f
 SHA512: 42a480046ba40c9168888c49f77c2a01d261dada0d47db30ac0697e947804fa6575ed5ca07be9a15c137caf33d96198d0d057622c9e759be44b7f486cf0fd70b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Cover
+Depiction: https://apple-phong.github.io/Info/Html/Cover.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Cover.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.7.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Cover_1.7.4_iphoneos-arm.deb
+Size: 1678714
+MD5sum: e42b91ac6d841f3c80f53e5382de638a
+SHA1: ef84f1f8af3099db1183bc4516e562e639648c71
+SHA256: ad651d9ac8be993f8ab645421127dee0cf11788e44031c7985b64e15534cc2ec
+SHA512: 7cfe9da7e4f87b622177c73a95017884974fa89712a3b384e6b9d234cf4d9fc9b5ac3b396c19190d2dad9c9e2cca33ed274dc30495663bf008f97f21eb8e9a01
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Cover
@@ -809,6 +1127,28 @@ MD5sum: 1380704820437021c3684da21149e722
 SHA1: 0a370aa05189a99ccef75ff08bff4d33f13412e2
 SHA256: 174b6097d5737bd8f3252c349b4b4fdda70c57b061ce7c51f717727f1e0e6371
 SHA512: c87cd859528a1cae2a0098ef17e68f8b6f55553475a21738ac773af55a62ec8ba03fdfefb8a15577ede6e05abe893cea2a7f394659352fbb868f8f4cc4671ed7
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dark
+Depiction: https://apple-phong.github.io/Info/Html/Dark.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dark.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dark.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Dark
+Architecture: iphoneos-arm
+Version: 1.0.60
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Dark_1.0.60_iphoneos-arm.deb
+Size: 1133142
+MD5sum: 19188c59de16db3ae1312bd2247c9fb5
+SHA1: 0c661f2af0248ab8bf39ce842137fd03ad92d854
+SHA256: 3c6bf955c75e9847deef4a84df2cdb2a2055a43f72c45a74884c6ecceff36cad
+SHA512: 74e00aee7ce4cf83e24126d61549d2c575adb8f453ddea5a18ad7886d81b369f7352bc286a5265f0fb517c9f250fdcafc02183fbf6c53618d0097ee47c946e51
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Dark
@@ -995,6 +1335,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Destroyer
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Destroyer_1.0.5_iphoneos-arm.deb
+Size: 922782
+MD5sum: 4e9a2fb1551d34f55cd81b847ad02df5
+SHA1: 412e4c9243b04c8a5d2c6dbd04147c33ddb2b9e9
+SHA256: 2792bd7769408eff56c9c8230c6805ee60a3f5be33549d038ea9006b335652f3
+SHA512: a34fce3e2a9c3f928ba77a6782058113713a5f7669c86fb5722bc296c3c78c29d8be7d1686f11ac097d2347247342a30ad4bcea4e0ecd1b5564d15926342d3e1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Destroyer
+Depiction: https://apple-phong.github.io/Info/Html/Destroyer.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Destroyer.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Destroyer.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Detention
 Architecture: iphoneos-arm
 Version: 1.0.12
@@ -1007,6 +1369,28 @@ MD5sum: adaaaf92db1c25eede9b0d9fab704576
 SHA1: 861917e859e9ab70e7e0e9c4eace186132f9912c
 SHA256: bd4c003a1f9571b8a2b134d45cbdd5fcb3a5bc1e96613c41fb4633074c085b18
 SHA512: 5bb4fdec34055cb9b030a7d62161ef2fc0ac864d19505a949b6210c6d7634aa64c3f4ab424bf49ca97c3467966f554260424d2291b14100a4298f84c6fac958b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Detention
+Depiction: https://apple-phong.github.io/Info/Html/Detention.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Detention.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Detention.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Detention
+Architecture: iphoneos-arm
+Version: 1.0.13
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Detention_1.0.13_iphoneos-arm.deb
+Size: 14650562
+MD5sum: 281f6185bdd3204c321ea295ce5762fd
+SHA1: 4fd4c7fe8d291683ed35f6886ad0b02d3d9f8621
+SHA256: f6aa6a92039a328324e386f34824e783f9416dd0c84e1a608e3e883abb2e337d
+SHA512: c5bbf67bdeecf90a3fe2d7017228c80d93428a253fec59a8e935a4a57d76a4c9e9e96b52bdd67987dd286a7993a1acb274f727a76bff2e25581eafb54e89ec81
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Detention
@@ -1039,6 +1423,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Diamond.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Diamond
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Diamond_1.1.1_iphoneos-arm.deb
+Size: 192896
+MD5sum: 7628b951923fdd1eeeb357770a8b3634
+SHA1: fd040190dd3b62f88dfe7c6236b0653c9fe79ee3
+SHA256: 72ec119414d657bdfbb417e73e0730063a317c85dc4b2caaca7e48b293a6cc61
+SHA512: 1ecdb6a60b3b551b44edf1c03a48d35d68eff08e323d86c4cc97e1dc40d34099dd75e2a1e1e8aaa0ff63661c3c381e857a18fd0f1c6c6cc302afff03c0286d10
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Diamond
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Diamond.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Diamond.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Diamond.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Dim
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -1051,6 +1457,28 @@ MD5sum: cc2eea46183de88a2895fed64fc8afa0
 SHA1: a7962f0f2c13c6b14d64bc427c003c7f6e73812a
 SHA256: 578ad32889d6f0f71acd03f9da26e3353900c452d66ee69f83d3f48b1c1e2f06
 SHA512: 08c78e13fae810da47fecbcffe455a44ff4ada495ee5f5c3365edd96d2b7baf4a9bee03b8b462bb5c95d48707c8bb44832518a1af03604718ad99bfac3b043f0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dim
+Depiction: https://apple-phong.github.io/Info/Html/Dim.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dim.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dim.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Dim
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Dim_1.0.2_iphoneos-arm.deb
+Size: 749838
+MD5sum: a1e6d4258dd0b89d6a30f685fdf75943
+SHA1: a284807ca5e6d07555e90e8fd88bb69960035c5e
+SHA256: e8b8e93fa61ae2ecbd6148ee95fdfbdf08e9d23f085c3b42107708ee23301c6c
+SHA512: c32abc96d999e83f17febb5def9faa561baa22ef7330bf78b3463cfc625b6979c5a33eabee670060c383130a4b1e8667cd9867a309774ab9473785dc00bf0fb9
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Dim
@@ -1347,6 +1775,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.EdwartPro_1.0.3_iphoneos-arm.deb
+Size: 53950328
+MD5sum: 6860d4ec74749be561e3ac75c2824f11
+SHA1: ee8e7da2a6f6cb4f955b51305700790528b23dac
+SHA256: 2a2b62d0a6e0111b7106732df9678a7357864d30eb257f24ec90ae5e795f7cac
+SHA512: 3a0a3cd08f0f4bb8da2e7c3876d78bae61eb2df77063d46615c33f5a3caaf48b272e372bf63cf16294730354685aa57658765e1e902e292565680fe610a9aacd
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: EdwartPro
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/EdwartPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/EdwartPro.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Effort
 Architecture: iphoneos-arm
 Version: 1.0.13
@@ -1479,6 +1929,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Effort
+Architecture: iphoneos-arm
+Version: 1.0.37
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Effort_1.0.37_iphoneos-arm.deb
+Size: 21369402
+MD5sum: 696751abfa9dc26122e155c8f38456e6
+SHA1: ebe3b03b1a0b388467307d357f491550c6812d22
+SHA256: 700bbb3555e9d6bc8230cfbdb51952071f4a35736e440007eb3857da2ae70973
+SHA512: ef554ce88f7b622ad42bcb3f11a8000c9cb2ccab2157e8f0c2270dccc366c668c17f9ed571e94c4f15c846e99fc04f292993694d2800102001b9581326086b7a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Effort
+Depiction: https://apple-phong.github.io/Info/Html/Effort.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Effort.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Effort.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Elite
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -1545,6 +2017,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Endless
+Architecture: iphoneos-arm
+Version: 1.0.20
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Endless_1.0.20_iphoneos-arm.deb
+Size: 26585928
+MD5sum: edab2e816f4a48d088ed746d0c7af9fe
+SHA1: c477d701e40da8a9329434dcf21db5b4120892e1
+SHA256: 84dbb03b05a7eef9e3efa9b2785627677be3d8462016d187e699f181597d37d7
+SHA512: 169cadfd4ee07d1fcbd0a4dbc4d78db628c5dc655cb4e56269c78eee047ebc5a35c29b9b2d77737a3e701717ca29863f3dfa025d02eb773f3dc5bede02bde7de
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Endless
+Depiction: https://apple-phong.github.io/Info/Html/Endless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Endless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Endless.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Ethereal
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1579,6 +2073,28 @@ MD5sum: 4d1102f197785401f283d5253b4b1419
 SHA1: 651095cadfc2852425fd6107e611a48123c83eef
 SHA256: 70b3c8716e22bbae8c6021dce0cd03ce289784b7d43ae7b8074517a688a98864
 SHA512: 4ceac3bed0b59a0ba16aac2f43567a6742b1a3bbb81542959f16c760fc7c3c1a029f0a7a71089b8be03c59cc5e616da7f57d7825ac085a4eb6e0dfae375f8b0c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ethereal
+Depiction: https://apple-phong.github.io/Info/Html/Ethereal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Ethereal
+Architecture: iphoneos-arm
+Version: 1.0.21
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Ethereal_1.0.21_iphoneos-arm.deb
+Size: 9583174
+MD5sum: 5ee8b2bbe72c54601e799287629876f3
+SHA1: ddf97888cea9f2f287a1a55234925ec50bf3cbb5
+SHA256: 1898e672d303984d28a4b029f31ac46593e11bb58d0b5185900fd2f40a15feee
+SHA512: da37a51cecc3ead185556a6ca30e7de120e3d8d9d6a1cba6609491905e9bb05dca1023ac58fe035ef2570528a980fbd6d56c5ed7a4d6ac3a4447084eddb719d5
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Ethereal
@@ -1633,6 +2149,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Faint.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Faint_1.0.4_iphoneos-arm.deb
+Size: 233250
+MD5sum: 24376bf9062ac1d9601cf5b977492cf2
+SHA1: 742725b4f5b8baedcf5b4f9cf28e6ddc1621f336
+SHA256: 23fccb04c842255c66bfa8c1a5cb7708026b63a30f5de74ae0e22e52f70b3d81
+SHA512: 466cc5794c7d14e0898bd2d62d1a25b7539d19aac4f311db6f8a215908e0870e9ded4f5873c2d92c730c60e46aff0a156d51d055a4b4b3bc71f8c11e085402d4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Faint
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Faint.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Faint.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Faint.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Feeling
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1677,6 +2215,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Feeling
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Feeling_1.0.2_iphoneos-arm.deb
+Size: 434790
+MD5sum: b0422f41d121a9bedac22c4e8d25c961
+SHA1: 288d29f18a96c397e92ee226abb7252ada5c5067
+SHA256: 19b4aa7f470741ff4a847149d2bd321a6608cae185e4ea42ff9529f2e95ad2c5
+SHA512: 969a959a5e5af9fe9ccdcf549034c1a3b7dfd98bd0da945839025f19e69bf6fffdf9b2bc5dac9c36926607817e7102c0734547931e962db548a2afe453c8ffeb
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Feeling
+Depiction: https://apple-phong.github.io/Info/Html/Feeling.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Feeling.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Feeling.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.FlipClock
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -1689,6 +2249,28 @@ MD5sum: e31ca58dde04989ac01fea71343cc927
 SHA1: 1a18ba3bb41592682bd095c081254250abeaa0e6
 SHA256: f09842c0cf48046bb112face030319db435f9c1700d01682b4add4228f12fb44
 SHA512: cf2fc5f15a069c01566a556631434b0718477b4c6bb42b2327130a37d5c7fe9485c91d13146914b3cf12251b00128591e909b25589ac60b3e6db334d75e11ba6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flip Clock
+Depiction: https://apple-phong.github.io/Info/Html/FlipClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FlipClock.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FlipClock
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FlipClock_1.0.3_iphoneos-arm.deb
+Size: 23781346
+MD5sum: 232d46285cfba5d3326c5e528ddea865
+SHA1: 7b5c1698bf50c7f3dde2e6cb8ae4a636193689f3
+SHA256: 6a8ed27737915dd4d1a24970a0bdf430917c5c7a549ff3e68010af6df57b7378
+SHA512: 0e4d277b0d4c23c90c62e49ef16f7a0cb9032d196129072c413708760198e5003f77e04d05e5a21d1d330c2e5425b0ce6a160a3a26a61e9b5f9699c28e1f2bbf
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Flip Clock
@@ -1799,6 +2381,28 @@ MD5sum: 59ffa7a73857ccbea42b3dd8d8404395
 SHA1: bd4cd5951609100a1551b978f6f301a43e58531e
 SHA256: bc9d146d048ebf3790c0811ea16bced3c2c376938a569ff7f4dd4eccb2ebf8ac
 SHA512: d445e6c4175a845cc200ddd0db5a0054830c209fff25ba6810661af4b75051e4cb80013a73c0031e6df0d9034c5e5791871abde79a66a5fdf561acf2ee8000eb
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Fly
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Fly.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Fly.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Fly.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Fly
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Fly_1.0.3_iphoneos-arm.deb
+Size: 1282522
+MD5sum: e5edc4e3f9a75fc8b6a370df42ffbeb8
+SHA1: 06e7e96d6530dcd5885578ca7c35798df0f25564
+SHA256: 8790fa3437f84c24ce53ce9429f61909071d105523b15d31b9489b4f121f6c0d
+SHA512: 3006730e71a2c1382647591dda64250390eeb1883058db690bd168806aae7a6211729499abcda636bd4eabe15184b83818e1a94983fbae500054a8e9881986d2
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Fly
@@ -2006,6 +2610,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HK2702
+Architecture: iphoneos-arm
+Version: 1.0.42
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.HK2702_1.0.42_iphoneos-arm.deb
+Size: 30351878
+MD5sum: 42e124f286a6e01260540ead23bb889d
+SHA1: 4d1145bb4cc15c34e5c338ac25e47ba1abb73462
+SHA256: 8a8260a9b1ad36958b3e6f398add4314775910b3747cdf63f9f8a7fd039fef9d
+SHA512: ddc558139668f5126e581c7e3db0d2115623257fc92b9e87525b6161451888b6cfe6343bc80645901433f4690f2d9b1d47f16352aa38cb2bdf3115a505e6355f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: HK 2702
+Depiction: https://apple-phong.github.io/Info/Html/HK2702.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/HK2702.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/HK2702.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.HTCClock
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -2018,6 +2644,28 @@ MD5sum: c6364d8532134f0862791d4ef9101638
 SHA1: 7dbbe78c472854a6426e24ff114added9858c145
 SHA256: d6059658ea6f4c41c95e80e15cf5dffaaf3e55e06de93a248a83c9db5d05a424
 SHA512: b2be8e597d93e41f58d0e5c2c89b6e833959d97c1998b48e2ebe49fb450d419665fc8ae6433e0ac4065f4543ff6a68c5494a60b17acd0eb6b89ff34e9473faf9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: HTC Clock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/HTCClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.HTCClock_1.2.4_iphoneos-arm.deb
+Size: 24755688
+MD5sum: ea0bd4441dfb143f47b65aca0ddc5e36
+SHA1: 13408abeb932d23061a384b06d96ea62e8ddacb8
+SHA256: a8d4aa9753c2dc0740bdb0a98bba36aba92df261e687df34d25d657f2ac164a8
+SHA512: 1f9d59a69581936e03e10ce0e6e11b064137f3e585d089a2b9ab719c4569871911d6b97aa9cf297afd4b60531b8eafb7389a189754535a2b3738b7696e2a720c
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: HTC Clock
@@ -2050,6 +2698,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Horizon
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Horizon_1.0.1_iphoneos-arm.deb
+Size: 491858
+MD5sum: 05b5e6a6b576c3076c728de42ca1e329
+SHA1: f329ce1322638df871b1e2d200059ac53e124d91
+SHA256: 7c07ee9539f30db728f99cd94e878748cd322bc0fd55c91ba62db46ec66eae9a
+SHA512: cbc9d78935b22248b183a9e8f14fe72ccaca9885ff75d3fad40fc9061672bbed184ddfedbc886edced415800511c295549562f5d03f7103c37a7dbc50c040f6c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Horizon
+Depiction: https://apple-phong.github.io/Info/Html/Horizon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Horizon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Horizon.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ILoveTime
 Architecture: iphoneos-arm
 Version: 1.9.1
@@ -2062,6 +2732,28 @@ MD5sum: 6664db203d1c471facc85eb4d96a8f25
 SHA1: ad5901253e66fe0fcbb5054ce4b2e96d47f15b6a
 SHA256: 6965a49d1accfa3c9501517d2628e1e77c160fd4933556c4a3de74c27d7b0005
 SHA512: a67a948ab84c69f216b11818dc09db2c61f5b12d091a1e0d822b37e6f0ec99f869b95c3ceb5164b13e35894ab4198c26e0be6f89fc1dd2810b65b4d75e06f564
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: I Love Time
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/ILoveTime.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ILoveTime.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ILoveTime.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.ILoveTime
+Architecture: iphoneos-arm
+Version: 1.9.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.ILoveTime_1.9.2_iphoneos-arm.deb
+Size: 382020
+MD5sum: b66da3daf35cabfd0ee78a9352deca65
+SHA1: 85e466344f1ffac71be7105a94f15b3cfa37c3ed
+SHA256: 73e072b2226c7a5b2f1bfa757b45ff5551998b001fadd98830a02a780fc31d8f
+SHA512: 2374886b4e0f86999e7dee2959353ff57ab1f37eb213d2ffc2a65cb6a139b0a85071593f1e7be40e9aff43653a4625b598e6eab1c6ba980d9157c93b1567b5fe
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: I Love Time
@@ -2094,6 +2786,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ice
+Architecture: iphoneos-arm
+Version: 1.0.38
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Ice_1.0.38_iphoneos-arm.deb
+Size: 1767384
+MD5sum: 63767c2d0a24e65f6104ce6b61f69298
+SHA1: 93bd01c6a823dc3630cfbb7c718a9e57a81cf644
+SHA256: b555d979a1742a8e901bf1ae3598e353b267aff0147fa2571428b63e418d7bdd
+SHA512: 692fb52e2bd4b096b75ceb10d7457362bd9311b3fc1cb4fcf566d02bf529ec7f43e6cfc6a1f91b7acbb9103068076c8c950a6d51cf49cf15e41959e071d75417
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ice
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Ice.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.7
@@ -2106,6 +2820,28 @@ MD5sum: 7dcf04370fa976b35e78387969b4ab3e
 SHA1: a58d5c8e7fd3ae8f23a3e08aa51d6f7fecc161e1
 SHA256: af75bf9e39ff177b99dc7d14dd498e6f233e60ac9030caa588ee349639a4121a
 SHA512: fc3e02aa93b8b3ef4529b239acba803ea3beef25efac0850c65bb9ab1d61ce1fc980739117a80bf48ac561a2ffc1446ab7062375aa8c0a7206fa5da46e2058a1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Infinity
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Infinity.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Infinity.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Infinity.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Infinity_2.0.8_iphoneos-arm.deb
+Size: 47160838
+MD5sum: 116a52dd2a378c093271f27f76508855
+SHA1: ac32860adc9f7b38fbfb61b0590c2a45da0f399b
+SHA256: 82b9bfade984afaa339a1b16bf5a5d6ea3d5a68778781e3b7a2694665e162800
+SHA512: 336e22fc0dfc686bf1055b29bceae507a26f35f5eed08f80281e506abee77dee6ca6fb9524f05aff2ed3279f1f1256d85ce9fab4745b373d4b3f94e860a431f8
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Infinity
@@ -2158,6 +2894,30 @@ Depiction: https://apple-phong.github.io/Info/Html/Joyless.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Joyless.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Joyless.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Joyous
+Architecture: iphoneos-arm
+Version: 1.0.11
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Joyous_1.0.11_iphoneos-arm.deb
+Size: 25129000
+MD5sum: 6c87c57ab30507be1839755b3b417371
+SHA1: e13f6c6c93b52aef317f8833ef2f6c11558dabca
+SHA256: c1e03333958d77cd42743c0dc582007058cfec1c50bf7f4748c4699aea8a678c
+SHA512: a2f31efd8a9a91fe5c5e269606fc2a54a5e99bb2d88a0bf1ce1f17f84115111f463cdc705dcdf5c6bde214400c4a30894f72db0ebf62301e10dca7cf4abc833f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Joyous
+Depiction: https://apple-phong.github.io/Info/Html/Joyous.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Joyous.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Joyous.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Joyous
@@ -2357,6 +3117,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Lightly
+Architecture: iphoneos-arm
+Version: 1.0.04
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Lightly_1.0.04_iphoneos-arm.deb
+Size: 13519156
+MD5sum: 1f915c6a09901f2e7808d3fa32b77caf
+SHA1: 25f983f0620990c3fd5172feca6b7b38ee168b45
+SHA256: 2b2bed47bb7ad092af30bf2c7a76fde2b0424d17a0333525640f6040c2e804e8
+SHA512: 474e7ee6fb75be5e3008a62894ed9aba4d306755c9af4c8d69efc1a3e469440cde85d3e92b8caca13916f91e2464185803cd6f21f1f3fea5b46023bf524608f2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Lightly
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Lightly.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.LineColor
 Architecture: iphoneos-arm
 Version: 1.0.7
@@ -2423,6 +3205,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Mars.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Mars
+Architecture: iphoneos-arm
+Version: 1.0.014
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mars_1.0.014_iphoneos-arm.deb
+Size: 149910
+MD5sum: 7a896bc7b50c1cc10e65cf6d669c546f
+SHA1: 322d5e135345bb5bc42b54255ec810c6acce71b1
+SHA256: 03a56ea9da4400d5c98a91fd8fd56fe70d9f2a806963a49f425df9e4eff3156b
+SHA512: a4a44157c78abff969dfe57c0b2f781f9981e3433b1d98053d383a18316b73b81c39ff61505626624e7235957bd6e16decc0cd01d1d2fab5396465e2aecf9168
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mars
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Mars.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mars.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mars.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Matrix
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2435,6 +3239,28 @@ MD5sum: a6d348cafaa34ed0edf119178868f705
 SHA1: f0a0e7fc0ed2116983c076b312ddc1cb3843bfb8
 SHA256: cbfa9d373ee5818f5ce2d14f8b2fb7266ece8f569a35bf139a826852eaf23de1
 SHA512: 90eddf60f3ea4852d538944facb8787dd0394fce69faf043bfe734898395363ad93334f91b5ecf181e9a8c27a74a632890dd2803b32462d67ebb7e4058bffab0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Matrix
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Matrix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Matrix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Matrix.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Matrix
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Matrix_1.0.1_iphoneos-arm.deb
+Size: 400872
+MD5sum: cee3341d56e7192e239ead2f423c0a7d
+SHA1: 9672e1609890992ee32d02d542d811ba01e830a0
+SHA256: 668b7725c6d3b4fbab754935c0d635117d0d509e9dd6d0a00bb54614a9781e00
+SHA512: fa81ac110e1110f9fd7a64b3f9b5a67259cd52ed1fa60d3255687b05ee1ac972b7db95d9f8f20eb9135a233b500f97767f54a324742e6bf9e46eb909c676b5d4
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Matrix
@@ -2479,6 +3305,28 @@ MD5sum: 41d59b4492b6ba93e9fd669364e3d549
 SHA1: 931728ea519d3d0f8c601c3fbb33b569d8734b92
 SHA256: 22ce6334a8e99146dff4e80e84fdc8f7497bd60f75ef08be7fd289d8034de6f8
 SHA512: b6d2f77674354f9174c309cd76a14e6c325c3e205853e8c4108d5f3605d1bf6def3822628078ad146f0d15f7591146b6655e3fc0f25c3485a92addc9eb34c41a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Meteor
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Meteor.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meteor.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meteor.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Meteor
+Architecture: iphoneos-arm
+Version: 1.0.02
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Meteor_1.0.02_iphoneos-arm.deb
+Size: 838608
+MD5sum: 0087d8b48ebb6691b18048becf9bf4b5
+SHA1: bcd5cb61a267755ccd3493026c3e174bf97987dd
+SHA256: 75f02ee1f1e29a3adbeb3ea0648321700ddff953a23e139d8c8c0c54f89482c8
+SHA512: 322803f9fb45752e870ab4df80dd642e516b27cfd461a8720c245ef7723624a6b2298dfd3d0537fb9de61b11c48d060352ce5c22ec2705a7fdd09c4aff45d10d
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Meteor
@@ -2567,6 +3415,28 @@ MD5sum: 073e8e4c85d695c54d58ea8cda3c3b82
 SHA1: 45025a114546043cf55d4a843dbcaa2aaae3164d
 SHA256: 17f0a137801c6a0778a371a4fd3e1e6a170371b5f8f559823e7650780426fe6f
 SHA512: 559a5b82c968a62a735cbe2d392a9a3440e37c2f4d76f319d8c8bc2308c17c17bb280db0bfe42f06833d8800651b5643c98f00e0e4ab9f262e1cef119d24c8d4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Moonlight
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Moonlight.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Moonlight.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Moonlight.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Moonlight
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Moonlight_1.0.1_iphoneos-arm.deb
+Size: 347780
+MD5sum: 143d0e64139b24767c301614f6483068
+SHA1: 738175b409bdd2b33574c268cff1a4a74ca7a342
+SHA256: 75a07f0bb7342c2965a54bf77e6e4af02476c34c4a612613032b7a6aafd1a6ce
+SHA512: 926061b72efeac500ac0463e83ad6ecbb0f93fdf68dbffa368f63bf7e64238faf8d368570781f0159bed98dcec70a0a63420a890880eb4ff5f39ceae019341cd
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Moonlight
@@ -2687,6 +3557,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Narrow.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Narrow
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Narrow_1.0.1_iphoneos-arm.deb
+Size: 2283120
+MD5sum: a56a46b172165710bd530f3b39696500
+SHA1: e0336f959f3d60dd64090cbabae5bf33a21928fc
+SHA256: 87a9ccc6b40aa445f5f3750358332b7a834f78febc151d388db9e95978ca0110
+SHA512: ea189738d0b6b834820de4e0ce4dc44938544a5521edb46d950acafb7c536d59e2e39130242e5875f39c020e2d9a34b1da377ebecbafc0f838fb924cd3548233
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Narrow
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Narrow.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Narrow.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Narrow.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Neon
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2699,6 +3591,28 @@ MD5sum: b1b013a4f656ee5913991a5ec2724040
 SHA1: fb1ed4fb518d9e856687ac56e080d0f129b0ec17
 SHA256: 7b7456a694e0f405711b679360db362c33be9f7ab9a7c323e1154c0b45fa2c37
 SHA512: b8a970d614f978e4d8c5798a86b6b0fb6efe74080ac34287b338725d3e53838921ff1f6fd29aa3b06349da8250f3e44f046195397a15742b6fb47062b0007b2e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Neon
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Neon.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Neon.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Neon.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Neon
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Neon_1.0.1_iphoneos-arm.deb
+Size: 689120
+MD5sum: 56c809c3be63e432591dd8031ec04c77
+SHA1: 5dadee0ea3de00f6048a98bf888d95fdf1a88cf7
+SHA256: ecdf9176b4e44bc84b08163e6f3572aadaad8b1d8e3d6cc1d6d83eee3e3d944c
+SHA512: fe00250ac19606e21a5261296599b80ed0f602b0324e3ce7607bab157f245f378ac26158954cbb0bc027e32e4d59a912a2d976bfdf6743ce2069424e82ff35a6
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Neon
@@ -2774,6 +3688,28 @@ SileoDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/NiceBarX13VN.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.7
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Opal
+Architecture: iphoneos-arm
+Version: 1.0.41
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Opal_1.0.41_iphoneos-arm.deb
+Size: 9254398
+MD5sum: 2bd92b983b8ab7181b3a89e8bf9d9cb5
+SHA1: 867093566af3af21c0d3f0a1dbf613170f4bfd7e
+SHA256: 4faeb7996eb276f13a00b2853096d65d40714b72c3d20841111cc049697924fd
+SHA512: c2031be9f704d0f102646ffa9617189b9832dd8326f488d8f2f2e37158c320f66c40e5aec6fd3532c5827cca91f5d69858d511d25ce95b576c695b8ea74fa615
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Opal
+Depiction: https://apple-phong.github.io/Info/Html/Opal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Opal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Opal.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Opal
 Architecture: iphoneos-arm
@@ -2863,6 +3799,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Peaceful
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Peaceful_1.0.1_iphoneos-arm.deb
+Size: 772710
+MD5sum: 2ea3de2c5ac06b4a56f8a283fa69dbf7
+SHA1: 800ad085eaf9891a7c3b6e6c52ed2e8032f82011
+SHA256: 9729e9ed7995b9e4c395a4c4119cb27c3d789fd30a17f4326f024dcb8eb129ef
+SHA512: 6186d27ebdbf41d9eb8254635328bb1e808391d6a7364d34bfe9e19e7a65fb4dd6632c5cc994a1d0472a1b466d6927dede809e7765b67fee530b1096b3540481
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Peaceful
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Peaceful.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Peaceful.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Peak
 Architecture: iphoneos-arm
 Version: 1.0.082
@@ -2875,6 +3833,28 @@ MD5sum: 33b982d290a4d57d21a7a00dff574654
 SHA1: be3635be7122ad2e4b87af65947663185bf562f6
 SHA256: 43fbbda1e0898ad4b860cb7fe678b8b57638e97efca006c1a037c0af396f8a6c
 SHA512: 24ce07246a80808fcdf2bd822a92e1d6ec9f34099be58b422e5f965fbdc11d7552dab40e9caa19b299d514d6bd6a516a841e019fb42a38c09d250c0386ba0a63
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Peak
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Peak.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Peak.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Peak.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Peak
+Architecture: iphoneos-arm
+Version: 1.0.084
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Peak_1.0.084_iphoneos-arm.deb
+Size: 22714678
+MD5sum: 1bfbba4b905135861cdc13cef65d0d88
+SHA1: 775d39df159a5ecc5b33b932915b02755e424630
+SHA256: 009f2b8a3a06e8d426ddde11567e5ca47451f46f48ec9c426a1032ace71f4170
+SHA512: dc6df343f46b2816a4b50cb993ff7869715c3703b5c1adf810c40e34664a1830a9b188822dd95274830008fb4e774d8b04c5e340df367931c3ba5445df1c4653
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Peak
@@ -2919,6 +3899,28 @@ MD5sum: 78deca0eb32030e5094db3c9caf21d91
 SHA1: 838a9d09462c3ca129c752bf9e6f88327320f88b
 SHA256: 87d0edcd5c9c4fe1de1e85ca3ebb4f434397de3724daba1a5355b162cc3e1230
 SHA512: c8cbcc2d319844e4e5d8a856c871d86efe9c6d3c3fabd53ff5c2d6b5fac34fef7fee75e5952969721c5871296442c5ae8d81da287d6501115898355d900e8c0b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Petal
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Petal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Petal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Petal.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Petal_1.1.6_iphoneos-arm.deb
+Size: 5075932
+MD5sum: 4d4cfddfa915b4aff8cc372041eb91fe
+SHA1: 03b12731e0255b874ac53f8c0781eaca79fd6f68
+SHA256: 63e19585fa90d3b3b924755ccbdba3abac70a38b99335b8dcf4677667fa28175
+SHA512: e12486b9903c752c9ae0ec359594dec11d620a4fe969429cca6e613ae9378c62494237d9a6b4fa312a828df0bbf0fa9403c909191ef737f1860c01a0fb661941
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Petal
@@ -3041,6 +4043,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Pure
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Pure_1.0.1_iphoneos-arm.deb
+Size: 439054
+MD5sum: e85b7268d6aac5ffdf349587b2ad3bd7
+SHA1: 3bb2c305f0d69dace76e24ebf268e5452c06e37a
+SHA256: a6463ab4c1f6f6f20e783df279d64c5c90a5acfc15dc1521d3c78d3dca62ac56
+SHA512: 8ed1681b822b2781c0c24f5f01b3d9c707d5633bc8f0b9bd6859ff39b0aa37029f386dd049a29fd6b89225eb4e926f0b7945960074b7e560841ce34776a5cf7c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Pure
+Depiction: https://apple-phong.github.io/Info/Html/Pure.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Pure.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Pure.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Pyramid
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3063,6 +4087,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Pyramid
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Pyramid_1.0.2_iphoneos-arm.deb
+Size: 295490
+MD5sum: 02a64c78ea36d5e0bb127ec3034c476e
+SHA1: fe66c91bf43166b1682fb879de0ad96b2471e7f3
+SHA256: db4d517cb3f95066f633711104b7949dd40e62e629f6465b4037ee3163a7e7fd
+SHA512: 3df2ad67ac214e8485d74a317dd0aefd65bcb2c3ca9c2e15b5b5eab7847b76d1874eeb824513e4b1c981df6ae791fa97b708db0730c5d948d7d0736672eb796c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Pyramid
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Pyramid.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Quote
 Architecture: iphoneos-arm
 Version: 1.8.91
@@ -3075,6 +4121,28 @@ MD5sum: 9af1e764461e7731e4392578fbca8ab3
 SHA1: 87a0ece8863761283633354a72502c26ed7d9c11
 SHA256: 14d31f518986a6cb44dba55113db9e645afb8732165920f7f939888e6ab349a8
 SHA512: 1c5c8cbe493d5535e01e8a9071780ff2e2a3a25b0786a1d10cd4044e71239c3f08a944328493e91017cc9c65acc78d1dc3b95a265e8685e2db248e603353f01c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Quote
+Depiction: https://apple-phong.github.io/Info/Html/Quote.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Quote.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Quote.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Quote
+Architecture: iphoneos-arm
+Version: 1.8.92
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Quote_1.8.92_iphoneos-arm.deb
+Size: 339490
+MD5sum: ad6fbfb979d1a9c7ee324f04d1fa8ece
+SHA1: f41535a661ddc193c0a56a9aec1c125ee7ebf7e9
+SHA256: c62d0dfbec36dece2c03d3a02be877aeb0a67f711e83ba0270521eac6e6183d2
+SHA512: 844cbe01e942ebccd2b59b5dbf9c7374bfaf1b5b1ec0f2ad12dd2745bbfef7597453962ee432757eca5ef7257486f2c60774dfb380e8d04b9b50a755f9bbfe23
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Name: Quote
@@ -3131,6 +4199,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Rotate
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Rotate_1.0.22_iphoneos-arm.deb
+Size: 14075854
+MD5sum: 5b70aeafff20cc67f448936bd31f0d52
+SHA1: 13accef38930adcc2b33db9ff4a97a59fd7eed01
+SHA256: 57616f1645b173e7db0085fa819dd983ff5bff0048cca7aa093fe2b302fd09fb
+SHA512: 31559f2107056d3c6ce2b4c59bd2b4908f96323cfebfffe0bdf3df76b56a52755a3efea1274cc1eeeed646801838a3c62ed629e75ca0632192a26e31377c484f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Rotate
+Depiction: https://apple-phong.github.io/Info/Html/Rotate.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Rotate.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Rotate.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Rugged
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3153,6 +4243,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Rugged.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Rugged
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Rugged_1.0.1_iphoneos-arm.deb
+Size: 495712
+MD5sum: 628185eec74bb9f8376a967c335150e9
+SHA1: 99a59f2d49e455825aba7a7331245b5e2d4c07bc
+SHA256: 4b0434b106d3393897dc15aeff3adb4bf13ce86dde23bfaf0f2e2520c57f35e1
+SHA512: 3a56ee4f269665886d9b6a95ff0f9084a729a4f751067fd1257c9359cb50fcc846311270ad7a488ee32f76011837288de125753b9bf96dacc249cfe196a52726
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Rugged
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Rugged.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Rugged.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Rugged.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Sad
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3165,6 +4277,28 @@ MD5sum: 82f476ebbce3f117f518b15d2cf5253e
 SHA1: e146779dd2f19b71f1c3d5cb1e8ac3949fd64e83
 SHA256: 96165bf43a76f5c707fe9254c3e89469dbe2748e1b0f346cb69940608a17c5a1
 SHA512: 259c37ba784b2c0402a31118316552fa39e71a99bfd933e24c257a8a31dbab1be047b80848793127da407653acbf49244584e1e88d656c90511bea636a1a1e94
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Sad
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Sad.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Sad.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Sad.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Sad
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Sad_1.0.2_iphoneos-arm.deb
+Size: 539280
+MD5sum: 36985a884fb67708d971e756fbfce84e
+SHA1: 0d69d87d8bcab751a08879c40a59af17c3dfd65b
+SHA256: 9db18af94b1e6b10e5d1ec3defa901a23ece83361cfb724c4e0917631910be7b
+SHA512: 3ab2c8b768ee64bc62dea79497a2efc7d2aca5b8db4cc2301ba4c54431f732e89f551f78e82b86f8e5b947a011812b6cfe2bd85483e9f8063aa4cd77af2f2f9a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Sad
@@ -3288,6 +4422,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.82
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.82_iphoneos-arm.deb
+Size: 21923854
+MD5sum: 842de582f53b6060796396cfc96a4fd6
+SHA1: f8ba43fc2337b67501456e9ba6cbf5f416cfc2cc
+SHA256: cb22f3cf26b2edcfac79c5a56857ad2b2184b67c789540d560b5d27c8d3e3ba1
+SHA512: 64ea4adf05f82934f8c519c905c603de05efa33fc986209447485fd8c5f2680f55949050fa01846fea4fa9f8a2c771417790f06a92090177b24655ac74ebb746
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/SixLs.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SixLs.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SkinnyMenu
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3322,6 +4478,28 @@ MD5sum: 91e781cfb97025d66312d8fec94a9d6f
 SHA1: e0bae1d0f12f204d1ef108119231ce59bb0dd8b0
 SHA256: 01e434b46946d8d5ee9cd563ef754d03bd4221b91eed52a96b027cf273abb4e9
 SHA512: 7bbdd722a6e1a621eb679cc2f5f01091e0b6d8016444b41af0628bbe3f80bcc39a0586acf2c2430f62cbb41892a01a6bee2e1bf9c5f9d208417858fcc3ee7cf6
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Slope
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Slope.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Slope.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Slope.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Slope
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Slope_1.0.1_iphoneos-arm.deb
+Size: 682116
+MD5sum: 6b9c6e3d0d3e34f040b6e517185670e5
+SHA1: 3733a03d4e9ab4dc142a2bddac0464606f4d0c35
+SHA256: c9ea477e115617bf8fd8d6cbed326b662ba626d57b6f0eb67dd3f3cede9e6d3d
+SHA512: 9a4d6ba47714d24935baee01f0a696d0e8a1f9c705e49dddf429cf10b0128fa0499e6200096b2e33b4fb93c42748724f7939d9e3824ea96ccf306aee7a11cee1
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Slope
@@ -3513,6 +4691,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.StarDock
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.StarDock_1.1.1_iphoneos-arm.deb
+Size: 24526358
+MD5sum: 941aa0d7b50543d435baa892e1fefa49
+SHA1: fcc99883ce3d2a70bbc018dc03ee5947052f0c44
+SHA256: 99bbb65a153ee53f6593de23521ec59c88c315bed2ffdfa671cb09731d9f53bb
+SHA512: 04812a6682af4d72bbe346a76662e68d4243bf8c7c66e522e309822f4aeb267fdd8ea731a5378a26e860cd137abd1f13c6b2cb74d9836b87c6b2919da801428e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: StarDock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/StarDock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/StarDock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Stormy
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -3525,6 +4725,28 @@ MD5sum: 7153b3379d7644ad95decbc5839cc19a
 SHA1: c4bcbef28a6e4e17391e0bc4a45a83dc2413ce0a
 SHA256: e39e39ae96f8bb1ab590792083b480fb7ed922fb53039bdbea699bd1f042c073
 SHA512: 3872f8e2c440dd1c817edfdad50f6fdde05d6931bdfe025f85365229042d7303a981a021e66c648f0475d64d7a9e141d952665ac4122b73888d8c2ab511cf629
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Stormy
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Stormy.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Stormy.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Stormy.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Stormy
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Stormy_1.0.5_iphoneos-arm.deb
+Size: 23993960
+MD5sum: 6bbd27e0e93a176ccbd5c094d0bb6fa8
+SHA1: 899bfd59e707fa30e9cedd37107b7e99e86a8dd4
+SHA256: 53ee2c2d6f3246f78052ab12b706c3aa167f5447b2e36813dbf8f3fd0981cd8f
+SHA512: a5ad2b9ed00a023543e6d2c96a710294781b3ad0d9a0464e197c36a1c4109ba908e49c3f997737e99eea068dad2927b834485e9c1a1b957758cce4b71ad3872a
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Stormy
@@ -3843,6 +5065,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Tranquility
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Tranquility_1.1.3_iphoneos-arm.deb
+Size: 1977960
+MD5sum: 15abf28425e6ef83918e39071d868125
+SHA1: ba69f299a0400a9bfcf93a1e28c6e3928f890b82
+SHA256: b40f2e26c81be5d4749b502d1b9baf50ebd06fa893a800d305c92ff1aa5ba592
+SHA512: 001cf039f83a692c6081b3c25b5c91d39dba8ca430471efdfdd1b5d1dba5752d9529628507d02dcd1ad9987e93523d14ee6e72396ddd320215964cad3ccbcb2a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Tranquility
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Tranquility.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Undulating
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3877,6 +5121,28 @@ MD5sum: 9e8767cb03b5d68d67cb0be4b3ff9ab3
 SHA1: 4b462ec250c671ee9eac84c350420b894b0fa452
 SHA256: d4c8aa3ac0a9affa0fa499387f7abea9bf5644eb637c699bbffb8673d89ff1f9
 SHA512: c6fb916f77ccf05f6a87a0ca0560bb139f30bac46de84ef01b2443750c5824c3fbcfc295bda1fb429f21c2af645d31bd4925dea92d3b5d9ef3b0052c189a5278
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Uniani
+Author: Redesign by Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Uniani.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Uniani.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Uniani.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Uniani
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Uniani_1.0.4_iphoneos-arm.deb
+Size: 6757624
+MD5sum: c08ef45f8ecdb2474446772a772bd2f5
+SHA1: 4ed7b5e61b4174ee92e8a49cc7eafd44e5d5c327
+SHA256: f16c223b98d2ce316c98e2c291493f93787bb181fc2bdd4dcb77b10d56be52b0
+SHA512: a5b16af8d8d00fe3cf2b9a4d7d67c1a08d8907abb2f3c302da1f28dc9491d623ff7091768161fd70e4da0c047201ed17517896caf334ada004822d48ea26726b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Uniani
@@ -3953,6 +5219,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Venus.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Venus
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Venus_1.0.3_iphoneos-arm.deb
+Size: 7561584
+MD5sum: 5cc40fa1ea3f8a3a841abbddb0d7f456
+SHA1: 292e385e2880fcf2153b4f3681c79a1e54eb9a7c
+SHA256: b2dbea5d377c17e622988cef9058e38ece41f3235d80304b1845f06481e20a30
+SHA512: f47885f4b7707ce7e25c0a3d511f9a7e2932117635df7690b3a370d0b37a872018ac40c9e8697ae8ff57e675d900780d4ae6d74cc65af5b8198b990e9237bb5e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Venus
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Venus.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Venus.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Venus.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.WeatherStatusBar
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -3965,6 +5253,28 @@ MD5sum: d2559594c4a88f42d905eea0a66f8e76
 SHA1: 6911e0d115c7f7637724e650eb8901bcae598368
 SHA256: d1432492060cd885d227ad32b36fa1d2b467b855de6ed526aa4cdf8e22c6a3c1
 SHA512: 8414fc4d79cc4e970daecbec722d56aff6b518ba0543d99e995b05c149f6dd2a284a839dd51facc5b71e9a3eda1845045c72231847d184fb1e2ca112e6cf377b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Weather Status Bar
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/WeatherStatusBar.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/WeatherStatusBar.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/WeatherStatusBar.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.WeatherStatusBar
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.WeatherStatusBar_1.1.6_iphoneos-arm.deb
+Size: 46944486
+MD5sum: 4c016ad053559b5c2d83796ea88c31c1
+SHA1: 05ada3515f9c3a5acf808e5ce7738a79d91abebb
+SHA256: 383a3484071cda81100fdd9594ea4bf004cbd917e4131984e7ce355c219310fc
+SHA512: 84c08edc1d4ec2cb217dc416b952de8f43c7f4de9864060a110dd983a9ec09beaa1f30d49d413ef4dabfd504b8fe28d796097ae501c84635d4a9bd14430c74f7
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Weather Status Bar
@@ -4111,6 +5421,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Xiphias
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Xiphias_1.0.1_iphoneos-arm.deb
+Size: 658628
+MD5sum: 2f53fd1e2aa30987149a9ceeeaa447eb
+SHA1: 636ab7c9e2d67ca068b2e5a7d833749f464809d6
+SHA256: e54be1c0784b678dcc21815da3ecc334545da4f2eda263e77a9810a96f03f24d
+SHA512: 3f39327a5fa54e180bf14a5bafc6070bd241583a19e2e924bf9c1647d11756c52d9e45658ad653cd03cbe8e4f96007f958cc3d57f7c98e60901c848cc9580ecb
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Xiphias
+Depiction: https://apple-phong.github.io/Info/Html/Xiphias.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Xiphias.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Xiphias.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.8
@@ -4123,6 +5455,28 @@ MD5sum: c7bb9746635929604c1a08a84e7a1bc6
 SHA1: 16918cc776e930f9314b7528f46c030c205f99a3
 SHA256: 93eeca370d9df53c8e8ff7ce3f4323512dffbbeeef5518a586e580f3303cd71a
 SHA512: d4490afb6a9ba4464f3553d56d56c12c7d80eaa088949beb4545742839ad83958eaa612d4a08bb6ae5da8838ff839ee6a2e1714f81ea6be6a4c1ea536d5ae0e8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ybht
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Ybht.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ybht.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ybht.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Ybht_1.0.9_iphoneos-arm.deb
+Size: 262280
+MD5sum: 8672b48859f9197aba266ea447e86439
+SHA1: eee3f05901acbe645a1fd28aa06d252535d74f62
+SHA256: 1cc9d551ef09cad20406c3c09786f8e6a6e14c251e42a7863352a7fa5b48de53
+SHA512: ee14a7e93c9a95f633433b0fec4955529b3b987a3628ed6e20af892d83b66857a74481a705ad621f92731a8a5270aef886f2d79c5bb552f54db460c6d158fe83
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Ybht
@@ -4212,6 +5566,28 @@ MD5sum: bf38e9f710983a1239c899ea50c592b9
 SHA1: 1c59f4e2d517c8391984611d6c1703b01b8a9575
 SHA256: 99f6101d7ec202e84bb275a6a695cd8d5b6d06a00ff38a9379f9ff817ebe3511
 SHA512: 5af70ff26e835ab5dfece6c36c409f8753fa8c71464103c170075792b7d712524fb8418223a390374969b91046c8da8e687163521e8c32d86de956c8504aece9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: iClock
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/iClock.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iClock.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iClock.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.iClock
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.iClock_1.0.1_iphoneos-arm.deb
+Size: 152380
+MD5sum: 2abc56eb9f9ace0b04ee0270b6e104e3
+SHA1: ef2fbe4886ce606c7abc4c3974c200b3fcac7d05
+SHA256: 6cf1bd5cb6757eee11dea27cbcfddd6a0d8fb01813df3acc374d7b81d5d53e87
+SHA512: ff7d867c47a220e0aaa7505fdb9aa60843342381d7129111168ee9b98d7ebf10e71577bf720256c24b7b323304e9865c8b26007b92ab2520c9d0d22a8a0227f9
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: iClock

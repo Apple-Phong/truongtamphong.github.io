@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.36"
+"text":"1.0.37"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"01/11/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.37\n\n- Thêm hiệu ứng khi chọn sử dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.36\n\n- Hỗ trợ thêm cho dòng máy iPhone 6 đến iPhone 8 Plus"

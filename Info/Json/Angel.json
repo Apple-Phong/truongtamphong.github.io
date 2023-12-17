@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -59,7 +62,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.1"
+"text":"1.0.2"
 },
 {
 "class":"DepictionTableTextView",
@@ -69,7 +72,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/10/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +102,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Sửa lỗi không tải được gói phông\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm ảnh xem thử trước khi chọn Widget"

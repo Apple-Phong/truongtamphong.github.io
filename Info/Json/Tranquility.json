@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.2"
+"text":"1.1.3"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/10/2023"
+"text":"17/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -105,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.3\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.2\n\n- Thêm hiệu ứng mờ cho tên bài hát\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thay đổi văn bản thời tiết tiếng Việt chính xác hơn"
