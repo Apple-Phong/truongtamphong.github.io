@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -52,7 +58,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.13" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.15"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"06/05/2023"
+"text":"19/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -93,7 +103,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.13\n\n- Loại bỏ tên các thành phần\n\n- Thêm ánh sáng lan toả\n\n- Thêm hiệu ứng khi mở khoá màn hình\n\n- Thay đổi lại cài đặt màu sắc cho dễ chọn màu hơn"
+"markdown":"### Phiên bản 1.0.15\n\n- Thêm phông chữ\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+},
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.13\n\n- Loại bỏ tên các thành phần\n\n- Thêm màu lan toả\n\n- Thêm hiệu ứng khi mở khoá màn hình\n\n- Thay đổi lại cài đặt màu sắc"
 },
 {
 "class":"DepictionLabelView",

@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -63,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.1.81"
+"text":"1.1.82"
 },
 {
 "class":"DepictionTableTextView",
@@ -73,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/10/2023"
+"text":"19/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.82\n\n- Hỗ trợ thêm các dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.1.81\n\n- Thay đổi văn bản thời tiết tiếng Việt chính xác hơn\n\n- Thêm ảnh xem thử trước khi chọn Widget"

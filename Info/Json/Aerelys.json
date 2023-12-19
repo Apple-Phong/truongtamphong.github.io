@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -59,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.2.0"
+"text":"1.2.1"
 },
 {
 "class":"DepictionTableTextView",
@@ -69,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/10/2023"
+"text":"19/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,11 +107,15 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.2.1\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Hỗ trợ thêm các dòng iPhone Mini"
+},
+{
+"class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.2.0\n\n- Thay đổi sang dạng cài đặt mới\n\n- Thêm thời tiết ngày sau\n\n- Thêm lịch âm\n\n- Thêm hình nền vào khung ứng dụng\n\n- Thêm nền Dock\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm văn bản cho nhiệt độ cao & thấp nhất trong ngày"
 },
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.9\n\n- Thêm bộ điều khiển âm lượng và thanh thời gian vào nhạc. Sử dụng bằng cách chạm giữ và kéo chúng đến nơi mà bạn muốn\n\n- Thêm kí tự độ vào sau nhiệt độ cao thấp trong ngày\n\n- Sửa lỗi ảnh bìa Album bị mất khi bài nhạc không có ảnh bìa\n\n- Giảm màu ảnh bìa Album xuống 70%"
+"markdown":"### Phiên bản 1.1.9\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionLabelView",

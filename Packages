@@ -49,6 +49,30 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Aerelys
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Aerelys_1.2.1_iphoneos-arm.deb
+Size: 1951084
+MD5sum: 1cebbfcad60d4a67ac189d03b05ebde0
+SHA1: 167743bb70fcffc71c2971d2f06649013103df36
+SHA256: 049ddd12f4ca1234aa8aecf1facb04e1358ac00ca97acb43c5ccc7ab32c2c47c
+SHA512: cae4bc3fde74be8dd7f2889252b3eea2bef641406ea28d86b68a4dce12eb636ea7f10b68d1c38a63b6be7953425e792c33f849462caf09088542520a76e23512
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Tag: role::enduser
+Name: Aerelys
+Depiction: https://apple-phong.github.io/Info/Html/Aerelys.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Aerelys.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Aerelys.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AgenaPro
 Architecture: iphoneos-arm
 Version: 1.0.3
@@ -153,6 +177,28 @@ MD5sum: 30c467fd7c257cba2a64be353fd3900c
 SHA1: c3b5b4d1ce3ec50a843a21550f370a26db5a52dd
 SHA256: 3e02176b21ccc76297cd7b46ef454526972cda6f21c3f8d4b68304dbb9c877cb
 SHA512: 43dafd74275b7126d1f5a864342bc88db46750082bc8296b8d30286f18c2c85111a6a3ab8369497c3bf637142e329cab5ecc0b1ff108cbda76b75d3ed77a9f98
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Airy
+Depiction: https://apple-phong.github.io/Info/Html/Airy.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Airy.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Airy
+Architecture: iphoneos-arm
+Version: 1.1.82
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Airy_1.1.82_iphoneos-arm.deb
+Size: 30723734
+MD5sum: cc14279eacffc69b9bf8194d8203aa05
+SHA1: e00acb9c39a43b40c0cb1215549f1ac12f1b5d04
+SHA256: 98ac0c1819ea3860333754ab7bf3ea1d7877e10f70987224de73961210584648
+SHA512: 947934da1a87c981d3a044395f0cf38db22fb877dc2c1fee4d72f63fc1129cd44817ae541ba6accc4db956aab84e317b130e3215c316bd02627680a36e0bebea
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html.
 Name: Airy
@@ -367,6 +413,28 @@ MD5sum: aa66b795cc37906c9984c8031f49e371
 SHA1: b06136898833d47e74015d97c1dc827392eef49b
 SHA256: 7f4c3fb3190e30703ccdd675e35187fccd6d62048cb8469ffdbc048974d7042d
 SHA512: f16d62c7f2d7d477d1ba06e793ad4ca56a804d4ce37a3e2036bfef77a812361c790487698697c7cd42ee49ea85e2262549151154953304d21ef74f0e57a2acaa
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Anime
+Depiction: https://apple-phong.github.io/Info/Html/Anime.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Anime.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Anime.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Anime
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Anime_1.1.2_iphoneos-arm.deb
+Size: 50810286
+MD5sum: b9cce6a67cf95c12449d99e9ab8d6373
+SHA1: b8b94a7da6822ac79b79794a1eb35713e4905bc3
+SHA256: b36a483051e76ce1e6db2319560ebe6b87470f220a50f444205a09958b5e660d
+SHA512: ed0fb7195d893378370268abb857b7302ed3a4b0d24455bc798621bdd3520411baa43fc999d982a5e25d54c12fe06852647afefe88e3f290751072c87dc103c7
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Anime
@@ -782,6 +850,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Circle.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Circle
+Architecture: iphoneos-arm
+Version: 1.0.15
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Circle_1.0.15_iphoneos-arm.deb
+Size: 817308
+MD5sum: 7e4d38f605dab86b1b4c189335754fca
+SHA1: 87a5b5cefb4614dc1d494808b1ef4f0e1b9ee38f
+SHA256: f1fc071951f86ce82c0bff96d6734cf9ded5b955fde8c80a7c8e798d89720ae1
+SHA512: 782e385d63ac6731d343842d3fab74580d33f50eb9a80bfdace49aced19892ed9b52f41ffebfd8e0e8327905cf31a65c366162a99c89301a5595e966e37c5e89
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Circle
+Depiction: https://apple-phong.github.io/Info/Html/Circle.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Circle.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Circle.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.ClassicWatches
