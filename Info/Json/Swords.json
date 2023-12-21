@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.4"
+"text":"1.0.5"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/12/2023"
+"text":"21/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.5\n\n- Sửa lỗi & làm đẹp thêm cho ảnh bìa Album"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.4\n\n- Thêm độ mượt cho ảnh bìa Album khi chuyển bài hát"
