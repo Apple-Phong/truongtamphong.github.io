@@ -62,7 +62,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.1"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -71,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"28/06/2023"
+"text":"21/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Sửa lỗi bị lệch trên một số dòng máy"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"

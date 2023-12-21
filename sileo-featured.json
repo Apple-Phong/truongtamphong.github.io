@@ -562,12 +562,6 @@
 "hideShadow":"false"
 },
 {
-"package":"hoangdinhphong.nanobanners",
-"title":"" ,
-"url":"https://apple-phong.github.io/Images/NanoBanners/Banner.jpg",
-"hideShadow":"false"
-},
-{
 "package":"hoangdinhphong.mylove",
 "title":"" ,
 "url":"https://apple-phong.github.io/Images/MyLove/Banner.jpg",
@@ -888,7 +882,7 @@
 {
 "package":"hoangdinhphong.sourceiconhdp",
 "title":"",
-"url":"https://apple-phong.github.io/Info/System/Images/Banner.png",
+"url":"https://apple-phong.github.io/Images/SourceIconHDP/Banner.jpg",
 "hideShadow":"false"
 },
 {
