@@ -1689,6 +1689,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.DockCity
+Architecture: iphoneos-arm
+Version: 1.2.4-3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.DockCity_1.2.4-3_iphoneos-arm.deb
+Size: 1337428
+MD5sum: b98ba150d478f9408d3832d37b239f34
+SHA1: f598d3da29e0053e5e5607cc503a31ea7bbc6ac6
+SHA256: 154048330deae6e6faa7585c663991f23afc3c6eb54fd810870a8f081fc0712e
+SHA512: 584f5e916bfacab7b242d3f865b30f203338e75b443f487387e097c04832e6f4c9f349c53fae998e04cc73684743ee2ee86555e1372aef4a60a36cbdc8969476
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html.
+Name: Dock City
+Depiction: https://apple-phong.github.io/Info/Html/DockCity.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.DockOne
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -5057,6 +5079,28 @@ MD5sum: ce7aaf74ee8b1c32a4e9ba747e495a4d
 SHA1: b03a50392abe2b8bcab16ce889ca3d894e2fbf5b
 SHA256: 197ff046e06d5bc02d8f4abe7c21763e9a1aa67997e15a523823165b528fbf5e
 SHA512: 2a868b12b544e918491b5e88dfd4c1c6982fcea8394dfcfe303dd927a23f7a5cbcf99ca2926070e11c0bde7d78527569dcb4e4b6aadf4b0e3958224a5c7ec47f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Swords
+Depiction: https://apple-phong.github.io/Info/Html/Swords.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Swords.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Swords.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Swords
+Architecture: iphoneos-arm
+Version: 1.0.51
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Swords_1.0.51_iphoneos-arm.deb
+Size: 1874672
+MD5sum: 3e00561aaf84262b93949a0e84294b6e
+SHA1: 5a57bcedb9326822aab6637c977047f2f0ce68c8
+SHA256: 3b29f9456f4ba223705e377e88272fb0443ba07d4dfac5e8ccbafd4a2cd04c90
+SHA512: 10466f311d5e7f3a0b5bd76696bb7cc9acf59cc6cd13818c5f92ae11eb76d04410cc1e9b408894341c049ed117af4a402779547e3b20cfabe9dfac58dccfa523
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Swords
