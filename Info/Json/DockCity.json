@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.2.4-3"
+"text":"1.2.4-4"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/12/2023"
+"text":"26/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2.4-3\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+"markdown":"### Phiên bản 1.2.4-4\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
 },
 {
 "class":"DepictionMarkdownView",

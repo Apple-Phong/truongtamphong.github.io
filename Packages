@@ -1711,6 +1711,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.DockCity
+Architecture: iphoneos-arm
+Version: 1.2.4-4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.DockCity_1.2.4-4_iphoneos-arm.deb
+Size: 1337430
+MD5sum: cac507c58ef229079d82472a70d20626
+SHA1: 91bd4096cba6675d7fcd7a828bfb67156dc3551a
+SHA256: 245bef9b410ea5669012cbb0626a3ce7a519bdd38b9583d25accbdc49820a881
+SHA512: 063692547f9feade6d0efdd649ec0e4d49619b33f79de2f60940bfec1ca43263f6750e53543de09725332ac10424e8a6829afb96d48cc900cebdcfd69673e5b4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dock City
+Depiction: https://apple-phong.github.io/Info/Html/DockCity.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/DockCity.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.DockOne
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2317,6 +2339,28 @@ MD5sum: 326da0f29bb2d09cb1a3f0fbce8f4cdc
 SHA1: aad8697bde4dbaacabf18eb67f9f454926f39001
 SHA256: 8df6223bc3998833f60a131f1c54fe7cc820e5a0709123412385cb8f19086617
 SHA512: b517e77459a2c4e695606edcf3ae3239b6e077c4bf24035ff1f5ee3eebe7fde010be8c98f8fc8b43b1d38b5fe8deb34c1f5765324e6e36acf375e40a69d17f32
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Ethereal
+Depiction: https://apple-phong.github.io/Info/Html/Ethereal.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Ethereal.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Ethereal
+Architecture: iphoneos-arm
+Version: 1.0.23
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Ethereal_1.0.23_iphoneos-arm.deb
+Size: 9583070
+MD5sum: 0035223978df398e948d6c9a802afed2
+SHA1: b80a93e9579371a113d3a9916a155ad287464b31
+SHA256: 5323e02512ab299366927eda9e02e7173955909dafeb51929b1bcaf54ee739d5
+SHA512: 5f6546cc5495cbc37ebcbef1899b2e7fa4022cdbb1101954df66c66f3d099f2f81199847f04e1f847f6f6971b036edd10f491c8f19d9d30981294d39d0a6cb72
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Ethereal
