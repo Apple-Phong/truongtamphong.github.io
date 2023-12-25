@@ -3427,6 +3427,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.LoveBaby
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.LoveBaby_1.0.0_iphoneos-arm.deb
+Size: 5467266
+MD5sum: 31ea25f27d3b6a13b68a3e7ffe534949
+SHA1: 83a39a54984fa0ecb9856fed4f08bf848045b1e5
+SHA256: ba93574e5e8360b8a3e4473c9f6cbf9f0df5d7f65862b3d298e1c0d778b2da66
+SHA512: bc8bfa3b7b9fd220018c95d14f82a3e286c6835a2bb595a25f93b1c3499226159eec42fe0125b404a6c5f1fdc9bf54764f120863059d0b4a2db27d378e900e93
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Love Baby
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/LoveBaby.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/LoveBaby.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/LoveBaby.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Lynx
 Architecture: iphoneos-arm
 Version: 1.9.5-3
