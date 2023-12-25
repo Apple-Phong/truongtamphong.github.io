@@ -2151,6 +2151,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Elite
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Elite_1.0.4_iphoneos-arm.deb
+Size: 14146298
+MD5sum: 315a58624b7675c2bdaec17bbdc3402e
+SHA1: 3a2ff4c0794ccf2094e886f25ad3f6eac971f420
+SHA256: c7b1f259f98204182654b8d3e074cd686925de2ae8fb2824a0ef59a66023fb3c
+SHA512: e0e316a881e3ec6abfc00eaf70c9f3c2a95b47be597742a38872aa28eb30b4ae26f8f9fbc5a009e554a9cd0a32adf8ae851d53872b341d4c3948522de03500b9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Elite
+Depiction: https://apple-phong.github.io/Info/Html/Elite.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Elite.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Elite.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.EmGaiMua
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2525,6 +2547,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Flower
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Flower_1.0.3_iphoneos-arm.deb
+Size: 343828
+MD5sum: 7e3e9c3391721dc3155294c64328222a
+SHA1: a5a0597dff074d4d5aea0ef74afa442b81b442cb
+SHA256: bfca1b852253e17abd92ebfed3f08f27f72e8a0cbfc3fed91f0c9bb7832b65f1
+SHA512: edc038d7805d06623f002cebf7e3cd61cd994ec4ad8178b4c6e389ae73a00993cc3726c4d1ec03286e36a5f7c20046e6711dfb3dc3334d19c68c1f81ea4ea959
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Flower
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Flower.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Flower.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Flower.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Fly
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2668,6 +2712,28 @@ MD5sum: 84ffc2277f17747340801c3036f17762
 SHA1: 6e1025710bce7671b8271375bc9abae8bbae6b4d
 SHA256: 04e8a0c51ccce08cc36a21162764ea8e40f343ca2be99fab56424a403cb5c085
 SHA512: 94d5705b7adf6ad94f4499e8bbf63cc538de87e796b7e58eb4bce6124f3447fef834dc3dd4ae2a4bbcee48c3159b2760c815f637f51c4f71c49e68e994c4e2ad
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Friday TTP
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/FridayTTP.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FridayTTP.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FridayTTP.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.4.2_iphoneos-arm.deb
+Size: 14036574
+MD5sum: dfde8e3946f2bac8087ebd26176d81b6
+SHA1: e46ca643124af7d2e45fac51ed17ebe310f4fce0
+SHA256: fc8220ecd425507d18b15e1f2a786439f308792324e2a0060d28254fc6e633e2
+SHA512: dabb56e9196297c2eba2b42a6c8fe112403f05634d9d6f3478fadc60a93a085e7741f5299a597770f18df2b1c7880b05abe29ac81f3f5a61b2402ac5e85b9efb
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Friday TTP

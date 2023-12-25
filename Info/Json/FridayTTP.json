@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -59,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.4.1"
+"text":"1.4.2"
 },
 {
 "class":"DepictionTableTextView",
@@ -69,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/10/2023"
+"text":"25/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,6 +105,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.4.2\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Sửa lỗi tuỳ chọn màu Trắng xám"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.4.1\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm phóng to Album nhạc khi phát\n\n- Thêm năm đứng kế bên Album nhạc\n\n- Thêm tuỳ chọn màu đơn giản nhanh nhất có thể\n\n- Thêm tuỳ chỉnh thông minh khi tắt một số chức năng sẽ thu gọn không gian sử dụng"

@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.2"
+"text":"1.0.3"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"02/12/2023"
+"text":"25/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.2\n\n- Thêm lịch dương\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
+"markdown":"### Phiên bản 1.0.3\n\n- Thêm lịch dương\n\n- Thêm ảnh xem thử trước khi chọn Widget\n\n- Thêm độ mượt cho Widget khi kéo xuống trang thông báo"
 },
 {
 "class":"DepictionMarkdownView",
