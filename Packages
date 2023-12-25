@@ -2768,6 +2768,28 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.FutureWeather
 Architecture: iphoneos-arm
+Version: 1.1.21
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.FutureWeather_1.1.21_iphoneos-arm.deb
+Size: 25033412
+MD5sum: 138b2adfcea3ef202ef420e6219791f0
+SHA1: 21a5eb55f8952719cc4f85e718cd9cc7b0ec16ad
+SHA256: 976bab6f462953e481d36eb6ee4047469fdbf6b9b1538b97233373b9b6172988
+SHA512: 50586d1d29c72e9680781112c1cd6d2db7bad33c8811dd30e13cfd318eda028d9e0a7a30574209e618dfa0c2b62f69d3d6ec2d7545e588dead0c3b165807e4e8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Future Weather
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/FutureWeather.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/FutureWeather.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FutureWeather
+Architecture: iphoneos-arm
 Version: 1.1.2
 Section: Widgets
 Maintainer: Hoàng Đình Phong
@@ -2800,6 +2822,28 @@ MD5sum: 32076b66f0be7b6284201d50345e287c
 SHA1: 016868fc91d1e1e4cd3ecaab9423051758f3e1a8
 SHA256: f268e1d47a8c02ba2567a7ad0a211462c80e02e936a18cf071e2e9669caccc8d
 SHA512: dfbd8c5ec393d75c04a386c6e89550e4c84e7a9ecfa6c96a15f4838b5577330e1fe9f38fc3943ea6c8e6391a81587c4fb7667a591bf8cac04528b047ae38d7c7
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Gentle
+Depiction: https://apple-phong.github.io/Info/Html/Gentle.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Gentle.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Gentle.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Gentle
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Gentle_1.0.22_iphoneos-arm.deb
+Size: 14323768
+MD5sum: 266d9d0711931f9c6fbb9fb1ad347b79
+SHA1: 2fcd3f9aaae340a294347d39b961857df028d7d6
+SHA256: 7a6e15ccc4b24e62478de349e1e34a9d2e2c98d483f57d3d6d11369f66d145fc
+SHA512: 50a0ddd8da96c7d7d00797dd4176446d9872a730a6515fe70a2f7cf0cd3101f3b000b47f64b5f9716fbcac406d786cb9fa1bb4e8dbb58b863dbecd1bcadbc5b8
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Gentle
