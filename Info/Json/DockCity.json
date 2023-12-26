@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.2.4-4"
+"text":"1.2.4-5"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.2.4-5\n\n- Căn chỉnh lại nền ngày hôm nay & tiêu đề bài hát"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.2.4-4\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
