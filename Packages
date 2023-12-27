@@ -1323,10 +1323,10 @@ Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Dawn_1.0.72_iphoneos-arm.deb
 Size: 2309520
-MD5sum: 186ec320995abea5758408dc7f4e1770
-SHA1: 34b97081139408412382595e6515aa9125f86bf9
-SHA256: 26da3f2475ae3e6e0392823065afedb9086325bb4ace7be36b25955e199453fc
-SHA512: f321b29cbc2d2cc1c1cac0f930f9f12ff8c03903ac6318760de0aaa18f21ca2319ee9d7cebc7702881330661496541e70b0f928bc9f3ad1b57459b0699294254
+MD5sum: 409ea28cb73fa0c7a1a817e26bc605ee
+SHA1: 897d6f48de3c60fecc4a6037c71604bef804c242
+SHA256: f01a4ba66441571fe266c324ce43c7df1e77c817020a80cc838c68289a1612b8
+SHA512: d0bf55b06f83cb1b95e065c293d157f3c6eef718734ce18522f13acfdf1b54fbced96f0ea83e086e8db021839c9dff79d7ac6af2879d6b9311631fd333bdda9b
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Dawn
