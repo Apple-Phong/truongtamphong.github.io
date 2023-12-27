@@ -97,6 +97,28 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.AgenaPro
 Architecture: iphoneos-arm
+Version: 1.0.42
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.AgenaPro_1.0.42_iphoneos-arm.deb
+Size: 3856078
+MD5sum: e0d1fb04c1714ce2ff9c5daafbbe220a
+SHA1: ac40803f7267767ded1e3f88847269218c22ba4c
+SHA256: ffb55f81eebf265332f856e7fad4cd8ba06e6622a119166f7f8f9167d662b803
+SHA512: 5055681be7d8c2e7edcbd3650908e801e1e43f161fdb9e6a58d12bd37e6ddf06519667cc3c4f136e84269867ecbbc5cc713e7e67f900990aab5df32b0514daa1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Agena Pro
+Depiction: https://apple-phong.github.io/Info/Html/AgenaPro.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/AgenaPro.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.AgenaPro
+Architecture: iphoneos-arm
 Version: 1.0.4
 Section: Widgets
 Maintainer: Hoàng Đình Phong
@@ -1283,6 +1305,28 @@ MD5sum: 563eec9f2572a3f9ab4443e1ad66e45b
 SHA1: 4c4fd19120e14829e5753b3f9974e0050d8f79f2
 SHA256: 6cd0b2eb638765bc151001cec4b062c96df556d22779e47bc7e456d5372c675f
 SHA512: 6acf1e14edac0f667bdcb029e3801cce37f4a20e1809a5845e530ac2ff79d5dceb574ac38deb8f3ad73f4eb62ec38aba95798efb6c61494103752c2a6dae2be9
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Dawn
+Depiction: https://apple-phong.github.io/Info/Html/Dawn.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Dawn.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Dawn.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Dawn
+Architecture: iphoneos-arm
+Version: 1.0.72
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Dawn_1.0.72_iphoneos-arm.deb
+Size: 2309520
+MD5sum: 186ec320995abea5758408dc7f4e1770
+SHA1: 34b97081139408412382595e6515aa9125f86bf9
+SHA256: 26da3f2475ae3e6e0392823065afedb9086325bb4ace7be36b25955e199453fc
+SHA512: f321b29cbc2d2cc1c1cac0f930f9f12ff8c03903ac6318760de0aaa18f21ca2319ee9d7cebc7702881330661496541e70b0f928bc9f3ad1b57459b0699294254
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Dawn
