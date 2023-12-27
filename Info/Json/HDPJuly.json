@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -64,7 +70,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.14" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.15"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +83,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"14/05/2023"
+"text":"27/12/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,6 +113,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.15\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.14\n\n- Thay thế tuỳ chỉnh điền phông sang chọn phông\n\n- Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới"

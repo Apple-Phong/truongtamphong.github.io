@@ -2964,6 +2964,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HDPJuly.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.15
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.15_iphoneos-arm.deb
+Size: 22773148
+MD5sum: 8b2709f22b06f368aef9337faf721360
+SHA1: a30212b8e0c8935705503ab670885cc407455d6d
+SHA256: 0357c5abfc2b42b1a936e3b79ca1a614b97e26b327cd95416552c0082b137468
+SHA512: b4c4f21d1b37dbdc690cb83e8b9ab2bbf37df5f88a85541de87041a01cef7f98c8fdf0c5203b858a60e511d589fdc0d4f4c7b7add1c1ff9d023d9fd622410792
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/HDPJuly.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/HDPJuly.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/HDPJuly.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.HK2702
 Architecture: iphoneos-arm
 Version: 1.0.41
