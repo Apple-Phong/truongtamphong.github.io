@@ -3316,6 +3316,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Information.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Information
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Information_1.0.1_iphoneos-arm.deb
+Size: 20067316
+MD5sum: 3baba51d007cbebfd14fc1466bb35756
+SHA1: 6bdca44ef5ee1646971601492422c8995c1c829d
+SHA256: 58a4ae4d71f6b516a8316fcf0e537699d01b9c007d887ec847fe81f051b243b7
+SHA512: a554c0bdaef70f2dc34b80fa84087bffa84ead24680527d50e8ba6e3b2052eb72d3e4dbcff5de0ced7a0cd666838e88e621462cff0c49c3a04fdf7fc7bb7fb6c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Information
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Information.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Information.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Information.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Joyless
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -3328,6 +3350,28 @@ MD5sum: 342c4f4b2ee2cff47836cc53c73aa39b
 SHA1: 58cef5c3ecef1d508a34f333760d8ca28bfdb559
 SHA256: 4e5683085f80c7b1d33c7cc5d3150774e22b0a2ad45ac796b2c5cf8ddce23165
 SHA512: f764c1440dd7f72d8fa961d1e2d5f91cd37bb3b269997c11b49a0ab01589dbff30953f86e0dd92c46a6a3ed82f6145b515ac48b5fb42f0ee5dec3c52c03adfcb
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Joyless
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Joyless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Joyless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Joyless.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Joyless
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Joyless_1.0.6_iphoneos-arm.deb
+Size: 8384456
+MD5sum: 9d6022185ea435c385ae8a8d5830c209
+SHA1: 94ec67368715568d6d834382e1255e5028525499
+SHA256: 48e73e1d8d15ac53e2e4c6a8afc7ff22e256676ed76fa2edd9825b53b9faf34d
+SHA512: 6a9d63b2d89110216ada8107ed7d3cd786fc93f6b469a7d3dd9c75a286160e5c6061872fcfd5d5966431ad8896ea29486ca62b6242889169fd51feb9041071ad
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Joyless
