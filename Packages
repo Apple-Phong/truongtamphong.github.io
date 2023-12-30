@@ -3368,10 +3368,10 @@ Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Joyless_1.0.6_iphoneos-arm.deb
 Size: 8384456
-MD5sum: 9d6022185ea435c385ae8a8d5830c209
-SHA1: 94ec67368715568d6d834382e1255e5028525499
-SHA256: 48e73e1d8d15ac53e2e4c6a8afc7ff22e256676ed76fa2edd9825b53b9faf34d
-SHA512: 6a9d63b2d89110216ada8107ed7d3cd786fc93f6b469a7d3dd9c75a286160e5c6061872fcfd5d5966431ad8896ea29486ca62b6242889169fd51feb9041071ad
+MD5sum: 340de522d91d8c27f602a707f187d90d
+SHA1: ee27b80973023c8d433da683dece56081f8ad879
+SHA256: 52b49f1ab31a3349e4840f82f15df9c4b3313b0c912023040de57a468cd75e37
+SHA512: 9049c290d5d5c3b4d645739a91ffa607c810b927e88b6df59b711c6bc466bc8dd56d6866bc5960649df1aabbe1a230d2b2ca43d63ca74259ba51acad6356dbd6
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Joyless
