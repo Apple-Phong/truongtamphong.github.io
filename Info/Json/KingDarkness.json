@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -52,7 +58,11 @@
 "title":"Nhà phát triển",
 "text":"Hoàng Đình Phong"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"1.0.2"
+},
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +71,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/05/2023"
+"text":"31/12/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 11.0 đến 14.8.1"
 },
 {
 "class":"DepictionSpacerView"
@@ -91,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.2\n\n- Thay đổi một số nội dung\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chọn đổi phông"
