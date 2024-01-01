@@ -1029,6 +1029,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/ColdSnow.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ColorColumn
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.ColorColumn_1.0.8_iphoneos-arm.deb
+Size: 23913966
+MD5sum: ff963aaf10796d6629971342784c0f4e
+SHA1: 5bbfd3bf76a1dd1363c25c6e68637a1b8ebaa833
+SHA256: ff03d973fdeccaf4c16a46871691ac74b2ad5972d7ad5dd322ad5faab2737775
+SHA512: f6cdc67b267c29f7aaa9388f1839637d4f39519f6cb7a755c4c9f24d90aad3e9284de9089a1399e670c9be60dc025e85e4074d526e85317384956fed2bcc082a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Color Column
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/ColorColumn.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/ColorColumn.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/ColorColumn.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Comet
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3667,28 +3689,6 @@ Depiction: https://apple-phong.github.io/Info/Html/Lightly.html
 SileoDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
 ModernDepiction: https://apple-phong.github.io/Info/Json/Lightly.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
-Icon: file:///Applications/Cydia.app/Sections/w.png
-
-Package: HoangDinhPhong.LineColor
-Architecture: iphoneos-arm
-Version: 1.0.7
-Section: Widgets
-Maintainer: Hoàng Đình Phong
-Depends: firmware (>=11.0), hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.LineColor_1.0.7_iphoneos-arm.deb
-Size: 23661482
-MD5sum: 52d217ca55cbc6780b57d4793463a6d7
-SHA1: 5f6d6117aeadb7ac3956b343f90c482410a431f9
-SHA256: 666d4f687192ec098ab07196e98c2555233c29cdef769e5c3488421b23a04302
-SHA512: 5d496bf542a37d12e65f558907efdf348ce2ef752c425299f2ccab1476e457c935fa89056e3a38e280b69ff7eada03a23c768fe9a20eea9ae272f2e883aea11a
-Homepage: https://apple-phong.github.io
-Description: Tiện ích dành cho Xen Html
-Name: Line Color
-Author: Hoàng Đình Phong
-Depiction: https://apple-phong.github.io/Info/Html/LineColor.html
-SileoDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
-ModernDepiction: https://apple-phong.github.io/Info/Json/LineColor.json
-Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.LoveBaby
