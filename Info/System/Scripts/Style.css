@@ -17,6 +17,11 @@ bold{
 	flex-wrap: wrap;
 }
 
+.wh {
+width: 50px;
+height: 50px;
+}
+
 .text_cen {
 	text-align: center;
 }

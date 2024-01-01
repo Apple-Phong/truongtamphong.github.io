@@ -3911,6 +3911,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Meteorite
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Meteorite_1.0.1_iphoneos-arm.deb
+Size: 19908732
+MD5sum: 238b890d1c33cb29eb1317607d7081f4
+SHA1: 8411c579e4e32ec5a933bc6d4ef9d2c158b630cb
+SHA256: fb647478307897be16ff9b37342bbc1c9d720fca5896216ec3e88237c0352611
+SHA512: ae580d3439c7c08fe64363e680b7759a2a3186b8070a062424acc484ab99555034874ea4214b52101ccac6a4302f8edcbcd3f764287c2ee0a7f6f148d0925140
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Meteorite
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Meteorite.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MiDevice
 Architecture: iphoneos-arm
 Version: 2.0.0-4
@@ -3945,6 +3967,28 @@ MD5sum: 0dc4e53348ebd20e8de42958ee44bf8d
 SHA1: 68c5943c94336186ef95799895aca7913e867376
 SHA256: 4263c169f718f6ee08f151d2d4b224b0bd4152127f00566fdfca6b357e6281a0
 SHA512: caffebeb176055ec9930d0ade26659def2171c9208f5edf45b040e9da40b92e39bbb35eb6819c6c6b8080064787044d6ec57b452a00cb8e6763a2af7b97d7535
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mix
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Mix.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mix.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mix.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Mix
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mix_1.0.3_iphoneos-arm.deb
+Size: 20455476
+MD5sum: 497b118d4cb507034ba4bdc4434d45aa
+SHA1: a15170381f0761d5a68f57e262d2b12dad6737a8
+SHA256: 5db1c5a968fe0f72e2aab19cc998b9808d5be13d0d581126e84c176a85da2645
+SHA512: d524d283e8c6cd05cf98468a86618f420c2f5a6ea73aeaa0273c36fbfaa873b3ce158905074fc246c46b59595bac0e8421b5466063f545daafbd8bea3d606f82
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Mix
