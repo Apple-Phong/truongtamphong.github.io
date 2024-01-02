@@ -4065,6 +4065,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MuDark
+Architecture: iphoneos-arm
+Version: 1.0.71
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.MuDark_1.0.71_iphoneos-arm.deb
+Size: 14734010
+MD5sum: 76b008ac0f313e867dabdbd44ac2b8be
+SHA1: 80186a4e06ea827307ac6be0ed0c979266f58f2f
+SHA256: 80dd0e9b44ff47757c7fb7f91747a8bde1d0c91ba08a6abb74b7320a36e574be
+SHA512: 590b7e7ef2327f5066e065772f3fd12030220b5442e95e4ba234722404058d69bd995dc397381bce6942e34334c5675f75b7c03d7875cdf7239c76381913cee4
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: MuDark
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/MuDark.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MyLove
 Architecture: iphoneos-arm
 Version: 1.0.0
