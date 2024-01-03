@@ -5749,6 +5749,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/TTP1408.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.TTP1408
+Architecture: iphoneos-arm
+Version: 1.0.26
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.TTP1408_1.0.26_iphoneos-arm.deb
+Size: 1238160
+MD5sum: 621f03901e581c114dbc3d326bf1bda1
+SHA1: 126ef2dab591cce61c819d76838303a202869b25
+SHA256: d76023b0797790d789df292f563047ea96f9d5327c73b1324222e215f4aa0a48
+SHA512: 7a16bd9d4a0df025bb9d96567a3e535558ce4717ba487c2268c7c3b3d556cb2f6ab714a7c09002aca62a377cb9b898105400099cb402fa3513f102630f411fb3
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: TTP 1408
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/TTP1408.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/TTP1408.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/TTP1408.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.TapMe
 Architecture: iphoneos-arm
 Version: 1.3
