@@ -5290,6 +5290,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/SnowFlake.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SnowFlake
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.SnowFlake_1.0.1_iphoneos-arm.deb
+Size: 377684
+MD5sum: d5cf2bba87482d6cd9375a4825aa17a2
+SHA1: 2f0b36458b4b8d2be6f2caf4d8564a9ec6168fe9
+SHA256: 0c769805997957449625b9bf004dbf40b274a190166cad07531d007266a60d82
+SHA512: 96837a3a7d1ea4bfd26cc1d07714dd94a40a661db7e598d311954413e72c7dc5cfda06b8a1b942c00a6ff409dfe1fd3ad0247d1f7c2ae16adc261828bf84b57a
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: SnowFlake
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/SnowFlake.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/SnowFlake.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/SnowFlake.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Soledad
 Architecture: iphoneos-arm
 Version: 1.0.0
