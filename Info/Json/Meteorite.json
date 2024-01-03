@@ -80,7 +80,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 11.0 đến 14.8.1",
+"text":"iOS 11.0 đến 14.8.1"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dòng máy hỗ trợ",
 "text":"iPhone X đến iPhone 12 Pro Max"
 },
 {

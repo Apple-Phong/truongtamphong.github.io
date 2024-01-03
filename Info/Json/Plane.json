@@ -6,7 +6,10 @@
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":""
+},
 {
 "class":"DepictionHeaderView",
 "title":"Nội dung"
@@ -16,7 +19,10 @@
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -59,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.21"
+"text":"1.0.22"
 },
 {
 "class":"DepictionTableTextView",
@@ -69,12 +75,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/10/2023"
+"text":"03/01/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
 "text":"iOS 10.0 đến 14.8.1"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dòng máy hỗ trợ",
+"text":"iPhone 6 đến iPhone 12 Pro Max"
 },
 {
 "class":"DepictionSpacerView"
@@ -99,6 +110,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.22\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.21\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"
