@@ -3933,6 +3933,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Meteorite
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Meteorite_1.0.2_iphoneos-arm.deb
+Size: 19908820
+MD5sum: ea51f9534fc25ab611267f933bc971f4
+SHA1: 0d889f45b6e6524720db060ef022078090177a8f
+SHA256: 85c6571d37d0649eb9bde3903cff46bd5fa1165e018ff3407b256e09b56323eb
+SHA512: 958797e2ab84c56a77920aa9ae8a8520dc75e5350b0642d78789e361de20740b4e979d3c7083f34f0b3c2024e928623d8108978510ae67285a1a3d001c4f9efb
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Meteorite
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Meteorite.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Meteorite.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MiDevice
 Architecture: iphoneos-arm
 Version: 2.0.0-4
@@ -4087,6 +4109,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MuDark
+Architecture: iphoneos-arm
+Version: 1.0.72
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.MuDark_1.0.72_iphoneos-arm.deb
+Size: 14734100
+MD5sum: 8fb7cdce76a94b30ca153ebeb5cae23a
+SHA1: 31917dbced00ae12edc0f2eda275295aade56dcc
+SHA256: f463751964b2aa86bd71bcb46143bc95fa94f1ab14b572206057ebae154f48b6
+SHA512: dc549cf2bcddc484ac801df421dbf854485de9e67725486c1e526e3bde0b40491d9d18f965dda25830246b2bb9e810756ad0380adb6b96fe02ea9d09eb50f11e
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mu Dark
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/MuDark.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/MuDark.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MyLove
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -4121,6 +4165,28 @@ MD5sum: d47189d0ec8d7d284d1b2c6ea3f71a32
 SHA1: 9862c3b34460fa209ee670de1c2ae506211b237c
 SHA256: 0fd02c9f3ddede3e85f3e7354ba428fa1a3737b33559a87327078789c89a34c6
 SHA512: 00335b144bfcdc0a815f93c40997a5152f1d15aef3ac20be73f39dd5c996e2126abae55dc6552a33743c9727ed52726c978eeaf8b37302cbe56320cc0a83756c
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Mystery
+Depiction: https://apple-phong.github.io/Info/Html/Mystery.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Mystery.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Mystery
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mystery_1.0.2_iphoneos-arm.deb
+Size: 3269814
+MD5sum: 28afd3d0187b0c2923f4b55489fa6d14
+SHA1: de63ff2a1d5be590d54ebcf55c3082bd3cd9349e
+SHA256: 4c00474ec7947a5dd98dc7ad9d95cc8dba785b73cd0787c3d590e1cb7ecf74c6
+SHA512: 5d432c6e7dd4fcf1b79813b2a738e53977500974959e212461d035dba39efb7ee39e6c6d55f7d19ea4cd59cf694a59f44ce741953149f724dce710d700dc8a17
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Mystery

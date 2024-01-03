@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.71"
+"text":"1.0.72"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,12 +75,13 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"02/01/2023"
+"text":"03/01/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 10.0 đến 14.8.1"
+"text":"iOS 10.0 đến 14.8.1",
+"text":"iPhone X đến iPhone 12 Pro Max"
 },
 {
 "class":"DepictionSpacerView"
@@ -105,6 +106,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.72\n\n- Căn lại lề cho lịch & pin\n\n- Chỉnh lại hiệu ứng bóng đổ cho một số thành phần"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.71\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
