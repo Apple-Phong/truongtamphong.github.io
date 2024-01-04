@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.14"
+"text":"1.0.16"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/10/2023"
+"text":"04/01/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.16\n\n- Hỗ trợ thêm dòng iPhone Mini\n\n- Thêm hiệu ứng khi chọn sử dụng\n\n- Thêm ảnh xem thử trước khi chọn Widget"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.14\n\n- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác"

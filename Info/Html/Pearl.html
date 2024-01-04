@@ -1,102 +1,112 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
-      <link rel="stylesheet" type="text/css" href="https://apple-phong.github.io/Info/System/Scripts/Style.css">
-      <style>a, .tint, .table-btn:after {color: #5777B8} .active {color: #5777B8; border-bottom: 2px solid #5777B8;}</style>
-      <script src="https://apple-phong.github.io/Info/System/Scripts/Version.js"></script>
-   </head>
-   <body>
-      <div class="body">
-      <div style="background-image: url(https://apple-phong.github.io/Info/System/Images/Banner.png)" class="banner_underlay"></div>
-      <br><br>
-      <div class="package package_head">
-         <div class="package_info">
-            <p class="text_cen">SAY HELLO TO THE FUTURE</p>
-         </div>
-      </div>
-      <div class="nav">
-         <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Chi tiết</div>
-         <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Nhật ký thay đổi</div>
-      </div>
-      <div class="tweak_info">
-         <p class="compatibility"></p>
-         <br><br>
-         <div class="md_view">
-            <h2>Nội dung</h2>
-            <br>
-            <h4>Vui lòng đọc kĩ nội dung trước khi Cài đặt</h4>
-            <br>
-            <p>
-               <blue>Tiện ích này áp dụng với tinh chỉnh Xen HTML</blue>
-            </p>
-            <p>
-               <red>Yêu cầu cài Xen HTML để sử dụng</red>
-            </p>
-            <p>Hoạt động trên Màn hình chính</p>
-            <br>
-            <p>
-               <purple>Màn hình hiển thị:</purple>
-            </p>
-            <p>+ Avatar</p>
-            <p>+ Tên văn bản</p>
-            <p>+ Lịch âm</p>
-            <p>+ Lịch dương</p>
-            <p>+ Pin</p>
-            <p>+ Thời tiết</p>
-            <p>+ Trình phát nhạc</p>
-            <br><br><br>
-            <h2>Hình ảnh</h2>
-            <div class="scroll_view">
-               <img class="imgcard" src="https://apple-phong.github.io/Images/Pearl/Screenshots/1.png">
-            </div>
-         </div>
-         <h2>Thông tin</h2>
-         <br> 
-         <div class="table">
-            <div class="cell">
-               <div class="title">Nhà phát triển</div>
-               <div class="text">Hoàng Đình Phong</div>
-               <br>
-            </div>
-            <div class="cell">
-               <div class="title">Thể loại</div>
-               <div class="text">Widgets</div>
-               <br>
-            </div>
-            <div class="cell">
-               <div class="title">Ngày tải lên</div>
-               <div class="text">18/10/2023</div>
-               <br>
-            </div>
-            <div class="cell">
-               <div class="title">Khả năng tương thích</div>
-               <div class="text">iOS 11.0 đến 14.8.1</div>
-               <br><br>
-            </div>
-         </div>
-      </div>
-      <div class="changelog">
-         <div class="changelog_entry">
-            <h4>Phiên bản 1.0.14</h4>
-            <div class="md_view">
-               <p>- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác</p>
-            </div><br>
-            <h4>Phiên bản 1.0.13</h4>
-            <div class="md_view">
-               <p>- Thêm tuỳ chỉnh bật tắt thanh pin</p>
-            </div><br>
-            <h4>Phiên bản 1.0.12</h4>
-            <div class="md_view">
-               <p>- Tạo độ nổi cho thanh pin</p>
-               <p>- Chỉnh lại khung Avatar</p>
-               <p>- Thêm tuỳ chỉnh màu sắc cho một số thành phần</p>
-            </div><br>
-            <h4>Phiên bản 1.0.0</h4>
-            <div class="md_view">
-               <p>- Lần đầu phát hành</p>
-            </div>
+<html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="https://apple-phong.github.io/Info/System/Scripts/Style.css">
+<style>
+a, .tint, .table-btn:after { color: #5777B8 } .active { color: #5777B8; border-bottom: 2px solid #5777B8; }
+</style>
+<script src="https://apple-phong.github.io/Info/System/Scripts/Version.js"></script>
+</head>
+
+<body>
+<div class="body">
+<div style="background-image: url(https://apple-phong.github.io/Info/System/Images/Banner.png)" class="banner_underlay"></div>
+<br><br>
+<div class="package package_head">
+<div class="package_info">
+<p class="text_cen">SAY HELLO TO THE FUTURE</p>
+</div></div>
+
+<div class="nav">
+<div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Chi tiết</div>
+<div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Nhật ký thay đổi</div></div>
+
+<div class="tweak_info">
+<p class="compatibility"></p>
+<br><br>
+
+<div class="md_view">
+<h2>Nội dung</h2>
+<br>
+<h4>Vui lòng đọc kĩ nội dung trước khi Cài đặt</h4>
+<br>
+<p><blue>Tiện ích này áp dụng với tinh chỉnh Xen HTML</blue></p>
+<p><red>Yêu cầu cài Xen HTML để sử dụng</red></p>
+
+<p>Hoạt động trên Màn hình chính</p><br>
+<p><purple>Màn hình hiển thị:</purple></p>
+
+<p>+ Avatar</p>
+<p>+ Tên văn bản</p>
+<p>+ Lịch âm</p>
+<p>+ Lịch dương</p>
+<p>+ Pin</p>
+<p>+ Thời tiết</p>
+<p>+ Trình phát nhạc</p>
+<br><br><br>
+
+<h2>Hình ảnh</h2>
+<div class="scroll_view">
+
+<img class="imgcard" src="https://apple-phong.github.io/Images/Pearl/Screenshots/1.png">
+
+</div></div>
+
+<h2>Thông tin</h2><br>
+<div class="table">
+<div class="cell">
+<div class="title">Nhà phát triển</div>
+<div class="text">Hoàng Đình Phong</div>
+<br></div>
+<div class="cell">
+<div class="title">Thể loại</div>
+<div class="text">Widgets</div>
+<br></div>
+<div class="cell">
+<div class="title">Ngày tải lên</div>
+<div class="text">04/01/2024</div>
+<br></div>
+<div class="cell">
+<div class="title">Khả năng tương thích</div>
+<div class="text">iOS 11.0 đến 14.8.1</div>
+<br></div>
+<div class="cell">
+<div class="title">Dòng máy hỗ trợ</div>
+<div class="text">iPhone X đến iPhone 12 Pro Max</div>
+<br><br>
+</div></div></div>
+
+<div class="changelog">
+<div class="changelog_entry">
+
+<h4>Phiên bản 1.0.16</h4>
+<div class="md_view">
+<p>- Hỗ trợ thêm dòng iPhone Mini</p>
+<p>- Thêm hiệu ứng khi chọn sử dụng</p>
+<p>- Thêm ảnh xem thử trước khi chọn Widget</p>
+</div><br>
+
+<h4>Phiên bản 1.0.14</h4>
+<div class="md_view">
+<p>- Thay đổi lại mã chọn ảnh để không bị trùng lặp Avatar với Widget khác</p>
+</div><br>
+
+<h4>Phiên bản 1.0.13</h4>
+<div class="md_view">
+<p>- Thêm tuỳ chỉnh bật tắt thanh pin</p>
+</div><br>
+
+<h4>Phiên bản 1.0.12</h4>
+<div class="md_view">
+<p>- Tạo độ nổi cho thanh pin</p>
+<p>- Chỉnh lại khung Avatar</p>
+<p>- Thêm tuỳ chỉnh màu sắc cho một số thành phần</p>
+</div><br>
+
+<h4>Phiên bản 1.0.0</h4>
+<div class="md_view">
+<p>- Lần đầu phát hành</p>
+</div>
 
 </div></div><br><br>
 <img src="../../Logo/Ava.png?" class="imageChange image_Center"/>
@@ -115,6 +125,6 @@
 </div></center></div>
 <p class="text_center">Copyright © 2023 - 2050 by Hoàng Đình Phong</p>
 
-   </body>
-   <script>compatible("11.0","14.8.1","iOS 11.0 đến 14.8.1"); externalize()</script>
-</html>
+<script>compatible("11.0","14.8.1","iOS 11.0 đến 14.8.1"); externalize()</script>
+
+</body></html>
