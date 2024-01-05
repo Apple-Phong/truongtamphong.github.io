@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.rift",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Rift/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.lovebaby",
 "title":"",
 "url":"https://apple-phong.github.io/Images/LoveBaby/Banner.jpg",
@@ -592,9 +598,9 @@
 "hideShadow":"false"
 },
 {
-"package":"hoangdinhphong.linecolor",
+"package":"hoangdinhphong.colorcolumn",
 "title":"" ,
-"url":"https://apple-phong.github.io/Images/LineColor/Banner.jpg",
+"url":"https://apple-phong.github.io/Images/ColorColumn/Banner.jpg",
 "hideShadow":"false"
 },
 {
