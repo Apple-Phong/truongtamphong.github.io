@@ -2813,6 +2813,27 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Fonts
 Architecture: iphoneos-arm
+Version: 1.0.22
+Section: System
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.Fonts_1.0.22_iphoneos-arm.deb
+Size: 1506216
+MD5sum: ccb264993dfb38744431a455f7365f62
+SHA1: 5b3fab06136cefe41e78b2b41fe807dd7b5a068b
+SHA256: 9dfbf9c60cc7cf7f0fd1735996f5950d3a9e41537d5ce4dd765f86d0c32d1b6c
+SHA512: bdd568345305047177129fd346aff159713825f10e23b4e27ec8e841f8894f747c340cb19c45d125a04693efa5ab5f5d401635a3bcfe0598378e5ed6a265b579
+Homepage: https://apple-phong.github.io
+Description: Gói phông hỗ trợ các Widgets by Hoàng Đình Phong
+Tag: role::enduser
+Name: Fonts for Widgets
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.Fonts
+Architecture: iphoneos-arm
 Version: 1.0.2
 Section: System
 Maintainer: Hoàng Đình Phong
@@ -4893,6 +4914,28 @@ MD5sum: 74a5a4c876fb2d7f3757200732e9e389
 SHA1: f1cf86f07c89e4c07218c7d6426acce650397fa7
 SHA256: 97c2d80c910f485a61a242ea8daf60468b4db0b6963e81f8ffbd23af8f2289cc
 SHA512: c7bf229d93adfeade40d7d625ece9b6763b1b0021d321ac11baaa4f584b91188a8a5acd52243a70eba15f3c6abc8393c563fcd9d60a0980c9586de516beb076f
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Rift
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Rift.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Rift.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Rift.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Rift
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Rift_1.0.1_iphoneos-arm.deb
+Size: 8656798
+MD5sum: 14beb62223eb6993182f07df8600b4bd
+SHA1: c1de36690bd0f4ddf616b51163eb12e4fa54ab50
+SHA256: 39177f29112e9dd03be5666f734b42faccc695485fe416f4e8c8f07aacec9af8
+SHA512: 7c71901f3167d51e2ca9811c88b56f16c18ce0368d0f911ce972633c2a75e0e3783e68786f3c6adce4ffcb7a6b5970140d6d9a3025b5824c3b4efa1359b4c02f
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Rift
