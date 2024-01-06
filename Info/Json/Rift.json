@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.12"
+"text":"1.0.13"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"06/01/2024"
+"text":"07/01/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -106,6 +106,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.13\n\n- Ảnh bìa Album đầy đủ"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.12\n\n- Thêm văn bản vào khung nhiệt độ hiện tại"
