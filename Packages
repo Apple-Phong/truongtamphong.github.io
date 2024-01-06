@@ -4926,6 +4926,28 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Rift
 Architecture: iphoneos-arm
+Version: 1.0.12
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Rift_1.0.12_iphoneos-arm.deb
+Size: 8656832
+MD5sum: 526d3fa64af27c97755215f8ebc2be68
+SHA1: 8cf75de7c61476554fc49d7c9b86c41a11a37861
+SHA256: b0f41c29cbd62b52dd90f1af784af6a6cd327c8aacedfaa716ddd615fa9768bd
+SHA512: b467989d1f56666651e39a1abb970421b7487df8c4f5793854291cf200695183be656f257783bff60565afbe8a077205d41d9cffa11dd9be239a8fab91075727
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Rift
+Author: Hoàng Đình Phong
+Depiction: https://apple-phong.github.io/Info/Html/Rift.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Rift.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Rift.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Rift
+Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Widgets
 Maintainer: Hoàng Đình Phong

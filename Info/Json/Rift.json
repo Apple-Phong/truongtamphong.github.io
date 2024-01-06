@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.1"
+"text":"1.0.12"
 },
 {
 "class":"DepictionTableTextView",
@@ -106,6 +106,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.12\n\n- Thêm văn bản vào khung nhiệt độ hiện tại"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm tuỳ chọn bật tắt thời tiết ngày sau\n\n- Thêm màu cho nền thanh Dock\n\n- Thêm ẩn biểu tượng thay ảnh khi đã tắt bỏ hình nền\n\n- Thu nhỏ nút Prev & Next\n\n- Thay đổi mũi tên cho nhiệt độ cao nhất trong ngày\n\n- Chỉnh cân lại biểu tượng thời tiết ngày sau và nhiệt độ cao thấp"
