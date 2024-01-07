@@ -3161,6 +3161,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/HTCClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Hope
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Hope_1.0.0_iphoneos-arm.deb
+Size: 452874
+MD5sum: bd98f0d92e2e5ad803872dc976591831
+SHA1: 4954242c33852ff79cc8cccec3af7df271d4caf6
+SHA256: d9ac3ffbe8b60d28b850147fff2a665bb39934d7d45aa11a9f8725c0b781418b
+SHA512: 3c708de3f41ceb77c0e572d0f5d4c4b80512a93d65b0490d41b379136b81de196e1c0da08cd535041de901f45747f56f3edf25777e5618d8cb1f67c53269cb86
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Hope
+Depiction: https://apple-phong.github.io/Info/Html/Hope.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Hope.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Hope.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Horizon
 Architecture: iphoneos-arm
 Version: 1.0.0
