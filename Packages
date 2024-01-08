@@ -3315,6 +3315,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Ice.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Illusion
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Illusion_1.0.0_iphoneos-arm.deb
+Size: 363568
+MD5sum: 935761835249274c55b9cc1347210dbd
+SHA1: 7bda780c97f445105f548a51ec7cae6d4e672405
+SHA256: 1b5d30ba244ca445c285639b0f5c7f77cba8fa9b60ad677d55e6a051f6b1bbae
+SHA512: 8beced7eb5b217f87c930691ee1b2b09f2187a246c29a5a277f9e1c6cf9fe80e3f1f210c98e68b0a667db4c7cc4c0400c032d12c4ddd5e5056b09a47a2b07045
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Illusion
+Depiction: https://apple-phong.github.io/Info/Html/Illusion.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Illusion.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Illusion.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.7
