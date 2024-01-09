@@ -5990,6 +5990,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/TapMe.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Tender
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Tender_1.0.0_iphoneos-arm.deb
+Size: 7182320
+MD5sum: 8a3beddf7ecb17a3377c74e931981bc8
+SHA1: 0956b1ae36eed594ad1d8f310b559d82634ca1f8
+SHA256: bf374e50d242cb207288c53052fbfa4abfda47143400a1210dd5e9af8747d8a3
+SHA512: 29c068d45f3bdc1f5cf7f25c56110e9acc09c74c8d8cf3480268e7f5664e48ee3c2ef583f2aec525bf898cd978a9c39799dfdcb0a973f1419f050bbe8a1d0f63
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Tender
+Depiction: https://apple-phong.github.io/Info/Html/Tender.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Tender.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Tender.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.TexGyre-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
