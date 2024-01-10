@@ -6743,6 +6743,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Zest
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Zest_1.0.3_iphoneos-arm.deb
+Size: 342656
+MD5sum: e7233bbfb1d0fcc06211ff288eaf2b13
+SHA1: 0e186155d020f9d4f5fa5b8b73eb7d2437064c05
+SHA256: a5cdfb7e9c4e58fdc58ab79428547a8cdc3f4027c39b9af1740549d7459301a1
+SHA512: af9367708ba81788dbe72e98727e98d1910e470b4987506b6e2aa8d52ddeca1ab2c5a0bcc776d73483c029cb4bb2b0c7a20bc2db4f3956c14007b3ba8491b205
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Zest
+Depiction: https://apple-phong.github.io/Info/Html/Zest.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Zest.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Zest.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.iClock
 Architecture: iphoneos-arm
 Version: 1.0.0
