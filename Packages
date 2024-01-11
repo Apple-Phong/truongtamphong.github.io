@@ -4548,6 +4548,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/OpertationMeteor.json
 Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/k.png
 
+Package: HoangDinhPhong.Painful
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Painful_1.0.0_iphoneos-arm.deb
+Size: 451232
+MD5sum: ef8b6c6451b5a5d92259016750dad082
+SHA1: e7d6ce68aeceec7014c64232bf75f05781ed16cf
+SHA256: 9fdee5086a7badfbf412b9afab39b12ba4b4e093de1125c910efa1343dcbc24b
+SHA512: d6eaacf6288ac59156ef3fc4d6a2fbea40895a441415d053cc589204897860a4f4ae64d90020eeb6b9e4101b4a5f612fa4858d45549821bf341590f1ad76a2c8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Painful
+Depiction: https://apple-phong.github.io/Info/Html/Painful.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Painful.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Painful.json
+Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Peaceful
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -6017,13 +6039,13 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widgets
 Maintainer: Hoàng Đình Phong
-Depends: firmware (>=11), hoangdinhphong.fonts
+Depends: firmware (>=10), hoangdinhphong.fonts
 Filename: ./Deb/HoangDinhPhong.Tender_1.0.0_iphoneos-arm.deb
 Size: 7182320
-MD5sum: 8a3beddf7ecb17a3377c74e931981bc8
-SHA1: 0956b1ae36eed594ad1d8f310b559d82634ca1f8
-SHA256: bf374e50d242cb207288c53052fbfa4abfda47143400a1210dd5e9af8747d8a3
-SHA512: 29c068d45f3bdc1f5cf7f25c56110e9acc09c74c8d8cf3480268e7f5664e48ee3c2ef583f2aec525bf898cd978a9c39799dfdcb0a973f1419f050bbe8a1d0f63
+MD5sum: e486f3b0855788ad461f713f8aa97e2a
+SHA1: 9ffc1beaee0aed99c49016176f8b49739a4c45cb
+SHA256: 35e24c74c25727276d7b854ed8810b913c16f83e69922a8c5fcd6ae8af9583c7
+SHA512: 029fa8ed322947d32d2cb7ce5124b4bd4d3e6ebed3e3e7860841c670d0914ff24c603c01ccfe34c8b36eddce09c7505ef30a5ebbe214d25447e3488bfb0efd83
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Tender
