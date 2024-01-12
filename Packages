@@ -597,6 +597,28 @@ Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Classic
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11)
+Filename: ./Deb/HoangDinhPhong.Classic_1.0.0_iphoneos-arm.deb
+Size: 2408820
+MD5sum: d3056c9d04a8f4bb9d0e6045f70373f3
+SHA1: fc01ee0847babdc1c752fbc7c307aa2bf9bee35d
+SHA256: 6bd38a9c52170ca98cd189bd57ba432e1c1ae7f4f5a9c738bcf891d0e870b08f
+SHA512: 030ac78826d0be5868074f5492bfd9fa947b7f2a6e104763d11667c2a8dc15e580647fc9f1e6307e76aa30ce6c81b652a44e2d4fc69658935dee9fc948200f18
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Classic
+Depiction: https://apple-phong.github.io/Info/Html/Classic.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Classic.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Classic.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Clean
 Architecture: iphoneos-arm
 Version: 1.0.0
