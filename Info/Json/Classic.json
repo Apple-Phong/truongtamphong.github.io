@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.0.1"
+"text":"1.0.11"
 },
 {
 "class":"DepictionTableTextView",
@@ -106,6 +106,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.11\n\n- Tăng diện tích không gian"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.0.1\n\n- Thêm lịch âm\n\n- Thay đổi kiểu dáng trình phát nhạc"
