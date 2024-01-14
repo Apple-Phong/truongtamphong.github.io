@@ -707,6 +707,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Cloud.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Clutter
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Clutter_1.0.0_iphoneos-arm.deb
+Size: 523864
+MD5sum: 826f88591f4316cbf6f31b8fb51453d0
+SHA1: eeddfddb9aa57f8b7e26f2f7bb690cccaa58a324
+SHA256: affb90e413bfdada951c726f97b6a9168ed4f30cd370e3220809202df1d7b94b
+SHA512: 6d1d7a2789dcbb0b4492928a981f46df5d7d48db60f31da86fbb707cb391f0e9c39aaaadcec4120d87630df4883b98d0920331eab97eb53589b5a9ddc3ec1ba8
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Clutter
+Depiction: https://apple-phong.github.io/Info/Html/Clutter.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Clutter.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Clutter.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ColdSnow
 Architecture: iphoneos-arm
 Version: 1.0.4
