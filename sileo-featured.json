@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.trap",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Trap/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.overfill",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Overfill/Banner.jpg",

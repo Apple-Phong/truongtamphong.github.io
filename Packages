@@ -3686,6 +3686,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Tranquility.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Trap
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Trap_1.0.0_iphoneos-arm.deb
+Size: 1788418
+MD5sum: 311accc1437b52b17fdc8548d225546c
+SHA1: d7527f19ae10cf10541608cca0a40d536348becc
+SHA256: 65f1d6ecb9dd0268e9bd935a93aa9c30fea8835784ae06b66d5b159dec6aa47f
+SHA512: c8d5bb380d75aef14dd07e2107f4dad53f855aa2403ecc5a016a2cc7f706e7cdbc1ee0aa4cb15990b05be22be0e4969a60ced9cf497613b7b5b384f1a827b7e3
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Trap
+Depiction: https://apple-phong.github.io/Info/Html/Trap.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Trap.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Trap.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Undulating
 Architecture: iphoneos-arm
 Version: 1.0.1
