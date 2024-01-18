@@ -3598,6 +3598,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/TapMe.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Tear
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Tear_1.0.0_iphoneos-arm.deb
+Size: 804406
+MD5sum: ace9e4dae268e608116dd736152954ab
+SHA1: d3871814931fc5178471480c0012c5c708833386
+SHA256: d4fa074503ffa2ed192acdc84cbaae20b2e059b4121b59c1bc8adc52059d14bb
+SHA512: fb92b2fdd654cd05e7a448b23a174b0cdb60612461d5aa67a727d537a990131b96f36c0d4fa4cc8c08552edfeb67c222c0a27efde557286f1da9b43db37b324b
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Tear
+Depiction: https://apple-phong.github.io/Info/Html/Tear.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Tear.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Tear.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Tender
 Architecture: iphoneos-arm
 Version: 1.0.0
