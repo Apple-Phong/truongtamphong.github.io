@@ -663,6 +663,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Climb
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Climb_1.0.0_iphoneos-arm.deb
+Size: 379102
+MD5sum: 71fac83f7a5a4f66595234d6eb7b3db5
+SHA1: b76340b67a0e2c420a66d64bac8463485535ac95
+SHA256: d1bef18ae9e3fe0bd879805877946a4b3ea726d93b3f521111b4ebf481cf746c
+SHA512: 34bfa80b58210670823c3ea4edb171c6849a0c4a5ff41599e16d90160991467bb85cb9a613e0e61512e86fec76e5c5d6451e0e897798b0b454e900ddbe075c92
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Climb
+Depiction: https://apple-phong.github.io/Info/Html/Climb.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Climb.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Climb.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cloud
 Architecture: iphoneos-arm
 Version: 1.0.1
