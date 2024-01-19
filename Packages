@@ -3356,6 +3356,28 @@ Author: Hoàng Đình Phong
 SomeOtherEntryToControl: True
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: HoangDinhPhong.Space
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Space_1.0.0_iphoneos-arm.deb
+Size: 572262
+MD5sum: 19d3eacdb10677a891efabb80081f890
+SHA1: e39fbd06fdff5cd7ff52bedff8fb4d2aa43e28d0
+SHA256: ac1a27481e280a23cdd29e864a3a1f71dec42bd79153b876db4b30d6df673a42
+SHA512: 7489f39e5e71b8b9781f8541089f20039cf15e8022987ff9c7f5f2fe3b5281593f31988ccca1e3ccf2a6ffa3c88e540cf44893693d68711e83dc7f22152f6e03
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Space
+Depiction: https://apple-phong.github.io/Info/Html/Space.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Space.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Space.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Spectrum
 Architecture: iphoneos-arm
 Version: 1.1
