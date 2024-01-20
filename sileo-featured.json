@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.streak",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Streak/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.climb",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Climb/Banner.jpg",

@@ -3488,6 +3488,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Strange.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Streak
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Streak_1.0.0_iphoneos-arm.deb
+Size: 250490
+MD5sum: 7b141103e5cff4df22f225513fc8b3ce
+SHA1: 3e8d91728327767d3247fe5205e62a5f7577ba07
+SHA256: 88833e1163154941db471a3523cc4695bc3b3fabaa9fdf8033a89840ac6854fa
+SHA512: 3668ec2f6bbe0e5e305c7c765c498715a1f4b7bbdfbf7cd10dd4b11b3f2518cc38f5458408a818ad5c9595060a80bf9be100d3c25294bb361ecd4b722bf94a8d
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Streak
+Depiction: https://apple-phong.github.io/Info/Html/Streak.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Streak.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Streak.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Swords
 Architecture: iphoneos-arm
 Version: 1.0.51
