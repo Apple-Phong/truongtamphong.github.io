@@ -3510,6 +3510,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Sunset
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Sunset_1.0.0_iphoneos-arm.deb
+Size: 1542372
+MD5sum: b3dcaf6061cbb87027e97531543d6564
+SHA1: ea5ea2afcdae07155f87fbc7f96cc772c87d47ef
+SHA256: 7713b6d3fe26b45d2ec31821abb61299841da79695a769bb89bfac88bc2e69d6
+SHA512: e87e823d6c6bca1e02590a1d520ac1bf57be178f6e28711c5991fc3185b37a0b9e370d88ce59a8cc8064870757c62bd3ba633519a37237d6a3812b1fdc93baa1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Sunset
+Depiction: https://apple-phong.github.io/Info/Html/Sunset.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Sunset.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Sunset.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Swords
 Architecture: iphoneos-arm
 Version: 1.0.51
