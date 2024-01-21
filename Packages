@@ -4038,6 +4038,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Windows10Clock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Winding
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Winding_1.0.0_iphoneos-arm.deb
+Size: 1158434
+MD5sum: 4b287a4ecca6b5d61fa0d83ad1826227
+SHA1: c4f9a2a82d6d5cdb459bbca34dd3369745dfc032
+SHA256: 20615ac734d13ac318a66a72d6b2327eaf1889961e9d2b392c14c97c0d0cddc3
+SHA512: 11d373c29284fb8fc499bec0160b5956441840c64a633ffbc62b11bcc4cf65470793198f5a449e2da67e488f73cee93dfaaebb8488d777f93005bd9f376823a1
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Winding
+Depiction: https://apple-phong.github.io/Info/Html/Winding.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Winding.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Winding.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Windows10
 Architecture: iphoneos-arm
 Version: 1.0.1
