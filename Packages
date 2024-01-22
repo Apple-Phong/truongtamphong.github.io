@@ -2795,6 +2795,28 @@ Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Peace
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=9.0)
+Filename: ./Deb/HoangDinhPhong.Peace_1.0.2_iphoneos-arm.deb
+Size: 849662
+MD5sum: 37f4556a76537eaed1731a5d7f0e55f3
+SHA1: b535b93bc4bff8eb810dc9892f28417c128f35a7
+SHA256: 5d6c1b67abaa1431ed3c8a0bee55b3e5c5f95b75be7801fd442a44abae08f135
+SHA512: d139ac54106d75f1dfa5c9df52c9eb744152c46a27b6c4d3322c96a6793509be8c588fa31bf02d4bc9edc85b1d8bfd2cbfa702c34d36dee9ccd9afbf163744f2
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Peace
+Depiction: https://apple-phong.github.io/Info/Html/Peace.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Peace.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Peace.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Peaceful
 Architecture: iphoneos-arm
 Version: 1.0.1
