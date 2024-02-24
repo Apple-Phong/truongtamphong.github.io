@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.5.21-Beta3"
+"text":"1.5.26-Beta4"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,12 +79,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"04/06/2023"
+"text":"24/02/2024"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.7.1"
+"text":"iOS 15.0 đến 17.3"
 },
 {
 "class":"DepictionSpacerView"
@@ -109,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.5.26-Beta4\n\n- Khắc phục sự cố bộ chọn biểu tượng alt trên phiên bản iOS 16 mới hơn với dock nổi\n\n"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.5.21-Beta3\n\n- Thêm 2 tiện ích Cấu hình & Thanh trạng thái\n\n- Sửa lỗi đổ bóng Dock\n\n- Sửa lỗi chủ đề tiêu điểm trên iOS 15.x\n\n- Sửa lỗi lặt vặt và cải tiến nhỏ khác\n\n"
