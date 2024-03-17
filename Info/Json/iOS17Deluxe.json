@@ -1,0 +1,120 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://apple-phong.github.io/Info/System/Images/SileoBanner.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionHeaderView",
+"title":""
+},
+{
+"class":"DepictionHeaderView",
+"title":"Nội dung"
+},
+{
+"markdown":"Chủ đề này của tác giả 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽 thiết kế, hơn 100 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài Snowboard để sử dụng\n\nㅤ\n\nChi tiết gói\n\n+ 107 biểu tượng ứng dụng\n\n+ 1 gói AE\n\n+ 1 gói huy hiệu\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Hình ảnh"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://apple-phong.github.io/Images/iOS17Deluxe/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng hộ"
+},
+{
+"markdown":"[**Paypal**](https://paypal.me/truongtamphong) - Cho đi để nhận lại may mắn 🍀\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Phiên bản",
+"text":"107"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Themes"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"17/03/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 10.0 đến 15.2"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionTableButtonView",
+"title":"Liên hệ hỗ trợ",
+"action":"depiction-https://apple-phong.github.io/Info/Json/Support.json",
+"openExternal":"true",
+"tintColor":"#5777B8"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 107\n\n- Lần đầu phát hành"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 - 2050 by Hoàng Đình Phong",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
