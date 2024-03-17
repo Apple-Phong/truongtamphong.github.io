@@ -4308,6 +4308,50 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/iClock.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.iOS17Deluxe-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 9618878
+MD5sum: be4e8b74bcc614ecdbb9d68dcd6cc207
+SHA1: cce1e786b216cedf1cf03670e040d2c325706041
+SHA256: e8d4af529231183861f985b97b762d3de2b18ddb8498cde492c8205410bf09bd
+SHA512: b5dff637a6f9444ddebbe1ec05f7f2f0847082cce4f221e46abca67b8377f2b4155e7d7f4b039f8cd59a2f007cdaefd18934c5b6f0b25e812ab269ad9dfad373
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu sáng
+Name: iOS 17 Deluxe - Rootless
+Author: 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽
+Depiction: https://apple-phong.github.io/Info/Html/iOS17Deluxe-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios17.9
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.iOS17Deluxe
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe_1.0.0_iphoneos-arm.deb
+Size: 9617852
+MD5sum: 4e9b3f143191df8d9aa86088c38f4898
+SHA1: b36dd38134d05c2357730b150d9dabbd3d1c1aac
+SHA256: a57802db336854a8f58e0070642ba0515a0a6688fae287bc8860984740a7f7e0
+SHA512: b2478de85a42277c6199581be68ac7655a1dce980198238a2aa686554b535c6fa6a187bc3455ce951c31265061468d5ea26b45d7c5ba7925d99dd38777952ea0
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu sáng
+Name: iOS 17 Deluxe
+Author: 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽
+Depiction: https://apple-phong.github.io/Info/Html/iOS17Deluxe.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe.json
+Tags: compatible_min::ios10.0, compatible_max::ios15.2
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.iPhoneRemix
 Architecture: iphoneos-arm
 Version: 1.0.0
