@@ -4403,11 +4403,11 @@ Section: Themes
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=15.0)
 Filename: ./Deb/HoangDinhPhong.iOS17Deluxe-Rootless_206_iphoneos-arm64.deb
-Size: 2192112
-MD5sum: 01c8deae848907ac4ee92b4087b4b32e
-SHA1: 1e01e06c52a4ce772bbf9bd8349cb7b2091bf8f8
-SHA256: 448fdf911a9a2ae962ed11af4723166cb57d17da07f082eb2d506f2800dd43a5
-SHA512: c46d172b7217371ad6063f4d2a6b440c14979688736ba6842016214da17b44c2520eef78b38d56d02561d714cd45fc93a3e8bfe861bf07f849f94806ed16c8af
+Size: 2116358
+MD5sum: 216c222c9e20c6fa2a7ca91bd6e42a45
+SHA1: 9f47dbced074049c21c6eef20a8adb15ee73d59f
+SHA256: 8296dae0f098e2bc6cab45629da085c56452b291252c02761444b0822d31e600
+SHA512: 3163d510df02c896295c315c25bc69e8833e9a3f368f64b7a9d956398fce619a90e84b4e616bbb32c8ff1b1ac5defd389ebb64f03eba87e9c80a26841bdf61ff
 Homepage: https://apple-phong.github.io
 Description: Giao diện màu sáng
 Name: iOS 17 Deluxe - Rootless
@@ -4513,11 +4513,11 @@ Section: Themes
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0)
 Filename: ./Deb/HoangDinhPhong.iOS17Deluxe_206_iphoneos-arm.deb
-Size: 2191650
-MD5sum: 613c3731fa1d11dc359aabe19669ac2e
-SHA1: ae8733d61aa8d8a741dcd1f124b1f93dc88e53c2
-SHA256: 2b22cbcfae121b8bfc63710fb607f7b91d356f0ab89f3ba1078f32368766ba45
-SHA512: 28abcbe1d1afee54013af5f2612b66271734334edc58eb56826cbbc4a81f1209ed9b751d0a8a39c35bce5df6843bb43e72aee2d394441495bf99f7ae682fb92c
+Size: 2115884
+MD5sum: df4b4a483472cef6c46b5e204b77c47e
+SHA1: da67db18ff7319eeea8c86f65792a67a3660b5a9
+SHA256: 5f231dc76ed6543de3528d92e763fbdcfc617d2be3db9d41ebc4f3a70799dfa2
+SHA512: b5733e9ab1fdb404c0ea4c5060e890f9d6606ecb1192112ed9cf7c120389e6c98478fb54189b41c21ae23b80400752f273991df7bb21612fccfcf043fef8497b
 Homepage: https://apple-phong.github.io
 Description: Giao diện màu sáng
 Name: iOS 17 Deluxe
