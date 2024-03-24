@@ -15,7 +15,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Chủ đề này của tác giả 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽 thiết kế, hơn 200 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài Snowboard để sử dụng\n\nㅤ\n\nChi tiết gói\n\n+ 237 biểu tượng ứng dụng\n\n+ 1 gói AE\n\n+ 2 gói huy hiệu\n\nㅤ\n\n",
+"markdown":"Chủ đề này của tác giả 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽 thiết kế, hơn 200 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài Snowboard để sử dụng\n\nㅤ\n\nChi tiết gói\n\n+ 239 biểu tượng ứng dụng\n\n+ 1 gói AE\n\n+ 2 gói huy hiệu\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"237"
+"text":"239"
 },
 {
 "class":"DepictionTableTextView",
@@ -103,7 +103,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 237\n\n- Thêm 31 biểu tượng ứng dụng"
+"markdown":"### Phiên bản 239\n\n- Thêm 33 biểu tượng ứng dụng"
 },
 {
 "class":"DepictionMarkdownView",

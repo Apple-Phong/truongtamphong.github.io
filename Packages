@@ -4420,16 +4420,16 @@ Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.iOS17Deluxe-Rootless
 Architecture: iphoneos-arm64
-Version: 237
+Version: 239
 Section: Themes
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=15.0)
-Filename: ./Deb/HoangDinhPhong.iOS17Deluxe-Rootless_237_iphoneos-arm64.deb
-Size: 2337720
-MD5sum: 20032ecd59fef2d64d931d2092e203a4
-SHA1: e56bd7ebbfb9317ed6c6175f778fdff3ee184d43
-SHA256: 7ddbca5e9e008f69cb1849eb0d104d1182bcb24a5bd68581f9b2539f4cc8ff69
-SHA512: 73f8cc8b2eccc9741ea14310771ec87aaa896aec775a2e6a61ce17183de38a644b4795f211f53ffc5b2a62a63676ba5fe32b7f3a5b2331ddb85c37b7fb27aa70
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe-Rootless_239_iphoneos-arm64.deb
+Size: 2355550
+MD5sum: e461f99dcb6c8489c2ed94ec521b6b3f
+SHA1: a4bda2cb851f0b29218f10c23c24d8fe7e8878ec
+SHA256: bdf93ac1b9e49dc24f909c225336e4fb6fbb39014fe934e512c2463ad3d1fd92
+SHA512: 5e3d1be47591a4433a7a77f483c4fb340324775ee8f1cd357b48b216af12140f5aefa69ddca9e386c747dd1035a83a1ec021d0239d99930e924684df729547f8
 Homepage: https://apple-phong.github.io
 Description: Giao diện màu sáng
 Name: iOS 17 Deluxe - Rootless
@@ -4552,16 +4552,16 @@ Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.iOS17Deluxe
 Architecture: iphoneos-arm
-Version: 237
+Version: 239
 Section: Themes
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=10.0)
-Filename: ./Deb/HoangDinhPhong.iOS17Deluxe_237_iphoneos-arm.deb
-Size: 2337170
-MD5sum: d6eae674e15b83d22859fda29e93a853
-SHA1: 0592504458e6b728534e34df51691f0413a1906c
-SHA256: f6975f1f1836abed06d895538512dc9761a832524d809e6331987d023a8773b9
-SHA512: f33bbf6a082a6d26b893e78374d1b718198477564727d56e71c631bcfb8c13dc9cbb5b059764a00bcbbc8d7c9dfc57f13421f40bb49a1f44a301af721a2d0aff
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe_239_iphoneos-arm.deb
+Size: 2355008
+MD5sum: c3cdd3803a713f4980ce52b92772ca19
+SHA1: c2004d21198fb9d5f58702b7222b5ee78ae0b0ae
+SHA256: 744541c0b75370da3e826df85a2f78b7600cc1f339ccb5e05d819180fc7ce88a
+SHA512: 985d4c22a08b7e964b35a42ae97cac30cf07cd77ff6c75bf64db521e1c4c6312471b7e7e127896be7da5e0d4364550b4500d4ce7fece99ac90f57d9731e7b697
 Homepage: https://apple-phong.github.io
 Description: Giao diện màu sáng
 Name: iOS 17 Deluxe
