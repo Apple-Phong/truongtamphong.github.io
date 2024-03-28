@@ -15,7 +15,7 @@
 "title":"Nội dung"
 },
 {
-"markdown":"Chủ đề này của tác giả 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽 thiết kế, gần 300 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài Snowboard để sử dụng\n\nㅤ\n\nChi tiết gói\n\n+ 267 biểu tượng ứng dụng\n\n+ 1 gói AE\n\n+ 2 gói huy hiệu\n\nㅤ\n\n",
+"markdown":"Chủ đề này của tác giả 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽 thiết kế, hơn 300 biểu tượng nhiều màu sắc cùng nhiều nội dung khác nhau\n\nㅤ\n\nYêu cầu cài Snowboard để sử dụng\n\nㅤ\n\nChi tiết gói\n\n+ 302 biểu tượng ứng dụng\n\n+ 1 gói AE\n\n+ 3 gói huy hiệu\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"267"
+"text":"302"
 },
 {
 "class":"DepictionTableTextView",
@@ -71,7 +71,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/03/2024"
+"text":"28/03/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -101,6 +101,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 302\n\n- Thêm Badge\n\n- Thêm 35 biểu tượng ứng dụng"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 267\n\n- Thêm 28 biểu tượng ứng dụng"
