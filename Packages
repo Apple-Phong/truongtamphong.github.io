@@ -4506,6 +4506,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe-Rootless.js
 Tags: compatible_min::ios15.0, compatible_max::ios17.9
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.iOS17Deluxe-Rootless
+Architecture: iphoneos-arm64
+Version: 316
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=15.0)
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe-Rootless_316_iphoneos-arm64.deb
+Size: 3315522
+MD5sum: c4b02722cdbd3fb42debef749c0222b8
+SHA1: f61015de088197fdda1cc2b26ce98fe970a31b58
+SHA256: b3b3f579d080a8aad47656daf8cea41f4fb367b371bd84e2cd84130b216f326b
+SHA512: 3ca7ff20cd3475c7616f801f8fc38b694d73a2cb0c0305cbe63975f6a16be99c3a50f6611acd25374900002ce3a75fae942b3b142eaa390fb59f6b0f900b2683
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu sáng
+Name: iOS 17 Deluxe - Rootless
+Author: 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽
+Depiction: https://apple-phong.github.io/Info/Html/iOS17Deluxe-Rootless.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe-Rootless.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios17.9
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.iOS17Deluxe
 Architecture: iphoneos-arm
 Version: 107
@@ -4694,6 +4716,28 @@ MD5sum: 302738256bd52142318c737c5c69f875
 SHA1: 2b66f96b6af0c81c69c6c691e6d379b59c8e712b
 SHA256: 67525597fb22269ca7dcb61d8c8dc7b705ebf1a84d1949b042f2132beb0332ae
 SHA512: 3de761754dc57669494276322e7c8d0b7cc57eb819fa463a2a9262707dd74ca03f883e040756430ab85c4c4bec013d024cae92f17d71f2f24dd2c44f5709d93e
+Homepage: https://apple-phong.github.io
+Description: Giao diện màu sáng
+Name: iOS 17 Deluxe
+Author: 𝙾𝚇𝚃𝙵𝚁𝙳𝚂 𝙳𝙴𝚂𝙸𝙶𝙽
+Depiction: https://apple-phong.github.io/Info/Html/iOS17Deluxe.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/iOS17Deluxe.json
+Tags: compatible_min::ios10.0, compatible_max::ios15.2
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.iOS17Deluxe
+Architecture: iphoneos-arm
+Version: 316
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=10.0)
+Filename: ./Deb/HoangDinhPhong.iOS17Deluxe_316_iphoneos-arm.deb
+Size: 3313862
+MD5sum: 004558e363666c5f654c06e280c576ab
+SHA1: 62b72dd7035e50ffd374cc0295fcdb82d4efbddb
+SHA256: 2d2ab6d76b9bd754699b4f7c34cd131d8b8228a4864fddb3883618873abd1cbd
+SHA512: f5e3dfb9f0d889315f1a2801594c089849635c94ebd6d3dc99a0d2b59a27ba2c7a0cbf2584178458ecf079b90783123b307ea564c8158210bdd17c18e42fd299
 Homepage: https://apple-phong.github.io
 Description: Giao diện màu sáng
 Name: iOS 17 Deluxe
