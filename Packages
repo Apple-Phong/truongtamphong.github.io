@@ -466,6 +466,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Broken
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Broken_1.0.3_iphoneos-arm.deb
+Size: 199684
+MD5sum: 2ae9a76624c6d36bb284337cfe327b4f
+SHA1: c8e0b82c3b1e01dcc6099d712a2147041a6db510
+SHA256: 06ca5d20a6fb5f0ca755df4914cccce8fcc8f31f08e97851bad65f18cfcbab6f
+SHA512: d9d1e33d624aca61a1b88bc24b61a198acb101ae4afb4e5b8a4d49151ab2ce419ca5d93adf868af025761bc313fe7c7f5479aef8de3a7ddd42d180cff36313b0
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Broken
+Depiction: https://apple-phong.github.io/Info/Html/Broken.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Broken.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Broken.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.CGP-Rootless
 Architecture: iphoneos-arm64
 Version: 451
