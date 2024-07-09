@@ -1769,17 +1769,17 @@ Section: Widgets
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>=11.0)
 Filename: ./Deb/HoangDinhPhong.Glory_1.0.0_iphoneos-arm.deb
-Size: 741126
-MD5sum: 817b66b8adc20e1f9f554e85db62b5a0
-SHA1: 8e2c64609a1f43ca92d37790fcb6d85d6a7f244f
-SHA256: d723ca7784ba6d7f162d314c8b1efb028e307123ce51f3d10e4e22e6fe88acdf
-SHA512: 5cfb980f31233e917e50427e9ec72d2190c853fa3378fbb2f5ad78d6cab567c9db538724dc905da926e8b54aa6eabddd924d21b5fb7f4d2b5d7c36cd51bfc958
+Size: 741134
+MD5sum: fceb96b56fb6a5a7d094c1dabd2f02c6
+SHA1: 42c64e146a253a081466adb7fd79163fc4daa6a4
+SHA256: f6877380a9b9d9cb9db55f58f0d9739e1d05de27eea658fa4b56e43f5ef87dff
+SHA512: b2b364c257300786551e5f192443cbc543f9bbd014e5860fc532675523c23a682e26799252a31bf20dbf1ce44131f1e3432c0493389d78ba154be04b2cff1132
 Homepage: https://apple-phong.github.io
 Description: Tiện ích dành cho Xen Html
 Name: Glory
-Depiction: https://apple-phong.github.io/Info/Html/Winding.html
-SileoDepiction: https://apple-phong.github.io/Info/Json/Winding.json
-ModernDepiction: https://apple-phong.github.io/Info/Json/Winding.json
+Depiction: https://apple-phong.github.io/Info/Html/Glory.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Glory.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Glory.json
 Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
