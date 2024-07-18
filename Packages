@@ -3060,6 +3060,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Pyramid.json
 Tags: compatible_min::ios10.0, compatible_max::ios14.8.1
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Quiet
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0), hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Quiet_1.0.0_iphoneos-arm.deb
+Size: 57574
+MD5sum: 2731e068a18128e897b9e2cadae355d6
+SHA1: 052927b001ac093111509463609ba5822aec6988
+SHA256: 6b0f812076e9396ad82b49015acd44844f64d6b12619923079fae120f9979eff
+SHA512: 3361e30078058f8a42db4e490affe724c37501ab9ec7b6f1053268d7428a9e8c5b32e3d8f0219d1a4b2a1ba7baeadade660098125cc95637c9e317ff86aa5c0d
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Quiet
+Depiction: https://apple-phong.github.io/Info/Html/Quiet.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Quiet.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Quiet.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Quote
 Architecture: iphoneos-arm
 Version: 1.8.92

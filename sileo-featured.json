@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.quiet",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Quiet/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.ios17eluxe",
 "title":"",
 "url":"https://apple-phong.github.io/Images/iOS17Deluxe/Banner.jpg",
