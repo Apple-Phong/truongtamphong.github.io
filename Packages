@@ -3307,6 +3307,28 @@ ModernDepiction: https://apple-phong.github.io/Info/Json/Sica-Rootless.json
 Tags: compatible_min::ios15.0, compatible_max::ios15.7.4
 Icon: file:///Applications/Cydia.app/Sections/f.png
 
+Package: HoangDinhPhong.Sirius
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Sirius_1.0.0_iphoneos-arm.deb
+Size: 9783976
+MD5sum: 130e32324ec4f92d61dd0e242de8cc16
+SHA1: 6ce215afaf5c77a385defc0c8642ba698e5de14c
+SHA256: 1d27ba2292f9a98c2e5d6e66391eb21e29a7f3a25e844e55dfd875a1db617e62
+SHA512: c0c894ac5c793b0e8906687eac72b3844bbc2c5e41d31ba6dc29f6dd329a93fc2860b747f63c7e086d89bbb1998ed198de4fcdb15e6c52349e1dc42ff31dd455
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Sirius
+Depiction: https://apple-phong.github.io/Info/Html/Sirius.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Sirius.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Sirius.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SixLs
 Architecture: iphoneos-arm
 Version: 1.0.82

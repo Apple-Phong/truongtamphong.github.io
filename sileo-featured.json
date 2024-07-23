@@ -4,6 +4,12 @@
 "itemCornerRadius":8,
 "banners":[
 {
+"package":"hoangdinhphong.sirius",
+"title":"",
+"url":"https://apple-phong.github.io/Images/Sirius/Banner.jpg",
+"hideShadow":"false"
+},
+{
 "package":"hoangdinhphong.quiet",
 "title":"",
 "url":"https://apple-phong.github.io/Images/Quiet/Banner.jpg",
