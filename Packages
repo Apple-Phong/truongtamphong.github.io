@@ -3329,6 +3329,28 @@ Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Sirius
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>=11.0)
+Filename: ./Deb/HoangDinhPhong.Sirius_1.0.1_iphoneos-arm.deb
+Size: 9783208
+MD5sum: 8c5982452a1b61755a9a41b00ada8eca
+SHA1: 5ede683ab0019fccaf7ec879af0339e17089b9c4
+SHA256: bb312f35a488a907a3cf4f6ce2ad39d1930891d25de45cd3168253bb314ed250
+SHA512: 620171e551e8892f004f27bc2ef25b6eeeb3291a7992784d70fffa8593b438c6bed8cb4fad3d218007d2e94fc588020f06e95487651211776f7dd8fc5094c970
+Homepage: https://apple-phong.github.io
+Description: Tiện ích dành cho Xen Html
+Name: Sirius
+Depiction: https://apple-phong.github.io/Info/Html/Sirius.html
+SileoDepiction: https://apple-phong.github.io/Info/Json/Sirius.json
+ModernDepiction: https://apple-phong.github.io/Info/Json/Sirius.json
+Tags: compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SixLs
 Architecture: iphoneos-arm
 Version: 1.0.82
