@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Phiên bản",
-"text":"1.5.26-Beta4"
+"text":"1.5.37-Beta4"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,7 +79,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/02/2024"
+"text":"22/08/2024"
 },
 {
 "class":"DepictionTableTextView",
@@ -109,6 +109,10 @@
 {
 "tabname":"Nhật ký thay đổi",
 "views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.5.37-Beta4\n\n- Nhiều bản sửa lỗi khác nhau cho iOS 16 và 17\n\n- Khắc phục sự cố có thể xảy ra khi sử dụng bàn phím bluetooth\n\n- Sửa lỗi chọn biểu tượng alt trên iPadOS 17\n\n- Hỗ trợ chủ đề huy hiệu cho iOS 16+\n\n- Thêm tùy chọn để chuyển đổi chủ đề huy hiệu\n\n"
+},
 {
 "class":"DepictionMarkdownView",
 "markdown":"### Phiên bản 1.5.26-Beta4\n\n- Khắc phục sự cố bộ chọn biểu tượng alt trên phiên bản iOS 16 mới hơn với dock nổi\n\n"
